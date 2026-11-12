@@ -1,0 +1,107 @@
+{
+ "full_mwis_families": 4,
+ "B": 100,
+ "thetas": {
+  "0.5": {
+   "backbone": 4,
+   "backbone_score": null,
+   "families": 4,
+   "score": null,
+   "backbone_broken": 0
+  },
+  "0.7": {
+   "backbone": 2,
+   "backbone_score": null,
+   "families": 4,
+   "score": null,
+   "backbone_broken": 0
+  },
+  "0.9": {
+   "backbone": 1,
+   "backbone_score": null,
+   "families": 4,
+   "score": null,
+   "backbone_broken": 0
+  }
+ },
+ "mwis_full_score": null,
+ "parsimony_plain": {
+  "families": 4,
+  "score": null
+ },
+ "stability": [
+  [
+   [
+    "B",
+    "F",
+    "Mi",
+    "P",
+    "R"
+   ],
+   0.99,
+   true
+  ],
+  [
+   [
+    "B",
+    "F",
+    "P",
+    "R"
+   ],
+   0.86,
+   true
+  ],
+  [
+   [
+    "B",
+    "R"
+   ],
+   0.52,
+   true
+  ],
+  [
+   [
+    "B",
+    "F",
+    "R"
+   ],
+   0.52,
+   true
+  ],
+  [
+   [
+    "P",
+    "R"
+   ],
+   0.4,
+   false
+  ],
+  [
+   [
+    "B",
+    "F"
+   ],
+   0.22,
+   false
+  ],
+  [
+   [
+    "F",
+    "P",
+    "R"
+   ],
+   0.14,
+   false
+  ],
+  [
+   [
+    "Mi",
+    "P",
+    "R"
+   ],
+   0.11,
+   false
+  ]
+ ],
+ "full_unstable": []
+}

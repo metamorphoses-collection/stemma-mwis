@@ -1,0 +1,33 @@
+{
+ "neighbornet": {
+  "families_in_tree": 42,
+  "editor_families_exact": 8,
+  "which": [
+   "kappa",
+   "lambda",
+   "mu",
+   "omicron",
+   "phi",
+   "rho",
+   "sigma",
+   "upsilon"
+  ],
+  "editor_families_among_all_splits": 10
+ },
+ "mrbayes": {
+  "families_in_tree": 49,
+  "editor_families_exact": 8,
+  "which": [
+   "kappa",
+   "lambda",
+   "mu",
+   "omicron",
+   "phi",
+   "pi",
+   "rho",
+   "sigma"
+  ],
+  "editor_families_among_all_splits": 8,
+  "asdsf_final": 0.014493
+ }
+}

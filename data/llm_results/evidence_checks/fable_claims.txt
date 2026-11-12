@@ -1,0 +1,22 @@
+units 1208
+H branch lacuna 701-711                  -> 0/11 of the group lacunose; outside the group lacunose: 2 ['W13', 'W28']
+H branch lacuna 813-819                  -> 0/11 of the group lacunose; outside the group lacunose: 3 ['W08', 'W13', 'W28']
+F (03 12 11 25 32) lacuna 163-165        -> 5/5 of the group lacunose; outside the group lacunose: 4 ['W01', 'W02', 'W08', 'W28']
+J (02 30 05 16 37) lacuna 665-667        -> 5/5 of the group lacunose; outside the group lacunose: 2 ['W13', 'W28']
+G branch lacuna 270-272                  -> 8/8 of the group lacunose; outside the group lacunose: 4 ['W02', 'W06', 'W07', 'W28']
+G sub (04 21 34 35) lacuna 347-348       -> 0/4 of the group lacunose; outside the group lacunose: 5 ['W01', 'W02', 'W16', 'W27', 'W28']
+G sub (04 21 34 35) lacuna 1202-1206     -> 0/4 of the group lacunose; outside the group lacunose: 4 ['W01', 'W08', 'W11', 'W13']
+B branch lacuna 322-325                  -> 15/15 of the group lacunose; outside the group lacunose: 3 ['W01', 'W02', 'W28']
+B branch lacuna 1220-1222                -> 0/15 of the group lacunose; outside the group lacunose: 0 []
+B branch reading '?331' at 541-544       -> 6/15 of the group read '?331'; outside: 0 []
+B minus 17,20 lacuna 845-847             -> 12/13 of the group lacunose; outside the group lacunose: 1 ['W28']
+G+B reading '2223' at 121-124            -> 9/23 of the group read '2223'; outside: 0 []
+F/W24 '353' at 665-667                   -> 0/6 of the group read '353'; outside: 0 []
+
+-- offset search (does the claim hold if units are shifted by -12..+12?)
+H 701-711                holds at offsets: []
+H 813-819                holds at offsets: []
+G sub 347-348            holds at offsets: [1]
+G sub 1202-1206          holds at offsets: [2]
+B 1220-1222              holds at offsets: []
+F+W24 '353' 665-667      holds at offsets: []

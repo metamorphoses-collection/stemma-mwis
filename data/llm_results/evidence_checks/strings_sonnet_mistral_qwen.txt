@@ -1,0 +1,14 @@
+Sonnet   '1312133' in 2/3 named witnesses; also in 1 others
+Sonnet   '1131144311' in 2/3 named witnesses; also in 0 others
+Sonnet   '2471432346/8' in 3/3 named witnesses; also in 0 others
+Sonnet   '86115324/5' in 4/6 named witnesses; also in 2 others
+Sonnet   '33c/d?23a?91' in 2/6 named witnesses; also in 0 others
+Sonnet   '225143342c' in 2/2 named witnesses; also in 0 others
+Sonnet   '249143342c' in 1/1 named witnesses; also in 0 others
+Sonnet   '6?63134411' in 1/2 named witnesses; also in 8 others
+Sonnet   '512441241444333215365356347235' in 1/2 named witnesses; also in 0 others
+Sonnet   '2321823311' in 1/1 named witnesses; also in 0 others
+Sonnet   '2323824311' in 1/1 named witnesses; also in 0 others
+Sonnet   'c22b344' in 4/7 named witnesses; also in 0 others
+Mistral  '22b' in 20/21 named witnesses; also in 2 others
+Qwen Max '1111' in 3/3 named witnesses; also in 34 others

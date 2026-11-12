@@ -1,0 +1,380 @@
+[
+ {
+  "dataset": "donatus",
+  "model": "anthropic_claude-opus-5.5",
+  "seconds": 34.4,
+  "cost": 0.211828,
+  "tokens_out": 3686,
+  "families_given": 21,
+  "families_kept": 21,
+  "crossing_dropped": 0,
+  "unknown_ids": 0,
+  "valid": true,
+  "editor_families_exact": 6,
+  "which": [
+   "kappa",
+   "lambda",
+   "omicron",
+   "phi",
+   "rho",
+   "sigma"
+  ]
+ },
+ {
+  "dataset": "donatus",
+  "model": "anthropic_claude-sonnet-5.5",
+  "seconds": 17.2,
+  "cost": 0.090464,
+  "tokens_out": 2141,
+  "families_given": 22,
+  "families_kept": 22,
+  "crossing_dropped": 0,
+  "unknown_ids": 0,
+  "valid": true,
+  "editor_families_exact": 6,
+  "which": [
+   "kappa",
+   "lambda",
+   "omicron",
+   "phi",
+   "sigma",
+   "xi"
+  ]
+ },
+ {
+  "dataset": "donatus",
+  "model": "cohere_command-a-plus",
+  "seconds": 51.9,
+  "cost": 0,
+  "tokens_out": 8133,
+  "valid": false,
+  "note": "no parsable JSON"
+ },
+ {
+  "dataset": "donatus",
+  "model": "deepseek_deepseek-v4.1-flash",
+  "seconds": 415.8,
+  "cost": 0.051734523,
+  "tokens_out": 88242,
+  "families_given": 17,
+  "families_kept": 17,
+  "crossing_dropped": 0,
+  "unknown_ids": 0,
+  "valid": true,
+  "editor_families_exact": 4,
+  "which": [
+   "kappa",
+   "lambda",
+   "phi",
+   "sigma"
+  ]
+ },
+ {
+  "dataset": "donatus",
+  "model": "google_gemini-4-argon",
+  "seconds": 656.3,
+  "cost": 0.797034,
+  "tokens_out": 65536,
+  "valid": false,
+  "note": "no parsable JSON"
+ },
+ {
+  "dataset": "donatus",
+  "model": "minimax_minimax-m3",
+  "seconds": 1106.8,
+  "cost": 0.131010624,
+  "tokens_out": 128000,
+  "valid": false,
+  "note": "no parsable JSON"
+ },
+ {
+  "dataset": "donatus",
+  "model": "mistralai_mistral-large-4-0",
+  "seconds": 404.4,
+  "cost": 0.0910238,
+  "tokens_out": 32226,
+  "families_given": 18,
+  "families_kept": 18,
+  "crossing_dropped": 0,
+  "unknown_ids": 0,
+  "valid": true,
+  "editor_families_exact": 4,
+  "which": [
+   "kappa",
+   "lambda",
+   "phi",
+   "sigma"
+  ]
+ },
+ {
+  "dataset": "donatus",
+  "model": "moonshotai_kimi-k3.1-pro",
+  "seconds": 473.9,
+  "cost": 0.628524871,
+  "tokens_out": 58673,
+  "families_given": 25,
+  "families_kept": 25,
+  "crossing_dropped": 0,
+  "unknown_ids": 0,
+  "valid": true,
+  "editor_families_exact": 6,
+  "which": [
+   "kappa",
+   "lambda",
+   "omicron",
+   "phi",
+   "rho",
+   "sigma"
+  ]
+ },
+ {
+  "dataset": "donatus",
+  "model": "nvidia_nemotron-3-ultra-550b-a55b",
+  "seconds": 189.6,
+  "cost": 0.1515568,
+  "tokens_out": 61799,
+  "families_given": 7,
+  "families_kept": 7,
+  "crossing_dropped": 0,
+  "unknown_ids": 0,
+  "valid": true,
+  "editor_families_exact": 3,
+  "which": [
+   "kappa",
+   "lambda",
+   "sigma"
+  ]
+ },
+ {
+  "dataset": "donatus",
+  "model": "openai_gpt-6.1-sol",
+  "seconds": 787.0,
+  "cost": 0.5165835,
+  "tokens_out": 43326,
+  "families_given": 48,
+  "families_kept": 47,
+  "crossing_dropped": 0,
+  "unknown_ids": 0,
+  "valid": true,
+  "editor_families_exact": 8,
+  "which": [
+   "kappa",
+   "lambda",
+   "mu",
+   "omicron",
+   "phi",
+   "pi",
+   "rho",
+   "sigma"
+  ]
+ },
+ {
+  "dataset": "donatus",
+  "model": "qwen_qwen3.8-27b",
+  "seconds": 172.2,
+  "cost": 0.10481026,
+  "tokens_out": 45709,
+  "valid": false,
+  "note": "no parsable JSON"
+ },
+ {
+  "dataset": "donatus",
+  "model": "qwen_qwen3.8-max-prime",
+  "seconds": 861.7,
+  "cost": 1.40942,
+  "tokens_out": 93821,
+  "families_given": 27,
+  "families_kept": 27,
+  "crossing_dropped": 0,
+  "unknown_ids": 0,
+  "valid": true,
+  "editor_families_exact": 5,
+  "which": [
+   "kappa",
+   "lambda",
+   "omicron",
+   "sigma",
+   "xi"
+  ]
+ },
+ {
+  "dataset": "donatus",
+  "model": "z-ai_glm-5.3-prime",
+  "seconds": 702.6,
+  "cost": 1.1529104,
+  "tokens_out": 120153,
+  "families_given": 22,
+  "families_kept": 22,
+  "crossing_dropped": 0,
+  "unknown_ids": 0,
+  "valid": true,
+  "editor_families_exact": 7,
+  "which": [
+   "kappa",
+   "lambda",
+   "omicron",
+   "phi",
+   "pi",
+   "sigma",
+   "xi"
+  ]
+ },
+ {
+  "dataset": "heinrichi",
+  "model": "anthropic_claude-opus-5.5",
+  "seconds": 79.0,
+  "cost": 0.270196,
+  "tokens_out": 8600,
+  "valid": false,
+  "note": "no parsable JSON"
+ },
+ {
+  "dataset": "heinrichi",
+  "model": "anthropic_claude-sonnet-5.5",
+  "seconds": 24.5,
+  "cost": 0.079838,
+  "tokens_out": 3074,
+  "families_given": 16,
+  "families_kept": 16,
+  "crossing_dropped": 0,
+  "unknown_ids": 0,
+  "valid": true,
+  "skeleton": 62.69
+ },
+ {
+  "dataset": "heinrichi",
+  "model": "cohere_command-a-plus",
+  "seconds": 4.4,
+  "cost": 0,
+  "tokens_out": 489,
+  "valid": false,
+  "note": "no parsable JSON"
+ },
+ {
+  "dataset": "heinrichi",
+  "model": "deepseek_deepseek-v4.1-flash",
+  "seconds": 359.9,
+  "cost": 0.05292339,
+  "tokens_out": 76979,
+  "families_given": 17,
+  "families_kept": 17,
+  "crossing_dropped": 0,
+  "unknown_ids": 0,
+  "valid": true,
+  "skeleton": 63.05
+ },
+ {
+  "dataset": "heinrichi",
+  "model": "google_gemini-4-argon",
+  "seconds": 855.9,
+  "cost": 0.73831,
+  "tokens_out": 65536,
+  "valid": false,
+  "note": "no parsable JSON"
+ },
+ {
+  "dataset": "heinrichi",
+  "model": "minimax_minimax-m3",
+  "seconds": 901.6,
+  "cost": 0,
+  "tokens_out": 13532,
+  "valid": false,
+  "note": "no parsable JSON"
+ },
+ {
+  "dataset": "heinrichi",
+  "model": "mistralai_mistral-large-4-0",
+  "seconds": 698.2,
+  "cost": 0.149548,
+  "tokens_out": 63835,
+  "families_given": 16,
+  "families_kept": 16,
+  "crossing_dropped": 0,
+  "unknown_ids": 0,
+  "valid": true,
+  "skeleton": 52.07
+ },
+ {
+  "dataset": "heinrichi",
+  "model": "moonshotai_kimi-k3.1-pro",
+  "seconds": 313.1,
+  "cost": 0.476508,
+  "tokens_out": 43207,
+  "families_given": 32,
+  "families_kept": 32,
+  "crossing_dropped": 0,
+  "unknown_ids": 0,
+  "valid": true,
+  "skeleton": 66.22
+ },
+ {
+  "dataset": "heinrichi",
+  "model": "nvidia_nemotron-3-ultra-550b-a55b",
+  "seconds": 139.1,
+  "cost": 0.1028513,
+  "tokens_out": 36819,
+  "families_given": 5,
+  "families_kept": 5,
+  "crossing_dropped": 0,
+  "unknown_ids": 0,
+  "valid": true,
+  "skeleton": 54.46
+ },
+ {
+  "dataset": "heinrichi",
+  "model": "openai_gpt-6.1-sol",
+  "seconds": 1105.1,
+  "cost": 0.6287137,
+  "tokens_out": 62650,
+  "families_given": 32,
+  "families_kept": 31,
+  "crossing_dropped": 0,
+  "unknown_ids": 0,
+  "valid": true,
+  "skeleton": 69.25
+ },
+ {
+  "dataset": "heinrichi",
+  "model": "qwen_qwen3.8-27b",
+  "seconds": 233.4,
+  "cost": 0.08927076,
+  "tokens_out": 38088,
+  "valid": false,
+  "note": "no parsable JSON"
+ },
+ {
+  "dataset": "heinrichi",
+  "model": "qwen_qwen3.8-max-prime",
+  "seconds": 1114.5,
+  "cost": 1.654536,
+  "tokens_out": 123958,
+  "families_given": 21,
+  "families_kept": 21,
+  "crossing_dropped": 0,
+  "unknown_ids": 0,
+  "valid": true,
+  "skeleton": 56.14
+ },
+ {
+  "dataset": "heinrichi",
+  "model": "x-ai_grok-4.7",
+  "seconds": 1562.8,
+  "cost": 0.62171,
+  "tokens_out": 96360,
+  "families_given": 12,
+  "families_kept": 12,
+  "crossing_dropped": 0,
+  "unknown_ids": 0,
+  "valid": true,
+  "skeleton": 53.47
+ },
+ {
+  "dataset": "heinrichi",
+  "model": "z-ai_glm-5.3-prime",
+  "seconds": 721.8,
+  "cost": 1.2024956,
+  "tokens_out": 128000,
+  "valid": false,
+  "note": "no parsable JSON"
+ }
+]

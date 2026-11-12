@@ -1,0 +1,13 @@
+{
+ "neighbornet": {
+  "families_in_tree": 30,
+  "skeleton": 71.83
+ },
+ "mrbayes": {
+  "families_in_tree": 28,
+  "skeleton": 82.16,
+  "asdsf_final": 0.129181,
+  "ngen": 4000000,
+  "note": "4M generations (append); not converged; consensus identical to 1M"
+ }
+}

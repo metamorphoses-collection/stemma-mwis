@@ -1,0 +1,21 @@
+{
+ "_note": "Printed groups of >=2 first-hand sigla sharing a departure, read on dMGH page images (12 Nov 2026). old_lines = OCR line range of the page in the Internet Archive OCR.",
+ "eutropius": {
+  "40":  {"leaf": 113, "old_lines": [9029, 9151], "groups": "FGLO DP LO FG LO LO LO LO LO LO LO LO LO PD LO LOPD FG LO LO GS"},
+  "70":  {"leaf": 143, "old_lines": [10849, 10970], "groups": "LO FG FG PD PD LO LO LOPD LO PD LO PD LO GLD LO LO FG LO GD PD FG PD"},
+  "110": {"leaf": 183, "old_lines": [13238, 13300], "groups": "LO PD LO FG LO PD LO LO LO FG PD LO GD LO LO LOPD LOPD"}},
+ "sidonius_letters": {
+  "50":  {"leaf": 128, "old_lines": [8978, 9125], "groups": "MTCFP LM TCP CP MCP MCF MTC FP MP MTCFP MTFP FP MTCFP LMF MCP MTCFP MC MT LTCFP TCFP LMTFP LMTCP MCF LMTCFP LMTCFP"},
+  "90":  {"leaf": 168, "old_lines": [11997, 12077], "groups": "CF MTCFP MCFP TCFP CF MTCFP LMTCP CF MTCF MCF MTCFP MTCFP CF MC LMTCFP MTCFP CF MCFP MTCFP"},
+  "150": {"leaf": 228, "old_lines": [16455, 16531], "groups": "FP MFP MCF MTCFP MTCFP MTCFP MTCF LMT FP CFP MTP CF MTCFP MTCFP MTCFP TCFP MTCFP CF MFP MCF CF"}},
+ "variae_I-IV": {
+  "82":  {"leaf": 265, "old_lines": [26008, 26163], "groups": "XF PD MONXEA LRKP PD PD PD KEF EF KMONXE MONXE LRKPD"}},
+ "variae_V-VII": {
+  "180": {"leaf": 363, "old_lines": [33108, 33185], "groups": "EF TU TU LR KEF LRKPTU TU KEF TU TUE KTU"}},
+ "variae_VIII-XII": {
+  "300": {"leaf": 483, "old_lines": [42241, 42321], "groups": "HGI HG EHGI HI HGI HI HG EF BZEFK NEFHG EF GI EF HI EFI HI HI EFI EF HGI HGI EFHGI HGI HGI HG EHGI"}},
+ "fortunatus": {
+  "60":  {"leaf": 88,  "old_lines": [5150, 5207], "groups": "BL ACPM CMGL APDGR ACM GBL BL CMBL MF"},
+  "106": {"leaf": 134, "old_lines": [7990, 8050], "groups": "MDGR PBL CPMGR DGB CL DL CPGB GVR CPMDVR CPM CPM CPM"},
+  "200": {"leaf": 228, "old_lines": [13810, 13870], "groups": "AMR CM AC ACD ACM ACMR"}}
+}

@@ -1,0 +1,11 @@
+{
+ "B": 20000,
+ "maximal": [
+  "{B+F+Mi+P+R, P+R, B+F+P+R}",
+  "{B+F+Mi+P+R, B+R, B+F+P+R, B+F+R}"
+ ],
+ "P": {
+  "{B+F+Mi+P+R, P+R, B+F+P+R}": 0.2045,
+  "{B+F+Mi+P+R, B+R, B+F+P+R, B+F+R}": 0.7955
+ }
+}
