@@ -1,0 +1,60 @@
+{
+ "stemma_witnesses": "LVMD",
+ "cited": {
+  "L": 359,
+  "V": 533,
+  "M": 624,
+  "D": 193
+ },
+ "analysis_witnesses": "LVMD",
+ "units_with_shared_departure": 335,
+ "included": true,
+ "exclusion": [],
+ "editor_top": [
+  "L",
+  "VMD"
+ ],
+ "k_E": 2,
+ "status": "OPTIMAL",
+ "weight": 265.0,
+ "branches": [
+  {
+   "branch": "L",
+   "status": "single_witness"
+  },
+  {
+   "branch": "VMD",
+   "status": "supported",
+   "by": "VMD"
+  }
+ ],
+ "classification": "supported",
+ "k_D": 2,
+ "k_D_bootstrap": {
+  "2": 1.0
+ },
+ "stable_families": [
+  [
+   "VM",
+   214,
+   1.0
+  ],
+  [
+   "VMD",
+   51,
+   0.995
+  ]
+ ],
+ "mwis": [
+  [
+   "VM",
+   214,
+   1.0
+  ],
+  [
+   "VMD",
+   51,
+   0.995
+  ]
+ ]
+}

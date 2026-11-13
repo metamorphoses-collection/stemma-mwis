@@ -1,0 +1,22 @@
+{
+ "stemma_witnesses": "PNTFBLMS",
+ "cited": {
+  "P": 790,
+  "N": 758,
+  "T": 119,
+  "F": 45,
+  "B": 392,
+  "L": 481,
+  "M": 535,
+  "S": 475
+ },
+ "analysis_witnesses": "PNTFBLMS",
+ "units_with_shared_departure": 687,
+ "included": true,
+ "exclusion": [],
+ "editor_top": [
+  "PTF",
+  "NBLMS"
+ ],
+ "k_E": 2
+}

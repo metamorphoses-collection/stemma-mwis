@@ -1,0 +1,125 @@
+{
+ "stemma_witnesses": "HPVLAOBXYZ",
+ "cited": {
+  "H": 323,
+  "P": 523,
+  "V": 491,
+  "L": 987,
+  "A": 2212,
+  "O": 2683,
+  "B": 2229,
+  "X": 1639,
+  "Y": 1592,
+  "Z": 760
+ },
+ "analysis_witnesses": "HPVLAOBXYZ",
+ "units_with_shared_departure": 2495,
+ "included": true,
+ "exclusion": [],
+ "editor_top": [
+  "HPVLAOB",
+  "XYZ"
+ ],
+ "k_E": 2,
+ "status": "OPTIMAL",
+ "weight": 1398.0,
+ "branches": [
+  {
+   "branch": "HPVLAOB",
+   "status": "contradicted",
+   "by": [
+    "AOBXYZ"
+   ]
+  },
+  {
+   "branch": "XYZ",
+   "status": "supported",
+   "by": "XYZ"
+  }
+ ],
+ "classification": "contradicted",
+ "k_D": 2,
+ "k_D_bootstrap": {
+  "2": 0.99,
+  "3": 0.01
+ },
+ "stable_families": [
+  [
+   "OB",
+   594,
+   1.0
+  ],
+  [
+   "XYZ",
+   391,
+   1.0
+  ],
+  [
+   "XY",
+   207,
+   1.0
+  ],
+  [
+   "AOB",
+   65,
+   0.975
+  ],
+  [
+   "HPV",
+   63,
+   1.0
+  ],
+  [
+   "HPVL",
+   42,
+   1.0
+  ],
+  [
+   "AOBXYZ",
+   7,
+   0.93
+  ]
+ ],
+ "mwis": [
+  [
+   "OB",
+   594,
+   1.0
+  ],
+  [
+   "XYZ",
+   391,
+   1.0
+  ],
+  [
+   "XY",
+   207,
+   1.0
+  ],
+  [
+   "AOB",
+   65,
+   0.975
+  ],
+  [
+   "HPV",
+   63,
+   1.0
+  ],
+  [
+   "HPVL",
+   42,
+   1.0
+  ],
+  [
+   "HP",
+   29,
+   0.55
+  ],
+  [
+   "AOBXYZ",
+   7,
+   0.93
+  ]
+ ]
+}

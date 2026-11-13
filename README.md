@@ -36,12 +36,41 @@ The MGH volumes (1879–1894) are in the public domain. OCR text: Internet Archi
 ```
 pip install ortools numpy scipy networkx      # Python 3.12; R with phangorn for parsimony
 python code/benchmark/exact_partial.py data/heinrichi/heinrichi.num --truth data/heinrichi/correct.txt --out out/h
-python code/benchmark/mwis_protocol.py data/lawrence/lawrence_bhl4759.num --out out/lawrence --B 100 --thetas 0.5,0.7,0.9
+python code/benchmark/mwis_protocol.py data/lawrence/lawrence_bhl4759.num --out out/lawrence --B 200 --thetas 0.5,0.7,0.9
 python code/native/lawrence_graph.py data/lawrence/lawrence_bhl4759.num out/graph.json 3
 python code/native/bootstrap_histories.py data/lawrence/lawrence_bhl4759.num out/graph.json 20000
 ```
 
 The exact solver is deterministic by default (one CP-SAT worker, seed 0); set `MWIS_WORKERS` and `MWIS_SEED` to explore co-optimal solutions.
+
+## Pre-registered test of the editors' top divisions (MGH, Sec. "A pre-registered test across the series")
+
+- `data/bedier/docs/` — the frozen protocol with all amendments (`PREREG_BEDIER_20261113.md`), results with the
+  exploratory analyses (`RESULTS_BEDIER_20261113.md`), the survey of *Scriptores rerum Merovingicarum*
+  (`SURVEY_BEDIER_SRM_20261113.md`) and the survey of later editions (`LATER_EDITIONS_SURVEY_20261113.md`).
+- `data/bedier/tops/`, `data/bedier_srm/tops/` — editors' stated top divisions, recorded blind from the prefaces
+  (MGH *Auctores antiquissimi* 1–15, 71 texts; *Scriptores rerum Merovingicarum* 1–7, 168 texts).
+- `data/bedier/ocr_llm/` — vision-model transcriptions (google/gemini-4-argon, temperature 0, prompt in
+  `code/historic/bedier_llm_read.py`) of the 4,091 dMGH pages of the located texts, one file per page
+  (`<volume>_<leaf>.llm.txt`); `USAGE.tsv` logs tokens and cost. Five blank pages are marked as such.
+  These are machine transcriptions of public-domain 19th-century editions, checked on sampled pages only.
+- `data/bedier/gold/` — blind gold transcriptions of the proof, development and fresh proof pages (AI agents reading
+  the page images; not checked by a human), with the page draws (`leaves*.json`, `a10_draws.json`).
+- `data/bedier/runs/` — extracted units per text (parser v4); `screen_a10/`, `classification_a10/` — the frozen
+  screen and the single classification run; `proof_scores*.json`; `null_exploratory_primary.json`,
+  `why_exploratory.json` — exploratory analyses.
+- `code/historic/` — `bedier_a6.py` (locate texts, extract), `bedier_llm_read.py`, `mgh_rooted_extract.py` (parser v4),
+  `bedier_proof.py`, `bedier_top.py` (frozen scorer), `bedier_null.py`, `bedier_why.py`.
+
+The Apple Vision / Tesseract OCR of all 9,385 pages of MGH AA 1–15 (four variants per page, amendment A6) is attached
+to the GitHub release as `mgh_aa_apple_tesseract_ocr_4variants.zip`. The dMGH page images are not redistributed;
+they are at https://www.dmgh.de/ (`<volume>/img/300/<volume>_<leaf>.jpg`).
+
+Reproduce the classification:
+```
+python code/historic/bedier_top.py data/bedier/runs/<text>/units.json --witnesses <sigla> --top '<A|B>' --out out.json --B 200
+```
+(sigla and top per text in `data/bedier/settings.json`).
 
 ## Licence
 

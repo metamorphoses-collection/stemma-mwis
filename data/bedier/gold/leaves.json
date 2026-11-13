@@ -1,0 +1,107 @@
+{
+ "sidonius_epistulae": {
+  "vol": "mgh_auct_ant_8",
+  "page": 48,
+  "leaf": 126
+ },
+ "sidonius_carmina": {
+  "vol": "mgh_auct_ant_8",
+  "page": 192,
+  "leaf": 270
+ },
+ "victor_vitensis_historia": {
+  "vol": "mgh_auct_ant_3_1",
+  "page": 14,
+  "leaf": 23
+ },
+ "aldhelm_de_virginitate_prosa": {
+  "vol": "mgh_auct_ant_15",
+  "page": 280,
+  "leaf": 304
+ },
+ "eugippius_vita_severini": {
+  "vol": "mgh_auct_ant_1_2",
+  "page": 19,
+  "leaf": 38
+ },
+ "eutropius_breviarium": {
+  "vol": "mgh_auct_ant_2",
+  "page": 147,
+  "leaf": 220
+ },
+ "paulus_historia_romana": {
+  "vol": "mgh_auct_ant_2",
+  "page": 95,
+  "leaf": 168
+ },
+ "fortunatus_carmina": {
+  "vol": "mgh_auct_ant_4_1",
+  "page": 209,
+  "leaf": 237
+ },
+ "fortunatus_vita_martini": {
+  "vol": "mgh_auct_ant_4_1",
+  "page": 355,
+  "leaf": 383
+ },
+ "jordanes_romana": {
+  "vol": "mgh_auct_ant_5_1",
+  "page": 19,
+  "leaf": 92
+ },
+ "jordanes_getica": {
+  "vol": "mgh_auct_ant_5_1",
+  "page": 127,
+  "leaf": 200
+ },
+ "ennodius_opera": {
+  "vol": "mgh_auct_ant_7",
+  "page": 61,
+  "leaf": 127
+ },
+ "claudianus_maior": {
+  "vol": "mgh_auct_ant_10",
+  "page": 306,
+  "leaf": 539
+ },
+ "isidorus_historia_gothorum": {
+  "vol": "mgh_auct_ant_11",
+  "page": 270,
+  "leaf": 276
+ },
+ "isidorus_chronica_maiora": {
+  "vol": "mgh_auct_ant_11",
+  "page": 447,
+  "leaf": 453
+ },
+ "cassiodorus_variae": {
+  "vol": "mgh_auct_ant_12",
+  "page": 28,
+  "leaf": 211
+ },
+ "acta_synhodorum_romae_499_501_502": {
+  "vol": "mgh_auct_ant_12",
+  "page": 453,
+  "leaf": 636
+ },
+ "historia_brittonum": {
+  "vol": "mgh_auct_ant_13",
+  "page": 214,
+  "leaf": 221
+ },
+ "eugenius_dracontiana": {
+  "vol": "mgh_auct_ant_14",
+  "page": 54,
+  "leaf": 105
+ },
+ "symmachus_epistulae": {
+  "vol": "mgh_auct_ant_6_1",
+  "page": 153,
+  "leaf": 364
+ },
+ "avitus_carmina": {
+  "vol": "mgh_auct_ant_6_2",
+  "page": 254,
+  "leaf": 331
+ }
+}

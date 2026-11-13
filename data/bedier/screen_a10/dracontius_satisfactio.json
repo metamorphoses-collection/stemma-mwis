@@ -1,0 +1,18 @@
+{
+ "stemma_witnesses": "VD",
+ "cited": {
+  "V": 39,
+  "D": 20
+ },
+ "analysis_witnesses": "V",
+ "units_with_shared_departure": 0,
+ "included": false,
+ "exclusion": [
+  "too few witnesses",
+  "too thin"
+ ],
+ "editor_top": [
+  "V"
+ ],
+ "k_E": 1
+}

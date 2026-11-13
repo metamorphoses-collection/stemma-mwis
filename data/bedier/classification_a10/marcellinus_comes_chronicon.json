@@ -1,0 +1,60 @@
+{
+ "stemma_witnesses": "STUR",
+ "cited": {
+  "S": 719,
+  "T": 333,
+  "U": 169,
+  "R": 341
+ },
+ "analysis_witnesses": "STUR",
+ "units_with_shared_departure": 219,
+ "included": true,
+ "exclusion": [],
+ "editor_top": [
+  "S",
+  "TUR"
+ ],
+ "k_E": 2,
+ "status": "OPTIMAL",
+ "weight": 129.0,
+ "branches": [
+  {
+   "branch": "S",
+   "status": "single_witness"
+  },
+  {
+   "branch": "TUR",
+   "status": "supported",
+   "by": "TUR"
+  }
+ ],
+ "classification": "supported",
+ "k_D": 2,
+ "k_D_bootstrap": {
+  "2": 1.0
+ },
+ "stable_families": [
+  [
+   "UR",
+   86,
+   1.0
+  ],
+  [
+   "TUR",
+   43,
+   0.91
+  ]
+ ],
+ "mwis": [
+  [
+   "UR",
+   86,
+   1.0
+  ],
+  [
+   "TUR",
+   43,
+   0.91
+  ]
+ ]
+}

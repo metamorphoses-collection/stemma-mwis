@@ -1,0 +1,4016 @@
+{
+ "pages": [
+  {
+   "text_id": "sidonius_carmina",
+   "page": 192,
+   "notes": "Clear print. Hand superscripts a/b written inline (Ma, Tb). 'ł currum Tb' = vel currum.",
+   "entries": [
+    {
+     "line": 166,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "audit aper",
+       "sigla": "M"
+      }
+     ]
+    },
+    {
+     "line": 166,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "nemeem",
+       "sigla": "F"
+      }
+     ]
+    },
+    {
+     "line": 167,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "aetholo",
+       "sigla": "TCFP"
+      }
+     ]
+    },
+    {
+     "line": 167,
+     "lemma": "matrem",
+     "readings": [
+      {
+       "text": "martem",
+       "sigla": "MbTaCFP"
+      },
+      {
+       "text": "ł currum",
+       "sigla": "Tb"
+      }
+     ],
+     "lemma_sigla": "Ma"
+    },
+    {
+     "line": 168,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "multos",
+       "sigla": "P"
+      }
+     ]
+    },
+    {
+     "line": 169,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "contempto",
+       "sigla": "TCF"
+      },
+      {
+       "text": "contento",
+       "sigla": "P"
+      }
+     ]
+    },
+    {
+     "line": 169,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "permissus",
+       "sigla": "M"
+      }
+     ]
+    },
+    {
+     "line": 169,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "tum",
+       "sigla": "MT"
+      }
+     ]
+    },
+    {
+     "line": 172,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "decrescer*",
+       "sigla": "Ca"
+      }
+     ]
+    },
+    {
+     "line": 173,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "longuas",
+       "sigla": "MT"
+      }
+     ]
+    },
+    {
+     "line": 173,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "signai",
+       "sigla": "Ta"
+      }
+     ]
+    },
+    {
+     "line": 174,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "axius",
+       "sigla": "M"
+      }
+     ]
+    },
+    {
+     "line": 175,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "anfractumetaetiam",
+       "sigla": "M"
+      }
+     ]
+    },
+    {
+     "line": 175,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "relict*s",
+       "sigla": "Ca"
+      }
+     ]
+    },
+    {
+     "line": 176,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "frigit",
+       "sigla": "M"
+      }
+     ]
+    },
+    {
+     "line": 177,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "quid",
+       "sigla": "M"
+      }
+     ]
+    },
+    {
+     "line": 177,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "laede*m",
+       "sigla": "Ca"
+      }
+     ]
+    },
+    {
+     "line": 177,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "spernit alumpnus praeter spern in ras.",
+       "sigla": "Mb"
+      }
+     ]
+    },
+    {
+     "line": 178,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "stheno beatuum",
+       "sigla": "MC"
+      },
+      {
+       "text": "tenobea tuum",
+       "sigla": "TFP"
+      }
+     ]
+    },
+    {
+     "line": 178,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "erga vetusas",
+       "sigla": "Ma"
+      },
+      {
+       "text": "terga vetusas",
+       "sigla": "Mb"
+      }
+     ]
+    },
+    {
+     "line": 180,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "refet",
+       "sigla": "P"
+      }
+     ]
+    },
+    {
+     "line": 180,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "suscipit",
+       "sigla": "TbCFP"
+      },
+      {
+       "text": "subripit",
+       "sigla": "Ta"
+      }
+     ]
+    },
+    {
+     "line": 181,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "facta",
+       "sigla": "F"
+      }
+     ]
+    },
+    {
+     "line": 183,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "pollicem",
+       "sigla": "M"
+      }
+     ]
+    },
+    {
+     "line": 184,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "bellorofonteis",
+       "sigla": "TCF"
+      }
+     ]
+    },
+    {
+     "line": 184,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "opinus",
+       "sigla": "F"
+      }
+     ]
+    },
+    {
+     "line": 186,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "pupes",
+       "sigla": "P"
+      }
+     ]
+    },
+    {
+     "line": 186,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "gratias",
+       "sigla": "Ma"
+      }
+     ]
+    },
+    {
+     "line": 187,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "ipsa",
+       "sigla": "M"
+      }
+     ]
+    },
+    {
+     "line": 188,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "queres",
+       "sigla": "M"
+      }
+     ]
+    },
+    {
+     "line": 191,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "trohilon",
+       "sigla": "TP"
+      },
+      {
+       "text": "tronilon",
+       "sigla": "M"
+      }
+     ]
+    },
+    {
+     "line": 192,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "tardentem",
+       "sigla": "CbP"
+      }
+     ]
+    },
+    {
+     "line": 193,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "aegedes",
+       "sigla": "P"
+      },
+      {
+       "text": "egedes",
+       "sigla": "M"
+      }
+     ]
+    },
+    {
+     "line": 194,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "intostum",
+       "sigla": "F"
+      }
+     ]
+    },
+    {
+     "line": 194,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "viciatae",
+       "sigla": "M"
+      }
+     ],
+     "note": "fort. recte"
+    },
+    {
+     "line": 195,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "eiecit",
+       "sigla": "C"
+      }
+     ]
+    },
+    {
+     "line": 196,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "habut",
+       "sigla": "M"
+      }
+     ]
+    },
+    {
+     "line": 196,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "facen",
+       "sigla": "T"
+      }
+     ]
+    },
+    {
+     "line": 196,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "cafyrei",
+       "sigla": "CFPb"
+      },
+      {
+       "text": "cafysei",
+       "sigla": "Pa"
+      },
+      {
+       "text": "cafirei",
+       "sigla": "M"
+      },
+      {
+       "text": "casyrei",
+       "sigla": "T"
+      }
+     ]
+    },
+    {
+     "line": 198,
+     "lemma": "quod",
+     "readings": [
+      {
+       "text": "om.",
+       "sigla": "F"
+      }
+     ]
+    },
+    {
+     "line": 198,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "cotiens",
+       "sigla": "P"
+      }
+     ]
+    },
+    {
+     "line": 199,
+     "lemma": "et",
+     "readings": [
+      {
+       "text": "ei",
+       "sigla": "M"
+      }
+     ]
+    },
+    {
+     "line": 201,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "amas",
+       "sigla": "FP"
+      }
+     ]
+    },
+    {
+     "line": 203,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "gnato",
+       "sigla": "M"
+      }
+     ]
+    },
+    {
+     "line": 204,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "a sceptris",
+       "sigla": "M"
+      }
+     ],
+     "note": "fort. recte"
+    },
+    {
+     "line": 205,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "huc",
+       "sigla": "P"
+      }
+     ]
+    },
+    {
+     "line": 205,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "gradentius",
+       "sigla": "F"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "text_id": "eugippius_vita_severini",
+   "page": 19,
+   "notes": "Clear print. Hand indications (pr., m. 2, m. pr.) kept in sigla string. 'S' in line 6 is printed as a siglum (likely editor). Entry '2 ubi] cf. 19, 1' skipped (no siglum).",
+   "entries": [
+    {
+     "line": 1,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "baiothro",
+       "sigla": "M"
+      },
+      {
+       "text": "biothro",
+       "sigla": "V"
+      },
+      {
+       "text": "boitro",
+       "sigla": "D"
+      }
+     ],
+     "note": "cf. Mommsen l. d."
+    },
+    {
+     "line": 1,
+     "lemma": "Enum fluuium",
+     "readings": [
+      {
+       "text": "henum fluuium",
+       "sigla": "V"
+      },
+      {
+       "text": "haenum fluuium",
+       "sigla": "L"
+      },
+      {
+       "text": "fluuium henum",
+       "sigla": "M"
+      }
+     ]
+    },
+    {
+     "line": 4,
+     "lemma": "proferebat",
+     "readings": [
+      {
+       "text": "praeferebat",
+       "sigla": "L"
+      }
+     ],
+     "lemma_sigla": "VMD"
+    },
+    {
+     "line": 5,
+     "lemma": "et ideo",
+     "readings": [
+      {
+       "text": "uideo",
+       "sigla": "L"
+      }
+     ],
+     "lemma_sigla": "VMD"
+    },
+    {
+     "line": 6,
+     "lemma": "debetis",
+     "readings": [
+      {
+       "text": "deberi",
+       "sigla": "L"
+      },
+      {
+       "text": "debere",
+       "sigla": "VMD"
+      }
+     ],
+     "lemma_sigla": "S"
+    },
+    {
+     "line": 6,
+     "lemma": "ultro",
+     "readings": [
+      {
+       "text": "et ultro",
+       "sigla": "VM"
+      }
+     ]
+    },
+    {
+     "line": 6,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "ioannis",
+       "sigla": "M"
+      }
+     ]
+    },
+    {
+     "line": 7,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "deferretur",
+       "sigla": "VM"
+      },
+      {
+       "text": "referretur",
+       "sigla": "D"
+      }
+     ]
+    },
+    {
+     "line": 8,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "pergeret",
+       "sigla": "D"
+      }
+     ]
+    },
+    {
+     "line": 8,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "febanem",
+       "sigla": "VM"
+      },
+      {
+       "text": "febanum",
+       "sigla": "L m. 2"
+      },
+      {
+       "text": "fabianum",
+       "sigla": "L pr."
+      },
+      {
+       "text": "fauianam",
+       "sigla": "D"
+      }
+     ],
+     "note": "long editorial note follows (Feuam/Febam etc.)"
+    },
+    {
+     "line": 8,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "ei",
+       "sigla": "M"
+      }
+     ]
+    },
+    {
+     "line": 8,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "postularetur",
+       "sigla": "D"
+      }
+     ]
+    },
+    {
+     "line": 9,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "inquid",
+       "sigla": "V"
+      }
+     ]
+    },
+    {
+     "line": 10,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "priora",
+       "sigla": "D"
+      }
+     ]
+    },
+    {
+     "line": 10,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "destituto",
+       "sigla": "L"
+      }
+     ]
+    },
+    {
+     "line": 11,
+     "lemma": "illis",
+     "readings": [
+      {
+       "text": "eis",
+       "sigla": "M"
+      }
+     ]
+    },
+    {
+     "line": 13,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "plenus",
+       "sigla": "M"
+      }
+     ]
+    },
+    {
+     "line": 13,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "disscessu",
+       "sigla": "V"
+      }
+     ]
+    },
+    {
+     "line": 14,
+     "lemma": "dicto",
+     "readings": [
+      {
+       "text": "audito",
+       "sigla": "M"
+      }
+     ]
+    },
+    {
+     "line": 14,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "a lacrimis",
+       "sigla": "L"
+      }
+     ],
+     "note": "(pr. m. a delevit)"
+    },
+    {
+     "line": 14,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "urguebatur",
+       "sigla": "M"
+      }
+     ]
+    },
+    {
+     "line": 15,
+     "lemma": "Aperta — 16 delictorum",
+     "readings": [
+      {
+       "text": "om.",
+       "sigla": "M"
+      }
+     ]
+    },
+    {
+     "line": 17,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "inquid",
+       "sigla": "V"
+      }
+     ]
+    },
+    {
+     "line": 18,
+     "lemma": "et",
+     "readings": [
+      {
+       "text": "ut",
+       "sigla": "L"
+      }
+     ],
+     "lemma_sigla": "VM"
+    },
+    {
+     "line": 18,
+     "lemma": "non sine",
+     "readings": [
+      {
+       "text": "sine",
+       "sigla": "L"
+      }
+     ],
+     "lemma_sigla": "VM"
+    },
+    {
+     "line": 21,
+     "lemma": "suum",
+     "readings": [
+      {
+       "text": "om.",
+       "sigla": "M"
+      }
+     ]
+    },
+    {
+     "line": 21,
+     "lemma": "fauianis",
+     "readings": [
+      {
+       "text": "fabianis",
+       "sigla": "L"
+      }
+     ],
+     "lemma_sigla": "VM"
+    },
+    {
+     "line": 22,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "humimundus",
+       "sigla": "L pr."
+      },
+      {
+       "text": "hunumundus",
+       "sigla": "V"
+      },
+      {
+       "text": "hodemundus",
+       "sigla": "M"
+      }
+     ]
+    },
+    {
+     "line": 25,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "christi famulum",
+       "sigla": "M"
+      }
+     ]
+    },
+    {
+     "line": 27,
+     "lemma": "offenso deo",
+     "readings": [
+      {
+       "text": "offendõ",
+       "sigla": "V"
+      }
+     ]
+    },
+    {
+     "line": 29,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "sanctisimus",
+       "sigla": "M"
+      }
+     ]
+    },
+    {
+     "line": 30,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "scafam",
+       "sigla": "VM"
+      }
+     ]
+    },
+    {
+     "line": 30,
+     "lemma": "sibi",
+     "readings": [
+      {
+       "text": "ibi",
+       "sigla": "L pr."
+      }
+     ]
+    },
+    {
+     "line": 30,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "ilico praeparari iubet",
+       "sigla": "M"
+      }
+     ]
+    },
+    {
+     "line": 31,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "occurerę",
+       "sigla": "M"
+      }
+     ]
+    },
+    {
+     "line": 32,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "confidentem",
+       "sigla": "V"
+      }
+     ]
+    },
+    {
+     "line": 32,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "ulteriore",
+       "sigla": "VM"
+      },
+      {
+       "text": "ulterius",
+       "sigla": "L m. pr."
+      }
+     ]
+    },
+    {
+     "line": 33,
+     "lemma": "eos",
+     "readings": [
+      {
+       "text": "eorum",
+       "sigla": "M"
+      }
+     ]
+    },
+    {
+     "line": 33,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "quam",
+       "sigla": "V"
+      }
+     ]
+    },
+    {
+     "line": 35,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "optulit",
+       "sigla": "LV"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "text_id": "fortunatus_carmina",
+   "page": 209,
+   "notes": "Clear print. Greek sigla μ, π, γ. Entries 113-140 belong to carm. IX 2; entries after 'III' (line null = title/heading notes; lines 1-4) belong to carm. IX 3. Small-caps title readings transcribed in capitals.",
+   "entries": [
+    {
+     "line": 113,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "generat — gignit",
+       "sigla": "μπ"
+      }
+     ]
+    },
+    {
+     "line": 114,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "necremanda fecis decreanda polis",
+       "sigla": "C"
+      },
+      {
+       "text": "non recreando focis s. recreando p.",
+       "sigla": "μπ"
+      }
+     ]
+    },
+    {
+     "line": 115,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "praesertimque suo sancti beatissime (-i π) puri",
+       "sigla": "μπ"
+      }
+     ]
+    },
+    {
+     "line": 116,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "nouo",
+       "sigla": "DG"
+      },
+      {
+       "text": "nobo",
+       "sigla": "μ"
+      },
+      {
+       "text": "nouis",
+       "sigla": "π"
+      }
+     ]
+    },
+    {
+     "line": 117,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "uelud",
+       "sigla": "G"
+      }
+     ]
+    },
+    {
+     "line": 118,
+     "lemma": "quasi",
+     "readings": [
+      {
+       "text": "ceu",
+       "sigla": "γ"
+      }
+     ]
+    },
+    {
+     "line": 118,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "lucernitens",
+       "sigla": "C"
+      }
+     ]
+    },
+    {
+     "line": 119,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "immaculatae",
+       "sigla": "B"
+      }
+     ]
+    },
+    {
+     "line": 119,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "radientes",
+       "sigla": "P"
+      }
+     ],
+     "note": "sed ien i. ras."
+    },
+    {
+     "line": 121,
+     "lemma": "inque",
+     "readings": [
+      {
+       "text": "quique",
+       "sigla": "μπ"
+      }
+     ]
+    },
+    {
+     "line": 122,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "ceu rubris",
+       "sigla": "F"
+      },
+      {
+       "text": "c** rubeis",
+       "sigla": "A1"
+      },
+      {
+       "text": "ceruleis",
+       "sigla": "Rπ"
+      }
+     ]
+    },
+    {
+     "line": 122,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "roris",
+       "sigla": "A"
+      }
+     ]
+    },
+    {
+     "line": 122,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "in P paginae versus 23 reliqui vacui, deinde f. 59v sequitur III, 30.",
+       "sigla": "P"
+      }
+     ],
+     "note": "lacuna note"
+    },
+    {
+     "line": 122,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "desinit",
+       "sigla": "γ"
+      }
+     ]
+    },
+    {
+     "line": 124,
+     "lemma": "genitos",
+     "readings": [
+      {
+       "text": "et genitos",
+       "sigla": "μπ"
+      }
+     ]
+    },
+    {
+     "line": 125,
+     "lemma": "chlamys",
+     "readings": [
+      {
+       "text": "clamys",
+       "sigla": "AMD"
+      },
+      {
+       "text": "clamis",
+       "sigla": "CGBL"
+      },
+      {
+       "text": "clames",
+       "sigla": "μ"
+      },
+      {
+       "text": "clamans",
+       "sigla": "π"
+      },
+      {
+       "text": "om.",
+       "sigla": "R"
+      }
+     ]
+    },
+    {
+     "line": 126,
+     "lemma": "et uariis",
+     "readings": [
+      {
+       "text": "aureis et",
+       "sigla": "μ"
+      },
+      {
+       "text": "aureis ut",
+       "sigla": "π"
+      }
+     ]
+    },
+    {
+     "line": 127,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "niuiam",
+       "sigla": "A"
+      },
+      {
+       "text": "uineam",
+       "sigla": "C"
+      },
+      {
+       "text": "niuea",
+       "sigla": "μπ"
+      }
+     ]
+    },
+    {
+     "line": 127,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "per candita",
+       "sigla": "A"
+      },
+      {
+       "text": "praecandida",
+       "sigla": "π"
+      },
+      {
+       "text": "precandido",
+       "sigla": "μ"
+      }
+     ]
+    },
+    {
+     "line": 127,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "palla",
+       "sigla": "μπ"
+      }
+     ]
+    },
+    {
+     "line": 128,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "purporeamque",
+       "sigla": "CMGB"
+      }
+     ]
+    },
+    {
+     "line": 128,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "toga",
+       "sigla": "A"
+      }
+     ]
+    },
+    {
+     "line": 129,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "genitrix",
+       "sigla": "L"
+      }
+     ]
+    },
+    {
+     "line": 130,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "cernites",
+       "sigla": "CM1"
+      }
+     ]
+    },
+    {
+     "line": 131,
+     "lemma": "abrahae",
+     "readings": [
+      {
+       "text": "aliis",
+       "sigla": "μπ"
+      }
+     ]
+    },
+    {
+     "line": 131,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "auxit",
+       "sigla": "G1"
+      }
+     ]
+    },
+    {
+     "line": 133,
+     "lemma": "natorum",
+     "readings": [
+      {
+       "text": "om.",
+       "sigla": "G"
+      }
+     ]
+    },
+    {
+     "line": 134,
+     "lemma": "refert",
+     "readings": [
+      {
+       "text": "dedit",
+       "sigla": "L"
+      }
+     ]
+    },
+    {
+     "line": 135,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "solio",
+       "sigla": "Aμπ"
+      }
+     ]
+    },
+    {
+     "line": 138,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "cui p. alludat",
+       "sigla": "L"
+      },
+      {
+       "text": "quem p. amplectat",
+       "sigla": "μπ"
+      }
+     ]
+    },
+    {
+     "line": 139,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "medio",
+       "sigla": "μ"
+      }
+     ]
+    },
+    {
+     "line": 139,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "repetat haec colla",
+       "sigla": "π"
+      },
+      {
+       "text": "repetat concorda",
+       "sigla": "μ"
+      }
+     ]
+    },
+    {
+     "line": 140,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "parat",
+       "sigla": "C"
+      }
+     ]
+    },
+    {
+     "line": 140,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "subscr. v. CXLIV",
+       "sigla": "ACMD"
+      }
+     ]
+    },
+    {
+     "line": null,
+     "lemma": "III",
+     "readings": [
+      {
+       "text": "extat in P f. 67r post III, 5",
+       "sigla": "P"
+      }
+     ]
+    },
+    {
+     "line": null,
+     "lemma": "tit.",
+     "readings": [
+      {
+       "text": "om.",
+       "sigla": "CPR"
+      }
+     ]
+    },
+    {
+     "line": null,
+     "lemma": "item",
+     "readings": [
+      {
+       "text": "om.",
+       "sigla": "GBL"
+      }
+     ]
+    },
+    {
+     "line": null,
+     "lemma": "CHILPERICVM ET FREDEGVNDEM",
+     "readings": [
+      {
+       "text": "CHILBERICVM ET FREDEGVNDEM",
+       "sigla": "G2"
+      },
+      {
+       "text": "HILPERICVM ET FREDEGVNDAE",
+       "sigla": "A"
+      },
+      {
+       "text": "CHILPERIM ET FREDEGVNDE",
+       "sigla": "M"
+      },
+      {
+       "text": "CHILPERTVM ET FREDEGVNDEM",
+       "sigla": "G1"
+      },
+      {
+       "text": "EOSDEM",
+       "sigla": "BLF"
+      }
+     ],
+     "lemma_sigla": "D"
+    },
+    {
+     "line": 1,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "tempestatis",
+       "sigla": "A"
+      }
+     ]
+    },
+    {
+     "line": 1,
+     "lemma": "et",
+     "readings": [
+      {
+       "text": "om.",
+       "sigla": "M"
+      }
+     ]
+    },
+    {
+     "line": 2,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "qui",
+       "sigla": "D"
+      }
+     ]
+    },
+    {
+     "line": 2,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "regere",
+       "sigla": "A"
+      }
+     ]
+    },
+    {
+     "line": 3,
+     "lemma": "post",
+     "readings": [
+      {
+       "text": "prae",
+       "sigla": "L"
+      }
+     ]
+    },
+    {
+     "line": 3,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "ac tristi*a",
+       "sigla": "M"
+      },
+      {
+       "text": "hac tristitia",
+       "sigla": "C"
+      },
+      {
+       "text": "hac tristia",
+       "sigla": "R"
+      }
+     ]
+    },
+    {
+     "line": 4,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "flammini",
+       "sigla": "A"
+      },
+      {
+       "text": "flamme",
+       "sigla": "P"
+      }
+     ]
+    },
+    {
+     "line": 4,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "rapide",
+       "sigla": "P"
+      }
+     ]
+    },
+    {
+     "line": 4,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "rure",
+       "sigla": "(M)L"
+      }
+     ]
+    },
+    {
+     "line": 4,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "nothi",
+       "sigla": "BL"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "text_id": "jordanes_getica",
+   "page": 127,
+   "notes": "Clear print. Witness header line 'H P V A O B X (Y Z)' and source notes (Rav., Paulus) skipped as not variant entries. Hand superscripts a/b inline (Pb, Xa). Parenthetical qualifiers kept in text or note.",
+   "entries": [
+    {
+     "line": 1,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "petierunt",
+       "sigla": "O"
+      }
+     ]
+    },
+    {
+     "line": 1,
+     "lemma": "hernac",
+     "readings": [
+      {
+       "text": "hermac",
+       "sigla": "XY"
+      }
+     ],
+     "note": "'Ηρνάχ apud Priscum"
+    },
+    {
+     "line": 1,
+     "lemma": "attilae",
+     "readings": [
+      {
+       "text": "a. regis",
+       "sigla": "O"
+      }
+     ],
+     "note": "(non B)"
+    },
+    {
+     "line": 2,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "extremo",
+       "sigla": "B"
+      },
+      {
+       "text": "extremas",
+       "sigla": "X"
+      },
+      {
+       "text": "extremis",
+       "sigla": "AY"
+      }
+     ]
+    },
+    {
+     "line": 2,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "minores",
+       "sigla": "O"
+      }
+     ]
+    },
+    {
+     "line": 2,
+     "lemma": "emnetzur",
+     "readings": [
+      {
+       "text": "emnedzur",
+       "sigla": "PV"
+      },
+      {
+       "text": "emnezur",
+       "sigla": "Y"
+      },
+      {
+       "text": "emmedzur",
+       "sigla": "A"
+      },
+      {
+       "text": "emmezur",
+       "sigla": "X"
+      },
+      {
+       "text": "zinnezur",
+       "sigla": "Z"
+      },
+      {
+       "text": "emnetdzar",
+       "sigla": "O"
+      },
+      {
+       "text": "emnedzar",
+       "sigla": "B"
+      }
+     ],
+     "lemma_sigla": "H"
+    },
+    {
+     "line": 2,
+     "lemma": "ultzindur",
+     "readings": [
+      {
+       "text": "ultzidur",
+       "sigla": "Xa"
+      },
+      {
+       "text": "uultzindur",
+       "sigla": "Z"
+      },
+      {
+       "text": "ultz**dur",
+       "sigla": "Pa"
+      },
+      {
+       "text": "uzindur",
+       "sigla": "OB"
+      }
+     ],
+     "lemma_sigla": "HPbVAXbY"
+    },
+    {
+     "line": 2,
+     "lemma": "consanguinei",
+     "readings": [
+      {
+       "text": "cumsanguinei",
+       "sigla": "O"
+      },
+      {
+       "text": "consannei",
+       "sigla": "HPV"
+      }
+     ],
+     "lemma_sigla": "ABXY"
+    },
+    {
+     "line": 3,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "uto et husco almoque",
+       "sigla": "YZ"
+      },
+      {
+       "text": "uto et isco almusqui",
+       "sigla": "O"
+      },
+      {
+       "text": "uto et iscalmus qui ea",
+       "sigla": "B"
+      },
+      {
+       "text": "ut dethisco almoque",
+       "sigla": "A"
+      }
+     ]
+    },
+    {
+     "line": 4,
+     "lemma": "tunc se in r. dediderunt",
+     "readings": [
+      {
+       "text": "om.",
+       "sigla": "X"
+      },
+      {
+       "text": "romaniam",
+       "sigla": "ABY"
+      },
+      {
+       "text": "dediderunt (sic)",
+       "sigla": "HPAY"
+      },
+      {
+       "text": "dederunt",
+       "sigla": "VOB"
+      },
+      {
+       "text": "habent",
+       "sigla": "YZ"
+      }
+     ],
+     "note": "printed: tunc se in r. (romaniam ABY) dediderunt (sic HPAY, dederunt VOB) om. X (habent YZ)"
+    },
+    {
+     "line": 4,
+     "lemma": "e",
+     "readings": [
+      {
+       "text": "et",
+       "sigla": "O"
+      }
+     ]
+    },
+    {
+     "line": 4,
+     "lemma": "usque",
+     "readings": [
+      {
+       "text": "om.",
+       "sigla": "A"
+      }
+     ]
+    },
+    {
+     "line": 4,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "sacromontissii",
+       "sigla": "O"
+      }
+     ]
+    },
+    {
+     "line": 4,
+     "lemma": "fossatisii",
+     "readings": [
+      {
+       "text": "fosatisii",
+       "sigla": "B"
+      },
+      {
+       "text": "fotasii",
+       "sigla": "O"
+      }
+     ]
+    },
+    {
+     "line": 6,
+     "lemma": "eis",
+     "readings": [
+      {
+       "text": "eisdem",
+       "sigla": "A"
+      }
+     ]
+    },
+    {
+     "line": 7,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "regione",
+       "sigla": "AOB"
+      }
+     ]
+    },
+    {
+     "line": 7,
+     "lemma": "ad",
+     "readings": [
+      {
+       "text": "ut",
+       "sigla": "XZ"
+      }
+     ],
+     "note": "(non Y)"
+    },
+    {
+     "line": 7,
+     "lemma": "emimonti",
+     "readings": [
+      {
+       "text": "ei monti",
+       "sigla": "H"
+      },
+      {
+       "text": "emi montis",
+       "sigla": "VX"
+      },
+      {
+       "text": "hemi montis",
+       "sigla": "AYZ"
+      },
+      {
+       "text": "enim montis",
+       "sigla": "OB"
+      }
+     ],
+     "lemma_sigla": "P"
+    },
+    {
+     "line": 7,
+     "lemma": "sed",
+     "readings": [
+      {
+       "text": "sedet",
+       "sigla": "B"
+      }
+     ]
+    },
+    {
+     "line": 8,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "pauper",
+       "sigla": "ABXb"
+      }
+     ]
+    },
+    {
+     "line": 8,
+     "lemma": "nihilque habundans",
+     "readings": [
+      {
+       "text": "quae non habundat",
+       "sigla": "B"
+      },
+      {
+       "text": "nulloque abundans",
+       "sigla": "A"
+      }
+     ]
+    },
+    {
+     "line": 8,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "armento",
+       "sigla": "B"
+      },
+      {
+       "text": "armentis",
+       "sigla": "A"
+      }
+     ]
+    },
+    {
+     "line": 8,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "diuersis",
+       "sigla": "HPV"
+      }
+     ]
+    },
+    {
+     "line": 8,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "pascuis",
+       "sigla": "A"
+      }
+     ]
+    },
+    {
+     "line": 9,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "siluamque",
+       "sigla": "O"
+      }
+     ]
+    },
+    {
+     "line": 9,
+     "lemma": "lignarum",
+     "readings": [
+      {
+       "text": "lignorum",
+       "sigla": "ABXY"
+      }
+     ],
+     "lemma_sigla": "HPVO"
+    },
+    {
+     "line": 9,
+     "lemma": "parum",
+     "readings": [
+      {
+       "text": "p. habens",
+       "sigla": "B"
+      }
+     ]
+    },
+    {
+     "line": 9,
+     "lemma": "citerarumque",
+     "readings": [
+      {
+       "text": "ceterarumque",
+       "sigla": "VYZ"
+      },
+      {
+       "text": "ceterorumque",
+       "sigla": "X"
+      },
+      {
+       "text": "ceterarum",
+       "sigla": "AB"
+      },
+      {
+       "text": "ceterorum",
+       "sigla": "O"
+      }
+     ],
+     "lemma_sigla": "HP"
+    },
+    {
+     "line": 9,
+     "lemma": "terras fecundas",
+     "readings": [
+      {
+       "text": "terra fecunda",
+       "sigla": "A"
+      },
+      {
+       "text": "in terras fecundas",
+       "sigla": "O"
+      },
+      {
+       "text": "est terra secunda",
+       "sigla": "B"
+      }
+     ]
+    },
+    {
+     "line": 10,
+     "lemma": "certi eorum",
+     "readings": [
+      {
+       "text": "certe",
+       "sigla": "A"
+      }
+     ]
+    },
+    {
+     "line": 10,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "cognuscent",
+       "sigla": "P"
+      },
+      {
+       "text": "cognoscunt",
+       "sigla": "A"
+      }
+     ]
+    },
+    {
+     "line": 10,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "uicinis locis",
+       "sigla": "ABXY"
+      },
+      {
+       "text": "locis om.",
+       "sigla": "Aa"
+      }
+     ]
+    },
+    {
+     "line": 10,
+     "lemma": "nam",
+     "readings": [
+      {
+       "text": "om.",
+       "sigla": "A"
+      }
+     ]
+    },
+    {
+     "line": 11,
+     "lemma": "l. aluntur pl.",
+     "readings": [
+      {
+       "text": "pl. l. utuntur",
+       "sigla": "A"
+      }
+     ]
+    },
+    {
+     "line": 12,
+     "lemma": "agimus",
+     "readings": [
+      {
+       "text": "agitur",
+       "sigla": "OB"
+      }
+     ]
+    },
+    {
+     "line": 12,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "reuertamus",
+       "sigla": "B"
+      }
+     ]
+    },
+    {
+     "line": 12,
+     "lemma": "id est",
+     "readings": [
+      {
+       "text": "idem",
+       "sigla": "O"
+      }
+     ]
+    },
+    {
+     "line": 12,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "ostrogothorum",
+       "sigla": "X"
+      }
+     ]
+    },
+    {
+     "line": 13,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "uulamier",
+       "sigla": "O"
+      }
+     ]
+    },
+    {
+     "line": 13,
+     "lemma": "germani",
+     "readings": [
+      {
+       "text": "germanis",
+       "sigla": "OBXY"
+      },
+      {
+       "text": "germano",
+       "sigla": "A"
+      }
+     ],
+     "lemma_sigla": "HPV"
+    },
+    {
+     "line": 13,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "theudimer",
+       "sigla": "X"
+      },
+      {
+       "text": "theudimir",
+       "sigla": "YZ"
+      },
+      {
+       "text": "theodemir",
+       "sigla": "AOB"
+      }
+     ]
+    },
+    {
+     "line": 13,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "et uuidemer",
+       "sigla": "O"
+      },
+      {
+       "text": "et uuidimir",
+       "sigla": "B"
+      },
+      {
+       "text": "et uidimer",
+       "sigla": "X"
+      },
+      {
+       "text": "et uidimir",
+       "sigla": "Z"
+      },
+      {
+       "text": "et uindimir",
+       "sigla": "Y"
+      },
+      {
+       "text": "om.",
+       "sigla": "HPVA"
+      }
+     ]
+    },
+    {
+     "line": 14,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "diuisi loco",
+       "sigla": "A"
+      }
+     ]
+    },
+    {
+     "line": 14,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "consilio",
+       "sigla": "AXYZ"
+      }
+     ]
+    },
+    {
+     "line": 14,
+     "lemma": "unita",
+     "readings": [
+      {
+       "text": "uniti",
+       "sigla": "A"
+      },
+      {
+       "text": "habuerunt unita",
+       "sigla": "B"
+      }
+     ]
+    },
+    {
+     "line": 14,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "ualamir",
+       "sigla": "A"
+      }
+     ]
+    },
+    {
+     "line": 14,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "scarniumgam",
+       "sigla": "HPV"
+      }
+     ]
+    },
+    {
+     "line": 14,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "aquam nigram",
+       "sigla": "OB"
+      },
+      {
+       "text": "aquae nigrae",
+       "sigla": "XYZ"
+      }
+     ]
+    },
+    {
+     "line": 15,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "theudemer",
+       "sigla": "X"
+      },
+      {
+       "text": "theudimir",
+       "sigla": "Y"
+      },
+      {
+       "text": "teudemir",
+       "sigla": "A"
+      },
+      {
+       "text": "theodemir",
+       "sigla": "OB"
+      }
+     ]
+    },
+    {
+     "line": 15,
+     "lemma": "lacum",
+     "readings": [
+      {
+       "text": "locum",
+       "sigla": "Aa"
+      },
+      {
+       "text": "loca",
+       "sigla": "XYZ"
+      }
+     ]
+    },
+    {
+     "line": 15,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "pelsodis",
+       "sigla": "B"
+      },
+      {
+       "text": "pelsoif",
+       "sigla": "X"
+      }
+     ]
+    },
+    {
+     "line": 15,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "uidemir",
+       "sigla": "A"
+      }
+     ]
+    },
+    {
+     "line": 15,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "manebat",
+       "sigla": "AOBXY"
+      }
+     ]
+    },
+    {
+     "line": 16,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "dominationi",
+       "sigla": "P"
+      }
+     ]
+    },
+    {
+     "line": 16,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "fucacia",
+       "sigla": "HPV"
+      },
+      {
+       "text": "fugatia",
+       "sigla": "O"
+      }
+     ]
+    },
+    {
+     "line": 16,
+     "lemma": "mancipia",
+     "readings": [
+      {
+       "text": "mantia",
+       "sigla": "O"
+      }
+     ]
+    },
+    {
+     "line": 17,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "ignaresque",
+       "sigla": "O"
+      }
+     ]
+    },
+    {
+     "line": 17,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "ualamir",
+       "sigla": "AXY"
+      },
+      {
+       "text": "uualamir",
+       "sigla": "B"
+      }
+     ]
+    },
+    {
+     "line": 17,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "inruerint",
+       "sigla": "O"
+      }
+     ]
+    },
+    {
+     "line": 18,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "fatigatos",
+       "sigla": "AB"
+      }
+     ]
+    },
+    {
+     "line": 19,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "fugam",
+       "sigla": "ABXY"
+      }
+     ]
+    },
+    {
+     "line": 19,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "conuersa",
+       "sigla": "A"
+      }
+     ]
+    },
+    {
+     "line": 19,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "peterent",
+       "sigla": "OB"
+      }
+     ]
+    },
+    {
+     "line": 19,
+     "lemma": "danabri",
+     "readings": [
+      {
+       "text": "danubri",
+       "sigla": "PVO"
+      },
+      {
+       "text": "danubii",
+       "sigla": "AB"
+      },
+      {
+       "text": "danapri",
+       "sigla": "XYZ"
+      }
+     ],
+     "lemma_sigla": "H"
+    },
+    {
+     "line": 20,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "amnies",
+       "sigla": "P"
+      }
+     ]
+    },
+    {
+     "line": 20,
+     "lemma": "quam",
+     "readings": [
+      {
+       "text": "que",
+       "sigla": "O"
+      },
+      {
+       "text": "quem",
+       "sigla": "AXYZ"
+      }
+     ]
+    },
+    {
+     "line": 20,
+     "lemma": "eo namque",
+     "readings": [
+      {
+       "text": "eoque",
+       "sigla": "OB"
+      }
+     ]
+    },
+    {
+     "line": 21,
+     "lemma": "ad",
+     "readings": [
+      {
+       "text": "cum ad",
+       "sigla": "B"
+      }
+     ]
+    },
+    {
+     "line": 21,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "fratres thiudimeri",
+       "sigla": "P"
+      },
+      {
+       "text": "fratres theodemeri",
+       "sigla": "O"
+      },
+      {
+       "text": "fratrem theodemerem",
+       "sigla": "B"
+      },
+      {
+       "text": "fratres (om. th.)",
+       "sigla": "A"
+      },
+      {
+       "text": "theudimeri (om. fr.)",
+       "sigla": "X"
+      },
+      {
+       "text": "theudimiris (om. fr.)",
+       "sigla": "Y"
+      }
+     ],
+     "note": "Thiodimer Paulus"
+    },
+    {
+     "line": 21,
+     "lemma": "gaudii",
+     "readings": [
+      {
+       "text": "gaudia",
+       "sigla": "OXYZ"
+      }
+     ]
+    },
+    {
+     "line": 21,
+     "lemma": "n. direxit sed",
+     "readings": [
+      {
+       "text": "n. direxisset",
+       "sigla": "OB"
+      },
+      {
+       "text": "cum nuntium direxisset",
+       "sigla": "XY"
+      }
+     ]
+    },
+    {
+     "line": 21,
+     "lemma": "eo",
+     "readings": [
+      {
+       "text": "e",
+       "sigla": "O"
+      },
+      {
+       "text": "et",
+       "sigla": "A"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "text_id": "isidorus_historia_gothorum",
+   "page": 270,
+   "notes": "Clear print. Apparatus is for right column (DEXTR.); header 'P sin., BNHAMO(L) dextra.' skipped. Superscripts written inline (Lm, Ls, Ba, Pa). Line ranges like 3/4 given as first line with note.",
+   "entries": [
+    {
+     "line": 1,
+     "lemma": "adflictos",
+     "readings": [
+      {
+       "text": "afflictis",
+       "sigla": "Lm"
+      },
+      {
+       "text": "affectos",
+       "sigla": "Ls"
+      }
+     ]
+    },
+    {
+     "line": 1,
+     "lemma": "prae",
+     "readings": [
+      {
+       "text": "per",
+       "sigla": "MOL"
+      }
+     ]
+    },
+    {
+     "line": 1,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "orret",
+       "sigla": "N"
+      },
+      {
+       "text": "correcet",
+       "sigla": "M"
+      }
+     ]
+    },
+    {
+     "line": 2,
+     "lemma": "interficere",
+     "readings": [
+      {
+       "text": "om.",
+       "sigla": "AM"
+      }
+     ]
+    },
+    {
+     "line": 3,
+     "lemma": "coegit de",
+     "readings": [
+      {
+       "text": "coegredere",
+       "sigla": "M"
+      }
+     ]
+    },
+    {
+     "line": 3,
+     "lemma": "romanorum",
+     "readings": [
+      {
+       "text": "romanam solum",
+       "sigla": "A"
+      },
+      {
+       "text": "romanis solis",
+       "sigla": "M"
+      },
+      {
+       "text": "romani solii",
+       "sigla": "NH"
+      },
+      {
+       "text": "romani soli",
+       "sigla": "OLs"
+      },
+      {
+       "text": "romanam",
+       "sigla": "Lm"
+      }
+     ],
+     "lemma_sigla": "B",
+     "note": "3/4"
+    },
+    {
+     "line": 4,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "prouincia",
+       "sigla": "O"
+      },
+      {
+       "text": "prouincias",
+       "sigla": "Ls"
+      },
+      {
+       "text": "regionem",
+       "sigla": "Lm"
+      }
+     ]
+    },
+    {
+     "line": 5,
+     "lemma": "aera",
+     "readings": [
+      {
+       "text": "om.",
+       "sigla": "M"
+      }
+     ]
+    },
+    {
+     "line": 5,
+     "lemma": "ccccxu",
+     "readings": [
+      {
+       "text": "ccccui",
+       "sigla": "HO"
+      },
+      {
+       "text": "ccccIII",
+       "sigla": "L"
+      }
+     ]
+    },
+    {
+     "line": 5,
+     "lemma": "anno xiii",
+     "readings": [
+      {
+       "text": "anno octauo",
+       "sigla": "L"
+      },
+      {
+       "text": "om.",
+       "sigla": "P"
+      }
+     ]
+    },
+    {
+     "line": 5,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "ualentinis",
+       "sigla": "M"
+      }
+     ]
+    },
+    {
+     "line": 5,
+     "lemma": "in istrium",
+     "readings": [
+      {
+       "text": "instrium",
+       "sigla": "N"
+      },
+      {
+       "text": "instrunt",
+       "sigla": "O"
+      },
+      {
+       "text": "om. in sp. vacuo",
+       "sigla": "P"
+      }
+     ],
+     "lemma_sigla": "BHAML"
+    },
+    {
+     "line": 5,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "aduersum",
+       "sigla": "PNH"
+      }
+     ]
+    },
+    {
+     "line": 5,
+     "lemma": "semet ipsos",
+     "readings": [
+      {
+       "text": "se",
+       "sigla": "P"
+      }
+     ],
+     "note": "5/6"
+    },
+    {
+     "line": 6,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "atanatico",
+       "sigla": "Ba"
+      }
+     ]
+    },
+    {
+     "line": 6,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "frigiderno",
+       "sigla": "M"
+      }
+     ]
+    },
+    {
+     "line": 6,
+     "lemma": "sese caedibus",
+     "readings": [
+      {
+       "text": "sese seredibus",
+       "sigla": "M"
+      },
+      {
+       "text": "se caedibus",
+       "sigla": "P"
+      },
+      {
+       "text": "se sedibus",
+       "sigla": "B"
+      }
+     ],
+     "lemma_sigla": "NHAOL"
+    },
+    {
+     "line": 6,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "depopulantes",
+       "sigla": "HL"
+      },
+      {
+       "text": "prophetantes",
+       "sigla": "M"
+      }
+     ]
+    },
+    {
+     "line": 7,
+     "lemma": "athanaricus fridigernum",
+     "readings": [
+      {
+       "text": "frigidernum",
+       "sigla": "M"
+      },
+      {
+       "text": "fridigernum athanaricus",
+       "sigla": "P"
+      },
+      {
+       "text": "atharicus",
+       "sigla": "Pa"
+      }
+     ],
+     "note": "printed: athanaricus fridigernum (frigidernum M)] fridigernum athanaricus (atharicus Pa) P: requiritur Fridigernus Athanaricum, ut est in chronicis"
+    },
+    {
+     "line": 7,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "superat",
+       "sigla": "AMOL"
+      }
+     ]
+    },
+    {
+     "line": 8,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "hius",
+       "sigla": "AM"
+      }
+     ]
+    },
+    {
+     "line": 8,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "legatos",
+       "sigla": "Ba"
+      }
+     ]
+    },
+    {
+     "line": 11,
+     "lemma": "regulam poscit u. autem a ueritate cath. fidei",
+     "readings": [
+      {
+       "text": "poposcit",
+       "sigla": "O"
+      },
+      {
+       "text": "autem auctoritate",
+       "sigla": "O"
+      },
+      {
+       "text": "om.",
+       "sigla": "B (suppl. m. rec.) H"
+      }
+     ],
+     "note": "printed: regulam poscit (poposcit O) u. autem a ueritate (autem auctoritate O) cath. fidei om. B (suppl. m. rec.) H"
+    },
+    {
+     "line": 12,
+     "lemma": "et",
+     "readings": [
+      {
+       "text": "ad",
+       "sigla": "O"
+      }
+     ]
+    },
+    {
+     "line": 13,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "per ueritate",
+       "sigla": "N"
+      },
+      {
+       "text": "peruersitatem",
+       "sigla": "O"
+      }
+     ]
+    },
+    {
+     "line": 14,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "gothis persusione",
+       "sigla": "M"
+      }
+     ],
+     "note": "14/15"
+    },
+    {
+     "line": 15,
+     "lemma": "nefanda",
+     "readings": [
+      {
+       "text": "fanda",
+       "sigla": "N"
+      }
+     ]
+    },
+    {
+     "line": 15,
+     "lemma": "sui",
+     "readings": [
+      {
+       "text": "sine",
+       "sigla": "M"
+      }
+     ]
+    },
+    {
+     "line": 15,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "dogmatis",
+       "sigla": "B"
+      },
+      {
+       "text": "dogma",
+       "sigla": "O"
+      }
+     ],
+     "note": "15/16"
+    },
+    {
+     "line": 17,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "uiros pestiferos",
+       "sigla": "O"
+      }
+     ]
+    },
+    {
+     "line": 17,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "perniciose",
+       "sigla": "N"
+      },
+      {
+       "text": "precioso",
+       "sigla": "O"
+      }
+     ],
+     "note": "17/18"
+    },
+    {
+     "line": 18,
+     "lemma": "quem",
+     "readings": [
+      {
+       "text": "quae",
+       "sigla": "M"
+      }
+     ]
+    },
+    {
+     "line": 19,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "crudelitas",
+       "sigla": "HAM"
+      }
+     ]
+    },
+    {
+     "line": 20,
+     "lemma": "gulfilas",
+     "readings": [
+      {
+       "text": "gulphilas",
+       "sigla": "A"
+      },
+      {
+       "text": "galfilas",
+       "sigla": "P"
+      }
+     ],
+     "lemma_sigla": "BNHMOL"
+    },
+    {
+     "line": 20,
+     "lemma": "eorum",
+     "readings": [
+      {
+       "text": "eorum gothorum",
+       "sigla": "OLs"
+      }
+     ]
+    },
+    {
+     "line": 21,
+     "lemma": "et",
+     "readings": [
+      {
+       "text": "om.",
+       "sigla": "O"
+      }
+     ]
+    },
+    {
+     "line": 23,
+     "lemma": "conuertit",
+     "readings": [
+      {
+       "text": "committit",
+       "sigla": "O"
+      }
+     ]
+    },
+    {
+     "line": 25,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "instruxerunt",
+       "sigla": "Ls"
+      }
+     ]
+    },
+    {
+     "line": 25,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "dogmati",
+       "sigla": "B"
+      }
+     ]
+    },
+    {
+     "line": 26,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "talias iuxta undemarum",
+       "sigla": "B"
+      }
+     ]
+    },
+    {
+     "line": 28,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "patris",
+       "sigla": "A"
+      }
+     ]
+    },
+    {
+     "line": 28,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "maiestati",
+       "sigla": "M"
+      }
+     ]
+    },
+    {
+     "line": 29,
+     "lemma": "aeternitate posteriorem",
+     "readings": [
+      {
+       "text": "et aet.",
+       "sigla": "NL"
+      },
+      {
+       "text": "potore",
+       "sigla": "A"
+      },
+      {
+       "text": "om.",
+       "sigla": "B"
+      }
+     ],
+     "note": "printed: aeternitate (et aet. NL) posteriorem (potore A) om. B solus"
+    },
+    {
+     "line": 30,
+     "lemma": "sanctum",
+     "readings": [
+      {
+       "text": "sclm (= seculum)",
+       "sigla": "M"
+      }
+     ]
+    },
+    {
+     "line": 30,
+     "lemma": "esse neque",
+     "readings": [
+      {
+       "text": "esse nec",
+       "sigla": "M"
+      }
+     ]
+    },
+    {
+     "line": 31,
+     "lemma": "ex substantia",
+     "readings": [
+      {
+       "text": "substantiam",
+       "sigla": "Ls M"
+      }
+     ],
+     "note": "printed: substantiam Ls (non Lm) M"
+    },
+    {
+     "line": 31,
+     "lemma": "per",
+     "readings": [
+      {
+       "text": "pro",
+       "sigla": "M"
+      },
+      {
+       "text": "om.",
+       "sigla": "H"
+      }
+     ]
+    },
+    {
+     "line": 32,
+     "lemma": "creatum",
+     "readings": [
+      {
+       "text": "creatum terre",
+       "sigla": "M"
+      }
+     ]
+    },
+    {
+     "line": 32,
+     "lemma": "ministerio deditum",
+     "readings": [
+      {
+       "text": "ministerium dedito",
+       "sigla": "B"
+      },
+      {
+       "text": "ministerium deditum",
+       "sigla": "H"
+      }
+     ],
+     "lemma_sigla": "NAMOL"
+    }
+   ]
+  },
+  {
+   "text_id": "acta_synhodorum_romae_499_501_502",
+   "page": 453,
+   "notes": "Apparatus is interlinear (variants printed under each subscription), not at the page foot; foot carries only the witness list 'ABFTECHDM' (skipped). 'line' = printed subscription number (24-40). Nos. 24-31 lie above the bands and were read from the full image (lower resolution; nos. 26, 28, 30 a little faint). Superscripts inline (Ea, Aa, Ab, Eb).",
+   "entries": [
+    {
+     "line": 24,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "amiterninus",
+       "sigla": "HM"
+      },
+      {
+       "text": "ameterninus",
+       "sigla": "EC"
+      },
+      {
+       "text": "amiternensis",
+       "sigla": "D"
+      }
+     ]
+    },
+    {
+     "line": 25,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "romolus",
+       "sigla": "BT"
+      }
+     ]
+    },
+    {
+     "line": 25,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "penestine",
+       "sigla": "BF"
+      },
+      {
+       "text": "pinistinae",
+       "sigla": "T"
+      },
+      {
+       "text": "penestrinus",
+       "sigla": "ECHM"
+      },
+      {
+       "text": "penestrinis",
+       "sigla": "D"
+      }
+     ]
+    },
+    {
+     "line": 26,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "carmetagninsi",
+       "sigla": "B"
+      },
+      {
+       "text": "carmeiagninsis",
+       "sigla": "T"
+      },
+      {
+       "text": "carmeinensis",
+       "sigla": "H"
+      },
+      {
+       "text": "charmeianensis",
+       "sigla": "D"
+      },
+      {
+       "text": "carmeianensi",
+       "sigla": "M"
+      },
+      {
+       "text": "om.",
+       "sigla": "F"
+      }
+     ]
+    },
+    {
+     "line": 27,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "uindimius",
+       "sigla": "BFTC"
+      },
+      {
+       "text": "uendemius",
+       "sigla": "D"
+      }
+     ]
+    },
+    {
+     "line": 27,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "anteatenae",
+       "sigla": "B"
+      },
+      {
+       "text": "anteatinus",
+       "sigla": "HM"
+      },
+      {
+       "text": "antheatinus",
+       "sigla": "EC"
+      },
+      {
+       "text": "anteatinis",
+       "sigla": "D"
+      }
+     ]
+    },
+    {
+     "line": 28,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "cardidus",
+       "sigla": "Ea"
+      }
+     ]
+    },
+    {
+     "line": 28,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "sanctae tyburtine",
+       "sigla": "A"
+      },
+      {
+       "text": "sacieburdine",
+       "sigla": "B"
+      },
+      {
+       "text": "sactebertine",
+       "sigla": "F"
+      },
+      {
+       "text": "sactirortinae",
+       "sigla": "T"
+      },
+      {
+       "text": "tiburtinus",
+       "sigla": "ECHD"
+      },
+      {
+       "text": "tiuortinus",
+       "sigla": "M"
+      }
+     ]
+    },
+    {
+     "line": 29,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "furtunatus",
+       "sigla": "FT"
+      }
+     ]
+    },
+    {
+     "line": 29,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "fulgenatis plerique",
+       "sigla": ""
+      },
+      {
+       "text": "fulgenatus",
+       "sigla": "B"
+      }
+     ],
+     "note": "'plerique' printed instead of sigla"
+    },
+    {
+     "line": 30,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "procoleianus",
+       "sigla": "B"
+      },
+      {
+       "text": "proculeganus",
+       "sigla": "F"
+      },
+      {
+       "text": "proclcianus",
+       "sigla": "T"
+      },
+      {
+       "text": "proculedanus",
+       "sigla": "C"
+      }
+     ]
+    },
+    {
+     "line": 30,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "saepinatis",
+       "sigla": "AT"
+      },
+      {
+       "text": "sepinatis",
+       "sigla": "FEbH"
+      },
+      {
+       "text": "sepenatis",
+       "sigla": "B"
+      },
+      {
+       "text": "sepinctis",
+       "sigla": "Ea"
+      },
+      {
+       "text": "om.",
+       "sigla": "DM"
+      }
+     ]
+    },
+    {
+     "line": 31,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "furtunatus",
+       "sigla": "F"
+      },
+      {
+       "text": "item fortunatus",
+       "sigla": "B"
+      }
+     ]
+    },
+    {
+     "line": 31,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "anagnini",
+       "sigla": "T"
+      },
+      {
+       "text": "abagninus",
+       "sigla": "H"
+      },
+      {
+       "text": "anagninus",
+       "sigla": "EC"
+      },
+      {
+       "text": "ianagnine",
+       "sigla": "B"
+      },
+      {
+       "text": "om.",
+       "sigla": "DM"
+      }
+     ]
+    },
+    {
+     "line": 32,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "paschasius",
+       "sigla": "BHM"
+      }
+     ]
+    },
+    {
+     "line": 32,
+     "lemma": "uulturninae",
+     "readings": [
+      {
+       "text": "uulterninae",
+       "sigla": "AT"
+      },
+      {
+       "text": "uulterniensis",
+       "sigla": "HM"
+      },
+      {
+       "text": "uulturnensis",
+       "sigla": "E"
+      },
+      {
+       "text": "uulternensis",
+       "sigla": "C"
+      },
+      {
+       "text": "bulturnensis",
+       "sigla": "D"
+      }
+     ],
+     "lemma_sigla": "FB"
+    },
+    {
+     "line": 33,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "martianus",
+       "sigla": "EM"
+      },
+      {
+       "text": "marcilianus",
+       "sigla": "Aa"
+      }
+     ]
+    },
+    {
+     "line": 33,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "aegane",
+       "sigla": "F"
+      },
+      {
+       "text": "aecanensis",
+       "sigla": "T"
+      },
+      {
+       "text": "ecanensis",
+       "sigla": "EC"
+      },
+      {
+       "text": "aecaniensis",
+       "sigla": "HD"
+      },
+      {
+       "text": "aeccaniensis",
+       "sigla": "M"
+      }
+     ]
+    },
+    {
+     "line": 34,
+     "lemma": "maximilianus",
+     "readings": [
+      {
+       "text": "marcilianus",
+       "sigla": "A"
+      },
+      {
+       "text": "maximianus",
+       "sigla": "HDM"
+      }
+     ],
+     "lemma_sigla": "BFTEC"
+    },
+    {
+     "line": 34,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "perosine",
+       "sigla": "F"
+      },
+      {
+       "text": "perusinensis",
+       "sigla": "T"
+      },
+      {
+       "text": "perusinus",
+       "sigla": "ECHDM"
+      }
+     ]
+    },
+    {
+     "line": 35,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "crisogonus",
+       "sigla": "AE"
+      },
+      {
+       "text": "crisconius",
+       "sigla": "BFT"
+      },
+      {
+       "text": "crissogonus",
+       "sigla": "H"
+      },
+      {
+       "text": "grisogonus",
+       "sigla": "M"
+      },
+      {
+       "text": "chrisogonius",
+       "sigla": "C"
+      }
+     ]
+    },
+    {
+     "line": 35,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "albanensis",
+       "sigla": "EC"
+      },
+      {
+       "text": "albinensis plerique",
+       "sigla": ""
+      },
+      {
+       "text": "albenensis",
+       "sigla": "D"
+      },
+      {
+       "text": "albininsis",
+       "sigla": "B"
+      },
+      {
+       "text": "alfinensis",
+       "sigla": "H"
+      }
+     ],
+     "note": "'plerique' printed instead of sigla"
+    },
+    {
+     "line": 36,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "eutycius",
+       "sigla": "Ab"
+      },
+      {
+       "text": "euticius",
+       "sigla": "AaFTH"
+      },
+      {
+       "text": "euthicius",
+       "sigla": "B"
+      }
+     ]
+    },
+    {
+     "line": 36,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "tramnensis",
+       "sigla": "F"
+      },
+      {
+       "text": "tranininsis",
+       "sigla": "T"
+      },
+      {
+       "text": "ceranininsis",
+       "sigla": "B"
+      }
+     ]
+    },
+    {
+     "line": 37,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "uobianensis",
+       "sigla": "H"
+      },
+      {
+       "text": "uouianensis",
+       "sigla": "AE"
+      },
+      {
+       "text": "bobianensis",
+       "sigla": "DM"
+      },
+      {
+       "text": "uiuianensis",
+       "sigla": "F"
+      },
+      {
+       "text": "uiuianinsis",
+       "sigla": "BT"
+      }
+     ]
+    },
+    {
+     "line": 38,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "marcussa",
+       "sigla": "B"
+      }
+     ]
+    },
+    {
+     "line": 38,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "samnae",
+       "sigla": "F"
+      },
+      {
+       "text": "samnininsis",
+       "sigla": "T"
+      },
+      {
+       "text": "samnimus",
+       "sigla": "H"
+      },
+      {
+       "text": "samninus",
+       "sigla": "EM"
+      },
+      {
+       "text": "samninis",
+       "sigla": "D"
+      },
+      {
+       "text": "sterninus",
+       "sigla": "C"
+      }
+     ]
+    },
+    {
+     "line": 39,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "aprelis",
+       "sigla": "T"
+      },
+      {
+       "text": "apriles",
+       "sigla": "B"
+      }
+     ]
+    },
+    {
+     "line": 39,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "nacerinae",
+       "sigla": "BF"
+      },
+      {
+       "text": "nacerinaesis",
+       "sigla": "T"
+      },
+      {
+       "text": "nucerinus",
+       "sigla": "ECHDM"
+      }
+     ]
+    },
+    {
+     "line": 40,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "canosinae",
+       "sigla": "F"
+      },
+      {
+       "text": "canusininsis",
+       "sigla": "T"
+      },
+      {
+       "text": "canusinus",
+       "sigla": "EHM"
+      },
+      {
+       "text": "canosinus",
+       "sigla": "CD"
+      },
+      {
+       "text": "om.",
+       "sigla": "B"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "text_id": "symmachus_epistulae",
+   "page": 153,
+   "notes": "Clear print. Hand notes ('P 1 m.', 'P 2 m.') kept in sigla strings. Line 19 siglum printed as Greek capital 'Γ' (possibly a misprint for F). Line 5 and 15 refer to letter headings.",
+   "entries": [
+    {
+     "line": 2,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "iuuat",
+       "sigla": "V"
+      }
+     ]
+    },
+    {
+     "line": 5,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "om.",
+       "sigla": "VM"
+      }
+     ]
+    },
+    {
+     "line": 5,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "nichomachis",
+       "sigla": "P"
+      }
+     ],
+     "note": "et ita deinceps"
+    },
+    {
+     "line": 8,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "petriniae",
+       "sigla": "P"
+      }
+     ]
+    },
+    {
+     "line": 9,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "martianae",
+       "sigla": "VM"
+      }
+     ]
+    },
+    {
+     "line": 11,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "cōmoue//",
+       "sigla": "P"
+      }
+     ]
+    },
+    {
+     "line": 11,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "subditę numeratione",
+       "sigla": "P 1 m."
+      }
+     ]
+    },
+    {
+     "line": 12,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "inucem",
+       "sigla": "P 1 m."
+      }
+     ]
+    },
+    {
+     "line": 15,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "symmac̄ nichomachis filiis",
+       "sigla": "P"
+      },
+      {
+       "text": "om.",
+       "sigla": "VF"
+      }
+     ]
+    },
+    {
+     "line": 17,
+     "lemma": "et",
+     "readings": [
+      {
+       "text": "ac",
+       "sigla": "F"
+      }
+     ]
+    },
+    {
+     "line": 18,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "uiro maturo maturam",
+       "sigla": "V"
+      }
+     ]
+    },
+    {
+     "line": 19,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "fortassisuperior",
+       "sigla": "Γ"
+      }
+     ]
+    },
+    {
+     "line": 21,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "dicitur",
+       "sigla": "P 1 m. VF"
+      }
+     ]
+    },
+    {
+     "line": 22,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "dono corr. ex damno",
+       "sigla": "P"
+      }
+     ]
+    },
+    {
+     "line": 22,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "sim//si",
+       "sigla": "P"
+      }
+     ]
+    },
+    {
+     "line": 24,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "/egotio",
+       "sigla": "P"
+      }
+     ]
+    },
+    {
+     "line": 24,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "quantam",
+       "sigla": "P 2 m."
+      }
+     ]
+    },
+    {
+     "line": 26,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "om.",
+       "sigla": "VM"
+      }
+     ]
+    },
+    {
+     "line": 27,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "aceruitate",
+       "sigla": "P 1 m. V"
+      }
+     ]
+    },
+    {
+     "line": 28,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "destringit",
+       "sigla": "P 1 m. V"
+      }
+     ]
+    },
+    {
+     "line": 31,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "consuetudinine",
+       "sigla": "V"
+      }
+     ]
+    },
+    {
+     "line": 33,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "separes",
+       "sigla": "V"
+      }
+     ]
+    },
+    {
+     "line": 33,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "qua",
+       "sigla": "P 1 m."
+      }
+     ]
+    },
+    {
+     "line": 34,
+     "lemma": "",
+     "readings": [
+      {
+       "text": "commoda",
+       "sigla": "P"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1183 @@
+[
+ {
+  "volume": "AA 8",
+  "ia_id": "monumentager08geseuoft",
+  "text_id": "sidonius_epistulae",
+  "index": 0,
+  "kind": "explicit",
+  "pilot": true,
+  "lines": [
+   4696,
+   17652
+  ],
+  "sigla": "LMTCFP",
+  "other_direct": [],
+  "digits": "hand",
+  "ocr": "",
+  "top": "L|MTCFP",
+  "k_E_recorded": 2,
+  "n_pages": 19,
+  "proof_page": 48,
+  "lower": ""
+ },
+ {
+  "volume": "AA 8",
+  "ia_id": "monumentager08geseuoft",
+  "text_id": "sidonius_carmina",
+  "index": 1,
+  "kind": "explicit",
+  "pilot": false,
+  "lines": [
+   17653,
+   24843
+  ],
+  "sigla": "MTCFP",
+  "other_direct": [],
+  "digits": "hand",
+  "ocr": "",
+  "top": "M|TCFP",
+  "k_E_recorded": 2,
+  "n_pages": 29,
+  "proof_page": 192,
+  "lower": ""
+ },
+ {
+  "volume": "AA 3",
+  "ia_id": "monumentagerman03geseuoft",
+  "text_id": "victor_vitensis_historia",
+  "index": 0,
+  "kind": "explicit",
+  "pilot": false,
+  "lines": [
+   316,
+   4891
+  ],
+  "sigla": "ABLRV",
+  "other_direct": [
+   "Bern."
+  ],
+  "digits": "hand",
+  "ocr": "",
+  "top": "BLV|R",
+  "k_E_recorded": 2,
+  "n_pages": 11,
+  "proof_page": 14,
+  "lower": "p"
+ },
+ {
+  "volume": "AA 3",
+  "ia_id": "monumentagerman03geseuoft",
+  "text_id": "corippus_in_laudem_iustini",
+  "index": 1,
+  "kind": "explicit",
+  "pilot": false,
+  "lines": [
+   23506,
+   27403
+  ],
+  "sigla": "M",
+  "other_direct": [],
+  "digits": "hand",
+  "ocr": "",
+  "top": "M",
+  "k_E_recorded": 2,
+  "n_pages": 12,
+  "proof_page": 133,
+  "lower": ""
+ },
+ {
+  "volume": "AA 15",
+  "ia_id": "monumentagerman15geseuoft",
+  "text_id": "aldhelm_carmina_ecclesiastica",
+  "index": 0,
+  "kind": "implied",
+  "pilot": false,
+  "lines": [
+   1734,
+   3440
+  ],
+  "sigla": "APVS",
+  "other_direct": [],
+  "digits": "hand",
+  "ocr": "8:S",
+  "top": "APV|S",
+  "k_E_recorded": 2,
+  "n_pages": 21,
+  "proof_page": 30,
+  "lower": ""
+ },
+ {
+  "volume": "AA 15",
+  "ia_id": "monumentagerman15geseuoft",
+  "text_id": "aldhelm_de_metris_tractatus",
+  "index": 1,
+  "kind": "explicit",
+  "pilot": false,
+  "lines": [
+   5376,
+   17187
+  ],
+  "sigla": "KSNAF",
+  "other_direct": [
+   "P1",
+   "A1",
+   "F1",
+   "b"
+  ],
+  "digits": "drop",
+  "ocr": "8:S",
+  "top": "KS|NAF",
+  "k_E_recorded": 2,
+  "n_pages": 72,
+  "proof_page": 151,
+  "lower": "b"
+ },
+ {
+  "volume": "AA 15",
+  "ia_id": "monumentagerman15geseuoft",
+  "text_id": "aldhelm_aenigmata",
+  "index": 2,
+  "kind": "explicit",
+  "pilot": false,
+  "lines": [
+   8545,
+   12600
+  ],
+  "sigla": "ARKNSPOELVCFG",
+  "other_direct": [
+   "B1",
+   "B2",
+   "S1",
+   "P1",
+   "S2",
+   "P2",
+   "P4",
+   "e",
+   "P3",
+   "F1",
+   "F2"
+  ],
+  "digits": "drop",
+  "ocr": "0:O,8:S",
+  "top": "A|RKNSPOELVCFG",
+  "k_E_recorded": 2,
+  "n_pages": 53,
+  "proof_page": 130,
+  "lower": "e"
+ },
+ {
+  "volume": "AA 15",
+  "ia_id": "monumentagerman15geseuoft",
+  "text_id": "aldhelm_de_virginitate_prosa",
+  "index": 3,
+  "kind": "explicit",
+  "pilot": false,
+  "lines": [
+   18346,
+   25700
+  ],
+  "sigla": "AGPBOLHS",
+  "other_direct": [
+   "A1",
+   "Oxon",
+   "C1",
+   "R1",
+   "C2",
+   "R2",
+   "R3",
+   "R4",
+   "R5"
+  ],
+  "digits": "drop",
+  "ocr": "0:O,8:S",
+  "top": "AGPB|LHOS",
+  "k_E_recorded": 2,
+  "n_pages": 42,
+  "proof_page": 280,
+  "lower": ""
+ },
+ {
+  "volume": "AA 15",
+  "ia_id": "monumentagerman15geseuoft",
+  "text_id": "aldhelm_de_virginitate_carmen",
+  "index": 4,
+  "kind": "explicit",
+  "pilot": false,
+  "lines": [
+   27263,
+   37529
+  ],
+  "sigla": "ABNPSWOECMVG",
+  "other_direct": [
+   "P1",
+   "S1",
+   "S2",
+   "C1",
+   "p",
+   "Werth."
+  ],
+  "digits": "drop",
+  "ocr": "0:O,8:S",
+  "top": "ASNPBVM|WOG",
+  "k_E_recorded": 2,
+  "n_pages": 122,
+  "proof_page": 360,
+  "lower": "bp"
+ },
+ {
+  "volume": "AA 1",
+  "ia_id": "monumentagermani01geseuoft",
+  "text_id": "eugippius_vita_severini",
+  "index": 2,
+  "kind": "explicit",
+  "pilot": false,
+  "lines": [
+   15355,
+   17587
+  ],
+  "sigla": "LVMD",
+  "other_direct": [],
+  "digits": "hand",
+  "ocr": "",
+  "top": "L|VMD",
+  "k_E_recorded": 2,
+  "n_pages": 28,
+  "proof_page": 19,
+  "lower": ""
+ },
+ {
+  "volume": "AA 2",
+  "ia_id": "monumentagermani02geseuoft",
+  "text_id": "eutropius_breviarium",
+  "index": 0,
+  "kind": "explicit",
+  "pilot": true,
+  "lines": [
+   7062,
+   24985
+  ],
+  "sigla": "GFLOD",
+  "other_direct": [
+   "(Brux.)"
+  ],
+  "digits": "hand",
+  "ocr": "0:O",
+  "top": "GFD|LO",
+  "k_E_recorded": 2,
+  "n_pages": 93,
+  "proof_page": 147,
+  "lower": ""
+ },
+ {
+  "volume": "AA 2",
+  "ia_id": "monumentagermani02geseuoft",
+  "text_id": "paulus_historia_romana",
+  "index": 1,
+  "kind": "explicit",
+  "pilot": false,
+  "lines": [
+   7092,
+   28790
+  ],
+  "sigla": "HVBNZM",
+  "other_direct": [],
+  "digits": "hand",
+  "ocr": "",
+  "top": "HVBM|NZ",
+  "k_E_recorded": 2,
+  "n_pages": 134,
+  "proof_page": 95,
+  "lower": ""
+ },
+ {
+  "volume": "AA 4",
+  "ia_id": "monumentagermani04geseuoft",
+  "text_id": "fortunatus_carmina",
+  "index": 0,
+  "kind": "explicit",
+  "pilot": true,
+  "lines": [
+   1321,
+   23104
+  ],
+  "sigla": "ACPMDGVBLRF",
+  "other_direct": [
+   "Σ"
+  ],
+  "digits": "hand",
+  "ocr": "",
+  "top": "ACPMDGVBLRF",
+  "k_E_recorded": 2,
+  "n_pages": 101,
+  "proof_page": 209,
+  "lower": ""
+ },
+ {
+  "volume": "AA 4",
+  "ia_id": "monumentagermani04geseuoft",
+  "text_id": "fortunatus_vita_martini",
+  "index": 1,
+  "kind": "explicit",
+  "pilot": false,
+  "lines": [
+   24694,
+   31397
+  ],
+  "sigla": "PNTFBLMS",
+  "other_direct": [],
+  "digits": "hand",
+  "ocr": "8:S",
+  "top": "PTF|NBLMS",
+  "k_E_recorded": 2,
+  "n_pages": 39,
+  "proof_page": 355,
+  "lower": ""
+ },
+ {
+  "volume": "AA 4",
+  "ia_id": "monumentagermani04geseuoft",
+  "text_id": "vita_hilarii",
+  "index": 2,
+  "kind": "implied",
+  "pilot": false,
+  "lines": [
+   42975,
+   43691
+  ],
+  "sigla": "GHBVAX",
+  "other_direct": [],
+  "digits": "hand",
+  "ocr": "",
+  "top": "GHB|VA",
+  "k_E_recorded": 2,
+  "n_pages": 9,
+  "proof_page": 7,
+  "lower": ""
+ },
+ {
+  "volume": "AA 4",
+  "ia_id": "monumentagermani04geseuoft",
+  "text_id": "vita_germani",
+  "index": 3,
+  "kind": "implied",
+  "pilot": false,
+  "lines": [
+   43692,
+   44848
+  ],
+  "sigla": "PQGHIKL",
+  "other_direct": [],
+  "digits": "hand",
+  "ocr": "",
+  "top": "PQ|GHI",
+  "k_E_recorded": 2,
+  "n_pages": 15,
+  "proof_page": 23,
+  "lower": ""
+ },
+ {
+  "volume": "AA 4",
+  "ia_id": "monumentagermani04geseuoft",
+  "text_id": "vita_radegundis",
+  "index": 6,
+  "kind": "explicit",
+  "pilot": false,
+  "lines": [
+   45629,
+   46428
+  ],
+  "sigla": "PMGLEWQTHZ",
+  "other_direct": [
+   "X1",
+   "X2",
+   "Y1",
+   "Y2"
+  ],
+  "digits": "drop",
+  "ocr": "",
+  "top": "PMG|LEW|THZ",
+  "k_E_recorded": 3,
+  "n_pages": 11,
+  "proof_page": 47,
+  "lower": ""
+ },
+ {
+  "volume": "AA 4",
+  "ia_id": "monumentagermani04geseuoft",
+  "text_id": "vita_medardi",
+  "index": 10,
+  "kind": "explicit",
+  "pilot": false,
+  "lines": [
+   47692,
+   48280
+  ],
+  "sigla": "MNQBPRI",
+  "other_direct": [],
+  "digits": "hand",
+  "ocr": "",
+  "top": "MNQB|PR",
+  "k_E_recorded": 2,
+  "n_pages": 5,
+  "proof_page": 70,
+  "lower": ""
+ },
+ {
+  "volume": "AA 4",
+  "ia_id": "monumentagermani04geseuoft",
+  "text_id": "expositio_fidei_catholicae",
+  "index": 14,
+  "kind": "implied",
+  "pilot": false,
+  "lines": [
+   50352,
+   50655
+  ],
+  "sigla": "AM",
+  "other_direct": [],
+  "digits": "hand",
+  "ocr": "",
+  "top": "A|M",
+  "k_E_recorded": 2,
+  "n_pages": 0,
+  "proof_page": null,
+  "lower": ""
+ },
+ {
+  "volume": "AA 5",
+  "ia_id": "monumentagermani05geseuoft",
+  "text_id": "jordanes_romana",
+  "index": 0,
+  "kind": "explicit",
+  "pilot": false,
+  "lines": [
+   4133,
+   8251
+  ],
+  "sigla": "HPVL",
+  "other_direct": [
+   "Par."
+  ],
+  "digits": "hand",
+  "ocr": "",
+  "top": "HPVL",
+  "k_E_recorded": 2,
+  "n_pages": 47,
+  "proof_page": 19,
+  "lower": ""
+ },
+ {
+  "volume": "AA 5",
+  "ia_id": "monumentagermani05geseuoft",
+  "text_id": "jordanes_getica",
+  "index": 1,
+  "kind": "explicit",
+  "pilot": true,
+  "lines": [
+   8252,
+   15576
+  ],
+  "sigla": "HPVLAOBXYZ",
+  "other_direct": [
+   "Vind."
+  ],
+  "digits": "hand",
+  "ocr": "0:O",
+  "top": "HPVLAOB|XYZ",
+  "k_E_recorded": 2,
+  "n_pages": 47,
+  "proof_page": 127,
+  "lower": ""
+ },
+ {
+  "volume": "AA 5",
+  "ia_id": "monumentagermani05geseuoft",
+  "text_id": "ausonius_opuscula",
+  "index": 2,
+  "kind": "undecided",
+  "pilot": false,
+  "lines": [
+   33214,
+   55049
+  ],
+  "sigla": "TMCVPQGBWRZ",
+  "other_direct": [
+   "λ",
+   "ω (deteriores)",
+   "h",
+   "π/β/n"
+  ],
+  "digits": "hand",
+  "ocr": "",
+  "top": "TMC|VPQGBWR",
+  "k_E_recorded": 2,
+  "n_pages": 72,
+  "proof_page": 221,
+  "lower": "abghnpy"
+ },
+ {
+  "volume": "AA 7",
+  "ia_id": "monumentagermani07geseuoft",
+  "text_id": "ennodius_opera",
+  "index": 0,
+  "kind": "explicit",
+  "pilot": false,
+  "lines": [
+   4041,
+   27391
+  ],
+  "sigla": "BVLTCOP",
+  "other_direct": [],
+  "digits": "hand",
+  "ocr": "0:O",
+  "top": "B|VLTCOP",
+  "k_E_recorded": 2,
+  "n_pages": 17,
+  "proof_page": 61,
+  "lower": "b"
+ },
+ {
+  "volume": "AA 9",
+  "ia_id": "monumentagermani09geseuoft",
+  "text_id": "chronographus_354",
+  "index": 0,
+  "kind": "undecided",
+  "pilot": false,
+  "lines": [
+   1590,
+   22560
+  ],
+  "sigla": "ABOV",
+  "other_direct": [],
+  "digits": "hand",
+  "ocr": "0:O",
+  "top": "A|BO|V",
+  "k_E_recorded": 4,
+  "n_pages": 23,
+  "proof_page": 122,
+  "lower": ""
+ },
+ {
+  "volume": "AA 9",
+  "ia_id": "monumentagermani09geseuoft",
+  "text_id": "liber_generationis_I",
+  "index": 1,
+  "kind": "explicit",
+  "pilot": false,
+  "lines": [
+   13990,
+   21975
+  ],
+  "sigla": "BFGC",
+  "other_direct": [],
+  "digits": "hand",
+  "ocr": "",
+  "top": "BF|GC",
+  "k_E_recorded": 2,
+  "n_pages": 22,
+  "proof_page": 113,
+  "lower": ""
+ },
+ {
+  "volume": "AA 9",
+  "ia_id": "monumentagermani09geseuoft",
+  "text_id": "consularia_constantinopolitana",
+  "index": 4,
+  "kind": "explicit",
+  "pilot": false,
+  "lines": [
+   26187,
+   33190
+  ],
+  "sigla": "C",
+  "other_direct": [
+   "Sm",
+   "Sv",
+   "Sp"
+  ],
+  "digits": "hand",
+  "ocr": "",
+  "top": "C",
+  "k_E_recorded": 2,
+  "n_pages": 19,
+  "proof_page": 226,
+  "lower": ""
+ },
+ {
+  "volume": "AA 9",
+  "ia_id": "monumentagermani09geseuoft",
+  "text_id": "prosper_epitoma_chronicon",
+  "index": 5,
+  "kind": "explicit",
+  "pilot": false,
+  "lines": [
+   43028,
+   55745
+  ],
+  "sigla": "ABCDFHMOPRVXYZ",
+  "other_direct": [],
+  "digits": "hand",
+  "ocr": "0:O",
+  "top": "AORV|MY",
+  "k_E_recorded": 2,
+  "n_pages": 15,
+  "proof_page": 53,
+  "lower": ""
+ },
+ {
+  "volume": "AA 9",
+  "ia_id": "monumentagermani09geseuoft",
+  "text_id": "polemius_laterculus_provinciarum",
+  "index": 6,
+  "kind": "undecided",
+  "pilot": false,
+  "lines": [
+   59460,
+   60110
+  ],
+  "sigla": "PBOV",
+  "other_direct": [
+   "9",
+   "10",
+   "18",
+   "68",
+   "72",
+   "73",
+   "74",
+   "75",
+   "76"
+  ],
+  "digits": "hand",
+  "ocr": "0:O",
+  "top": "P|VBO",
+  "k_E_recorded": 3,
+  "n_pages": 7,
+  "proof_page": 534,
+  "lower": ""
+ },
+ {
+  "volume": "AA 9",
+  "ia_id": "monumentagermani09geseuoft",
+  "text_id": "chronica_gallica_452",
+  "index": 8,
+  "kind": "explicit",
+  "pilot": false,
+  "lines": [
+   68940,
+   72330
+  ],
+  "sigla": "LBM",
+  "other_direct": [],
+  "digits": "hand",
+  "ocr": "",
+  "top": "L|BM",
+  "k_E_recorded": 2,
+  "n_pages": 4,
+  "proof_page": 640,
+  "lower": ""
+ },
+ {
+  "volume": "AA 9",
+  "ia_id": "monumentagermani09geseuoft",
+  "text_id": "victorius_cursus_paschalis",
+  "index": 9,
+  "kind": "undecided",
+  "pilot": false,
+  "lines": [
+   72331,
+   79000
+  ],
+  "sigla": "ABCGLPSUV",
+  "other_direct": [
+   "S*"
+  ],
+  "digits": "hand",
+  "ocr": "8:S",
+  "top": "GA|LSUP",
+  "k_E_recorded": 2,
+  "n_pages": 9,
+  "proof_page": 89,
+  "lower": ""
+ },
+ {
+  "volume": "AA 10",
+  "ia_id": "monumentagermani10geseuoft",
+  "text_id": "claudianus_maior",
+  "index": 0,
+  "kind": "explicit",
+  "pilot": false,
+  "lines": [
+   17406,
+   44254
+  ],
+  "sigla": "VPCBAJRGM",
+  "other_direct": [
+   "Π",
+   "E (carm. min.)"
+  ],
+  "digits": "hand",
+  "ocr": "",
+  "top": "VPGM|CRBAJ",
+  "k_E_recorded": 2,
+  "n_pages": 31,
+  "proof_page": 306,
+  "lower": "ef"
+ },
+ {
+  "volume": "AA 10",
+  "ia_id": "monumentagermani10geseuoft",
+  "text_id": "claudianus_raptus_proserpinae",
+  "index": 1,
+  "kind": "explicit",
+  "pilot": false,
+  "lines": [
+   44255,
+   48100
+  ],
+  "sigla": "FVSCABDW",
+  "other_direct": [],
+  "digits": "hand",
+  "ocr": "8:S",
+  "top": "FVS|CABDW",
+  "k_E_recorded": 2,
+  "n_pages": 25,
+  "proof_page": 379,
+  "lower": "ef"
+ },
+ {
+  "volume": "AA 11",
+  "ia_id": "monumentagermani11gese",
+  "text_id": "marcellinus_comes_chronicon",
+  "index": 0,
+  "kind": "explicit",
+  "pilot": false,
+  "lines": [
+   4496,
+   8490
+  ],
+  "sigla": "STUR",
+  "other_direct": [],
+  "digits": "hand",
+  "ocr": "8:S",
+  "top": "S|TUR",
+  "k_E_recorded": 2,
+  "n_pages": 142,
+  "proof_page": 388,
+  "lower": ""
+ },
+ {
+  "volume": "AA 11",
+  "ia_id": "monumentagermani11gese",
+  "text_id": "cassiodorus_chronica",
+  "index": 1,
+  "kind": "explicit",
+  "pilot": false,
+  "lines": [
+   9527,
+   19337
+  ],
+  "sigla": "PMC",
+  "other_direct": [],
+  "digits": "hand",
+  "ocr": "",
+  "top": "P|M",
+  "k_E_recorded": 2,
+  "n_pages": 208,
+  "proof_page": 447,
+  "lower": ""
+ },
+ {
+  "volume": "AA 11",
+  "ia_id": "monumentagermani11gese",
+  "text_id": "victor_tonnennensis_chronica",
+  "index": 2,
+  "kind": "explicit",
+  "pilot": false,
+  "lines": [
+   20367,
+   23365
+  ],
+  "sigla": "U",
+  "other_direct": [
+   "Sm (Pm)",
+   "P(E)",
+   "P(S)",
+   "P(F)"
+  ],
+  "digits": "hand",
+  "ocr": "",
+  "top": "U",
+  "k_E_recorded": 2,
+  "n_pages": 78,
+  "proof_page": 516,
+  "lower": ""
+ },
+ {
+  "volume": "AA 11",
+  "ia_id": "monumentagermani11gese",
+  "text_id": "iohannes_biclarensis_chronica",
+  "index": 3,
+  "kind": "explicit",
+  "pilot": false,
+  "lines": [
+   23366,
+   24464
+  ],
+  "sigla": "U",
+  "other_direct": [
+   "Sm (Pm)",
+   "P(E)",
+   "P(S)",
+   "P(T)",
+   "P(F)"
+  ],
+  "digits": "hand",
+  "ocr": "",
+  "top": "U",
+  "k_E_recorded": 2,
+  "n_pages": 24,
+  "proof_page": 588,
+  "lower": ""
+ },
+ {
+  "volume": "AA 11",
+  "ia_id": "monumentagermani11gese",
+  "text_id": "isidorus_historia_gothorum",
+  "index": 4,
+  "kind": "explicit",
+  "pilot": false,
+  "lines": [
+   30104,
+   33413
+  ],
+  "sigla": "PBNHOXYZRWMA",
+  "other_direct": [
+   "[O]"
+  ],
+  "digits": "hand",
+  "ocr": "0:O",
+  "top": "P|BNHOXYZRWMA",
+  "k_E_recorded": 2,
+  "n_pages": 36,
+  "proof_page": 270,
+  "lower": ""
+ },
+ {
+  "volume": "AA 11",
+  "ia_id": "monumentagermani11gese",
+  "text_id": "isidorus_chronica_maiora",
+  "index": 5,
+  "kind": "explicit",
+  "pilot": false,
+  "lines": [
+   42747,
+   50157
+  ],
+  "sigla": "ABCDEFGKLMNPSTVWXYZ",
+  "other_direct": [],
+  "digits": "hand",
+  "ocr": "8:S",
+  "top": "ADEGLMNTXCYZ|PSWBFKV",
+  "k_E_recorded": 2,
+  "n_pages": 66,
+  "proof_page": 447,
+  "lower": ""
+ },
+ {
+  "volume": "AA 12",
+  "ia_id": "monumentagermani12gese",
+  "text_id": "cassiodorus_variae",
+  "index": 0,
+  "kind": "explicit",
+  "pilot": true,
+  "lines": [
+   20960,
+   48700
+  ],
+  "sigla": "LRKPDMONXZTUBEFCHG",
+  "other_direct": [
+   "D (Halense)",
+   "I (Ip, Iw)"
+  ],
+  "digits": "hand",
+  "ocr": "0:O",
+  "top": "MONXZEF|LRKPD",
+  "k_E_recorded": 2,
+  "n_pages": 377,
+  "proof_page": 28,
+  "lower": ""
+ },
+ {
+  "volume": "AA 12",
+  "ia_id": "monumentagermani12gese",
+  "text_id": "acta_synhodorum_romae_499_501_502",
+  "index": 1,
+  "kind": "explicit",
+  "pilot": false,
+  "lines": [
+   49248,
+   55030
+  ],
+  "sigla": "ABFTECHGDM",
+  "other_direct": [],
+  "digits": "hand",
+  "ocr": "",
+  "top": "ABFT|EC",
+  "k_E_recorded": 2,
+  "n_pages": 54,
+  "proof_page": 453,
+  "lower": ""
+ },
+ {
+  "volume": "AA 13",
+  "ia_id": "monumentagermani13gese",
+  "text_id": "gildas_de_excidio",
+  "index": 0,
+  "kind": "explicit",
+  "pilot": false,
+  "lines": [
+   1946,
+   8217
+  ],
+  "sigla": "CDAX",
+  "other_direct": [],
+  "digits": "hand",
+  "ocr": "",
+  "top": "CD|AX",
+  "k_E_recorded": 2,
+  "n_pages": 60,
+  "proof_page": 32,
+  "lower": ""
+ },
+ {
+  "volume": "AA 13",
+  "ia_id": "monumentagermani13gese",
+  "text_id": "historia_brittonum",
+  "index": 1,
+  "kind": "explicit",
+  "pilot": false,
+  "lines": [
+   12520,
+   20740
+  ],
+  "sigla": "HKZMNPQDCGL",
+  "other_direct": [],
+  "digits": "hand",
+  "ocr": "",
+  "top": "HKPQDGCL|ZMN",
+  "k_E_recorded": 2,
+  "n_pages": 79,
+  "proof_page": 214,
+  "lower": ""
+ },
+ {
+  "volume": "AA 14",
+  "ia_id": "monumentagermani14geseuoft",
+  "text_id": "dracontius_laudes_dei",
+  "index": 0,
+  "kind": "explicit",
+  "pilot": false,
+  "lines": [
+   7498,
+   14770
+  ],
+  "sigla": "BMVRU",
+  "other_direct": [],
+  "digits": "hand",
+  "ocr": "",
+  "top": "BMVRU",
+  "k_E_recorded": 2,
+  "n_pages": 53,
+  "proof_page": 33,
+  "lower": ""
+ },
+ {
+  "volume": "AA 14",
+  "ia_id": "monumentagermani14geseuoft",
+  "text_id": "dracontius_satisfactio",
+  "index": 1,
+  "kind": "explicit",
+  "pilot": false,
+  "lines": [
+   14771,
+   15974
+  ],
+  "sigla": "VD",
+  "other_direct": [],
+  "digits": "hand",
+  "ocr": "",
+  "top": "VD",
+  "k_E_recorded": 2,
+  "n_pages": 17,
+  "proof_page": 127,
+  "lower": ""
+ },
+ {
+  "volume": "AA 14",
+  "ia_id": "monumentagermani14geseuoft",
+  "text_id": "dracontius_orestis",
+  "index": 2,
+  "kind": "explicit",
+  "pilot": false,
+  "lines": [
+   20983,
+   23399
+  ],
+  "sigla": "BA",
+  "other_direct": [],
+  "digits": "hand",
+  "ocr": "",
+  "top": "BA",
+  "k_E_recorded": 2,
+  "n_pages": 28,
+  "proof_page": 200,
+  "lower": ""
+ },
+ {
+  "volume": "AA 14",
+  "ia_id": "monumentagermani14geseuoft",
+  "text_id": "eugenius_dracontiana",
+  "index": 3,
+  "kind": "implied",
+  "pilot": false,
+  "lines": [
+   7808,
+   15974
+  ],
+  "sigla": "MFPLQZ",
+  "other_direct": [],
+  "digits": "hand",
+  "ocr": "",
+  "top": "M|FPLQZ",
+  "k_E_recorded": 2,
+  "n_pages": 51,
+  "proof_page": 54,
+  "lower": ""
+ },
+ {
+  "volume": "AA 14",
+  "ia_id": "monumentagermani14geseuoft",
+  "text_id": "eugenius_carmina",
+  "index": 4,
+  "kind": "explicit",
+  "pilot": false,
+  "lines": [
+   23579,
+   26545
+  ],
+  "sigla": "LFPCRT",
+  "other_direct": [
+   "Ma",
+   "Mb",
+   "Λ",
+   "Lips.",
+   "Brux.",
+   "Harl."
+  ],
+  "digits": "hand",
+  "ocr": "",
+  "top": "L|FPCRT",
+  "k_E_recorded": 6,
+  "n_pages": 3,
+  "proof_page": 253,
+  "lower": ""
+ },
+ {
+  "volume": "AA 6.1",
+  "ia_id": "p1monumentagerma06geseuoft",
+  "text_id": "symmachus_epistulae",
+  "index": 0,
+  "kind": "explicit",
+  "pilot": false,
+  "lines": [
+   13270,
+   31470
+  ],
+  "sigla": "PVMF",
+  "other_direct": [
+   "F2",
+   "F3"
+  ],
+  "digits": "drop",
+  "ocr": "",
+  "top": "P|VMF",
+  "k_E_recorded": 2,
+  "n_pages": 92,
+  "proof_page": 153,
+  "lower": ""
+ },
+ {
+  "volume": "AA 6.1",
+  "ia_id": "p1monumentagerma06geseuoft",
+  "text_id": "symmachus_relationes",
+  "index": 1,
+  "kind": "explicit",
+  "pilot": false,
+  "lines": [
+   31471,
+   34296
+  ],
+  "sigla": "TMS",
+  "other_direct": [],
+  "digits": "hand",
+  "ocr": "8:S",
+  "top": "TM",
+  "k_E_recorded": 2,
+  "n_pages": 27,
+  "proof_page": 297,
+  "lower": ""
+ },
+ {
+  "volume": "AA 6.2",
+  "ia_id": "p2monumentagerma06geseuoft",
+  "text_id": "avitus_epistulae_homiliae",
+  "index": 0,
+  "kind": "explicit",
+  "pilot": false,
+  "lines": [
+   5442,
+   16762
+  ],
+  "sigla": "L",
+  "other_direct": [
+   "P (papyrus)",
+   "P (ep. VII)",
+   "P (ep. XXXIIII)",
+   "V/v"
+  ],
+  "digits": "hand",
+  "ocr": "",
+  "top": "L",
+  "k_E_recorded": 2,
+  "n_pages": 21,
+  "proof_page": 25,
+  "lower": "v"
+ },
+ {
+  "volume": "AA 6.2",
+  "ia_id": "p2monumentagerma06geseuoft",
+  "text_id": "avitus_carmina",
+  "index": 1,
+  "kind": "undecided",
+  "pilot": false,
+  "lines": [
+   19351,
+   26398
+  ],
+  "sigla": "NPLRFGDVMEBT",
+  "other_direct": [
+   "n",
+   "p",
+   "K?",
+   "g",
+   "α / β / ω"
+  ],
+  "digits": "hand",
+  "ocr": "",
+  "top": "NPRFGDVMEBT|L",
+  "k_E_recorded": 2,
+  "n_pages": 45,
+  "proof_page": 254,
+  "lower": "gnp"
+ }
+]

@@ -1,0 +1,94 @@
+{
+ "stemma_witnesses": "PNTFBLMS",
+ "cited": {
+  "P": 790,
+  "N": 758,
+  "T": 119,
+  "F": 45,
+  "B": 392,
+  "L": 481,
+  "M": 535,
+  "S": 475
+ },
+ "analysis_witnesses": "PNTFBLMS",
+ "units_with_shared_departure": 687,
+ "included": true,
+ "exclusion": [],
+ "editor_top": [
+  "PTF",
+  "NBLMS"
+ ],
+ "k_E": 2,
+ "status": "OPTIMAL",
+ "weight": 300.0,
+ "branches": [
+  {
+   "branch": "PTF",
+   "status": "contradicted",
+   "by": [
+    "PN"
+   ]
+  },
+  {
+   "branch": "NBLMS",
+   "status": "contradicted",
+   "by": [
+    "PN"
+   ]
+  }
+ ],
+ "classification": "contradicted",
+ "k_D": 4,
+ "k_D_bootstrap": {
+  "3": 1.0
+ },
+ "stable_families": [
+  [
+   "BL",
+   105,
+   1.0
+  ],
+  [
+   "PN",
+   75,
+   1.0
+  ],
+  [
+   "MS",
+   66,
+   1.0
+  ],
+  [
+   "BLMS",
+   46,
+   1.0
+  ]
+ ],
+ "mwis": [
+  [
+   "BL",
+   105,
+   1.0
+  ],
+  [
+   "PN",
+   75,
+   1.0
+  ],
+  [
+   "MS",
+   66,
+   1.0
+  ],
+  [
+   "BLMS",
+   46,
+   1.0
+  ],
+  [
+   "PNT",
+   8,
+   0.665
+  ]
+ ]
+}

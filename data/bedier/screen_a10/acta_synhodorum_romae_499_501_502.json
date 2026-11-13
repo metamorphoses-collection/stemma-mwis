@@ -1,0 +1,24 @@
+{
+ "stemma_witnesses": "ABFTECHGDM",
+ "cited": {
+  "A": 554,
+  "B": 1387,
+  "F": 999,
+  "T": 1571,
+  "E": 494,
+  "C": 561,
+  "H": 561,
+  "G": 408,
+  "D": 714,
+  "M": 567
+ },
+ "analysis_witnesses": "ABFTECHGDM",
+ "units_with_shared_departure": 1230,
+ "included": true,
+ "exclusion": [],
+ "editor_top": [
+  "ABFT",
+  "EC"
+ ],
+ "k_E": 2
+}

@@ -1,0 +1,19 @@
+{
+ "stemma_witnesses": "MTCFP",
+ "cited": {
+  "M": 499,
+  "T": 519,
+  "C": 545,
+  "F": 833,
+  "P": 717
+ },
+ "analysis_witnesses": "MTCFP",
+ "units_with_shared_departure": 391,
+ "included": true,
+ "exclusion": [],
+ "editor_top": [
+  "M",
+  "TCFP"
+ ],
+ "k_E": 2
+}

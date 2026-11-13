@@ -1,0 +1,404 @@
+{
+ "sidonius_epistulae": {
+  "page": 48,
+  "ocr_lines": [
+   8212,
+   8293
+  ],
+  "printed": 9,
+  "right": 3,
+  "extra": 0,
+  "recall": 0.3333333333333333,
+  "precision": 1.0,
+  "passes": false,
+  "missed": [
+   "CF",
+   "CFLT",
+   "CFM",
+   "CFM",
+   "CFMP",
+   "CM"
+  ],
+  "extras": []
+ },
+ "aldhelm_de_virginitate_prosa": {
+  "page": 280,
+  "ocr_lines": [
+   22356,
+   22423
+  ],
+  "printed": 13,
+  "right": 5,
+  "extra": 0,
+  "recall": 0.38461538461538464,
+  "precision": 1.0,
+  "passes": false,
+  "missed": [
+   "ABG",
+   "AG",
+   "AG",
+   "AG",
+   "AGLO",
+   "AGLO",
+   "BO",
+   "LO"
+  ],
+  "extras": []
+ },
+ "paulus_historia_romana": {
+  "page": 95,
+  "error": "page not found in OCR range"
+ },
+ "jordanes_romana": {
+  "page": 19,
+  "ocr_lines": [
+   5588,
+   5670
+  ],
+  "printed": 11,
+  "right": 0,
+  "extra": 0,
+  "recall": 0.0,
+  "precision": null,
+  "passes": false,
+  "missed": [
+   "HLP",
+   "HP",
+   "HP",
+   "HPV",
+   "HPV",
+   "HPV",
+   "HPV",
+   "HPV",
+   "LPV",
+   "LV",
+   "PV"
+  ],
+  "extras": []
+ },
+ "claudianus_maior": {
+  "page": 306,
+  "ocr_lines": [
+   40830,
+   40905
+  ],
+  "printed": 9,
+  "right": 2,
+  "extra": 2,
+  "recall": 0.2222222222222222,
+  "precision": 0.5,
+  "passes": false,
+  "missed": [
+   "AP",
+   "AP",
+   "AP",
+   "AP",
+   "APV",
+   "MV",
+   "PV"
+  ],
+  "extras": [
+   "AV",
+   "JPV"
+  ]
+ },
+ "cassiodorus_variae": {
+  "page": 28,
+  "ocr_lines": [
+   22406,
+   22491
+  ],
+  "printed": 10,
+  "right": 4,
+  "extra": 1,
+  "recall": 0.4,
+  "precision": 0.8,
+  "passes": false,
+  "missed": [
+   "DEX",
+   "DFKLPR",
+   "EFKMNX",
+   "EK",
+   "EK",
+   "FMNX"
+  ],
+  "extras": [
+   "FKMX"
+  ]
+ },
+ "eugenius_dracontiana": {
+  "page": 54,
+  "error": "page not found in OCR range"
+ },
+ "sidonius_carmina": {
+  "page": 192,
+  "ocr_lines": [
+   19070,
+   19139
+  ],
+  "printed": 12,
+  "right": 7,
+  "extra": 1,
+  "recall": 0.5833333333333334,
+  "precision": 0.875,
+  "passes": false,
+  "missed": [
+   "CF",
+   "CFP",
+   "CFT",
+   "CM",
+   "MT"
+  ],
+  "extras": [
+   "CP"
+  ]
+ },
+ "eugippius_vita_severini": {
+  "page": 19,
+  "ocr_lines": [
+   16683,
+   16758
+  ],
+  "printed": 7,
+  "right": 5,
+  "extra": 0,
+  "recall": 0.7142857142857143,
+  "precision": 1.0,
+  "passes": true,
+  "missed": [
+   "DMV",
+   "MV"
+  ],
+  "extras": []
+ },
+ "fortunatus_carmina": {
+  "page": 209,
+  "ocr_lines": [
+   18477,
+   18569
+  ],
+  "printed": 10,
+  "right": 6,
+  "extra": 1,
+  "recall": 0.6,
+  "precision": 0.8571428571428571,
+  "passes": true,
+  "missed": [
+   "ACDM",
+   "BCGM",
+   "BFL",
+   "DG"
+  ],
+  "extras": [
+   "BC"
+  ]
+ },
+ "jordanes_getica": {
+  "page": 127,
+  "ocr_lines": [
+   14532,
+   14625
+  ],
+  "printed": 46,
+  "right": 23,
+  "extra": 3,
+  "recall": 0.5,
+  "precision": 0.8846153846153846,
+  "passes": false,
+  "missed": [
+   "AB",
+   "AB",
+   "AB",
+   "ABXY",
+   "ABXY",
+   "ABY",
+   "AHPV",
+   "AHPY",
+   "AXY",
+   "AXYZ",
+   "AXYZ",
+   "AY",
+   "AYZ",
+   "BOV",
+   "HPV",
+   "OPV",
+   "PV",
+   "VX",
+   "VYZ",
+   "XY",
+   "XYZ",
+   "XYZ",
+   "YZ"
+  ],
+  "extras": [
+   "ABX",
+   "VZ",
+   "VZ"
+  ]
+ },
+ "isidorus_historia_gothorum": {
+  "page": 270,
+  "ocr_lines": [
+   30367,
+   30444
+  ],
+  "printed": 9,
+  "right": 4,
+  "extra": 0,
+  "recall": 0.4444444444444444,
+  "precision": 1.0,
+  "passes": false,
+  "missed": [
+   "AMO",
+   "BH",
+   "HN",
+   "HO",
+   "MO"
+  ],
+  "extras": []
+ },
+ "acta_synhodorum_romae_499_501_502": {
+  "page": 453,
+  "error": "page not found in OCR range"
+ },
+ "symmachus_epistulae": {
+  "page": 153,
+  "ocr_lines": [
+   23154,
+   23224
+  ],
+  "printed": 7,
+  "right": 4,
+  "extra": 1,
+  "recall": 0.5714285714285714,
+  "precision": 0.8,
+  "passes": false,
+  "missed": [
+   "FPV",
+   "PV",
+   "PV"
+  ],
+  "extras": [
+   "FV"
+  ]
+ },
+ "victor_vitensis_historia": {
+  "page": 14,
+  "ocr_lines": [
+   1349,
+   1427
+  ],
+  "printed": 9,
+  "right": 2,
+  "extra": 1,
+  "recall": 0.2222222222222222,
+  "precision": 0.6666666666666666,
+  "passes": false,
+  "missed": [
+   "BLV",
+   "BLV",
+   "BLV",
+   "BLV",
+   "BV",
+   "BV",
+   "BV"
+  ],
+  "extras": [
+   "BLRV"
+  ]
+ },
+ "eutropius_breviarium": {
+  "page": 147,
+  "error": "page not found in OCR range"
+ },
+ "fortunatus_vita_martini": {
+  "page": 355,
+  "error": "page not found in OCR range"
+ },
+ "ennodius_opera": {
+  "page": 61,
+  "ocr_lines": [
+   8345,
+   8419
+  ],
+  "printed": 1,
+  "right": 0,
+  "extra": 0,
+  "recall": 0.0,
+  "precision": null,
+  "passes": false,
+  "missed": [
+   "BLV"
+  ],
+  "extras": []
+ },
+ "isidorus_chronica_maiora": {
+  "page": 447,
+  "ocr_lines": [
+   44937,
+   45028
+  ],
+  "printed": 43,
+  "right": 18,
+  "extra": 1,
+  "recall": 0.4186046511627907,
+  "precision": 0.9473684210526315,
+  "passes": false,
+  "missed": [
+   "ADP",
+   "AM",
+   "BCPW",
+   "BEFKS",
+   "BEMP",
+   "BP",
+   "BPS",
+   "BPSY",
+   "CDENTXZ",
+   "CEKNZ",
+   "CEKS",
+   "CFYZ",
+   "CX",
+   "CZ",
+   "DEKNSX",
+   "DEMX",
+   "DEX",
+   "EX",
+   "EXZ",
+   "FNT",
+   "KSY",
+   "MVY",
+   "NT",
+   "NT",
+   "XZ"
+  ],
+  "extras": [
+   "BKPSV"
+  ]
+ },
+ "historia_brittonum": {
+  "page": 214,
+  "error": "page not found in OCR range"
+ },
+ "avitus_carmina": {
+  "page": 254,
+  "ocr_lines": [
+   23338,
+   23405
+  ],
+  "printed": 6,
+  "right": 0,
+  "extra": 0,
+  "recall": 0.0,
+  "precision": null,
+  "passes": false,
+  "missed": [
+   "DN",
+   "DR",
+   "FG",
+   "LN",
+   "LR",
+   "NR"
+  ],
+  "extras": []
+ }
+}

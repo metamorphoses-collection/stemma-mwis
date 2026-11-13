@@ -1,0 +1,318 @@
+{
+ "volume": "AA 2",
+ "ia_id": "monumentagermani02geseuoft",
+ "texts": [
+  {
+   "volume": "AA 2",
+   "ia_id": "monumentagermani02geseuoft",
+   "text_id": "eutropius_breviarium",
+   "work": "Eutropius, Breviarium ab urbe condita",
+   "editor": "H. Droysen (with bracketed notes by Th. Mommsen)",
+   "year": 1879,
+   "text_lines": [
+    7062,
+    24985
+   ],
+   "preface_lines": [
+    289,
+    2050
+   ],
+   "sigla": [
+    {
+     "siglum": "G",
+     "manuscript": "Gothanus 101 (membr.)",
+     "date_if_given": "s. IX/X",
+     "role": "direct"
+    },
+    {
+     "siglum": "G2",
+     "manuscript": "Gothanus, later correcting hands",
+     "date_if_given": null,
+     "role": "corrector_hand"
+    },
+    {
+     "siglum": "F",
+     "manuscript": "Fuldensis (lost; readings known only from Sylburg's ed. 1590)",
+     "date_if_given": null,
+     "role": "direct"
+    },
+    {
+     "siglum": "L",
+     "manuscript": "Leidensis (Leydensis) Lat. 141",
+     "date_if_given": "s. X in.",
+     "role": "direct"
+    },
+    {
+     "siglum": "O",
+     "manuscript": "Bertinianus, St-Omer 697",
+     "date_if_given": "s. X/XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "(Brux.)",
+     "manuscript": "Bruxellensis 6439-6451 (copied from O; not cited)",
+     "date_if_given": "s. XII in.",
+     "role": "direct"
+    },
+    {
+     "siglum": "S",
+     "manuscript": "probably the lost Burdigalensis via Vinetus' ed. (conspectus siglum lost in OCR; identification inferred from order of conspectus)",
+     "date_if_given": null,
+     "role": "indirect"
+    },
+    {
+     "siglum": "D",
+     "manuscript": "Vaticanus lat. 1860",
+     "date_if_given": "a. 1313",
+     "role": "direct"
+    },
+    {
+     "siglum": "P",
+     "manuscript": "consensus of the codices of Paulus Diaconus' Historia Romana (individual: H V N Z)",
+     "date_if_given": null,
+     "role": "indirect"
+    },
+    {
+     "siglum": "E",
+     "manuscript": "Bambergensis E III 22 (only the dedicatory letter)",
+     "date_if_given": "s. X",
+     "role": "indirect"
+    },
+    {
+     "siglum": "Paean.",
+     "manuscript": "Paeanius' Greek translation",
+     "date_if_given": null,
+     "role": "indirect"
+    },
+    {
+     "siglum": "Exc.",
+     "manuscript": "excerpta in codd. Petropolitanus Dubrowski and Vaticanus Palat. 927",
+     "date_if_given": null,
+     "role": "indirect"
+    }
+   ],
+   "apparatus": "negative_sigla",
+   "filiation_stated": "verbal",
+   "top_branches": [
+    [
+     "G",
+     "F",
+     "D",
+     "P"
+    ],
+    [
+     "L",
+     "O",
+     "Paean."
+    ]
+   ],
+   "deeper_groups": [
+    [
+     "G",
+     "F"
+    ],
+    [
+     "D",
+     "P"
+    ],
+    [
+     "L",
+     "O"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 448,
+     "page": "p. IV",
+     "quote": "apparet Fuldensem et Gothanum si non ex eodem archetypo descriptos eiusdem certe fuisse familiae"
+    },
+    {
+     "ocr_line": 1077,
+     "page": "p. IX",
+     "quote": "Tertiae denique familiae est tam, qui extat, codex Vaticanus 1860 (D) ... quam, qui ipse iam non superest ... quo usus est Paulus Diaconus"
+    },
+    {
+     "ocr_line": 1274,
+     "page": "p. XII",
+     "quote": "tertiae familiae archetypum propius ad A quam ad B accessisse consensus probat, qui est in corruptelis"
+    },
+    {
+     "ocr_line": 1332,
+     "page": "p. XIII",
+     "quote": "codices C et A aperte ex archetypo communi iam erroneis lectionibus non adeo paucis inquinato descendunt, ut ex altero secunda familia et, ut mox videbimus, Paeanius pendent"
+    },
+    {
+     "ocr_line": 1404,
+     "page": "p. XIV",
+     "quote": "quae lectiones in C eo inlatae sunt, quod codicum C archetypus correctus est ad exemplar quoddam secundae familiae"
+    },
+    {
+     "ocr_line": 1408,
+     "page": "p. XIV",
+     "quote": "[Th. M.:] redire ea ad archetypa duo, ut ex altero pendeant tam Gothanus et Fuldensis (A) quam Paulini libri (C), ex altero tam Leidensis et Audomarensis (B) quam Paeanius"
+    }
+   ],
+   "flags": [
+    "pilot_text",
+    "contamination_at_top"
+   ],
+   "confidence": "high",
+   "notes": "Three families A (GF), B (LO), C (D + Paulus' exemplar); A and C share an archetype against B+Paeanius. Droysen explains C's agreements with B by correction of C's archetype from a B-exemplar; Mommsen's bracketed note (Th. M.) rejects that contamination but keeps the same two-archetype division. F is lost (known via Sylburg); P and Paean. are indirect, so analysis witnesses of branch 2 are only L and O.",
+   "classification_A3": "explicit"
+  },
+  {
+   "volume": "AA 2",
+   "ia_id": "monumentagermani02geseuoft",
+   "text_id": "paulus_historia_romana",
+   "work": "Paulus Diaconus, Historia Romana (books I-XVI)",
+   "editor": "H. Droysen",
+   "year": 1879,
+   "text_lines": [
+    7092,
+    28790
+   ],
+   "preface_lines": [
+    2562,
+    2953
+   ],
+   "sigla": [
+    {
+     "siglum": "H",
+     "manuscript": "Bambergensis E III 4 (513) (Eyssenhardt's B)",
+     "date_if_given": "s. IX/X",
+     "role": "direct"
+    },
+    {
+     "siglum": "V",
+     "manuscript": "Vaticanus lat. 3339",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "B",
+     "manuscript": "Berolinensis lat. 4o 1 (used for books XI-XVI only)",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "N",
+     "manuscript": "Laurentianus LXV 35",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "N2",
+     "manuscript": "Laurentianus LXV 35, second hand (corrected to an exemplar close to Z's archetype)",
+     "date_if_given": null,
+     "role": "corrector_hand"
+    },
+    {
+     "siglum": "Z",
+     "manuscript": "Vaticanus lat. 7312",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "M",
+     "manuscript": "Monacensis lat. 3516 (Augustanus 16, olim Hersfeldensis); used for books XI-XVI",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "L",
+     "manuscript": "Landolfus Sagax, Historia Romana, cod. Palatinus 909",
+     "date_if_given": null,
+     "role": "indirect"
+    }
+   ],
+   "apparatus": "negative_sigla",
+   "filiation_stated": "verbal",
+   "top_branches": [
+    [
+     "H",
+     "V",
+     "B",
+     "M"
+    ],
+    [
+     "N",
+     "Z"
+    ]
+   ],
+   "deeper_groups": [
+    [
+     "H",
+     "V"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 2612,
+     "page": "p. XXIX",
+     "quote": "Historiae Romanae codicum ... duo sunt genera, quae potissimum hiatu libri XV inter se distinguuntur"
+    },
+    {
+     "ocr_line": 2677,
+     "page": "p. XXX",
+     "quote": "Codices Bambergensis et Vaticanus quamvis non ex eodem archetypo descripti tamen in omnibus gravioribus et hiatibus et erroribus consentiunt, ut eorum consensus pro uno codice haberi possit"
+    },
+    {
+     "ocr_line": 2687,
+     "page": "p. XXX",
+     "quote": "[Berolinensis] errores librariorum, qui codices H et V exaraverunt, ... plerumque evitavit, in gravioribus omnibus ab eorum parte stat"
+    },
+    {
+     "ocr_line": 2701,
+     "page": "p. XXX",
+     "quote": "Laurentiani et Vaticani communem originem et hiatus communes et errores iidem, praeterea interpolationes nonnullae demonstrant"
+    },
+    {
+     "ocr_line": 2758,
+     "page": "p. XXXI",
+     "quote": "[Monacensis] ut eius archetypus prioris familiae fuisse videatur sed suppletus et passim correctus ad codicem aliquem generis secundi"
+    }
+   ],
+   "flags": [
+    "contamination_at_top",
+    "multiple_sections_different_witnesses"
+   ],
+   "confidence": "medium",
+   "notes": "Two genera: hiantes (H V, + B) vs integri (N Z). M is placed by the editor in the first family but corrected from the second (contaminated across the top) and used only for books XI-XVI, as is B. Mommsen's bracketed footnote (p. XXXII n. 14) suggests the second genus may owe the book XV passage to Landolfus, i.e. it questions which family is interpolated but not the division. Books I-X are printed on pages facing Eutropius, so text_lines interleave with Eutropius and Paeanius.",
+   "classification_A3": "explicit"
+  }
+ ],
+ "skipped": [
+  {
+   "text_id": "paeanius_metaphrasis",
+   "work": "Paeanius, Greek translation of Eutropius",
+   "reason": "single manuscript: Laurentianus LXX 5 (L); the lost Pithoeanus (Sylburg's text, S) is judged descended from L, Marcianus and Monacensis copies of L; preface pp. XXI-XXII (OCR ~2110-2140)"
+  },
+  {
+   "text_id": "capito_versio_fragmenta",
+   "work": "Capito Lycius' Greek version (fragments via Ioannes Antiochenus, Suidas)",
+   "reason": "fragments/testimonia only, printed in the margin/notes of Paeanius pages; no manuscript tradition of its own"
+  },
+  {
+   "text_id": "landolfus_sagax_additamenta",
+   "work": "Landolfus Sagax, additamenta ad Pauli Historiam Romanam",
+   "reason": "single manuscript (Palatinus 909, autograph?), one page supplied from Bamberg E III 13; OCR lines 28797-44339"
+  },
+  {
+   "text_id": "pauli_historia_romana_epitomae",
+   "work": "Excerpta / epitomae of Paulus' Historia Romana (Appendix)",
+   "reason": "specimens of later epitomized recensions printed in appendix (OCR 44340-47389), no stemma"
+  },
+  {
+   "text_id": "pauli_epistula_ad_adelpergam",
+   "work": "Paulus, epistula ad Adelpergam",
+   "reason": "one-page piece with its own 3 codices (A Perusinus, B Vindobonensis 104, C Laurentianus 89 inf. 41); no filiation stated"
+  },
+  {
+   "text_id": "planudes_eutropiana",
+   "work": "Appendix ad p. XXV: Eutropiana apud Planudem",
+   "reason": "excerpts printed in preface appendix; not an edition with apparatus"
+  }
+ ],
+ "reader": "agent",
+ "date": "2026-11-13"
+}

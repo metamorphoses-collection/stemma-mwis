@@ -1,0 +1,342 @@
+{
+ "volume": "AA 8",
+ "ia_id": "monumentager08geseuoft",
+ "texts": [
+  {
+   "volume": "AA 8",
+   "ia_id": "monumentager08geseuoft",
+   "text_id": "sidonius_epistulae",
+   "work": "C. Sollius Apollinaris Sidonius, Epistulae (libri I-IX)",
+   "editor": "Christianus Luetjohann (apparatus); preface on filiation by Fridericus Leo",
+   "year": 1887,
+   "text_lines": [
+    4696,
+    17652
+   ],
+   "preface_lines": [
+    128,
+    2298
+   ],
+   "sigla": [
+    {
+     "siglum": "L",
+     "manuscript": "Oxoniensis Laudianus lat. 104",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "M",
+     "manuscript": "Florentinus Marcianus 554",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "T",
+     "manuscript": "Florentinus Laurentianus plut. XLV, 23",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "C",
+     "manuscript": "Matritensis bibl. nat. Ee 102, olim Cluniacensis",
+     "date_if_given": "s. X/XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "F",
+     "manuscript": "Parisinus lat. 9551 (OCR '0oSl')",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "P",
+     "manuscript": "Parisinus lat. 2781 (Puteanus)",
+     "date_if_given": "s. X/XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "M1/M2, T1/T2 etc.",
+     "manuscript": "first/second hands in the codices",
+     "date_if_given": null,
+     "role": "corrector_hand"
+    },
+    {
+     "siglum": "G",
+     "manuscript": "Sangallensis 190 (fragment of ep. II,1 only, variants in additamenta)",
+     "date_if_given": "s. IX",
+     "role": "indirect"
+    },
+    {
+     "siglum": "codex Nanzii / Woweren 'optimus'",
+     "manuscript": "lost codex used by Woweren and Savaro (vulgate class)",
+     "date_if_given": null,
+     "role": "indirect"
+    }
+   ],
+   "apparatus": "mixed_sigla",
+   "filiation_stated": "diagram",
+   "top_branches": [
+    [
+     "L"
+    ],
+    [
+     "M",
+     "T",
+     "C",
+     "F",
+     "P"
+    ]
+   ],
+   "deeper_groups": [
+    [
+     "M",
+     "T"
+    ],
+    [
+     "C",
+     "F",
+     "P"
+    ],
+    [
+     "C",
+     "F"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 1384,
+     "page": "p. XXV",
+     "quote": "constat codices LMTCFP (addere autem licet omnes quibus utimur Sidoni codices) ex uno eodemque archetypo, atque eo non vetustissimo (alpha), originem ducere"
+    },
+    {
+     "ocr_line": 1509,
+     "page": "p. XXVII",
+     "quote": "comprobatum et integriorem reliquis Laudianum lectionem praebere et ad unum archetypum suum (beta) item codices redire praeter Laudianum omnes."
+    },
+    {
+     "ocr_line": 1887,
+     "page": "p. XXXIII",
+     "quote": "qui codicum MTCFP communem archetypum confecit homo non ut Laudiani librarius Latine indoctissimus"
+    },
+    {
+     "ocr_line": 2003,
+     "page": "p. XXXV-XXXVI",
+     "quote": "Ex beta ita comparato duo quantum videmus apographa facta sunt: gamma, ex quo M et T, atque delta ad quem redeunt CFP."
+    },
+    {
+     "ocr_line": 2183,
+     "page": "p. XXXIX",
+     "quote": "certum autem est C cum F artiore vinculo contineri quam P cum altero utro, ut CF ad alterum codicis delta apographon (zeta), ad alterum P redire videatur."
+    },
+    {
+     "ocr_line": 2290,
+     "page": "p. XLI",
+     "quote": "cognationem hac imagine inlustrare satis habebimus ... [diagram garbled: only 'alpha mutilus  sigma' legible]"
+    }
+   ],
+   "flags": [
+    "pilot_text",
+    "contamination_at_top",
+    "diagram_garbled_in_ocr"
+   ],
+   "confidence": "high",
+   "notes": "Stemma: alpha (mutilated) -> L and beta; beta -> gamma (M; T via apograph epsilon) and delta (zeta -> C,F; P). Contamination at top: beta's author filled alpha's lacunae (III,3; VI,12-VII,5; VII,6-7; VIII,2; IX,1; IX,7 ext.) from a second, unmutilated codex sigma, and gamma was corrected from the delta vulgate, so in those passages L is absent and the top is not L vs rest. The OCR'd sigla on p. XLI-XLII are garbled; check the image of the epistulae stemma.",
+   "classification_A3": "explicit"
+  },
+  {
+   "volume": "AA 8",
+   "ia_id": "monumentager08geseuoft",
+   "text_id": "sidonius_carmina",
+   "work": "C. Sollius Apollinaris Sidonius, Carmina I-XXIV",
+   "editor": "Christianus Luetjohann; carmina apparatus completed and filiation stated by Fridericus Leo",
+   "year": 1887,
+   "text_lines": [
+    17653,
+    24843
+   ],
+   "preface_lines": [
+    2298,
+    2458
+   ],
+   "sigla": [
+    {
+     "siglum": "M",
+     "manuscript": "Florentinus Marcianus 554 (carm. I-VIII only, with lacunae, e.g. II 183-548)",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "T",
+     "manuscript": "Florentinus Laurentianus plut. XLV, 23",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "C",
+     "manuscript": "Matritensis bibl. nat. Ee 102, olim Cluniacensis",
+     "date_if_given": "s. X/XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "F",
+     "manuscript": "Parisinus lat. 9551",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "P",
+     "manuscript": "Parisinus lat. 2781 (omits VII 137-600)",
+     "date_if_given": "s. X/XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "Ma/Mb, T1/T2 etc.",
+     "manuscript": "first-hand corrections and later hands",
+     "date_if_given": null,
+     "role": "corrector_hand"
+    }
+   ],
+   "apparatus": "mixed_sigla",
+   "filiation_stated": "diagram",
+   "top_branches": [
+    [
+     "M"
+    ],
+    [
+     "T",
+     "C",
+     "F",
+     "P"
+    ]
+   ],
+   "deeper_groups": [
+    [
+     "T",
+     "P"
+    ],
+    [
+     "C",
+     "F"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 2300,
+     "page": "p. XLI",
+     "quote": "M servasse carmina I-VIII ex sigma in beta suppleta, delta carmina omnia ex alio codice (x) adsumpsisse."
+    },
+    {
+     "ocr_line": 2305,
+     "page": "p. XLI",
+     "quote": "siquidem sigma et x ad codicem unum eundemque redire manifeste docent corruptelae omnibus libris communes"
+    },
+    {
+     "ocr_line": 2301,
+     "page": "p. XLI",
+     "quote": "T i. e. epsilon et ipsum eodem de fonte vel potius ex delta carmina epistulis omnia adiecisse: quamquam ... sponderi non potest non ex gamma carmina I-VIII adsumpta"
+    },
+    {
+     "ocr_line": 2392,
+     "page": "p. XLII",
+     "quote": "C et F novimus communis archetypi germina sed propria interpolatione utrumque infectum."
+    },
+    {
+     "ocr_line": 2419,
+     "page": "p. XLIII",
+     "quote": "In universum igitur archetypi delta lectio certius repraesentatur consensu codicum TP quam CF."
+    },
+    {
+     "ocr_line": 2435,
+     "page": "p. XLIII",
+     "quote": "hoc stemmate, in quo ambigua prioris partis libri T origo notabitur, indicabimus: [diagram garbled: 'sigma I-VIII  x I-XXIV ... delta ... epsilon ... zeta ... T P / C F']"
+    }
+   ],
+   "flags": [
+    "multiple_sections_different_witnesses",
+    "diagram_garbled_in_ocr",
+    "editor_undecided"
+   ],
+   "confidence": "medium",
+   "notes": "Archetype -> sigma (only carm. I-VIII, surviving in M) and x (all 24 carmina) -> delta -> (T,P) and (C,F). M exists only for carm. I-VIII, so from carm. IX on all witnesses descend from x and the top split is not observable. editor_undecided refers only to T in carm. I-VIII: Leo leaves open whether T took them from gamma/epsilon (M's side, with M-T agreements cited) or from delta; for carm. IX-XXIV he places T with P. Not a pilot text (only the letters are).",
+   "classification_A3": "explicit"
+  },
+  {
+   "volume": "AA 8",
+   "ia_id": "monumentager08geseuoft",
+   "text_id": "faustus_aliorumque_epistulae",
+   "work": "Fausti aliorumque epistulae ad Ruricium aliosque (Faustus Reiensis, Paulinus, Lucidus, Sedatus, Caesarius et al.)",
+   "editor": "Bruno Krusch",
+   "year": 1887,
+   "text_lines": [
+    24844,
+    27370
+   ],
+   "preface_lines": [
+    4026,
+    4380
+   ],
+   "sigla": [
+    {
+     "siglum": "G",
+     "manuscript": "Sangallensis 190",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "C",
+     "manuscript": "Parisinus lat. 12097 (olim Sangerm. 936, Corbeiensis 26), Paulinus ep. FA. XIV only",
+     "date_if_given": "s. VI/VII",
+     "role": "direct"
+    },
+    {
+     "siglum": "P",
+     "manuscript": "Parisinus lat. 1564, FA. XIV-XVII only",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "H",
+     "manuscript": "Hincmarus, de praedestinatione (FA. XVIII-XIX, part of XIV)",
+     "date_if_given": "s. IX",
+     "role": "indirect"
+    },
+    {
+     "siglum": "M",
+     "manuscript": "codices Claudiani Mamerti (latter part of FA. XX)",
+     "date_if_given": null,
+     "role": "indirect"
+    }
+   ],
+   "apparatus": "negative_sigla",
+   "filiation_stated": "none",
+   "top_branches": [],
+   "evidence": [
+    {
+     "ocr_line": 4273,
+     "page": "p. LXXII",
+     "quote": "Nihilominus etiam in iis epistulis quae redeunt in P recensendis G ducem secuti sumus ... Nonnullis locis uterque codex corruptela eadem laborat."
+    }
+   ],
+   "flags": [],
+   "confidence": "high",
+   "notes": "Krusch describes the witnesses but states no filiation or classes; G is the only witness for most letters, and the others cover one to four letters each. He notes shared corruptions in G and P but draws no stemma.",
+   "classification_A3": "none"
+  }
+ ],
+ "skipped": [
+  {
+   "piece": "Ruricii epistulae libri II (ed. Krusch, lines 27371-31027)",
+   "reason": "single manuscript (Sangallensis 190, G); Canisius' and Paris. 11378 are derived editions"
+  },
+  {
+   "piece": "Sidonius testimonia: epitaphium, Gennadius, Gregorius Turonensis (Mommsen's part of the preface)",
+   "reason": "testimonia printed in the preface, not an edited text with apparatus"
+  },
+  {
+   "piece": "Sidonius ep. II,1 fragment in Sangallensis 190 (additamenta)",
+   "reason": "variant list only, belongs to sidonius_epistulae as an indirect witness"
+  }
+ ],
+ "reader": "agent",
+ "date": "2026-11-13"
+}

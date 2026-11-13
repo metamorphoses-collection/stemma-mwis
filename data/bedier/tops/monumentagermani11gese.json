@@ -1,0 +1,892 @@
+{
+ "volume": "AA 11",
+ "ia_id": "monumentagermani11gese",
+ "texts": [
+  {
+   "volume": "AA 11",
+   "ia_id": "monumentagermani11gese",
+   "text_id": "marcellinus_comes_chronicon",
+   "work": "Marcellini v. c. comitis chronicon ad a. 518 continuatum ad a. 534",
+   "editor": "Theodor Mommsen",
+   "year": 1894,
+   "text_lines": [
+    4496,
+    8490
+   ],
+   "preface_lines": [
+    2781,
+    4495
+   ],
+   "sigla": [
+    {
+     "siglum": "S",
+     "manuscript": "Sanctomerensis (St-Omer) 697 (+706)",
+     "date_if_given": "saec. X/XI in.",
+     "role": "direct"
+    },
+    {
+     "siglum": "T",
+     "manuscript": "Tilianus, hodie Bodleianus auct. T [shelfmark garbled in OCR: 'auct. T 11 G']",
+     "date_if_given": "saec. VI ex. (list: VII)",
+     "role": "direct"
+    },
+    {
+     "siglum": "U",
+     "manuscript": "Utinensis 14 (epitome)",
+     "date_if_given": "saec. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "R",
+     "manuscript": "Parisinus lat. 4870 (epitome)",
+     "date_if_given": "saec. XIV",
+     "role": "direct"
+    },
+    {
+     "siglum": "Beda",
+     "manuscript": "excerpta Bedae",
+     "date_if_given": null,
+     "role": "indirect"
+    }
+   ],
+   "apparatus": "negative_sigla",
+   "filiation_stated": "verbal",
+   "top_branches": [
+    [
+     "S"
+    ],
+    [
+     "T",
+     "U",
+     "R"
+    ]
+   ],
+   "deeper_groups": [
+    [
+     "U",
+     "R"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 3526,
+     "page": "p. 47",
+     "quote": "Marcellini comitis chronica tradita habemus libris duobus Omerensi et Tiliano, quibus repraesentari archetypa duo auctori fere aequaeva inde efficitur"
+    },
+    {
+     "ocr_line": 3710,
+     "page": "p. 50",
+     "quote": "Ex hoc ipso libro descendit epitome ita facta ... eius generis qui nobis innotuerunt libri videntur omnes descendere ex eo quem primo loco posuimus Utinensi"
+    },
+    {
+     "ocr_line": 3878,
+     "page": "p. 52",
+     "quote": "Epitomam eam ... ex ipso libro hodie Oxoniensi descendere ... potuerunt igitur abici epitomati UR"
+    },
+    {
+     "ocr_line": 4238,
+     "page": "p. 56",
+     "quote": "altero Tiliano Oxoniensi T saeculi VI, altero Sanctomerensi saec. XI, quorum cum recentior non ad antiquiorem redeat, consentientibus ambobus archetypum repraesentatur"
+    }
+   ],
+   "flags": [],
+   "confidence": "high",
+   "notes": "Two branches: S and T. U and R descend from T itself, so they are codices descripti; Mommsen keeps them only to show agreement with T. Only two independent witnesses. The Additamentum (auctarium a. 534-548) survives only in T and is skipped.",
+   "classification_A3": "explicit"
+  },
+  {
+   "volume": "AA 11",
+   "ia_id": "monumentagermani11gese",
+   "text_id": "cassiodorus_chronica",
+   "work": "Cassiodori Senatoris chronica ad a. 519",
+   "editor": "Theodor Mommsen",
+   "year": 1894,
+   "text_lines": [
+    9527,
+    19337
+   ],
+   "preface_lines": [
+    8890,
+    9526
+   ],
+   "sigla": [
+    {
+     "siglum": "P",
+     "manuscript": "Parisinus lat. 4860 (olim Moguntiacensis)",
+     "date_if_given": "saec. X (a. 939-954)",
+     "role": "direct"
+    },
+    {
+     "siglum": "M",
+     "manuscript": "Monacensis 14613 (olim S. Emmerami)",
+     "date_if_given": "saec. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "C",
+     "manuscript": "consensus of P and M",
+     "date_if_given": null,
+     "role": "direct"
+    },
+    {
+     "siglum": "Cusp.",
+     "manuscript": "excerpta apud Cuspinianum, de consulibus Romanorum, Basel 1553 (from the lost Reichenau archetype)",
+     "date_if_given": "1553",
+     "role": "indirect"
+    },
+    {
+     "siglum": "Herm.",
+     "manuscript": "excerpta Cassiodorana apud Hermannum Contractum",
+     "date_if_given": null,
+     "role": "indirect"
+    }
+   ],
+   "apparatus": "negative_sigla",
+   "filiation_stated": "verbal",
+   "top_branches": [
+    [
+     "P"
+    ],
+    [
+     "M"
+    ]
+   ],
+   "deeper_groups": [],
+   "evidence": [
+    {
+     "ocr_line": 9393,
+     "page": "p. 117",
+     "quote": "haec unus ad nostram aetatem propagavit codex Reichenaviensis ... hodie deperditus. eo ipso usi sunt cum saeculo XI compilator Augiensis ... tum saec. XVI Iohannes Cuspinianus"
+    },
+    {
+     "ocr_line": 9400,
+     "page": "p. 117",
+     "quote": "codex enim quo usus est et plenior et emendatior fuit duobus quae hodie extant Augiensis libri apographis Monacensi et Parisino."
+    }
+   ],
+   "flags": [],
+   "confidence": "high",
+   "notes": "A lost Reichenau archetype with two apographs (P, M) and Cuspinian's edition as an indirect third branch: a flat stemma with only two direct witnesses.",
+   "classification_A3": "explicit"
+  },
+  {
+   "volume": "AA 11",
+   "ia_id": "monumentagermani11gese",
+   "text_id": "victor_tonnennensis_chronica",
+   "work": "Victoris Tonnennensis episcopi chronica a. 444-567",
+   "editor": "Theodor Mommsen",
+   "year": 1894,
+   "text_lines": [
+    20367,
+    23365
+   ],
+   "preface_lines": [
+    19370,
+    20413
+   ],
+   "sigla": [
+    {
+     "siglum": "Sm (Pm)",
+     "manuscript": "Soriensis deperditus ('vetus codex' in the margin of Perez's Segobrigensis)",
+     "date_if_given": "corpus c. a. 743",
+     "role": "direct"
+    },
+    {
+     "siglum": "U",
+     "manuscript": "Matritensis universitatis 134, apograph of the Alcobaciensis (shown as 'U' in the OCR; 'M' elsewhere in the volume)",
+     "date_if_given": "saec. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "P(E)",
+     "manuscript": "Perezianus Escurialensis &.IV.23",
+     "date_if_given": "saec. XVI",
+     "role": "direct"
+    },
+    {
+     "siglum": "P(S)",
+     "manuscript": "Perezianus Segobrigensis",
+     "date_if_given": "saec. XVI",
+     "role": "direct"
+    },
+    {
+     "siglum": "P(F)",
+     "manuscript": "Perezianus Matritensis bibl. nat. F 38 (where Segobrigensis deficit)",
+     "date_if_given": "saec. XVI",
+     "role": "direct"
+    }
+   ],
+   "apparatus": "negative_sigla",
+   "filiation_stated": "verbal",
+   "top_branches": [
+    [
+     "Sm (Pm)"
+    ],
+    [
+     "U",
+     "P(E)",
+     "P(S)",
+     "P(F)"
+    ]
+   ],
+   "deeper_groups": [],
+   "evidence": [
+    {
+     "ocr_line": 19400,
+     "page": "p. 165",
+     "quote": "codices vetusti duo extiterunt hodie deperditi ambo, alter scriptus c. a. 743, ex quo pendet Soriensis item deperditus, alter olim Alcobaciensis ... quem repraesentat apographum saec. XIII liber Matritensis univ. 134."
+    },
+    {
+     "ocr_line": 19922,
+     "page": "p. 172",
+     "quote": "Corpus Alcobaciense ubi componimus cum altero, unde Soriense exemplar derivatum est, probabile est illud ex hoc ductum esse"
+    },
+    {
+     "ocr_line": 20098,
+     "page": "p. 175",
+     "quote": "testes habemus vere duos, Soriensem et Alcobaciensem."
+    },
+    {
+     "ocr_line": 20246,
+     "page": "p. 176",
+     "quote": "Matritensis liber, quem supra diximus descriptum esse ex Alcobaciensi ... alterum autem quod ante inventum librum Soriensem adhibuit Perezius apographum apparet fluxisse ex libro hodie Matritensi"
+    }
+   ],
+   "flags": [
+    "contamination_at_top"
+   ],
+   "confidence": "medium",
+   "notes": "Two lost witnesses: Soriensis (known only from Perez's marginal 'vetus codex' readings) and Alcobaciensis (via U and the Perezian copies). The Perezian copies mix Alcobaciensis text with later Soriensis readings and conjecture, so effectively there are 2 independent sources. The preface (19370-20366) is shared with Iohannes Biclarensis and the Caesaraugustana.",
+   "classification_A3": "explicit"
+  },
+  {
+   "volume": "AA 11",
+   "ia_id": "monumentagermani11gese",
+   "text_id": "iohannes_biclarensis_chronica",
+   "work": "Iohannis abbatis Biclarensis chronica a. 567-590",
+   "editor": "Theodor Mommsen",
+   "year": 1894,
+   "text_lines": [
+    23366,
+    24464
+   ],
+   "preface_lines": [
+    19370,
+    20366
+   ],
+   "sigla": [
+    {
+     "siglum": "Sm (Pm)",
+     "manuscript": "Soriensis deperditus ('vetus codex' in the margin of Perez's Segobrigensis)",
+     "date_if_given": "corpus c. a. 743",
+     "role": "direct"
+    },
+    {
+     "siglum": "U",
+     "manuscript": "Matritensis universitatis 134, apograph of the Alcobaciensis",
+     "date_if_given": "saec. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "P(E)",
+     "manuscript": "Perezianus Escurialensis &.IV.23",
+     "date_if_given": "saec. XVI",
+     "role": "direct"
+    },
+    {
+     "siglum": "P(S)",
+     "manuscript": "Perezianus Segobrigensis",
+     "date_if_given": "saec. XVI",
+     "role": "direct"
+    },
+    {
+     "siglum": "P(T)",
+     "manuscript": "Perezianus Toletanus 27,26 (ad Iohannem aliquoties adhibitus)",
+     "date_if_given": "saec. XVI",
+     "role": "direct"
+    },
+    {
+     "siglum": "P(F)",
+     "manuscript": "Perezianus Matritensis bibl. nat. F 38",
+     "date_if_given": "saec. XVI",
+     "role": "direct"
+    }
+   ],
+   "apparatus": "negative_sigla",
+   "filiation_stated": "verbal",
+   "top_branches": [
+    [
+     "Sm (Pm)"
+    ],
+    [
+     "U",
+     "P(E)",
+     "P(S)",
+     "P(T)",
+     "P(F)"
+    ]
+   ],
+   "deeper_groups": [],
+   "evidence": [
+    {
+     "ocr_line": 19400,
+     "page": "p. 165",
+     "quote": "codices vetusti duo extiterunt hodie deperditi ambo, alter scriptus c. a. 743, ex quo pendet Soriensis item deperditus, alter olim Alcobaciensis"
+    },
+    {
+     "ocr_line": 20098,
+     "page": "p. 175",
+     "quote": "testes habemus vere duos, Soriensem et Alcobaciensem."
+    }
+   ],
+   "flags": [
+    "contamination_at_top"
+   ],
+   "confidence": "medium",
+   "notes": "Same tradition and shared preface as Victor Tonnennensis; Iohannes continues Victor in the same codices. P(T) is used only for Iohannes. The Perezian copies are contaminated, as for Victor.",
+   "classification_A3": "explicit"
+  },
+  {
+   "volume": "AA 11",
+   "ia_id": "monumentagermani11gese",
+   "text_id": "isidorus_historia_gothorum",
+   "work": "Isidori Iunioris episcopi Hispalensis historia Gothorum Wandalorum Sueborum ad a. 624",
+   "editor": "Theodor Mommsen",
+   "year": 1894,
+   "text_lines": [
+    30104,
+    33413
+   ],
+   "preface_lines": [
+    25786,
+    30103
+   ],
+   "sigla": [
+    {
+     "siglum": "P",
+     "manuscript": "Parisinus lat. 4873 (recensio brevior; OCR list 'r')",
+     "date_if_given": "saec. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "B",
+     "manuscript": "Berolinensis Phillipps. 1885",
+     "date_if_given": "saec. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "N",
+     "manuscript": "Matritensis bibl. nat. X 161",
+     "date_if_given": "saec. XI/XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "H",
+     "manuscript": "Matritensis academiae",
+     "date_if_given": "saec. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "O",
+     "manuscript": "Matritensis bibl. nat. F 58 (Pelagianus)",
+     "date_if_given": "saec. XVI/XVII",
+     "role": "direct"
+    },
+    {
+     "siglum": "[O]",
+     "manuscript": "Matritenses T 10 et F 93",
+     "date_if_given": "saec. XVI",
+     "role": "direct"
+    },
+    {
+     "siglum": "X",
+     "manuscript": "Bernensis 83 (laus Hispaniae, recapitulatio)",
+     "date_if_given": "saec. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "Y",
+     "manuscript": "Petropolitanus (laus Hispaniae, recapitulatio)",
+     "date_if_given": "saec. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "Z",
+     "manuscript": "Sangallensis 133 (recapitulatio)",
+     "date_if_given": "saec. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "R",
+     "manuscript": "Romanus Palatinus (c. 13-19)",
+     "date_if_given": "a. 927 / saec. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "W",
+     "manuscript": "Escurialensis R II 18 (c. 1-3, 66)",
+     "date_if_given": "saec. VIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "M",
+     "manuscript": "Matritensis univ. 134",
+     "date_if_given": "saec. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "A",
+     "manuscript": "Parisinus bibl. de l'Arsenal 982",
+     "date_if_given": "saec. XIV",
+     "role": "direct"
+    },
+    {
+     "siglum": "L",
+     "manuscript": "Lucas Tudensis (codd. Matr. Tolet. 27,28; Lugd. Perizon. fol. 9; ed. Schotti)",
+     "date_if_given": "saec. XIII",
+     "role": "indirect"
+    }
+   ],
+   "apparatus": "negative_sigla",
+   "filiation_stated": "verbal",
+   "top_branches": [
+    [
+     "P"
+    ],
+    [
+     "B",
+     "N",
+     "H",
+     "O",
+     "[O]",
+     "X",
+     "Y",
+     "Z",
+     "R",
+     "W",
+     "M",
+     "A"
+    ]
+   ],
+   "deeper_groups": [
+    [
+     "N",
+     "H"
+    ],
+    [
+     "A",
+     "M"
+    ],
+    [
+     "X",
+     "Y",
+     "Z",
+     "W"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 29107,
+     "page": "p. 252",
+     "quote": "Ut chronica, ita historiae quoque Isidori duplici recensione ad nos pervenerunt, altera breviore ... prolixiore altera"
+    },
+    {
+     "ocr_line": 29114,
+     "page": "p. 252",
+     "quote": "Breviorem unicus codex servavit Parisinus 4873 saec. XII, nam duo alii qui extant ex hoc ipso videntur descripti esse."
+    },
+    {
+     "ocr_line": 29129,
+     "page": "p. 252",
+     "quote": "ex duobus his ductis omnino ex eodem archetypo, scilicet ex deperdito Rodensi"
+    },
+    {
+     "ocr_line": 29165,
+     "page": "p. 253",
+     "quote": "Praeterea ... Parisinus Ars. 982 = A et Matritensis univ. 134 = M et tertius Pelagianus ... = O, denique Lucae Tudensis recensio = L, ii et contaminati sunt"
+    },
+    {
+     "ocr_line": 29256,
+     "page": "p. 254",
+     "quote": "utraque recensio pendet ab archetypo unico auctori fere aequali."
+    }
+   ],
+   "flags": [
+    "contamination_at_top"
+   ],
+   "confidence": "high",
+   "notes": "Recensio brevior (P only) vs recensio prolixior. Both derive from one archetype, each changed by its own redactor. Within the prolixior, N and H come from the lost Rodensis. The excerpts X, Y, Z (and W?) come from the Ovetensis archetype. A, M, O and L are contaminated with the brevior, H partly so. Check whether W belongs with the excerpt group or with the 'cum dedicatione' group (W, M, A, L).",
+   "classification_A3": "explicit"
+  },
+  {
+   "volume": "AA 11",
+   "ia_id": "monumentagermani11gese",
+   "text_id": "isidorus_chronica_maiora",
+   "work": "Isidori Iunioris chronica maiora (ed. a. 615 / a. 624)",
+   "editor": "Theodor Mommsen",
+   "year": 1894,
+   "text_lines": [
+    42747,
+    50157
+   ],
+   "preface_lines": [
+    40415,
+    41950
+   ],
+   "sigla": [
+    {
+     "siglum": "A",
+     "manuscript": "Albensis 29 (c. 1-4, 397-418)",
+     "date_if_given": "saec. VIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "B",
+     "manuscript": "Bernensis 83",
+     "date_if_given": "saec. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "C",
+     "manuscript": "Caesenas 21,5",
+     "date_if_given": "saec. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "D",
+     "manuscript": "Berolinensis Cheltenhamensium 41 = 1686",
+     "date_if_given": "saec. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "E",
+     "manuscript": "Estensis ord. 1 n. 11",
+     "date_if_given": "a. 800",
+     "role": "direct"
+    },
+    {
+     "siglum": "F",
+     "manuscript": "Florentinus Laur. 20,54",
+     "date_if_given": "saec. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "G",
+     "manuscript": "Parisinus 12236",
+     "date_if_given": "saec. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "K",
+     "manuscript": "Coloniensis 83 II",
+     "date_if_given": "saec. VIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "L",
+     "manuscript": "Lucensis 490",
+     "date_if_given": "saec. VIII (a. 796)",
+     "role": "direct"
+    },
+    {
+     "siglum": "M",
+     "manuscript": "Parisinus 4860 (Pseudo-Mellitus)",
+     "date_if_given": "saec. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "N",
+     "manuscript": "Monzensis",
+     "date_if_given": "saec. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "P",
+     "manuscript": "Petropolitanus",
+     "date_if_given": "saec. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "S",
+     "manuscript": "Sangallensis",
+     "date_if_given": "saec. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "T",
+     "manuscript": "Parisinus 9380",
+     "date_if_given": "saec. VIII/IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "V",
+     "manuscript": "Vindobonensis 89 (apographs Ew = Vindob. 323, V* = Egerton 1118)",
+     "date_if_given": "saec. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "W",
+     "manuscript": "Guelferbytanus Helmstadiensis 579 (from c. 338)",
+     "date_if_given": "saec. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "X",
+     "manuscript": "Claromontanus Paris. 10910",
+     "date_if_given": "saec. VII/VIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "Y",
+     "manuscript": "Vaticanus Pal. 239",
+     "date_if_given": "saec. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "Z",
+     "manuscript": "Vaticanus 6018",
+     "date_if_given": "saec. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "O",
+     "manuscript": "appendix Marii (c. 405-418)",
+     "date_if_given": "saec. IX/X",
+     "role": "indirect"
+    }
+   ],
+   "apparatus": "mixed_sigla",
+   "filiation_stated": "verbal",
+   "top_branches": [
+    [
+     "A",
+     "D",
+     "E",
+     "G",
+     "L",
+     "M",
+     "N",
+     "T",
+     "X",
+     "C",
+     "Y",
+     "Z"
+    ],
+    [
+     "P",
+     "S",
+     "W",
+     "B",
+     "F",
+     "K",
+     "V"
+    ]
+   ],
+   "deeper_groups": [
+    [
+     "C",
+     "D",
+     "E",
+     "X",
+     "Z"
+    ],
+    [
+     "N",
+     "T"
+    ],
+    [
+     "B",
+     "P",
+     "S"
+    ],
+    [
+     "K",
+     "V"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 40860,
+     "page": "p. 396",
+     "quote": "ex libris adhibitis non contaminati sunt prioris ordinis ADEGLMNTX, alterius PSW, contaminati quos ad priorem ordinem adscripsimus CYZ, item ex secundo BFKV"
+    },
+    {
+     "ocr_line": 40865,
+     "page": "p. 396",
+     "quote": "de quorundam codicum nexu magis intimo ... in priore ordine inter CDEXZ et inter NOT, in secundo inter BPS et KV ... codices neque in classes digerere ausus sum"
+    },
+    {
+     "ocr_line": 41686,
+     "page": "p. 408",
+     "quote": "bis chronica ab auctore edita esse, primum a. 615, deinde a. 624 et ad nos pervenisse exemplaria editionis utriusque satis constat."
+    }
+   ],
+   "flags": [
+    "several_archetypes",
+    "contamination_at_top"
+   ],
+   "confidence": "medium",
+   "notes": "Top division = two author's editions (a. 615 ordo prior / a. 624 ordo posterior), not branches under one archetype. Mommsen also doubts how much of the difference is the author's rather than the scribes'. C, Y and Z (assigned to the first edition) and B, F, K and V (to the second) are contaminated. The OCR sigla list is broken across columns: the A-N list falls before the heading 'IN CHRONICIS MAIORIBUS' and P-Z after it, so check on the page image which sigla apply to the maiora and which to the epitome.",
+   "classification_A3": "explicit"
+  },
+  {
+   "volume": "AA 11",
+   "ia_id": "monumentagermani11gese",
+   "text_id": "isidorus_chronicorum_epitome",
+   "work": "Isidori chronicorum epitome (Etymologiae 5,38-39), ed. a. 627",
+   "editor": "Theodor Mommsen",
+   "year": 1894,
+   "text_lines": [
+    42747,
+    50157
+   ],
+   "preface_lines": [
+    41951,
+    42746
+   ],
+   "sigla": [
+    {
+     "siglum": "A",
+     "manuscript": "not resolved from OCR (Etymologiae codex)",
+     "date_if_given": null,
+     "role": "direct"
+    },
+    {
+     "siglum": "B",
+     "manuscript": "not resolved from OCR",
+     "date_if_given": null,
+     "role": "direct"
+    },
+    {
+     "siglum": "C",
+     "manuscript": "codex Q II 24 (elenchus no. 135)",
+     "date_if_given": "saec. VIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "D",
+     "manuscript": "not resolved from OCR",
+     "date_if_given": null,
+     "role": "direct"
+    },
+    {
+     "siglum": "E",
+     "manuscript": "elenchus no. 203, n. 167",
+     "date_if_given": "saec. IX ex.",
+     "role": "direct"
+    },
+    {
+     "siglum": "H",
+     "manuscript": "not resolved from OCR",
+     "date_if_given": null,
+     "role": "direct"
+    },
+    {
+     "siglum": "M",
+     "manuscript": "Ambrosianus L 99 sup. (olim Bobiensis)",
+     "date_if_given": "saec. VIII/IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "P",
+     "manuscript": "Parisinus 7530",
+     "date_if_given": "saec. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "Q",
+     "manuscript": "not resolved from OCR",
+     "date_if_given": null,
+     "role": "direct"
+    },
+    {
+     "siglum": "W",
+     "manuscript": "not resolved from OCR",
+     "date_if_given": null,
+     "role": "direct"
+    },
+    {
+     "siglum": "X",
+     "manuscript": "Phillippsianus 137 = 1896",
+     "date_if_given": "saec. IX",
+     "role": "direct"
+    }
+   ],
+   "apparatus": "mixed_sigla",
+   "filiation_stated": "none",
+   "top_branches": [],
+   "deeper_groups": [],
+   "evidence": [
+    {
+     "ocr_line": 41977,
+     "page": "p. 410",
+     "quote": "huius cum prae illis exigua utilitas sit ... sufficiet de libris scriptis pauca adnotavisse. eorum duo genera sunt, alterum etymologiarum ipsarum, alterum chronicorum inde seorsum descriptorum"
+    }
+   ],
+   "flags": [],
+   "confidence": "medium",
+   "notes": "Printed in parallel with the chronica maiora; the epitome sigla (A B C D E H M P Q W, sometimes X) come from the page heads. Mommsen sorts the codices into Etymologiae copies vs separately copied chronicles and by subscription (Reccesvinth X), but states no filiation. Most epitome shelfmarks were not resolved from the OCR.",
+   "classification_A3": "none"
+  }
+ ],
+ "skipped": [
+  {
+   "piece": "Hydatius Lemicus, continuatio chronicorum Hieronymianorum (lines 123-2780)",
+   "reason": "single manuscript: one full codex (B, Berolinensis Phillipps., number garbled in OCR, saec. IX), plus the Hispana (H) and Fredegariana (F) epitomes and the Montpellier excerpts (M), all indirect"
+  },
+  {
+   "piece": "Additamentum (auctarium) ad Marcellinum a. 534-548 (lines 8491-8882)",
+   "reason": "single manuscript: preserved only in T (Tilianus) and its descendant epitome (U, R)"
+  },
+  {
+   "piece": "Chronicorum Caesaraugustanorum reliquiae (lines 24465-24655)",
+   "reason": "marginal notes known only from the Alcobaciensis tradition (absent from the Soriensis); no independent tradition"
+  },
+  {
+   "piece": "Marius Aventicensis, chronica (lines 24656-25753)",
+   "reason": "single manuscript: 'unicus codex' (London)"
+  },
+  {
+   "piece": "Isidori historiarum Add. I, Dedicatio ad Sisenandum (lines 33414-33468)",
+   "reason": "fragment of 1 page; codex M and Lucas Tudensis only"
+  },
+  {
+   "piece": "Add. II, Additamenta Pelagiana (lines 33469-33756)",
+   "reason": "single manuscript O (with apograph [O]); no filiation"
+  },
+  {
+   "piece": "Add. III, Exordia Scythica (lines 33757-35059)",
+   "reason": "two codices (Laurentianus, Bambergensis) printed in parallel; no stemma"
+  },
+  {
+   "piece": "Add. IV, Continuatio Byzantia Arabica a. 741 (lines 35060-38936)",
+   "reason": "single lost source (Soriensis) known only through Perezian apographs E, F"
+  },
+  {
+   "piece": "Add. V, Continuatio Hispana a. 754 (lines 35060-38936)",
+   "reason": "the archetype (Alcobaciensis A, fragmentary) is extant; M and P descend from a lost apograph of it, and the Perezian F is close to M. No division below the archetype"
+  },
+  {
+   "piece": "Add. VI, Epitome Ovetensis (lines 39030-39402)",
+   "reason": "Albeldensis (a. 976) plus apographs (Aemilianensis described from it); no division"
+  },
+  {
+   "piece": "Add. VII, Compilatio cod. Matr. F 86 (lines 39403-39438)",
+   "reason": "single manuscript"
+  },
+  {
+   "piece": "Add. VIII, Historia Pseudo-Isidoriana (lines 39439-40232)",
+   "reason": "single manuscript (Parisinus 6113)"
+  },
+  {
+   "piece": "Add. IX, De proprietatibus gentium (lines 40233-40390)",
+   "reason": "fragment of about 2 pages (short lists in two forms); no filiation"
+  },
+  {
+   "piece": "Isidori chronica, Add. I-IV (auctarium a. 624, additamenta ex codicibus diversis, chronica sub nomine Augustini et Hieronymi, additamenta ad epitomen; lines 50158-51180)",
+   "reason": "short additions, each from one or two codices or a derivative recension (Ps.-Augustine/Jerome is close to CDEXZ); no separate stemma"
+  }
+ ],
+ "reader": "agent",
+ "date": "2026-11-13"
+}

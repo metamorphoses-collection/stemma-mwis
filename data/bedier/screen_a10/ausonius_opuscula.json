@@ -1,0 +1,25 @@
+{
+ "stemma_witnesses": "TMCVPQGBWRZ",
+ "cited": {
+  "T": 1173,
+  "M": 601,
+  "C": 114,
+  "V": 2355,
+  "P": 1312,
+  "Q": 105,
+  "G": 264,
+  "B": 269,
+  "W": 67,
+  "R": 79,
+  "Z": 190
+ },
+ "analysis_witnesses": "TMCVPQGBWRZ",
+ "units_with_shared_departure": 397,
+ "included": true,
+ "exclusion": [],
+ "editor_top": [
+  "TMC",
+  "VPQGBWR"
+ ],
+ "k_E": 2
+}

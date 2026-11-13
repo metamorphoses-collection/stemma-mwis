@@ -1,0 +1,267 @@
+{
+ "volume": "AA 6.1",
+ "ia_id": "p1monumentagerma06geseuoft",
+ "texts": [
+  {
+   "volume": "AA 6.1",
+   "ia_id": "p1monumentagerma06geseuoft",
+   "text_id": "symmachus_epistulae",
+   "work": "Q. Aurelius Symmachus, Epistulae libri X",
+   "editor": "O. Seeck",
+   "year": 1883,
+   "text_lines": [
+    13270,
+    31470
+   ],
+   "preface_lines": [
+    1393,
+    2569
+   ],
+   "sigla": [
+    {
+     "siglum": "P",
+     "manuscript": "Parisinus lat. 8623",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "P 2 m.",
+     "manuscript": "second hand of P (used a codex of the VMF family up to book VII)",
+     "date_if_given": null,
+     "role": "corrector_hand"
+    },
+    {
+     "siglum": "V",
+     "manuscript": "Vaticanus Palatinus 1576",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "M",
+     "manuscript": "Montepessulanus H 4, pars prior (pars altera = florilegium F)",
+     "date_if_given": "s. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "F",
+     "manuscript": "florilegium family (consensus; in books VIII-X F1 F2 F3)",
+     "date_if_given": null,
+     "role": "direct"
+    },
+    {
+     "siglum": "F1",
+     "manuscript": "editio florilegii Argentoratensis 1510 (copy of a lost codex)",
+     "date_if_given": "1510",
+     "role": "indirect"
+    },
+    {
+     "siglum": "F2",
+     "manuscript": "florilegium codex Parisinus lat. 8559",
+     "date_if_given": "s. XII/XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "F3",
+     "manuscript": "florilegium codex Vaticanus Reginae 1575",
+     "date_if_given": "s. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "Π",
+     "manuscript": "codex Divionensis (lost; known through Iuretus' edition; apograph of P, corrected from the florilegium)",
+     "date_if_given": null,
+     "role": "indirect"
+    },
+    {
+     "siglum": "(Π)/(Π)2",
+     "manuscript": "Iureti editio prior / altera",
+     "date_if_given": null,
+     "role": "indirect"
+    },
+    {
+     "siglum": "Γ",
+     "manuscript": "codex Huberti Giphanii (lost; known through Scioppius)",
+     "date_if_given": null,
+     "role": "indirect"
+    },
+    {
+     "siglum": "(Γ)",
+     "manuscript": "Scioppii editio",
+     "date_if_given": null,
+     "role": "indirect"
+    },
+    {
+     "siglum": "Φ",
+     "manuscript": "codex Fuldensis (lost; known through Scioppius)",
+     "date_if_given": null,
+     "role": "indirect"
+    },
+    {
+     "siglum": "A",
+     "manuscript": "Ausonian recension of epp. I 14, 25, 31, 32 (codices of Ausonius)",
+     "date_if_given": null,
+     "role": "indirect"
+    }
+   ],
+   "apparatus": "negative_sigla",
+   "filiation_stated": "diagram",
+   "top_branches": [
+    [
+     "P",
+     "Π"
+    ],
+    [
+     "V",
+     "M",
+     "F",
+     "F1",
+     "F2",
+     "F3",
+     "Γ",
+     "Φ"
+    ]
+   ],
+   "deeper_groups": [
+    [
+     "V",
+     "M"
+    ],
+    [
+     "F1",
+     "F2",
+     "F3"
+    ],
+    [
+     "Γ",
+     "Φ"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 1999,
+     "page": "p. XXXII",
+     "quote": "si igitur ultimam illam partem mittamus, ubi P 2 m. nullius plane auctoritatis est, efficitur stemma codicum hoc: Archetypus | P | ... | V M | F (diagram garbled)"
+    },
+    {
+     "ocr_line": 1943,
+     "page": "p. XXXI",
+     "quote": "quibus cum accedat, quod epistulae II 40 et 51 in V et F altera post III 42 altera post III 40 insertae sunt, iam de cognatione eorum dubitari nequit."
+    },
+    {
+     "ocr_line": 2551,
+     "page": "p. XXXIX",
+     "quote": "archetypum, ex quo classis deterior pendet, eius simillimum fuisse, ex quo P fluxit; nunc vero ... non solum similem, sed etiam eundem fuisse statuemus, postquam P ex eo descriptus est"
+    },
+    {
+     "ocr_line": 2399,
+     "page": "p. XXXVII",
+     "quote": "Et inter se quidem Γ et Φ artiore vinculo cohaerere videntur, quam cum VMF"
+    }
+   ],
+   "flags": [
+    "diagram_garbled_in_ocr"
+   ],
+   "confidence": "medium",
+   "notes": "Two stemmata printed (p. XXXII partial, p. XXXVII complete), both garbled in OCR; reconstructed from the text: P vs. the 'classis deterior' (VMF + Γ Φ) copied from the same archetype after it was corrected. Π placed with P because the preface calls the Divionensis an apograph of the Parisinus (footnote 41, line ~1405) — verify on the page image whether the diagram hangs Π under P. Only P, V, M, F are extant direct witnesses.",
+   "classification_A3": "explicit"
+  },
+  {
+   "volume": "AA 6.1",
+   "ia_id": "p1monumentagerma06geseuoft",
+   "text_id": "symmachus_relationes",
+   "work": "Q. Aurelius Symmachus, Relationes",
+   "editor": "O. Seeck",
+   "year": 1883,
+   "text_lines": [
+    31471,
+    34296
+   ],
+   "preface_lines": [
+    705,
+    1392
+   ],
+   "sigla": [
+    {
+     "siglum": "T",
+     "manuscript": "Monacensis 18787 (olim Tegernseensis)",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "M",
+     "manuscript": "Mettensis 500",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "Γ",
+     "manuscript": "editio princeps Sigismundi Gelenii, Basel 1549 (from a lost codex; OCR shows F/r/Γ)",
+     "date_if_given": "1549",
+     "role": "indirect"
+    },
+    {
+     "siglum": "A",
+     "manuscript": "Ambrosian recension of relatio III (codices of Ambrose's letters)",
+     "date_if_given": null,
+     "role": "indirect"
+    },
+    {
+     "siglum": "S",
+     "manuscript": "Symmachian recension (consensus TMΓ) in relatio III",
+     "date_if_given": null,
+     "role": "direct"
+    }
+   ],
+   "apparatus": "mixed_sigla",
+   "filiation_stated": "diagram",
+   "top_branches": [
+    [
+     "T",
+     "M"
+    ],
+    [
+     "Γ"
+    ]
+   ],
+   "deeper_groups": [],
+   "evidence": [
+    {
+     "ocr_line": 1261,
+     "page": "p. XX",
+     "quote": "utrum codex eius ex diverso archetypo descriptus sit, quam ex quo T et M fluxerunt, an ex eodem."
+    },
+    {
+     "ocr_line": 1269,
+     "page": "p. XX",
+     "quote": "nihilominus credo, Γ non meliorem quidem fontem esse, quam T et M, sed tamen ex communi horum archetypo non pendentem"
+    },
+    {
+     "ocr_line": 1384,
+     "page": "p. XXI",
+     "quote": "tamen semper quoque ex fonte genuino ab archetypo codicum T et M diverso derivata esse potest."
+    },
+    {
+     "ocr_line": 793,
+     "page": "p. XVII",
+     "quote": "commuuis utriusque editionis archetypus nullus alius est, quam autographum ipsum auctoris"
+    }
+   ],
+   "flags": [
+    "multiple_sections_different_witnesses",
+    "diagram_garbled_in_ocr"
+   ],
+   "confidence": "medium",
+   "notes": "Small 'Stemma codicum' printed above the text (line ~31482, garbled: 'T M'). Only two direct codices; the second branch is Gelenius' edition. For relatio III a separate higher split exists: Ambrosian recension (A) vs Symmachian edition (TMΓ), both from the autograph.",
+   "classification_A3": "explicit"
+  }
+ ],
+ "skipped": [
+  {
+   "text_id": "symmachus_orationes",
+   "work": "Q. Aurelius Symmachus, Orationum quae supersunt (OCR 34297-35949)",
+   "reason": "single manuscript (Bobbio palimpsest, Milan/Vatican); preface pp. III-XVI"
+  }
+ ],
+ "reader": "agent",
+ "date": "2026-11-13"
+}

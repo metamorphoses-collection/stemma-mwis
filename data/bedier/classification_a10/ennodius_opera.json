@@ -1,0 +1,97 @@
+{
+ "stemma_witnesses": "BVLTCOP",
+ "cited": {
+  "B": 6334,
+  "V": 2076,
+  "L": 1028,
+  "T": 571,
+  "C": 786,
+  "O": 49,
+  "P": 532
+ },
+ "analysis_witnesses": "BVLTCOP",
+ "units_with_shared_departure": 1321,
+ "included": true,
+ "exclusion": [],
+ "editor_top": [
+  "B",
+  "VLTCOP"
+ ],
+ "k_E": 2,
+ "status": "OPTIMAL",
+ "weight": 757.0,
+ "branches": [
+  {
+   "branch": "B",
+   "status": "single_witness"
+  },
+  {
+   "branch": "VLTCOP",
+   "status": "contradicted",
+   "by": [
+    "BVL",
+    "BVLT"
+   ]
+  }
+ ],
+ "classification": "contradicted",
+ "k_D": 2,
+ "k_D_bootstrap": {
+  "2": 0.93,
+  "3": 0.07
+ },
+ "stable_families": [
+  [
+   "CP",
+   249,
+   1.0
+  ],
+  [
+   "VL",
+   222,
+   1.0
+  ],
+  [
+   "BVL",
+   211,
+   1.0
+  ],
+  [
+   "BVLT",
+   71,
+   1.0
+  ],
+  [
+   "BVLTCP",
+   4,
+   0.905
+  ]
+ ],
+ "mwis": [
+  [
+   "CP",
+   249,
+   1.0
+  ],
+  [
+   "VL",
+   222,
+   1.0
+  ],
+  [
+   "BVL",
+   211,
+   1.0
+  ],
+  [
+   "BVLT",
+   71,
+   1.0
+  ],
+  [
+   "BVLTCP",
+   4,
+   0.905
+  ]
+ ]
+}

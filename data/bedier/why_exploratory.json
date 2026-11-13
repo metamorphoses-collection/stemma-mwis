@@ -1,0 +1,507 @@
+{
+ "sidonius_carmina": {
+  "merge_inside_share": 0.0,
+  "merge_null_mean": 0.47435897435897434,
+  "merge_p": 1.0,
+  "choice_informative": false,
+  "editor_top": [
+   "M",
+   "TCFP"
+  ],
+  "classification": "supported",
+  "k_D": 2,
+  "blocks": [
+   "CFPT",
+   "M"
+  ],
+  "joins": {
+   "across": 78
+  },
+  "text_follows": {
+   "M": 203,
+   "CFPT": 348
+  },
+  "split_units": 551
+ },
+ "eugippius_vita_severini": {
+  "merge_inside_share": 0.0,
+  "merge_null_mean": 0.3870967741935484,
+  "merge_p": 1.0,
+  "choice_informative": false,
+  "editor_top": [
+   "L",
+   "VMD"
+  ],
+  "classification": "supported",
+  "k_D": 2,
+  "blocks": [
+   "DMV",
+   "L"
+  ],
+  "joins": {
+   "across": 62
+  },
+  "text_follows": {
+   "L": 287,
+   "DMV": 248
+  },
+  "split_units": 535
+ },
+ "marcellinus_comes_chronicon": {
+  "merge_inside_share": 0.0,
+  "merge_null_mean": 0.430327868852459,
+  "merge_p": 1.0,
+  "choice_informative": false,
+  "editor_top": [
+   "S",
+   "TUR"
+  ],
+  "classification": "supported",
+  "k_D": 2,
+  "blocks": [
+   "RTU",
+   "S"
+  ],
+  "joins": {
+   "across": 61
+  },
+  "text_follows": {
+   "RTU": 542,
+   "S": 132
+  },
+  "split_units": 674
+ },
+ "victor_vitensis_historia": {
+  "merge_inside_share": 0.0,
+  "merge_null_mean": 0.2697352333706551,
+  "merge_p": 1.0,
+  "choice_informative": false,
+  "editor_top": [
+   "BLV",
+   "R"
+  ],
+  "classification": "supported",
+  "k_D": 2,
+  "blocks": [
+   "BLRV",
+   "A"
+  ],
+  "joins": {
+   "across": 10,
+   "outside_top": 38
+  },
+  "text_follows": {
+   "R": 439,
+   "BLV": 592
+  },
+  "split_units": 1031
+ },
+ "ennodius_opera": {
+  "merge_inside_share": 0.5,
+  "merge_null_mean": 0.6050420168067226,
+  "merge_p": 0.8571428571428571,
+  "choice_informative": false,
+  "editor_top": [
+   "B",
+   "VLTCOP"
+  ],
+  "classification": "contradicted",
+  "k_D": 2,
+  "blocks": [
+   "BCLPTV",
+   "O"
+  ],
+  "joins": {
+   "inside_CLOPTV": 17,
+   "inside": 17,
+   "across": 17
+  },
+  "text_follows": {
+   "CLOPTV": 5377,
+   "B": 146
+  },
+  "split_units": 5523
+ },
+ "fortunatus_vita_martini": {
+  "merge_inside_share": 0.4472843450479233,
+  "merge_null_mean": 0.2935874030123231,
+  "merge_p": 0.14285714285714285,
+  "choice_informative": true,
+  "editor_top": [
+   "PTF",
+   "NBLMS"
+  ],
+  "classification": "contradicted",
+  "k_D": 4,
+  "blocks": [
+   "NP",
+   "BLMS",
+   "F",
+   "T"
+  ],
+  "joins": {
+   "across": 173,
+   "inside_FPT": 17,
+   "inside": 140,
+   "inside_BLMNS": 123
+  },
+  "text_follows": {
+   "FPT": 185,
+   "BLMNS": 20
+  },
+  "split_units": 205
+ },
+ "paulus_historia_romana": {
+  "merge_inside_share": 0.3485714285714286,
+  "merge_null_mean": 0.25942857142857145,
+  "merge_p": 0.26666666666666666,
+  "choice_informative": true,
+  "editor_top": [
+   "HVBM",
+   "NZ"
+  ],
+  "classification": "contradicted",
+  "k_D": 2,
+  "blocks": [
+   "MNZ",
+   "BHV"
+  ],
+  "joins": {
+   "inside_BHMV": 61,
+   "inside": 61,
+   "across": 114
+  },
+  "text_follows": {
+   "NZ": 59,
+   "BHMV": 289
+  },
+  "split_units": 348
+ },
+ "prosper_epitoma_chronicon": {
+  "merge_inside_share": 0.38414634146341464,
+  "merge_null_mean": 0.11808171170189516,
+  "merge_p": 0.018448218448218447,
+  "choice_informative": true,
+  "editor_top": [
+   "AORV",
+   "MY"
+  ],
+  "classification": "contradicted",
+  "k_D": 8,
+  "blocks": [
+   "MY",
+   "FPXZ",
+   "ACV",
+   "H",
+   "R",
+   "D",
+   "O",
+   "B"
+  ],
+  "joins": {
+   "outside_top": 320,
+   "across": 101,
+   "inside_AORV": 63,
+   "inside": 63
+  },
+  "text_follows": {
+   "AORV": 128,
+   "MY": 93
+  },
+  "split_units": 221
+ },
+ "claudianus_maior": {
+  "merge_inside_share": 0.16517493897477625,
+  "merge_null_mean": 0.3740878504914307,
+  "merge_p": 0.9920634920634921,
+  "choice_informative": true,
+  "editor_top": [
+   "VPGM",
+   "CBAJR"
+  ],
+  "classification": "partly_silent",
+  "k_D": 7,
+  "blocks": [
+   "PV",
+   "AB",
+   "M",
+   "R",
+   "J",
+   "G",
+   "C"
+  ],
+  "joins": {
+   "across": 1026,
+   "inside_ABCJR": 153,
+   "inside": 203,
+   "inside_GMPV": 50
+  },
+  "text_follows": {
+   "GMPV": 25,
+   "ABCJR": 7
+  },
+  "split_units": 32
+ },
+ "claudianus_raptus_proserpinae": {
+  "merge_inside_share": 0.4158878504672897,
+  "merge_null_mean": 0.3320260347129506,
+  "merge_p": 0.17857142857142858,
+  "choice_informative": true,
+  "editor_top": [
+   "FVS",
+   "CABDW"
+  ],
+  "classification": "partly_silent",
+  "k_D": 7,
+  "blocks": [
+   "BC",
+   "S",
+   "V",
+   "A",
+   "D",
+   "W",
+   "F"
+  ],
+  "joins": {
+   "across": 375,
+   "inside_ABCDW": 153,
+   "inside": 267,
+   "inside_FSV": 114
+  },
+  "text_follows": {
+   "ABCDW": 128,
+   "FSV": 26
+  },
+  "split_units": 154
+ },
+ "historia_brittonum": {
+  "merge_inside_share": 0.25925925925925924,
+  "merge_null_mean": 0.2141414141414141,
+  "merge_p": 0.3575757575757576,
+  "choice_informative": true,
+  "editor_top": [
+   "HKPQDCGL",
+   "ZMN"
+  ],
+  "classification": "partly_silent",
+  "k_D": 4,
+  "blocks": [
+   "MN",
+   "CDGLPQ",
+   "HK",
+   "Z"
+  ],
+  "joins": {
+   "across": 140,
+   "inside_CDGHKLPQ": 29,
+   "inside": 49,
+   "inside_MNZ": 20
+  },
+  "text_follows": {
+   "MNZ": 243,
+   "CDGHKLPQ": 481
+  },
+  "split_units": 724
+ },
+ "isidorus_chronica_maiora": {
+  "merge_inside_share": 0.44310344827586207,
+  "merge_null_mean": 0.27914987068965513,
+  "merge_p": 0.00015,
+  "choice_informative": true,
+  "editor_top": [
+   "ACDEGLMNTXYZ",
+   "BFKPSVW"
+  ],
+  "classification": "partly_silent",
+  "k_D": 11,
+  "blocks": [
+   "CZ",
+   "KV",
+   "NTY",
+   "BFPSW",
+   "E",
+   "L",
+   "M",
+   "X",
+   "A",
+   "D",
+   "G"
+  ],
+  "joins": {
+   "across": 646,
+   "inside_ACDEGLMNTXYZ": 453,
+   "inside": 514,
+   "inside_BFKPSVW": 61
+  },
+  "text_follows": {
+   "ACDEGLMNTXYZ": 86,
+   "BFKPSVW": 22
+  },
+  "split_units": 108
+ },
+ "isidorus_historia_gothorum": {
+  "merge_inside_share": 0.9017632241813602,
+  "merge_null_mean": 0.7083123425692694,
+  "merge_p": 0.4,
+  "choice_informative": false,
+  "editor_top": [
+   "P",
+   "BNHOXYRMA"
+  ],
+  "classification": "partly_silent",
+  "k_D": 8,
+  "blocks": [
+   "AM",
+   "XY",
+   "N",
+   "H",
+   "R",
+   "O",
+   "P",
+   "B"
+  ],
+  "joins": {
+   "inside_ABHMNORXY": 358,
+   "inside": 358,
+   "across": 39
+  },
+  "text_follows": {
+   "P": 84,
+   "ABHMNORXY": 87
+  },
+  "split_units": 171
+ },
+ "jordanes_romana": {
+  "merge_inside_share": null,
+  "merge_null_mean": null,
+  "merge_p": null,
+  "choice_informative": false,
+  "editor_top": [
+   "HPVL"
+  ],
+  "classification": "partly_silent",
+  "k_D": 2,
+  "blocks": [
+   "HPV",
+   "L"
+  ],
+  "joins": {
+   "inside_HLPV": 62,
+   "inside": 62
+  },
+  "text_follows": {},
+  "split_units": 0
+ },
+ "jordanes_getica": {
+  "merge_inside_share": 0.493801652892562,
+  "merge_null_mean": 0.2577995867768595,
+  "merge_p": 0.03333333333333333,
+  "choice_informative": true,
+  "editor_top": [
+   "HPVLAOB",
+   "XYZ"
+  ],
+  "classification": "contradicted",
+  "k_D": 2,
+  "blocks": [
+   "HLPV",
+   "ABOXYZ"
+  ],
+  "joins": {
+   "inside_ABHLOPV": 239,
+   "inside": 239,
+   "across": 245
+  },
+  "text_follows": {
+   "ABHLOPV": 341,
+   "XYZ": 139
+  },
+  "split_units": 480
+ },
+ "cassiodorus_variae": {
+  "merge_inside_share": 0.5400611620795107,
+  "merge_null_mean": 0.13071998098986662,
+  "merge_p": 0.0,
+  "choice_informative": true,
+  "editor_top": [
+   "MONXZEF",
+   "LRKPD"
+  ],
+  "classification": "contradicted",
+  "k_D": 10,
+  "blocks": [
+   "GH",
+   "TU",
+   "EFK",
+   "NZ",
+   "DLPR",
+   "X",
+   "M",
+   "O",
+   "B",
+   "C"
+  ],
+  "joins": {
+   "inside_EFMNOXZ": 751,
+   "inside": 883,
+   "across": 752,
+   "outside_top": 585,
+   "inside_DKLPR": 132
+  },
+  "text_follows": {
+   "DKLPR": 315,
+   "EFMNOXZ": 130
+  },
+  "split_units": 445
+ },
+ "eutropius_breviarium": {
+  "merge_inside_share": 0.5290697674418605,
+  "merge_null_mean": 0.21511627906976746,
+  "merge_p": 0.1,
+  "choice_informative": true,
+  "editor_top": [
+   "GFD",
+   "LO"
+  ],
+  "classification": "contradicted",
+  "k_D": 2,
+  "blocks": [
+   "FG",
+   "DLO"
+  ],
+  "joins": {
+   "across": 81,
+   "inside_DFG": 91,
+   "inside": 91
+  },
+  "text_follows": {
+   "DFG": 938,
+   "LO": 258
+  },
+  "split_units": 1196
+ },
+ "sidonius_epistulae": {
+  "merge_inside_share": 0.0,
+  "merge_null_mean": 0.4283699943598421,
+  "merge_p": 1.0,
+  "choice_informative": false,
+  "editor_top": [
+   "L",
+   "MTCFP"
+  ],
+  "classification": "supported",
+  "k_D": 2,
+  "blocks": [
+   "CFMPT",
+   "L"
+  ],
+  "joins": {
+   "across": 591
+  },
+  "text_follows": {
+   "L": 1264,
+   "CFMPT": 697
+  },
+  "split_units": 1961
+ }
+}

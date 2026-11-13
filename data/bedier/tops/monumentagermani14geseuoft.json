@@ -1,0 +1,640 @@
+{
+ "volume": "AA 14",
+ "ia_id": "monumentagermani14geseuoft",
+ "texts": [
+  {
+   "volume": "AA 14",
+   "ia_id": "monumentagermani14geseuoft",
+   "text_id": "dracontius_laudes_dei",
+   "work": "Blossius Aemilius Dracontius, De laudibus Dei (libri I-III)",
+   "editor": "F. Vollmer",
+   "year": 1905,
+   "text_lines": [
+    7498,
+    14770
+   ],
+   "preface_lines": [
+    700,
+    3413
+   ],
+   "sigla": [
+    {
+     "siglum": "B",
+     "manuscript": "Bruxellensis bibl. reg. 10615-729 (pars 10723), olim Nicolai Cusani",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "B2",
+     "manuscript": "corrector of B (librarius ipse, later ink)",
+     "date_if_given": "s. XII",
+     "role": "corrector_hand"
+    },
+    {
+     "siglum": "M",
+     "manuscript": "Vaticanus lat. 3853 (ex B descriptus)",
+     "date_if_given": "s. XV",
+     "role": "direct"
+    },
+    {
+     "siglum": "V",
+     "manuscript": "Vaticanus lat. 5884 (OCR '588 1'/'6884'; ex M correcto descriptus)",
+     "date_if_given": "s. XV",
+     "role": "direct"
+    },
+    {
+     "siglum": "R",
+     "manuscript": "Rehdigeranus bybl. municip. Vratisl. 59 (ex V descriptus)",
+     "date_if_given": "s. XV",
+     "role": "direct"
+    },
+    {
+     "siglum": "U",
+     "manuscript": "Vaticanus Urbinas lat. (no. garbled in OCR) (ex R descriptus)",
+     "date_if_given": "a. 1481",
+     "role": "direct"
+    },
+    {
+     "siglum": "C",
+     "manuscript": "centones Claromontani, cod. Berolinensis Meerman-Phillipps 1824 (excerpta)",
+     "date_if_given": "s. IX",
+     "role": "indirect"
+    },
+    {
+     "siglum": "A",
+     "manuscript": "excerpta Alconii (Alcuini) levitae De laude dei, cod. Bambergensis B II 10 (libri II-III only)",
+     "date_if_given": "s. X",
+     "role": "indirect"
+    },
+    {
+     "siglum": "G",
+     "manuscript": "florilegium/heptaemeron ex versibus Draconti, cod. Paris. lat. 8093 f. 15 (book I only)",
+     "date_if_given": "s. VIII/IX",
+     "role": "indirect"
+    },
+    {
+     "siglum": "Eug",
+     "manuscript": "recensio Eugenii Toletani (hexaemeron = book I v. 118-754; codd. M F P L Q, see eugenius_dracontiana)",
+     "date_if_given": "s. VII",
+     "role": "indirect"
+    }
+   ],
+   "apparatus": "positive_sigla",
+   "filiation_stated": "diagram",
+   "top_branches": [
+    [
+     "B",
+     "M",
+     "V",
+     "R",
+     "U",
+     "A",
+     "C"
+    ],
+    [
+     "Eug",
+     "G"
+    ]
+   ],
+   "deeper_groups": [
+    [
+     "A",
+     "C"
+    ],
+    [
+     "B",
+     "M",
+     "V",
+     "R",
+     "U"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 3316,
+     "page": "p. XXVII",
+     "quote": "praeter G et Eugenium qui extant laudum dei codices ex uno eodemque libro Y fluxisse veri simile est. namque A et C ... redire ad unum exemplar, cui Ω nomen in stemmate esto"
+    },
+    {
+     "ocr_line": 3321,
+     "page": "p. XXVII",
+     "quote": "quare in stemmate B non quasi ex ipso Ω derivatum repraesentavi, sed cum Ω ad idem archetypon Y reduxi"
+    },
+    {
+     "ocr_line": 3307,
+     "page": "p. XXVII",
+     "quote": "ascendere nostros laudum dei codices (namque A et C proximos esse Bruxellensis ..., ut G concinere cum Eug. iam diximus) ad exemplar Hispanum non recentius VII saeculo"
+    },
+    {
+     "ocr_line": 3311,
+     "page": "p. XXVII",
+     "quote": "videntur igitur nostra exemplaria fluxisse aut ex hoc ipso codice nondum laeso aut ex patre eius item Hispano"
+    },
+    {
+     "ocr_line": 2107,
+     "page": "p. XXIV",
+     "quote": "eum qui G composuit ante oculos habuisse illud ipsum lacerum exemplar ex quo Eugenius suum descripsit hexameron"
+    },
+    {
+     "ocr_line": 3387,
+     "page": "p. XXVIII",
+     "quote": "iam codicum stemma ... haec fere evadit imago notitiae: [diagram garbled in OCR: Dracontius / exemplaria Africana / Itala / Hispanum (Isid. Eug. ...) / Anglicum; 'Y', 'B cum nomine Augustini' legible]"
+    }
+   ],
+   "flags": [
+    "diagram_garbled_in_ocr",
+    "multiple_sections_different_witnesses"
+   ],
+   "confidence": "medium",
+   "notes": "Only B (with descripti M V R U, recorded under B) is a full direct witness; C and A are excerpt collections, G a cento poem, Eug Eugenius' reworking of book I; Eug/G cover book I only, A books II-III only. Relation Y vs Eugenius' damaged Spanish codex E is left open by the editor (Y from E before damage or from E's parent); the OCR renders the siglum Omega as 'Q'/'E'. Check the stemma on p. XXVIII (dMGH).",
+   "classification_A3": "explicit"
+  },
+  {
+   "volume": "AA 14",
+   "ia_id": "monumentagermani14geseuoft",
+   "text_id": "dracontius_satisfactio",
+   "work": "Blossius Aemilius Dracontius, Satisfactio",
+   "editor": "F. Vollmer",
+   "year": 1905,
+   "text_lines": [
+    14771,
+    15974
+   ],
+   "preface_lines": [
+    3414,
+    3492
+   ],
+   "sigla": [
+    {
+     "siglum": "V",
+     "manuscript": "Vaticanus Reginensis lat. 1267, fol. 143-150 (Beneventan script)",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "V2",
+     "manuscript": "manus secunda antiqua in V",
+     "date_if_given": "",
+     "role": "corrector_hand"
+    },
+    {
+     "siglum": "D",
+     "manuscript": "Darmstadensis 3303 (only v. 1-80, partly illegible)",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "Eug",
+     "manuscript": "recensio Eugenii Toletani (codd. M F P; printed in parallel)",
+     "date_if_given": "s. VII",
+     "role": "indirect"
+    }
+   ],
+   "apparatus": "positive_sigla",
+   "filiation_stated": "diagram",
+   "top_branches": [
+    [
+     "V",
+     "D"
+    ],
+    [
+     "Eug"
+    ]
+   ],
+   "deeper_groups": [],
+   "evidence": [
+    {
+     "ocr_line": 3449,
+     "page": "p. XXIX",
+     "quote": "Vaticani frater Gallicus est codex nunc Darmstadensis 3303"
+    },
+    {
+     "ocr_line": 3465,
+     "page": "p. XXIX",
+     "quote": "docent, Darmstadensem non ex Vaticano esse descriptum"
+    },
+    {
+     "ocr_line": 3472,
+     "page": "p. XXIX",
+     "quote": "iamque in satisfactione hoc imaginandum est stemma memoriae: Dracontius / V D [rest of diagram lost in OCR]"
+    },
+    {
+     "ocr_line": 3479,
+     "page": "p. XXIX",
+     "quote": "neque enim ulla in V vel D vitia nos docent hos codices affinitate iungi cum vetere illo exemplari Hispano E"
+    }
+   ],
+   "flags": [
+    "diagram_garbled_in_ocr"
+   ],
+   "confidence": "low",
+   "notes": "Grouping V+D rests on 'frater' (common parent) and on V, D being unrelated to the Spanish exemplar behind Eugenius; the diagram survives in OCR only as 'Dracontius / V D'. D is a fragment (v. 1-80) and Eug a free reworking, so V is the only full direct witness. Check p. XXIX diagram.",
+   "classification_A3": "explicit"
+  },
+  {
+   "volume": "AA 14",
+   "ia_id": "monumentagermani14geseuoft",
+   "text_id": "dracontius_orestis",
+   "work": "Dracontius, Orestis tragoedia",
+   "editor": "F. Vollmer",
+   "year": 1905,
+   "text_lines": [
+    20983,
+    23399
+   ],
+   "preface_lines": [
+    3691,
+    4040
+   ],
+   "sigla": [
+    {
+     "siglum": "B",
+     "manuscript": "Bernensis Bongarsianus 45, fol. 52-59",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "A",
+     "manuscript": "Ambrosianus O 74 sup. (apographon codicis Enochi Asculani, interpolatus)",
+     "date_if_given": "s. XV",
+     "role": "direct"
+    },
+    {
+     "siglum": "floril.",
+     "manuscript": "florilegium 'Proverbia Horestis' (codd. Leidensis Voss./Vulc. 48, Berolinensis Santen. 60, Harleianus 2745, frg. Buxheim; sub-sigla L X H D in its own apparatus)",
+     "date_if_given": "s. XI/XII (codd. s. XIII-XIV)",
+     "role": "indirect"
+    }
+   ],
+   "apparatus": "positive_sigla",
+   "filiation_stated": "diagram",
+   "top_branches": [
+    [
+     "B",
+     "A"
+    ],
+    [
+     "floril."
+    ]
+   ],
+   "deeper_groups": [],
+   "evidence": [
+    {
+     "ocr_line": 3823,
+     "page": "p. XXXIV",
+     "quote": "certissimum puto A non ex B fluxisse ..., non minus autem certum, ambo unius stirpis esse"
+    },
+    {
+     "ocr_line": 3949,
+     "page": "p. XXXVI",
+     "quote": "apparet archetypum alienum fuisse a stirpe BA iis locis ubi verum servant florilegia"
+    },
+    {
+     "ocr_line": 3968,
+     "page": "p. XXXVI",
+     "quote": "superest proponere stemma affinitatis in codicibus perspicuae: Dracontius / S exemplar Visigothicum / codex plenus / florilegium / B cod. Enochi [diagram partly garbled]"
+    }
+   ],
+   "flags": [
+    "diagram_garbled_in_ocr"
+   ],
+   "confidence": "medium",
+   "notes": "Only two direct witnesses (B, A); the second branch is a florilegium of ~20 lines, so the text cannot meet the 4-witness threshold. A descends from B's stirps via the lost codex of Enoch of Ascoli.",
+   "classification_A3": "explicit"
+  },
+  {
+   "volume": "AA 14",
+   "ia_id": "monumentagermani14geseuoft",
+   "text_id": "eugenius_dracontiana",
+   "work": "Eugenius Toletanus, Dracontii libelli recensiti (hexaemeron = Laud. dei I recensio, satisfactio recensio, monosticha)",
+   "editor": "F. Vollmer",
+   "year": 1905,
+   "text_lines": [
+    7808,
+    15974
+   ],
+   "preface_lines": [
+    1198,
+    1508
+   ],
+   "sigla": [
+    {
+     "siglum": "M",
+     "manuscript": "Matritensis bybl. nat. 14,22 olim Toletanus (visigoth.)",
+     "date_if_given": "s. IX/X",
+     "role": "direct"
+    },
+    {
+     "siglum": "F",
+     "manuscript": "Parisinus lat. 8093 (olim Nic. Fabri), pars prior (visigoth.)",
+     "date_if_given": "s. VIII/IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "F2",
+     "manuscript": "corrector of F (ex P)",
+     "date_if_given": "",
+     "role": "corrector_hand"
+    },
+    {
+     "siglum": "P",
+     "manuscript": "Parisinus lat. 2832",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "L",
+     "manuscript": "Laudunensis 279 (hexaemeron only)",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "Q",
+     "manuscript": "Laudunensis (no. garbled, '26'?) (hexaemeron only; 'gemelli' with L)",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "Z",
+     "manuscript": "Parisinus lat. 14758 (Sti Victoris 380)",
+     "date_if_given": "s. XIV",
+     "role": "direct"
+    },
+    {
+     "siglum": "Morel",
+     "manuscript": "ed. Moreliana Paris 1560 (ex Z)",
+     "date_if_given": "1560",
+     "role": "indirect"
+    },
+    {
+     "siglum": "Sirmond",
+     "manuscript": "ed. Sirmondi Paris 1619 (ex P)",
+     "date_if_given": "1619",
+     "role": "indirect"
+    },
+    {
+     "siglum": "Lorenzana",
+     "manuscript": "SS. Patres Toletani I, Matriti 1782 (ex M)",
+     "date_if_given": "1782",
+     "role": "indirect"
+    },
+    {
+     "siglum": "Arevalo",
+     "manuscript": "Dracontii carmina rec. F. Arevalo, Romae 1791",
+     "date_if_given": "1791",
+     "role": "indirect"
+    }
+   ],
+   "apparatus": "mixed_sigla",
+   "filiation_stated": "verbal",
+   "top_branches": [
+    [
+     "M"
+    ],
+    [
+     "F",
+     "P",
+     "L",
+     "Q",
+     "Z"
+    ]
+   ],
+   "deeper_groups": [
+    [
+     "F",
+     "P"
+    ],
+    [
+     "L",
+     "Q",
+     "Z"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 1288,
+     "page": "p. XVIII",
+     "quote": "duos libellos, et hexaemeron et satisfactionem, servaverunt M et FP, hexaemeron solum LQ"
+    },
+    {
+     "ocr_line": 1344,
+     "page": "p. XIX",
+     "quote": "demonstrant FP et LQ non fluxisse ex M. ceterum M lectionum integritate longe superat reliquos Eugenianos"
+    },
+    {
+     "ocr_line": 1503,
+     "page": "p. XXI-XXII (footnote, page uncertain)",
+     "quote": "[ad unum] exemplar ... redire docent corruptiones his communes hex. 81 (c)onus 136 tenue (FLQ, tenues P)"
+    },
+    {
+     "ocr_line": 4352,
+     "page": "p. XL",
+     "quote": "neque enim P licet ubique proxime eius vestigia accedat ex F descriptus est, sed exemplar habuit antiquius (Φ), idem scilicet ex quo F fluxit"
+    },
+    {
+     "ocr_line": 7457,
+     "page": "sigla",
+     "quote": "L Laudunensis 279 saec. IX / gemelli v. praef. p. XXI / Q Laudunensis ... saec. IX"
+    }
+   ],
+   "flags": [
+    "multiple_sections_different_witnesses"
+   ],
+   "confidence": "low",
+   "notes": "The body text of pp. XX-XXI (where P, L, Q are discussed) is largely lost in the OCR; the common exemplar of FPLQ against M rests on a footnote whose anchor is garbled. Z: the sigla list says 'ex L descriptus' (OCR '/.'). LQ (and Z) lack the satisfactio. Verify pp. XIX-XXI on dMGH before use.",
+   "classification_A3": "implied"
+  },
+  {
+   "volume": "AA 14",
+   "ia_id": "monumentagermani14geseuoft",
+   "text_id": "eugenius_carmina",
+   "work": "Eugenius Toletanus, Carmina",
+   "editor": "F. Vollmer",
+   "year": 1905,
+   "text_lines": [
+    23579,
+    26545
+   ],
+   "preface_lines": [
+    4044,
+    5616
+   ],
+   "sigla": [
+    {
+     "siglum": "Ma",
+     "manuscript": "Matritensis bybl. nat. 14,22, conlectio prior fol. 53 (visigoth.)",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "Mb",
+     "manuscript": "Matritensis 14,22, conlectio altera fol. 62",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "Λ",
+     "manuscript": "fragmenta Legionensia, León Catedral frg. 8 (OCR 'A'/'.1')",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "L",
+     "manuscript": "Legionensis, León Catedral 22 (nunc 21)",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "F",
+     "manuscript": "Parisinus lat. 8093 (olim Fabri)",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "P",
+     "manuscript": "Parisinus lat. 2832",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "C",
+     "manuscript": "Parisinus lat. 7540 (olim Colbertinus) — florilegium Ψ",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "R",
+     "manuscript": "Vaticanus Reg. lat. 2078 — florilegium Ψ",
+     "date_if_given": "s. IX/X",
+     "role": "direct"
+    },
+    {
+     "siglum": "T",
+     "manuscript": "Parisinus lat. 8071 (olim Thuani) — florilegium Ψ",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "Lips.",
+     "manuscript": "Lipsiensis bybl. senat. XLVIII",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "Brux.",
+     "manuscript": "Bruxellensis 8860-67 (licentissime interpolatus)",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "Harl.",
+     "manuscript": "Harleianus 3685 (two poems)",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    }
+   ],
+   "apparatus": "positive_sigla",
+   "filiation_stated": "diagram",
+   "top_branches": [
+    [
+     "Λ"
+    ],
+    [
+     "M",
+     "Ma",
+     "Mb"
+    ],
+    [
+     "L"
+    ],
+    [
+     "Brux."
+    ],
+    [
+     "Harl.",
+     "Lips."
+    ],
+    [
+     "F",
+     "P",
+     "C",
+     "R",
+     "T"
+    ]
+   ],
+   "deeper_groups": [
+    [
+     "C",
+     "R",
+     "T"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 5525,
+     "page": "p. XLV",
+     "quote": "quattuor illos testes Λ et L et M et ΦF unumquemque sui esse iuris satis probat varietas carminum in singulis conservatorum"
+    },
+    {
+     "ocr_line": 5530,
+     "page": "p. XLV",
+     "quote": "porro cum plane desint vitia duorum testium contra reliquos communia, nihil conicere licet de superiore singulorum affinitate"
+    },
+    {
+     "ocr_line": 5533,
+     "page": "p. XLV",
+     "quote": "at certum est florilegium recentius Ψ non redire ad proprium et ingenuum memoriae rivulum, sed descendere ex Φ, quem fontem codicum FP nominavimus"
+    },
+    {
+     "ocr_line": 5607,
+     "page": "p. XLVI",
+     "quote": "stemma in recensendis carminibus rectam lectiones inter se pensitandi docebit rationem: [diagram lost in OCR]"
+    },
+    {
+     "ocr_line": 5607,
+     "page": "p. XLVI",
+     "quote": "[diagram read on dMGH image mgh_auct_ant_14 leaf 47] Eug. -> Λ, M, L, Brux., Π (Harl., Lips.), Φ (F, Ξ (P, Y (Z (C, R), T)))"
+    }
+   ],
+   "flags": [
+    "diagram_garbled_in_ocr"
+   ],
+   "confidence": "high",
+   "notes": "Editor states four independent sources (Λ, L, M, Φ) and explicitly declines any higher grouping, so k_E = 4 with three single-witness branches. Each source has a different selection of poems (Λ fragmentary). Lips. is assigned to Ψ or Φ; Brux. said to go back to a fuller exemplar (not placed) and Harl. not placed: both left out of the branches. Ma/Mb may or may not share an exemplar (p. XLV n. 3).",
+   "lead_check": "amended to the printed stemma: six-way top; Lips. under Π not Φ; Brux./Harl./Lips. cited only for carm. 5 and 97",
+   "classification_A3": "explicit"
+  }
+ ],
+ "skipped": [
+  {
+   "piece": "Merobaudes, reliquiae (panegyrici, carmina I-IV)",
+   "reason": "single manuscript (palimpsest Sangallensis 908)"
+  },
+  {
+   "piece": "Merobaudes(?), carmen de Christo",
+   "reason": "no manuscript; known only from Fabricius' print (brevissimus apparatus)"
+  },
+  {
+   "piece": "Dracontius, Romulea I-X",
+   "reason": "single manuscript (Neapolitanus IV E 48, N; n a descriptus; florilegium Veronense V indirect)"
+  },
+  {
+   "piece": "Dracontius, De mensibus; De origine rosarum",
+   "reason": "no manuscript; only Corio's printed transcript (1503)"
+  },
+  {
+   "piece": "Dracontius, fragmenta; carmina deperdita",
+   "reason": "fragments/testimonia, no apparatus tradition"
+  },
+  {
+   "piece": "Eugenius Toletanus, Appendix carminum dubiorum et spuriorum",
+   "reason": "mostly single manuscript (M); remaining pieces each in one or two codices; no filiation stated"
+  },
+  {
+   "piece": "Eugenius Toletanus, Epistulae I-IV and fragmenta",
+   "reason": "short letters, each in one codex plus apographa (ep. IV Taionis: M, Baluze's lost codex, T apograph — two sources only)"
+  }
+ ],
+ "reader": "agent",
+ "date": "2026-11-13"
+}

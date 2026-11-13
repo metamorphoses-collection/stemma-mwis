@@ -1,0 +1,32 @@
+{
+ "stemma_witnesses": "LRKPDMONXZTUBEFCHG",
+ "cited": {
+  "L": 672,
+  "R": 918,
+  "K": 2812,
+  "P": 1095,
+  "D": 278,
+  "M": 696,
+  "O": 1269,
+  "N": 2100,
+  "X": 713,
+  "Z": 718,
+  "T": 813,
+  "U": 486,
+  "B": 908,
+  "E": 3592,
+  "F": 3061,
+  "C": 162,
+  "H": 2179,
+  "G": 1323
+ },
+ "analysis_witnesses": "LRKPDMONXZTUBEFCHG",
+ "units_with_shared_departure": 4444,
+ "included": true,
+ "exclusion": [],
+ "editor_top": [
+  "MONXZEF",
+  "LRKPD"
+ ],
+ "k_E": 2
+}

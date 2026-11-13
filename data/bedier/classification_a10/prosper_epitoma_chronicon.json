@@ -1,0 +1,127 @@
+{
+ "stemma_witnesses": "ABCDFHMOPRVXYZ",
+ "cited": {
+  "A": 908,
+  "B": 148,
+  "C": 1187,
+  "D": 41,
+  "F": 242,
+  "H": 402,
+  "M": 856,
+  "O": 356,
+  "P": 293,
+  "R": 281,
+  "V": 1140,
+  "X": 235,
+  "Y": 303,
+  "Z": 289
+ },
+ "analysis_witnesses": "ABCDFHMOPRVXYZ",
+ "units_with_shared_departure": 808,
+ "included": true,
+ "exclusion": [],
+ "editor_top": [
+  "AORV",
+  "MY"
+ ],
+ "k_E": 2,
+ "status": "OPTIMAL",
+ "weight": 329.0,
+ "branches": [
+  {
+   "branch": "AORV",
+   "status": "contradicted",
+   "by": [
+    "AC",
+    "ACV"
+   ]
+  },
+  {
+   "branch": "MY",
+   "status": "supported",
+   "by": "MY"
+  }
+ ],
+ "classification": "contradicted",
+ "k_D": 8,
+ "k_D_bootstrap": {
+  "3": 0.1,
+  "4": 0.545,
+  "5": 0.34,
+  "6": 0.015
+ },
+ "stable_families": [
+  [
+   "MY",
+   122,
+   1.0
+  ],
+  [
+   "AC",
+   108,
+   1.0
+  ],
+  [
+   "FPXZ",
+   27,
+   1.0
+  ],
+  [
+   "FP",
+   25,
+   1.0
+  ],
+  [
+   "ACV",
+   21,
+   1.0
+  ]
+ ],
+ "mwis": [
+  [
+   "MY",
+   122,
+   1.0
+  ],
+  [
+   "AC",
+   108,
+   1.0
+  ],
+  [
+   "FPXZ",
+   27,
+   1.0
+  ],
+  [
+   "FP",
+   25,
+   1.0
+  ],
+  [
+   "ACV",
+   21,
+   1.0
+  ],
+  [
+   "BH",
+   8,
+   0.895
+  ],
+  [
+   "OR",
+   8,
+   0.85
+  ],
+  [
+   "XZ",
+   8,
+   0.695
+  ],
+  [
+   "BFHPXZ",
+   2,
+   0.34
+  ]
+ ]
+}

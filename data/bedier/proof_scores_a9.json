@@ -1,0 +1,55 @@
+{
+ "claudianus_raptus_proserpinae": {
+  "page": 380,
+  "leaf": 613,
+  "printed": 13,
+  "right": 13,
+  "extra": 1,
+  "recall": 1.0,
+  "precision": 0.9285714285714286,
+  "passes": true,
+  "missed": [],
+  "extras": [
+   "SW"
+  ]
+ },
+ "ausonius_opuscula": {
+  "page": 222,
+  "leaf": 286,
+  "printed": 0,
+  "right": 0,
+  "extra": 0,
+  "recall": null,
+  "precision": null,
+  "passes": true,
+  "missed": [],
+  "extras": []
+ },
+ "marcellinus_comes_chronicon": {
+  "page": 62,
+  "leaf": 67,
+  "printed": 6,
+  "right": 4,
+  "extra": 0,
+  "recall": 0.6666666666666666,
+  "precision": 1.0,
+  "passes": true,
+  "missed": [
+   "RSU",
+   "TU"
+  ],
+  "extras": []
+ },
+ "prosper_epitoma_chronicon": {
+  "page": 416,
+  "leaf": 427,
+  "printed": 1,
+  "right": 1,
+  "extra": 0,
+  "recall": 1.0,
+  "precision": 1.0,
+  "passes": true,
+  "missed": [],
+  "extras": []
+ }
+}

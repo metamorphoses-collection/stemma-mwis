@@ -1,0 +1,55 @@
+{
+ "stemma_witnesses": "HPVL",
+ "cited": {
+  "H": 405,
+  "P": 474,
+  "V": 474,
+  "L": 735
+ },
+ "analysis_witnesses": "HPVL",
+ "units_with_shared_departure": 310,
+ "included": true,
+ "exclusion": [],
+ "editor_top": [
+  "HPVL"
+ ],
+ "k_E": 1,
+ "status": "OPTIMAL",
+ "weight": 210.0,
+ "branches": [
+  {
+   "branch": "HPVL",
+   "status": "silent",
+   "by": null
+  }
+ ],
+ "classification": "partly_silent",
+ "k_D": 2,
+ "k_D_bootstrap": {
+  "2": 1.0
+ },
+ "stable_families": [
+  [
+   "HPV",
+   136,
+   1.0
+  ],
+  [
+   "HP",
+   74,
+   1.0
+  ]
+ ],
+ "mwis": [
+  [
+   "HPV",
+   136,
+   1.0
+  ],
+  [
+   "HP",
+   74,
+   1.0
+  ]
+ ]
+}

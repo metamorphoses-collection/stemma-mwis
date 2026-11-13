@@ -1,0 +1,74 @@
+{
+ "stemma_witnesses": "GFLOD",
+ "cited": {
+  "G": 1296,
+  "F": 346,
+  "L": 2160,
+  "O": 1571,
+  "D": 621
+ },
+ "analysis_witnesses": "GFLOD",
+ "units_with_shared_departure": 1547,
+ "included": true,
+ "exclusion": [],
+ "editor_top": [
+  "GFD",
+  "LO"
+ ],
+ "k_E": 2,
+ "status": "OPTIMAL",
+ "weight": 1426.0,
+ "branches": [
+  {
+   "branch": "GFD",
+   "status": "contradicted",
+   "by": [
+    "LOD"
+   ]
+  },
+  {
+   "branch": "LO",
+   "status": "supported",
+   "by": "LO"
+  }
+ ],
+ "classification": "contradicted",
+ "k_D": 2,
+ "k_D_bootstrap": {
+  "2": 1.0
+ },
+ "stable_families": [
+  [
+   "LO",
+   1076,
+   1.0
+  ],
+  [
+   "GF",
+   227,
+   1.0
+  ],
+  [
+   "LOD",
+   123,
+   1.0
+  ]
+ ],
+ "mwis": [
+  [
+   "LO",
+   1076,
+   1.0
+  ],
+  [
+   "GF",
+   227,
+   1.0
+  ],
+  [
+   "LOD",
+   123,
+   1.0
+  ]
+ ]
+}

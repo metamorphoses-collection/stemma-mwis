@@ -1,0 +1,158 @@
+{
+ "volume": "AA 7",
+ "ia_id": "monumentagermani07geseuoft",
+ "texts": [
+  {
+   "volume": "AA 7",
+   "ia_id": "monumentagermani07geseuoft",
+   "text_id": "ennodius_opera",
+   "work": "Magnus Felix Ennodius, Opera (dictiones, epistulae, carmina, opuscula; one corpus with one manuscript tradition)",
+   "editor": "Fridericus Vogel",
+   "year": 1885,
+   "text_lines": [
+    4041,
+    27391
+   ],
+   "preface_lines": [
+    1789,
+    3225
+   ],
+   "sigla": [
+    {
+     "siglum": "B",
+     "manuscript": "Bruxellensis 9845-9848",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "V",
+     "manuscript": "Vaticanus lat. 3803",
+     "date_if_given": "s. IX ex./X in.",
+     "role": "direct"
+    },
+    {
+     "siglum": "L",
+     "manuscript": "Lambethanus 325",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "T",
+     "manuscript": "Trecensis (658 + further fasc.; Clairvaux)",
+     "date_if_given": "s. XII/XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "C",
+     "manuscript": "Vaticanus Reginae (ex bibl. Christinae; shelfmark garbled in OCR)",
+     "date_if_given": "s. XIV",
+     "role": "direct"
+    },
+    {
+     "siglum": "O",
+     "manuscript": "Ottobonianus 687 (ff. 13-28)",
+     "date_if_given": "s. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "P",
+     "manuscript": "Vindobonensis 745",
+     "date_if_given": "s. XV",
+     "role": "direct"
+    },
+    {
+     "siglum": "V2/Va/Vb",
+     "manuscript": "later hands in V",
+     "date_if_given": null,
+     "role": "corrector_hand"
+    },
+    {
+     "siglum": "Pseudo-Isidorus",
+     "manuscript": "decretales Pseudo-Isidorianae (c. 850), excerpts",
+     "date_if_given": "c. 850",
+     "role": "indirect"
+    },
+    {
+     "siglum": "b",
+     "manuscript": "editio princeps Basileae 1569",
+     "date_if_given": "1569",
+     "role": "indirect"
+    }
+   ],
+   "apparatus": "mixed_sigla",
+   "filiation_stated": "diagram",
+   "top_branches": [
+    [
+     "B"
+    ],
+    [
+     "V",
+     "L",
+     "T",
+     "C",
+     "O",
+     "P"
+    ]
+   ],
+   "deeper_groups": [
+    [
+     "L",
+     "O"
+    ],
+    [
+     "C",
+     "P"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 1966,
+     "page": "p. XXXII",
+     "quote": "qui omnes ... in duas partes discedunt: ab altera parte stat unus codex Bruxellensis, ab altera ceteri omnes."
+    },
+    {
+     "ocr_line": 2747,
+     "page": "p. XLI",
+     "quote": "Iam declaravimus non solum L et T ex codice V haustos esse, sed etiam praeter B omnes."
+    },
+    {
+     "ocr_line": 3007,
+     "page": "p. XLV",
+     "quote": "explorato autem omnes Ennodi codices in duas partes distribuendos esse, quarum altera uno efficitur codice B, altera V, ceterorum omnium capite"
+    },
+    {
+     "ocr_line": 3060,
+     "page": "p. XLVI",
+     "quote": "Statuimus igitur codicem B ex ipso archetypo descriptum esse"
+    },
+    {
+     "ocr_line": 3213,
+     "page": "p. XLVIII",
+     "quote": "hoc codicum stemmate illustrentur: [diagram garbled: 'X fortasse Pseudo-Isidorus' ... B ... V ... L ... T C P]"
+    }
+   ],
+   "flags": [
+    "diagram_garbled_in_ocr"
+   ],
+   "confidence": "high",
+   "notes": "Two branches: B alone vs V and all its descendants (L copied from V; T, C, P from a later apograph of V; O allied to L; C and P share an exemplar that often agrees with T but is not derived from T). Pseudo-Isidore drew on an exemplar of the V class older than V (indirect). The printed stemma on p. XLVIII is garbled; check the image for the exact placement of O, C, P and of the lost intermediate (X) between archetype and V.",
+   "classification_A3": "explicit"
+  }
+ ],
+ "skipped": [
+  {
+   "piece": "Epitaphium Ennodi (printed after the preface)",
+   "reason": "inscription, single witness (C.I.L. V 6464)"
+  },
+  {
+   "piece": "Floriani abbatis epistula ad Nicetium (after the preface)",
+   "reason": "single manuscript (Vat. Pal. 869) plus Freher's edition; appendix to preface"
+  },
+  {
+   "piece": "Arnulfi Lexoviensis epistula (after the preface)",
+   "reason": "reprinted from Giles' edition; no manuscript apparatus"
+  }
+ ],
+ "reader": "agent",
+ "date": "2026-11-13"
+}

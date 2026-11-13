@@ -1,0 +1,1100 @@
+{
+ "volume": "AA 9",
+ "ia_id": "monumentagermani09geseuoft",
+ "reader": "agent",
+ "date": "2026-11-13",
+ "texts": [
+  {
+   "volume": "AA 9",
+   "ia_id": "monumentagermani09geseuoft",
+   "text_id": "chronographus_354",
+   "work": "Chronographus anni CCCLIIII (fasti, laterculi, chronica urbis Romae etc.)",
+   "editor": "Theodor Mommsen",
+   "year": 1892,
+   "text_lines": [
+    1590,
+    22560
+   ],
+   "preface_lines": [
+    1617,
+    3260
+   ],
+   "sigla": [
+    {
+     "siglum": "A",
+     "manuscript": "Argentoratensis, iam Bernensis 108",
+     "date_if_given": "saec. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "B",
+     "manuscript": "Bruxellensis 7524-7555 (apographum codicis Luxemburgensis)",
+     "date_if_given": "saec. XVI (c. 1560)",
+     "role": "direct"
+    },
+    {
+     "siglum": "O",
+     "manuscript": "Ambianensis 467 (OCR of the sigla list reads '6'; apparatus footers read O(Ambianensis))",
+     "date_if_given": "saec. XVI",
+     "role": "direct"
+    },
+    {
+     "siglum": "S",
+     "manuscript": "Sangallensis 878 (excerpta)",
+     "date_if_given": "saec. IX",
+     "role": "indirect"
+    },
+    {
+     "siglum": "V",
+     "manuscript": "Vindobonensis 3416",
+     "date_if_given": "saec. XV",
+     "role": "direct"
+    }
+   ],
+   "apparatus": "negative_sigla",
+   "filiation_stated": "verbal",
+   "top_branches": [
+    [
+     "A"
+    ],
+    [
+     "B",
+     "O"
+    ],
+    [
+     "S"
+    ],
+    [
+     "V"
+    ]
+   ],
+   "deeper_groups": [],
+   "evidence": [
+    {
+     "ocr_line": 2942,
+     "page": "p. 33",
+     "quote": "potest e contrario defendi quidquid ex corpore chronographi a. 354 hodie superest proficisci ex uno exemplari Luxemburgensi."
+    },
+    {
+     "ocr_line": 2946,
+     "page": "p. 33",
+     "quote": "ex hoc ipso etsi Bernensis non est descriptus ... omnino potest descriptus esse ex apographo illius mutilato."
+    },
+    {
+     "ocr_line": 2974,
+     "page": "p. 34",
+     "quote": "eo non excludi archetypum commune luculenter ostendit Ambianensis sine ullo dubio ab eodem archetypo pendens atque Bruxellensis et saepenumero contra Bruxellensem cum Vindobonensi conspirans."
+    }
+   ],
+   "flags": [
+    "multiple_sections_different_witnesses",
+    "editor_undecided"
+   ],
+   "confidence": "low",
+   "notes": "Mommsen tentatively derives all witnesses from the lost Luxemburg codex (9th c.), copied at different stages of mutilation: no real top division, only a star; B and O are both apographs of the Luxemburgensis itself (so [B,O] may rather be two singleton branches). Parts have different witness sets (A only fasti/computatio; S only excerpts). Liber generationis I (pp. 78-140) inside this range has its own tradition and is recorded separately.",
+   "classification_A3": "undecided"
+  },
+  {
+   "volume": "AA 9",
+   "ia_id": "monumentagermani09geseuoft",
+   "text_id": "liber_generationis_I",
+   "work": "Liber generationis (Hippolyti chronicon Latine, versio I) in Chronographo a. 354 XV",
+   "editor": "Theodor Mommsen",
+   "year": 1892,
+   "text_lines": [
+    13990,
+    21975
+   ],
+   "preface_lines": [
+    13990,
+    14330
+   ],
+   "sigla": [
+    {
+     "siglum": "B",
+     "manuscript": "Berolinensis Phillipps 1829 (olim Claromontanus)",
+     "date_if_given": "saec. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "F",
+     "manuscript": "Parisinus lat. 10910 (Fredegarius)",
+     "date_if_given": "saec. VII/VIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "G",
+     "manuscript": "Sangallensis 133",
+     "date_if_given": "saec. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "C",
+     "manuscript": "Phillippsianus 12266 (olim S. Stephani de Nova fossa)",
+     "date_if_given": "saec. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "O",
+     "manuscript": "excerpta 'ex chronicis Origenis' (Cavensis saec. XI; Parisinus lat. 7418? saec. XIV; Matritensis A 16 saec. XII)",
+     "date_if_given": "",
+     "role": "indirect"
+    }
+   ],
+   "apparatus": "negative_sigla",
+   "filiation_stated": "verbal",
+   "top_branches": [
+    [
+     "B",
+     "F",
+     "O"
+    ],
+    [
+     "G",
+     "C"
+    ]
+   ],
+   "deeper_groups": [
+    [
+     "B",
+     "F"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 14056,
+     "page": "p. 78",
+     "quote": "duo igitur libri B et F derivati omnino ex eodem archetypo adhibendi sunt ad pristinam formam eius recuperandam."
+    },
+    {
+     "ocr_line": 14117,
+     "page": "p. 79",
+     "quote": "veniunt omnino ex libro auctoritate archetypo illorum non posthabendo, gemello tamen; nam in plerisque erroribus gravioribus, ut in hiatu c. 78. 79, BFO consentiunt."
+    },
+    {
+     "ocr_line": 14199,
+     "page": "p. 80",
+     "quote": "Duos libros GC ex eodem archetypo descriptos esse apparet: nam habet uterque quae alter omisit."
+    },
+    {
+     "ocr_line": 14238,
+     "page": "p. 81",
+     "quote": "libri generationis a quo pendent GC exemplum scriptum a. 359 ... saepenumero codices hi verum servaverunt contra BF."
+    }
+   ],
+   "flags": [],
+   "confidence": "medium",
+   "notes": "O is a set of excerpts (indirect); the BF archetype and O's source are 'gemelli', so the BFO branch is stated via shared errors. A second Latin version (II, in the Chronographer's own witnesses) is printed alongside; the OCR line range covers both versions.",
+   "classification_A3": "explicit"
+  },
+  {
+   "volume": "AA 9",
+   "ia_id": "monumentagermani09geseuoft",
+   "text_id": "computatio_452",
+   "work": "Computatio anni CCCCLII (Chronographi additamentum I)",
+   "editor": "Theodor Mommsen",
+   "year": 1892,
+   "text_lines": [
+    22567,
+    22950
+   ],
+   "preface_lines": [
+    22567,
+    22610
+   ],
+   "sigla": [
+    {
+     "siglum": "S",
+     "manuscript": "Sangallensis 621",
+     "date_if_given": "saec. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "Z",
+     "manuscript": "Zwiefaltensis, hodie Stuttgartiensis hist. fol. 410",
+     "date_if_given": "saec. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "B",
+     "manuscript": "Bernensis 128",
+     "date_if_given": "saec. X/XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "C",
+     "manuscript": "Bernensis 160",
+     "date_if_given": "saec. IX/X",
+     "role": "direct"
+    }
+   ],
+   "apparatus": "negative_sigla",
+   "filiation_stated": "verbal",
+   "top_branches": [
+    [
+     "S",
+     "Z",
+     "B",
+     "C"
+    ]
+   ],
+   "deeper_groups": [],
+   "evidence": [
+    {
+     "ocr_line": 22596,
+     "page": "p. 149",
+     "quote": "In libro Sangallensi, qui inter hos antiquissimus est et fortasse reliquorum omnium archetypus, iam deperdito ... folio primo"
+    },
+    {
+     "ocr_line": 22584,
+     "page": "p. 149",
+     "quote": "Z Zwiefaltensis ... ex praecedenti etiamtum integro descriptus iudice Zangemeistero"
+    },
+    {
+     "ocr_line": 22592,
+     "page": "p. 149",
+     "quote": "C ... videtur descriptus esse et ipse ex Sangallensi."
+    }
+   ],
+   "flags": [
+    "editor_undecided"
+   ],
+   "confidence": "low",
+   "notes": "Editor says S is perhaps the extant archetype of all others (Z descriptus; B 'haud scio an' descriptus; C 'videtur'); hence no top division (k=1). Short piece (pp. 149-153).",
+   "classification_A3": "none"
+  },
+  {
+   "volume": "AA 9",
+   "ia_id": "monumentagermani09geseuoft",
+   "text_id": "liber_genealogus",
+   "work": "Liber genealogus (Chronographi additamentum II)",
+   "editor": "Theodor Mommsen",
+   "year": 1892,
+   "text_lines": [
+    22950,
+    26180
+   ],
+   "preface_lines": [
+    22950,
+    23330
+   ],
+   "sigla": [
+    {
+     "siglum": "T",
+     "manuscript": "Taurinensis tabularii publici",
+     "date_if_given": "saec. VII",
+     "role": "direct"
+    },
+    {
+     "siglum": "L",
+     "manuscript": "Lucensis bibl. capitularis 490",
+     "date_if_given": "a. 796",
+     "role": "direct"
+    },
+    {
+     "siglum": "G",
+     "manuscript": "Sangallensis 133",
+     "date_if_given": "saec. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "F",
+     "manuscript": "Florentini duo: S. Mariae novellae 623 et Laur. plut. 20,54",
+     "date_if_given": "saec. X/XI",
+     "role": "direct"
+    }
+   ],
+   "apparatus": "mixed_sigla",
+   "filiation_stated": "none",
+   "top_branches": [],
+   "deeper_groups": [],
+   "evidence": [
+    {
+     "ocr_line": 23039,
+     "page": "p. 155",
+     "quote": "Collectanea haec non recensui, sed repraesentavi libros scriptos: neque enim digna sunt, quae quatenus fieri potest ad auctoris formam revocentur"
+    }
+   ],
+   "flags": [],
+   "confidence": "medium",
+   "notes": "Four recensions (forms dated 427, 438, 455/463) printed synoptically; editor ranks G and L as closest to the original form, T as a compendium, F interpolated, but gives no stemma.",
+   "classification_A3": "none"
+  },
+  {
+   "volume": "AA 9",
+   "ia_id": "monumentagermani09geseuoft",
+   "text_id": "consularia_constantinopolitana",
+   "work": "Consularia Constantinopolitana ad a. 395 cum additamento Hydatii ad a. 468",
+   "editor": "Theodor Mommsen",
+   "year": 1892,
+   "text_lines": [
+    26187,
+    33190
+   ],
+   "preface_lines": [
+    26211,
+    26780
+   ],
+   "sigla": [
+    {
+     "siglum": "C",
+     "manuscript": "Berolinensis Phillipps 1829 (olim Claromontanus)",
+     "date_if_given": "saec. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "Sm",
+     "manuscript": "Montpellier, bibl. scholae medicinae 32",
+     "date_if_given": "saec. XII/XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "Sv",
+     "manuscript": "Vaticanus Reginae 560",
+     "date_if_given": "saec. XIII/XIV",
+     "role": "direct"
+    },
+    {
+     "siglum": "Sp",
+     "manuscript": "Parisinus lat. 17544",
+     "date_if_given": "saec. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "Chron. pasch.",
+     "manuscript": "Chronicon paschale, Vaticanus Graecus 1941 (Greek version)",
+     "date_if_given": "saec. X",
+     "role": "indirect"
+    }
+   ],
+   "apparatus": "negative_sigla",
+   "filiation_stated": "verbal",
+   "top_branches": [
+    [
+     "C"
+    ],
+    [
+     "Sm",
+     "Sv",
+     "Sp"
+    ]
+   ],
+   "deeper_groups": [],
+   "evidence": [
+    {
+     "ocr_line": 26736,
+     "page": "p. 202",
+     "quote": "Consularia haec servarunt codices duo, alter integer adhuc superstes, alter mutilus in fine neque notus hodie nisi ex apographis tribus."
+    },
+    {
+     "ocr_line": 26774,
+     "page": "p. 203",
+     "quote": "Apographa tria cum raro dissentiant ... fieri potest, ut duo reliqua ex hoc descripta sint ... his tribus libris etiam consentientibus quamquam longe praestat Claromontanus"
+    }
+   ],
+   "flags": [],
+   "confidence": "high",
+   "notes": "S = consensus of the three apographs of a lost mutilated codex (S from a.u.c. 600 onward when two agree). Editor suggests Sv and Sp may be descripti from Sm. Only 2 independent branches; Greek Chronicon paschale is a separate translation (indirect).",
+   "classification_A3": "explicit"
+  },
+  {
+   "volume": "AA 9",
+   "ia_id": "monumentagermani09geseuoft",
+   "text_id": "prosper_epitoma_chronicon",
+   "work": "Prosperi Tironis epitoma chronicon (ed. 433-455)",
+   "editor": "Theodor Mommsen",
+   "year": 1892,
+   "text_lines": [
+    43028,
+    55745
+   ],
+   "preface_lines": [
+    43028,
+    45560
+   ],
+   "sigla": [
+    {
+     "siglum": "A",
+     "manuscript": "codex deperditus, ex apographis quinque (A1 Laurentianus S. Marci 638 saec. XI?; A2 Taurinensis?; A3 Riccardianus 321; A4 Berolinensis Cheltenham. 1870; A5 Matritensis F 63)",
+     "date_if_given": "saec. XI-XV (apographa)",
+     "role": "direct"
+    },
+    {
+     "siglum": "B",
+     "manuscript": "Bruxellensis 1791(?)",
+     "date_if_given": "saec. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "C",
+     "manuscript": "Bruxellensis 5169(?)",
+     "date_if_given": "saec. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "D",
+     "manuscript": "Londiniensis 16974",
+     "date_if_given": "saec. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "F",
+     "manuscript": "Leidensis Freherianus Scal. 14",
+     "date_if_given": "saec. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "H",
+     "manuscript": "Havniensis 454",
+     "date_if_given": "saec. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "L",
+     "manuscript": "Labbaei editio (1657, ex Spirensi deperdito)",
+     "date_if_given": "",
+     "role": "indirect"
+    },
+    {
+     "siglum": "L*",
+     "manuscript": "Labbaei adscriptiones ex Spirensi deperdito ad cod. Berolinensem Cheltenham. 1872",
+     "date_if_given": "",
+     "role": "indirect"
+    },
+    {
+     "siglum": "M",
+     "manuscript": "Laurentianus plut. 65 n. 35 (Mediceus)",
+     "date_if_given": "saec. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "O",
+     "manuscript": "Escurialensis Ovetensis R II 18",
+     "date_if_given": "saec. VII",
+     "role": "direct"
+    },
+    {
+     "siglum": "P",
+     "manuscript": "Laurentianus Poggianus plut. 67 n. 15",
+     "date_if_given": "saec. XV",
+     "role": "direct"
+    },
+    {
+     "siglum": "R",
+     "manuscript": "Reichenaviensis deperditus (apographa Rp Parisinus 4860 saec. X, Ra Augustanus 223 saec. XV)",
+     "date_if_given": "",
+     "role": "direct"
+    },
+    {
+     "siglum": "V",
+     "manuscript": "Vaticanus reginae 2077 (epitome)",
+     "date_if_given": "saec. VI",
+     "role": "direct"
+    },
+    {
+     "siglum": "X",
+     "manuscript": "Limogiensis 1 (pars prior)",
+     "date_if_given": "",
+     "role": "direct"
+    },
+    {
+     "siglum": "Y",
+     "manuscript": "Limogiensis 1 (pars posterior)",
+     "date_if_given": "",
+     "role": "direct"
+    },
+    {
+     "siglum": "Z",
+     "manuscript": "Matritensis univ. 134",
+     "date_if_given": "saec. XIII",
+     "role": "direct"
+    }
+   ],
+   "apparatus": "negative_sigla",
+   "filiation_stated": "verbal",
+   "top_branches": [
+    [
+     "A",
+     "O",
+     "R",
+     "V"
+    ],
+    [
+     "M",
+     "Y",
+     "L*"
+    ]
+   ],
+   "deeper_groups": [
+    [
+     "O",
+     "R"
+    ],
+    [
+     "Z",
+     "X",
+     "F",
+     "P"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 45168,
+     "page": "p. 376",
+     "quote": "Prosperi duae recensiones ad nos pervenerunt, quarum ad alteram pertinent codices integri operis A et Paris. 4871, decurtati OR, epitomatus V, alteram repraesentant codices MY cum Spirensi (L*) et Frisingensi"
+    },
+    {
+     "ocr_line": 45170,
+     "page": "p. 376",
+     "quote": "ex utraque recensione contaminati sunt reliqui integri operis C cum mutilis breviatisve DHB, decurtati FPXZ."
+    },
+    {
+     "ocr_line": 45180,
+     "page": "p. 376",
+     "quote": "recensiones duae primariae, quarum cum neutra ab altera pendeat et ubi discedunt modo haec modo illa verum servarit"
+    }
+   ],
+   "flags": [
+    "contamination_at_top"
+   ],
+   "confidence": "high",
+   "notes": "Contaminated witnesses C, D, H, B, F, P, X, Z draw on both recensions and belong to neither branch. Sigla list is a fold-out at OCR lines ~70-110 (badly OCR'd; shelfmarks with '?' need checking). Paris. 4871 and the Frisingensis fragments have no siglum in the list as far as OCR shows; [Z,X,F,P] grouping is from repeated readings (and X,Z descend from a lost Alcobacensis), [O,R] share an auctarium and errors (p. 377 n. 1).",
+   "classification_A3": "explicit"
+  },
+  {
+   "volume": "AA 9",
+   "ia_id": "monumentagermani09geseuoft",
+   "text_id": "polemius_laterculus_provinciarum",
+   "work": "Polemii Silvii laterculus a. 449: laterculus provinciarum",
+   "editor": "Theodor Mommsen",
+   "year": 1892,
+   "text_lines": [
+    59460,
+    60110
+   ],
+   "preface_lines": [
+    58828,
+    59440
+   ],
+   "sigla": [
+    {
+     "siglum": "P",
+     "manuscript": "Bruxellensis 10615-10729",
+     "date_if_given": "saec. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "B",
+     "manuscript": "Bambergensis E III 14",
+     "date_if_given": "saec. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "O",
+     "manuscript": "Oxoniensis coll. Magd. 14",
+     "date_if_given": "saec. XIV",
+     "role": "direct"
+    },
+    {
+     "siglum": "V",
+     "manuscript": "Vaticanus 341",
+     "date_if_given": "saec. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "9",
+     "manuscript": "Albigensis 29",
+     "date_if_given": "saec. VIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "10",
+     "manuscript": "Parisinus 4808",
+     "date_if_given": "saec. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "18",
+     "manuscript": "Monacensis Frisingensis 6243",
+     "date_if_given": "saec. VIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "68",
+     "manuscript": "Parisinus 2123",
+     "date_if_given": "saec. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "72",
+     "manuscript": "Monacensis Palatinus 10291 (apographum Spirensis)",
+     "date_if_given": "saec. XVI",
+     "role": "direct"
+    },
+    {
+     "siglum": "73",
+     "manuscript": "Oxoniensis Canonicianus 378 (apographum Spirensis)",
+     "date_if_given": "saec. XVI",
+     "role": "direct"
+    },
+    {
+     "siglum": "74",
+     "manuscript": "Parisinus (apographum Spirensis; number illegible in OCR)",
+     "date_if_given": "saec. XV",
+     "role": "direct"
+    },
+    {
+     "siglum": "75",
+     "manuscript": "Vindobonensis 3103 (apographum Spirensis)",
+     "date_if_given": "saec. XV",
+     "role": "direct"
+    },
+    {
+     "siglum": "76",
+     "manuscript": "Carolorühensis CIII (olim Augiensis)",
+     "date_if_given": "saec. IX",
+     "role": "direct"
+    }
+   ],
+   "apparatus": "mixed_sigla",
+   "filiation_stated": "verbal",
+   "top_branches": [
+    [
+     "P"
+    ],
+    [
+     "9",
+     "10",
+     "18",
+     "68",
+     "76"
+    ],
+    [
+     "V",
+     "B",
+     "O",
+     "72",
+     "73",
+     "74",
+     "75"
+    ]
+   ],
+   "deeper_groups": [
+    [
+     "B",
+     "O"
+    ],
+    [
+     "72",
+     "73",
+     "74",
+     "75"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 58832,
+     "page": "p. 524",
+     "quote": "neque tamen in eo pendemus ab unico eius menologii quod hodie superest exemplari scripto saeculo XII, sed inventum in antiquiore postquam vir doctus ... laterculum eum copulavit cum altero episcoporum Gallicanorum"
+    },
+    {
+     "ocr_line": 58839,
+     "page": "p. 524",
+     "quote": "extat enim recensio interpolata et ipsa, a qua pendent rursus interpolatione aucta formae duae, altera aut profecta a Paulo diacono aut certe ab eo usurpata, altera quae continetur corpore Spirensi"
+    },
+    {
+     "ocr_line": 58864,
+     "page": "p. 524",
+     "quote": "Formarum duarum ex modo dicta derivatarum exempla extant plura. videamus primum de Paulina. codices duo Oxoniensis ... et Bambergensis"
+    }
+   ],
+   "flags": [
+    "editor_undecided"
+   ],
+   "confidence": "low",
+   "notes": "Only the provinces list has a multi-witness tradition (rest of Polemius is unique P). Editor does not say whether the interpolated recension (V, Pauline BO, Spirensis 72-75) descends from the Gallican-joined form or independently; branch assignment of P vs the rest is my reading of p. 524. Apparatus also cites '79' and other Notitia numbers not in the header list. Very short text (~2 pages).",
+   "classification_A3": "undecided"
+  },
+  {
+   "volume": "AA 9",
+   "ia_id": "monumentagermani09geseuoft",
+   "text_id": "notitia_galliarum",
+   "work": "Notitia Galliarum (Polemii Silvii additamentum I)",
+   "editor": "Theodor Mommsen",
+   "year": 1892,
+   "text_lines": [
+    64250,
+    68520
+   ],
+   "preface_lines": [
+    61022,
+    64250
+   ],
+   "sigla": [
+    {
+     "siglum": "1-105 (numbers)",
+     "manuscript": "c. 105 codices numbered in the 'Codicum conspectus' (e.g. 1 Coloniensis 212 saec. VII; 3 Berolinensis Phillipps 1745 saec. VII; 9 Albigensis 29 saec. VIII; 10 Parisinus 4808 saec. X); full list OCR lines 57800-58010 and 62176-63250",
+     "date_if_given": "saec. VI-XVI",
+     "role": "direct"
+    }
+   ],
+   "apparatus": "mixed_sigla",
+   "filiation_stated": "none",
+   "top_branches": [],
+   "deeper_groups": [],
+   "evidence": [
+    {
+     "ocr_line": 62177,
+     "page": "p. 560",
+     "quote": "Codicum quoniam propter contaminationem latissime grassatam ut cognationes multae, ita familiae verae nullae constitui possunt, ita recensum institui, ut separarentur secundum ordinem provinciarum."
+    }
+   ],
+   "flags": [],
+   "confidence": "high",
+   "notes": "Editor explicitly refuses to constitute families; codices grouped by the order of provinces (content classes), not by descent. Sigla not itemised here (c. 105 numbered MSS).",
+   "classification_A3": "none"
+  },
+  {
+   "volume": "AA 9",
+   "ia_id": "monumentagermani09geseuoft",
+   "text_id": "chronica_gallica_452",
+   "work": "Chronica Gallica a. CCCCLII",
+   "editor": "Theodor Mommsen",
+   "year": 1892,
+   "text_lines": [
+    68940,
+    72330
+   ],
+   "preface_lines": [
+    68660,
+    69440
+   ],
+   "sigla": [
+    {
+     "siglum": "L",
+     "manuscript": "Londiniensis musei Britannici Add. 16974 (olim S. Trudonis)",
+     "date_if_given": "saec. X (sigla list: IX)",
+     "role": "direct"
+    },
+    {
+     "siglum": "B",
+     "manuscript": "Bambergensis E III 18",
+     "date_if_given": "saec. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "M",
+     "manuscript": "Monacensis universitatis 6 (olim Weissenburgensis)",
+     "date_if_given": "saec. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "Sig.",
+     "manuscript": "codices Sigebertiani (Sigebert of Gembloux's lost exemplar and its many copies)",
+     "date_if_given": "",
+     "role": "indirect"
+    }
+   ],
+   "apparatus": "negative_sigla",
+   "filiation_stated": "verbal",
+   "top_branches": [
+    [
+     "L"
+    ],
+    [
+     "B",
+     "M"
+    ]
+   ],
+   "deeper_groups": [],
+   "evidence": [
+    {
+     "ocr_line": 68878,
+     "page": "p. 620",
+     "quote": "Codicum utilium duo ordines supersunt ... priorem ordinem repraesentat codex unicus hodie Londiniensis musei Britannici n. 16974 saec. X"
+    },
+    {
+     "ocr_line": 68917,
+     "page": "p. 620",
+     "quote": "Alterius ordinis, scilicet finientis a. 450, duo libri extant pares et aetatis et auctoritatis, Bambergensis E III 18 saec. XI, nobis B"
+    },
+    {
+     "ocr_line": 68928,
+     "page": "p. 620",
+     "quote": "descendunt igitur duo libri ex archetypo Trudonensi simillimo, sed archetypus codex, ex quo Bambergensis et Monacensis descripti sunt, imperatoribus Romanis reges Francicos interposuit"
+    },
+    {
+     "ocr_line": 69423,
+     "page": "p. 625",
+     "quote": "horum codicum archetypus deperditus Sigeberto visus neque priori ordini librorum supra descripto accensendus est neque posteriori, sed medium locum tenet inter ambo."
+    }
+   ],
+   "flags": [],
+   "confidence": "high",
+   "notes": "Sigebertian copies sit between the two orders (shares some readings with L, others with BM) and are not used in the apparatus. Chronica Gallica a. 511 is printed on facing pages within the same OCR range but rests on one codex (skipped).",
+   "classification_A3": "explicit"
+  },
+  {
+   "volume": "AA 9",
+   "ia_id": "monumentagermani09geseuoft",
+   "text_id": "victorius_cursus_paschalis",
+   "work": "Victorii Aquitani cursus paschalis a. 457",
+   "editor": "Theodor Mommsen",
+   "year": 1892,
+   "text_lines": [
+    72331,
+    79000
+   ],
+   "preface_lines": [
+    72380,
+    72860
+   ],
+   "sigla": [
+    {
+     "siglum": "A",
+     "manuscript": "Ambrosianus H 150 inf.",
+     "date_if_given": "c. a. 810",
+     "role": "direct"
+    },
+    {
+     "siglum": "B",
+     "manuscript": "Bernensis 645 f. 54-64",
+     "date_if_given": "saec. VIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "C",
+     "manuscript": "Coloniensis 83 II",
+     "date_if_given": "c. a. 805",
+     "role": "direct"
+    },
+    {
+     "siglum": "G",
+     "manuscript": "Gothanus 75",
+     "date_if_given": "saec. VII",
+     "role": "direct"
+    },
+    {
+     "siglum": "L",
+     "manuscript": "Leidensis Scal. 28",
+     "date_if_given": "c. a. 810",
+     "role": "direct"
+    },
+    {
+     "siglum": "N",
+     "manuscript": "Vaticanus reginae 2077 (excerpta)",
+     "date_if_given": "saec. VI ex.",
+     "role": "indirect"
+    },
+    {
+     "siglum": "P",
+     "manuscript": "Parisinus 4860",
+     "date_if_given": "saec. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "Q",
+     "manuscript": "Parisinus 4859 (consules excerpti)",
+     "date_if_given": "saec. X",
+     "role": "indirect"
+    },
+    {
+     "siglum": "S",
+     "manuscript": "Sirmondianus deperditus (ed. Bucherius 1634)",
+     "date_if_given": "",
+     "role": "direct"
+    },
+    {
+     "siglum": "S*",
+     "manuscript": "Parisinus 16361",
+     "date_if_given": "saec. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "U",
+     "manuscript": "Vaticanus reginae 586",
+     "date_if_given": "saec. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "V",
+     "manuscript": "Vaticanus reginae 39",
+     "date_if_given": "saec. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "X",
+     "manuscript": "Cassiodori chronici auctarium a. 520-559 (Xp Parisinus 4860, Xm Monacensis 14613); also Bernensis 645 f. 64-67",
+     "date_if_given": "",
+     "role": "indirect"
+    }
+   ],
+   "apparatus": "negative_sigla",
+   "filiation_stated": "verbal",
+   "top_branches": [
+    [
+     "G",
+     "A"
+    ],
+    [
+     "L",
+     "S",
+     "U",
+     "P"
+    ]
+   ],
+   "deeper_groups": [],
+   "evidence": [
+    {
+     "ocr_line": 72780,
+     "page": "p. 675",
+     "quote": "apparet nos nullum habere codicem ab interpolatione immunem, sed invicem eos sese corrigere interpolatos diverse."
+    },
+    {
+     "ocr_line": 72799,
+     "page": "p. 676",
+     "quote": "proxime ad codicem G accedit A: C quoque raro stat contra hos cum deterioribus"
+    },
+    {
+     "ocr_line": 72808,
+     "page": "p. 676",
+     "quote": "His deteriores sunt LSUP saepe consentientes in interpolationibus."
+    },
+    {
+     "ocr_line": 72832,
+     "page": "p. 676",
+     "quote": "libri BV ex contaminatione oriundi modo ad librum P sese applicant, modo ad reliquos."
+    }
+   ],
+   "flags": [
+    "contamination_at_top",
+    "editor_undecided"
+   ],
+   "confidence": "low",
+   "notes": "Editor ranks better (G, A, mostly C) vs worse (L, S, U, P sharing interpolations) witnesses rather than drawing an archetype division; C wavers, B and V (sigla 'BV' read from damaged OCR '/V') contaminated. N agrees with G as far as it goes. Treat the two-branch reading as tentative.",
+   "classification_A3": "undecided"
+  }
+ ],
+ "skipped": [
+  {
+   "text_id": "origo_constantini",
+   "work": "Origo Constantini imperatoris (Anonymi Valesiani pars prior)",
+   "reason": "single manuscript (Berolinensis Phillipps 1885; Vat. Pal. 927 judged derivative/useless)"
+  },
+  {
+   "text_id": "consularia_chronici_paschalis",
+   "work": "Consularia chronici paschalis (Greek)",
+   "reason": "single manuscript (Vaticanus Graecus 1941)"
+  },
+  {
+   "text_id": "anonymus_valesianus_II",
+   "work": "Consularia Italica I: Anonymi Valesiani pars posterior",
+   "reason": "effectively single manuscript (B Berolinensis 1885; Palatinus 927 derived from B via lost intermediary, p. 260)"
+  },
+  {
+   "text_id": "fasti_vindobonenses_priores",
+   "work": "Consularia Italica II: Fasti Vindobonenses priores (cum excerptis Sangallensibus)",
+   "reason": "single direct manuscript (V Vindob. 3416) plus excerpts S"
+  },
+  {
+   "text_id": "fasti_vindobonenses_posteriores",
+   "work": "Consularia Italica III",
+   "reason": "single manuscript (V Vindob. 3416)"
+  },
+  {
+   "text_id": "paschale_campanum",
+   "work": "Consularia Italica IV / Victorii add. III: Paschale Campanum",
+   "reason": "single manuscript (Vat. reg. 2077)"
+  },
+  {
+   "text_id": "continuatio_havniensis",
+   "work": "Consularia Italica V: Continuatio Havniensis Prosperi",
+   "reason": "single manuscript (H Havniensis 454)"
+  },
+  {
+   "text_id": "barbarus_scaligeri_excerpta",
+   "work": "Consularia Italica VI: Excerpta ex Barbaro Scaligeri",
+   "reason": "single manuscript (Paris. lat. 4884)"
+  },
+  {
+   "text_id": "agnellus_excerpta",
+   "work": "Consularia Italica VII: Excerpta ex Agnelli libro pontificali",
+   "reason": "single manuscript (Mutinensis Estensis V. F. 19)"
+  },
+  {
+   "text_id": "prosper_add_africana",
+   "work": "Prosperi additamenta I: Africana a. 446-455",
+   "reason": "fragment of c. 2 pages (witnesses F P X Z); no separate filiation stated"
+  },
+  {
+   "text_id": "prosper_add_altera",
+   "work": "Prosperi additamenta II: altera a. 446-457",
+   "reason": "two witnesses only (O; R via 2 apographs), c. 2 pages"
+  },
+  {
+   "text_id": "prosper_continuatio_reichenaviensis",
+   "work": "Prosperi additamenta III: continuatio ad a. 462",
+   "reason": "single (lost) manuscript R"
+  },
+  {
+   "text_id": "prosper_auctarium_vaticanum",
+   "work": "Prosperi additamenta IV: Auctarium epitomae Vaticanae",
+   "reason": "single manuscript (Vat. reg. 2077)"
+  },
+  {
+   "text_id": "epitome_carthaginiensis",
+   "work": "Prosperi additamenta V: Epitome Carthaginiensis",
+   "reason": "single manuscript (Matritensis univ. 134)"
+  },
+  {
+   "text_id": "prosper_interpolationes_saec_xv",
+   "work": "Prosperi additamenta VI: interpolationes saec. XV",
+   "reason": "humanist interpolations from 15th-c. copies/editio princeps; no apparatus of a tradition"
+  },
+  {
+   "text_id": "liber_paschalis_cizensis",
+   "work": "Liber paschalis codicis Cizensis a. 447",
+   "reason": "single manuscript (Cizensis fragments)"
+  },
+  {
+   "text_id": "polemius_laterculus_main",
+   "work": "Polemii Silvii laterculus (other sections)",
+   "reason": "single manuscript (P Bruxellensis 10615-10729); only laterculus provinciarum recorded"
+  },
+  {
+   "text_id": "de_nominibus_gallicis",
+   "work": "De nominibus Gallicis (Polemii add. II)",
+   "reason": "short glossary of 1 page; no stated filiation"
+  },
+  {
+   "text_id": "narratio_de_imperatoribus",
+   "work": "Narratio de imperatoribus domus Valentinianae et Theodosianae",
+   "reason": "two witnesses (B Brux. 9791?, C Matrit. 134), 1 page"
+  },
+  {
+   "text_id": "chronica_gallica_511",
+   "work": "Chronica Gallica a. DXI",
+   "reason": "single manuscript (C Matritensis univ. 134)"
+  },
+  {
+   "text_id": "chronica_452_additamenta_hieronymiana",
+   "work": "Additamenta chronicorum a. 452 ad chronica Hieronymiana",
+   "reason": "fragment of c. 1 page"
+  },
+  {
+   "text_id": "prologus_paschae_ad_vitalem",
+   "work": "Victorii add. I: Prologus paschae ad Vitalem a. 395",
+   "reason": "two witnesses only (C Coloniensis 83, O Oxon. Digby 63)"
+  },
+  {
+   "text_id": "cyclus_paschalis_84",
+   "work": "Victorii add. II: Cyclus paschalis a. 354-437",
+   "reason": "single manuscript (Vat. reg. 2077)"
+  },
+  {
+   "text_id": "adnotationes_cyclos_dionysianos",
+   "work": "Victorii add. IV: Adnotationes antiquiores ad cyclos Dionysianos",
+   "reason": "three witnesses from one archetype, no division stated; few pages"
+  }
+ ]
+}

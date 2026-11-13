@@ -1,0 +1,77 @@
+{
+ "stemma_witnesses": "FVSCABDW",
+ "cited": {
+  "F": 685,
+  "V": 189,
+  "S": 850,
+  "C": 499,
+  "A": 442,
+  "B": 262,
+  "D": 383,
+  "W": 519
+ },
+ "analysis_witnesses": "FVSCABDW",
+ "units_with_shared_departure": 581,
+ "included": true,
+ "exclusion": [],
+ "editor_top": [
+  "FVS",
+  "CABDW"
+ ],
+ "k_E": 2,
+ "status": "OPTIMAL",
+ "weight": 121.0,
+ "branches": [
+  {
+   "branch": "FVS",
+   "status": "silent",
+   "by": null
+  },
+  {
+   "branch": "CABDW",
+   "status": "silent",
+   "by": null
+  }
+ ],
+ "classification": "partly_silent",
+ "k_D": 7,
+ "k_D_bootstrap": {
+  "2": 0.19,
+  "3": 0.805,
+  "4": 0.005
+ },
+ "stable_families": [
+  [
+   "CB",
+   22,
+   0.97
+  ]
+ ],
+ "mwis": [
+  [
+   "FS",
+   47,
+   0.65
+  ],
+  [
+   "DW",
+   30,
+   0.545
+  ],
+  [
+   "CB",
+   22,
+   0.97
+  ],
+  [
+   "FVS",
+   15,
+   0.48
+  ],
+  [
+   "ADW",
+   7,
+   0.215
+  ]
+ ]
+}

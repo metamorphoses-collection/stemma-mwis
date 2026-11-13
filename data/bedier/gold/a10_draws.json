@@ -1,0 +1,92 @@
+{
+ "cassiodorus_variae": {
+  "vol": "mgh_auct_ant_12",
+  "old_proof_leaf": 211,
+  "dev_leaves": [
+   498,
+   423
+  ],
+  "fresh_proof_leaf": 469,
+  "n_apparatus_leaves": 372
+ },
+ "acta_synhodorum_romae_499_501_502": {
+  "vol": "mgh_auct_ant_12",
+  "old_proof_leaf": 636,
+  "dev_leaves": [
+   618,
+   607
+  ],
+  "fresh_proof_leaf": 627,
+  "n_apparatus_leaves": 50
+ },
+ "aldhelm_de_virginitate_prosa": {
+  "vol": "mgh_auct_ant_15",
+  "old_proof_leaf": 304,
+  "dev_leaves": [
+   294,
+   258
+  ],
+  "fresh_proof_leaf": 259,
+  "n_apparatus_leaves": 23
+ },
+ "isidorus_chronica_maiora": {
+  "vol": "mgh_auct_ant_11",
+  "old_proof_leaf": 453,
+  "dev_leaves": [
+   443,
+   469
+  ],
+  "fresh_proof_leaf": 481,
+  "n_apparatus_leaves": 58
+ },
+ "eugippius_vita_severini": {
+  "vol": "mgh_auct_ant_1_2",
+  "old_proof_leaf": 38,
+  "dev_leaves": [
+   32,
+   22
+  ],
+  "fresh_proof_leaf": 26,
+  "n_apparatus_leaves": 28
+ },
+ "victor_vitensis_historia": {
+  "vol": "mgh_auct_ant_3_1",
+  "old_proof_leaf": 23,
+  "dev_leaves": [
+   49,
+   61
+  ],
+  "fresh_proof_leaf": 54,
+  "n_apparatus_leaves": 56
+ },
+ "symmachus_epistulae": {
+  "vol": "mgh_auct_ant_6_1",
+  "old_proof_leaf": 364,
+  "dev_leaves": [
+   221,
+   268
+  ],
+  "fresh_proof_leaf": 266,
+  "n_apparatus_leaves": 273
+ },
+ "ennodius_opera": {
+  "vol": "mgh_auct_ant_7",
+  "old_proof_leaf": 127,
+  "dev_leaves": [
+   161,
+   143
+  ],
+  "fresh_proof_leaf": 337,
+  "n_apparatus_leaves": 323
+ },
+ "avitus_carmina": {
+  "vol": "mgh_auct_ant_6_2",
+  "old_proof_leaf": 331,
+  "dev_leaves": [
+   354,
+   312
+  ],
+  "fresh_proof_leaf": 320,
+  "n_apparatus_leaves": 92
+ }
+}

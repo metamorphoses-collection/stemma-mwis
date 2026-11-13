@@ -1,0 +1,284 @@
+{
+ "volume": "AA 1",
+ "ia_id": "monumentagermani01geseuoft",
+ "file_contents": "This OCR file holds BOTH parts of AA 1: pars prior (Salvianus, ed. C. Halm, 1877; lines 1-14590) and pars posterior (Eugippius, Vita S. Severini, ed. H. Sauppe, 1877; lines 14600-18547). Victor Vitensis is NOT in AA 1; it is AA 3 pars prior.",
+ "texts": [
+  {
+   "volume": "AA 1",
+   "ia_id": "monumentagermani01geseuoft",
+   "text_id": "salvianus_de_gubernatione_dei",
+   "work": "Salvianus, De gubernatione dei libri VIII",
+   "editor": "Carolus Halm",
+   "year": 1877,
+   "text_lines": [
+    202,
+    7944
+   ],
+   "preface_lines": [
+    93,
+    140
+   ],
+   "sigla": [
+    {
+     "siglum": "A",
+     "manuscript": "Paris. lat. 13385 (olim Corbeiensis)",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "B",
+     "manuscript": "Bruxellensis 10628",
+     "date_if_given": "s. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "T",
+     "manuscript": "Paris. lat. 3791 (olim Thuani)",
+     "date_if_given": "s. XV",
+     "role": "direct"
+    },
+    {
+     "siglum": "p",
+     "manuscript": "editio princeps Basileensis (Brassicanus)",
+     "date_if_given": "1530",
+     "role": "indirect"
+    },
+    {
+     "siglum": "A 2 m. / B 1 m. etc.",
+     "manuscript": "second (correcting) hand in A, called 'emendatrix sive potius corruptrix'",
+     "date_if_given": null,
+     "role": "corrector_hand"
+    }
+   ],
+   "apparatus": "mixed_sigla",
+   "filiation_stated": "none",
+   "top_branches": [],
+   "deeper_groups": [],
+   "evidence": [
+    {
+     "ocr_line": 119,
+     "page": "p. VI",
+     "quote": "Is cum in multis optimis lectionibus cum Corbeiensi conspiret, primo aspectu ex ipso eum descriptum esse suspicere, sed rem non ita se habere ex compluribus lacunis ... apparet"
+    },
+    {
+     "ocr_line": 126,
+     "page": "p. VI",
+     "quote": "Eundem codicem aut saltem eius simillimum Pithoeo ... praesto fuisse cum ex aliis locis elucet"
+    },
+    {
+     "ocr_line": 136,
+     "page": "p. VI",
+     "quote": "Ex quo codice editio princeps, a. 1530 cura Io. Alexandri Brassicani vulgata, expressa sit, ignoratur."
+    }
+   ],
+   "flags": [],
+   "confidence": "high",
+   "notes": "Halm only says A is the best and oldest, B comes next and is not a copy of A (B alone has true readings in some places), and Pithou's lost codex was B or close to it. No grouping of A, B, T into families is stated; T is described but not placed.",
+   "classification_A3": "none"
+  },
+  {
+   "volume": "AA 1",
+   "ia_id": "monumentagermani01geseuoft",
+   "text_id": "salvianus_ad_ecclesiam",
+   "work": "Salvianus (Timotheus), Ad ecclesiam libri IV",
+   "editor": "Carolus Halm",
+   "year": 1877,
+   "text_lines": [
+    8741,
+    12057
+   ],
+   "preface_lines": [
+    141,
+    166
+   ],
+   "sigla": [
+    {
+     "siglum": "A",
+     "manuscript": "Paris. lat. 2172",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "B",
+     "manuscript": "Paris. lat. 2785",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "p",
+     "manuscript": "editio princeps Basileensis (Io. Sichardus, Antidoton)",
+     "date_if_given": "1528",
+     "role": "indirect"
+    },
+    {
+     "siglum": "B 1 m. / B corr.",
+     "manuscript": "first hand vs correction in B",
+     "date_if_given": null,
+     "role": "corrector_hand"
+    }
+   ],
+   "apparatus": "mixed_sigla",
+   "filiation_stated": "none",
+   "top_branches": [],
+   "deeper_groups": [],
+   "evidence": [
+    {
+     "ocr_line": 152,
+     "page": "p. VI",
+     "quote": "nobis quidem manifestum videtur, hunc librum ... ex nullo alio originem duxisse nisi ex ipso Parisino n. 2785"
+    },
+    {
+     "ocr_line": 158,
+     "page": "p. VI",
+     "quote": "Nos praeter codicem n. 2785 alterum Parisinum n. 2172, saeculo fere vetustiorem, quo iam Pithoeus videtur usus esse, contulimus."
+    }
+   ],
+   "flags": [],
+   "confidence": "high",
+   "notes": "The only filiation statement eliminates Baluze's 'recentior' codex as a copy of Paris. 2785 (not used). No relation between A, B and Sichard's source is stated. Only 2 manuscripts plus an early edition, so it will fail the 4-witness rule anyway.",
+   "classification_A3": "none"
+  },
+  {
+   "volume": "AA 1",
+   "ia_id": "monumentagermani01geseuoft",
+   "text_id": "eugippius_vita_severini",
+   "work": "Eugippius, Vita S. Severini (with Epistola ad Paschasium and Paschasii epistola)",
+   "editor": "Hermannus Sauppe",
+   "year": 1877,
+   "text_lines": [
+    15355,
+    17587
+   ],
+   "preface_lines": [
+    14795,
+    15145
+   ],
+   "sigla": [
+    {
+     "siglum": "L",
+     "manuscript": "codex tabularii Lateranensis 79 (passionale)",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "V",
+     "manuscript": "Vaticanus lat. 5772 (olim Bobiensis)",
+     "date_if_given": "s. X ex. / XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "M",
+     "manuscript": "Mediolanensis Ambrosianus (shelfmark not given)",
+     "date_if_given": "s. XI/XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "D",
+     "manuscript": "Monacensis lat. (four leaves; OCR reads 'cod. lat. 104r', probably clm 1044), covers ep. and c. 1-4, 14-22 only",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "L corr.",
+     "manuscript": "a slightly later hand in L ('manus haud multo recentior nonnulla mutavit')",
+     "date_if_given": null,
+     "role": "corrector_hand"
+    },
+    {
+     "siglum": "Anon. Vales.",
+     "manuscript": "Anonymus Valesianus, excerpt of c. 7 / c. 32 (testimonium, no siglum in the apparatus list)",
+     "date_if_given": null,
+     "role": "indirect"
+    }
+   ],
+   "apparatus": "negative_sigla",
+   "filiation_stated": "verbal",
+   "top_branches": [
+    [
+     "L"
+    ],
+    [
+     "V",
+     "M",
+     "D"
+    ]
+   ],
+   "deeper_groups": [
+    [
+     "V",
+     "M"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 15119,
+     "page": "p. XV",
+     "quote": "Videtur igitur ita existimandum esse, ut codices L et VM ex duobus apographis unius archetypi ... derivandos esse iudicemus, quorum alterum, ex quo L originem duxit, maiore fide descriptum esset"
+    },
+    {
+     "ocr_line": 14850,
+     "page": "pp. IX-X",
+     "quote": "in aliis ab eo ita discrepant, ut alius originis indicia habeant et pauca quaedam emendatiora et pleniora exhibeant, quam lateranensis et reliqui omnes"
+    },
+    {
+     "ocr_line": 14867,
+     "page": "p. X",
+     "quote": "eis foliis magis cum codicibus VM quam cum L convenire, propius etiam ad similitudinem eius accedere, ex quo welseriana expressa est"
+    },
+    {
+     "ocr_line": 15049,
+     "page": "p. XIII",
+     "quote": "Quae omnia quamquam L accuratius quam VM, satis propinqua illos cum eo cognatione coniunctos ... ostendunt"
+    }
+   ],
+   "flags": [],
+   "confidence": "medium",
+   "notes": "The two-apograph statement (L vs VM) is explicit. D is placed only as 'agreeing more with VM than with L' and as belonging to the corrupt Munich recension, so putting D in the VM branch is my reading; it is a fragment. One aside (p. XIII, line 15003) speaks of a 'commune codicum LM archetypum' for a single error, which an editor-reader should check. The c. 30 other MSS (Bethmann's collations) are deliberately not reported.",
+   "classification_A3": "explicit"
+  }
+ ],
+ "skipped": [
+  {
+   "work": "Salvianus, Epistolae I-VII",
+   "lines": [
+    7946,
+    8454
+   ],
+   "reason": "single manuscript (one codex s. X, split between Bern and Paris. 3791, siglum C)"
+  },
+  {
+   "work": "Salvianus, Epistola VIII",
+   "lines": [
+    8455,
+    8497
+   ],
+   "reason": "fragment of 1 page; three Paris MSS cited (num. 11560 s. VII-VIII = A, two others s. IX-X = B, C), no filiation stated"
+  },
+  {
+   "work": "Salvianus, Epistola IX (ad Salonium)",
+   "lines": [
+    8498,
+    8740
+   ],
+   "reason": "one manuscript (Paris. 2785) plus Sichard's edition; c. 3 pages, no filiation"
+  },
+  {
+   "work": "Indices (Salvianus and Eugippius)",
+   "lines": [
+    12059,
+    14590
+   ],
+   "reason": "not an edition (indices)"
+  },
+  {
+   "work": "Indices Eugippius",
+   "lines": [
+    17588,
+    18547
+   ],
+   "reason": "not an edition (indices)"
+  }
+ ],
+ "reader": "agent",
+ "date": "2026-11-13"
+}

@@ -1,0 +1,25 @@
+{
+ "stemma_witnesses": "HKZMNPQDCGL",
+ "cited": {
+  "H": 144,
+  "K": 188,
+  "Z": 231,
+  "M": 983,
+  "N": 932,
+  "P": 651,
+  "Q": 778,
+  "D": 715,
+  "C": 725,
+  "G": 772,
+  "L": 741
+ },
+ "analysis_witnesses": "HKZMNPQDCGL",
+ "units_with_shared_departure": 1360,
+ "included": true,
+ "exclusion": [],
+ "editor_top": [
+  "HKPQDCGL",
+  "ZMN"
+ ],
+ "k_E": 2
+}

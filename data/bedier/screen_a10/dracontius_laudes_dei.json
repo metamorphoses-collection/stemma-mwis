@@ -1,0 +1,20 @@
+{
+ "stemma_witnesses": "BMVRU",
+ "cited": {
+  "B": 951,
+  "M": 231,
+  "V": 38,
+  "R": 45,
+  "U": 68
+ },
+ "analysis_witnesses": "BMVRU",
+ "units_with_shared_departure": 46,
+ "included": false,
+ "exclusion": [
+  "too thin"
+ ],
+ "editor_top": [
+  "BMVRU"
+ ],
+ "k_E": 1
+}

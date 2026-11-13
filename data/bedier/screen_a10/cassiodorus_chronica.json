@@ -1,0 +1,20 @@
+{
+ "stemma_witnesses": "PMC",
+ "cited": {
+  "P": 197,
+  "M": 493,
+  "C": 114
+ },
+ "analysis_witnesses": "PMC",
+ "units_with_shared_departure": 0,
+ "included": false,
+ "exclusion": [
+  "too few witnesses",
+  "too thin"
+ ],
+ "editor_top": [
+  "P",
+  "M"
+ ],
+ "k_E": 2
+}

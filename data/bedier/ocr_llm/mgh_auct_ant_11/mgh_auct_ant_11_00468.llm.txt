@@ -1,0 +1,54 @@
+462 CHRONICA
+295 Origenes Alexandria claruit Hier. 2246.
+296 et Romae Ulpianus insignis iuris peritus. Hier. 2242; Eutrop. 8, 23.
+VCCCCXXXIV 297 Maximinus regnavit ann. III.
+298 Iste primus ex militari corpore absque decreto Hier. 2252.
+senatus imperator efficitur
+299 et Christianos persequitur. Hier. 2253.
+VCCCCXLI 300 Gordianus regnavit ann. VII.
+300a Hic rebellantes Parthos et Persas afflixit. BEFKPSVY Eutrop. 9, 2; Festus 22.
+300b Rediens victor de Persis fraude suorum interiit. BEFPSY Eutrop. 9, 2.
+301 Flavianus testimonio spiritus sancti in specie Rufinus 6, 21; Hier. 2255.
+columbae super caput eius descendentis Romae
+episcopus ordinatur: licet quidam hoc verius de
+Zeferino adfirmant.
+VCCCCXLVIII 302 Philippus regnavit ann. VII.
+303 Iste prior inter imperatores credidit Christo. Hier. 2261.
+304 Cuius etiam primo anno millesimus annus Romanae Hier. 2262.
+urbis fuisse docetur expletus.
+
+BCDEFGKLMNPSTV (om. 296. 299. 301. 304) XYZ
+295 praem. huius (om. Z) temporibus (temps C, temp Z) BCFPSZ origenis BDaEKMNPTXYZ, ori-
+ginis CL alexandria . . . 296 insignis om. L1 alexandriae FPSY, in alexandria BM, alexandia X1 claruit]
+insignis habetur V 296 ulpianus] KLP, sulpianus F, culpianus S, alpianus BG, alpinus CDENTZ, alpinum
+X, alphinus M, albinus Y insigni K, om. Y iuris peritis Da 297 maximianus BCEL, maximus K
+iii] iiii E 298, 1 primus] solus KV ex militari (-re CX) corpore (-ri M1) absque (alisque Z, abque E)
+decreto (-tu Y, -ta EN, om. F) sen.] absque decreto senatus ab exercitu V 2 efficetur X 299 et] e L, om. C
+christianus CNSX, christianis E prosequitur N 300 cordianus L uii] ui BFMPSVY 300a hic
+(om. BP) reb. parthos (partus P) et persas adflixit (adfixit S)] BEFPSY, partos (parcos K) uicit persas ad-
+flixit KV: Parthos adflixit Eutropius 301 praem. huius temporibus (tempore C, temp Z) BCFPSYZ
+flauianus] fabianus B2, zepherinus F, om. Z testimonium CDaZ spiritus (eps E) sancti] spu sco M
+2 super caput (capud capud X, capite D) eius (om. Y) descendentis (descendentes SYa, discendentis GKM,
+discedentis B, descendente L, discentes DaX, descenditis T1, ascendentis F, discendenti P)] discendentes s. c. e. E
+roma S, romam LX, romae ueniens M 3 episcopus (sps CaZ) ord. (ordenatur X)] ord. ep. M quidem S
+uerius om. BSY de] ad CEKL 4 zeferino] CEFGKPSX, zefferino NTZb, zepherino LY, zefferimo Za,
+zeferiano B, seuerino M, zephyrino D adfirment BFGLMPY, adfirmet S post adf. add. tamen alii sunt,
+qui hoc adseuerant de fabiano F 302 phylippus X uii an Y, ann ui L 303 prior] primus
+BNPSTVY int. imp. crededit (credidit DbZ) xpm DXZ, int. imp. cr. christo FKM, int. imp. cr. in christum
+NT, imperatorum christianus efficitur BPSVY 304, 1 etiam om. PSY primus E annos G, om. C
+milesimus X, millensimus Y romae BMSY, romam L 2 f. ducitur expl. X, f. doc. expletur KL, doc.
+f. expl. C1EZ, dicitur f. expl. C2, dicitur expl. (om. fuisse) G, impletur BPSY, docetur f. creditur D
+
+197 (= 295) Origenes insignis habetur.
+VCCCCXXXIV 198 (= 297) Maximus ann. III.
+199 (Eutrop. 9, 1) Iste Germanos vicit.
+VCCCCXLI 200 (= 300) Gordianus ann. VII.
+201 (= 300a) Hic de Parthis et Persis triumphavit.
+VCCCCXLVIII 202 (= 302) Philippus ann. VII.
+203 (= 303) Hic primus Christianus imperator fuit.
+
+ABCDEHMPQWX
+197 origenis BCEMW, origines DX, originem H, or. alexandriae CQ insingulis M 198 maximia-
+nus C, maximinus cod. Vatic. reg. 294 aliique. iii] uii H 199 iste] hic H germanus DX uincit HP,
+uicet X 200 gordianos C uii] ui BE 201 pardis D persis] medis AE triumphabit QW
+202 philipus D uii] ui B 203 ctn. (om. Xa) imp.] imp. chr. AE

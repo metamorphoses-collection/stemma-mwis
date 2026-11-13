@@ -1,0 +1,50 @@
+POEMATVM LIB. I. 205
+Discat et inspectis discernere tempora signis:
+Subiciat pelagus saevum ingenioque tenaci
+65 Possideat, quaecumque videt: cui bestia frendens
+Serviat et posito discant mansueta furore
+Imperium iumenta pati iussique ligari
+Festinent trepidi consueta in vincla iuvenci.
+Quoque magis natura hominis sublimior extet,
+70 Accipiat rectos in caelum tollere vultus:
+Factorem quaerat proprium, cui mente fideli
+Inpendat famulam longaevo in tempore vitam.
+Haec ait et fragilem dignatus tangere terram
+Temperat umentem consperso in pulvere limum
+75 Orditurque novum dives sapientia corpus.
+Non aliter quam nunc opifex, quibus artis in usu est
+Flectere laxatas per cuncta sequacia ceras
+Et vultus implere manu seu corpora gypso
+Fingere vel signi speciem conponere massae.
+80 Sic pater omnipotens victurum protenus arvum
+Tractat et in lento meditatur viscera caeno.
+Hinc arcem capitis sublimi in vertice signat
+Septiforem vultum rationis sensibus aptans
+Olfactu, auditu, visu gustuque potentem.
+85 Tactus erit solus, toto qui corpore iudex
+Sentiat et proprium spargat per membra vigorem.
+Flexilis artatur recavo sic lingua palato,
+Pressus ut in cameram pulsantis verbere plectri
+Percusso resonet modulatus in aere sermo.
+90 Exim succiduum porrecto in corpore pectus
+Spargit ramosas post brachia fortia palmas.
+Succedit stomacho medius, qui tegmine molli
+Inter utrumque latus foveat vitalia, venter.
+Dividuam partem femur excipit, aptius ut se
+95 Alternum moveat duplicato poplite gressus.
+At parte ex alia, fingit quam conditor unus,
+Occipiti submissa suo descendere cervix
+Incipit et vastos compagibus addere nervos.
+Spina rigens crebris inter commercia nodis
+64 subiiciat G1 65 possedeat R quecumque RG1, q:cumque n1 66 discant n, discat
+RF 67 inperium R iussitque N, iussuque R 69 hominis L extet NF, exstet L1G,
+////tet al. corr. R 72 inpendat] LNF longeuo LRn 74 umentem LN (tempera tumte L),
+humentem RFβ consparso RF in puluere α, puluere β 75 orditur α, molitur β diuis
+N 76 nunc] non R quibus scripsi, cui α, cui est β in usu est α (u/su N), in usu β
+77 cuncta] puncta LR ceras α, cęras β 78 manus eucorpora N corporęa R 79 signi
+α, segni Fβ conponere] NRF massae α (masse LNn2), massa β 80 protinus LFβ
+aruum] aurum L1 post v. 81 sequuntur vv. 41—60 L 81 meditator N1n 82 hic NR
+84 olfatu L 85 sol' (l' pr. in ras.) R iudix N 86 menbra n 88 praessus N came-
+ram ω, camera ψ Sirmondus pulsantes N 89 modolatus NR 90 exim α (etim n1), exin Fβ
+92 succidit R mollo N1n 94 femor N 95 alternum α, alternus β 96 ad N1nR
+pingit L 97 occipti n submissa] dimissa R discendere NR 99 commertia RF

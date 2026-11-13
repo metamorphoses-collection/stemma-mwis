@@ -1,0 +1,3299 @@
+{
+ "pages": [
+  {
+   "text_id": "victor_vitensis_historia",
+   "page": 14,
+   "entries": [
+    {
+     "line": 1,
+     "lemma": "relicta",
+     "readings": [
+      {
+       "text": "peredicta",
+       "sigla": "Rp"
+      }
+     ],
+     "lemma_sigla": "BLV"
+    },
+    {
+     "line": 1,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "olibri",
+       "sigla": "BV"
+      },
+      {
+       "text": "libri",
+       "sigla": "Rp"
+      }
+     ]
+    },
+    {
+     "line": 1,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "cartaginiensis",
+       "sigla": "BV"
+      },
+      {
+       "text": "charthaginiensis",
+       "sigla": "R"
+      },
+      {
+       "text": "carthaginensis",
+       "sigla": "Lp"
+      }
+     ]
+    },
+    {
+     "line": 2,
+     "lemma": "per",
+     "readings": [
+      {
+       "text": "om.",
+       "sigla": "p"
+      }
+     ]
+    },
+    {
+     "line": 3,
+     "lemma": "nunc",
+     "readings": [
+      {
+       "text": "tunc",
+       "sigla": "LRp"
+      }
+     ],
+     "lemma_sigla": "BV",
+     "note": "tunc LRp et vulgo"
+    },
+    {
+     "line": 4,
+     "lemma": "praesentia",
+     "readings": [
+      {
+       "text": "in praesentia",
+       "sigla": "p"
+      }
+     ],
+     "lemma_sigla": "BLRV",
+     "note": "in praesentia p et vulgo, cf. III, 32"
+    },
+    {
+     "line": 5,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "uitared",
+       "sigla": "L"
+      },
+      {
+       "text": "Iutarit",
+       "sigla": "p"
+      }
+     ]
+    },
+    {
+     "line": 6,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "nobis",
+       "sigla": "Rp"
+      }
+     ]
+    },
+    {
+     "line": 6,
+     "lemma": "domnus",
+     "readings": [
+      {
+       "text": "dominus",
+       "sigla": "LRp"
+      }
+     ],
+     "lemma_sigla": "BV",
+     "note": "dominus noster ed. Ruin."
+    },
+    {
+     "line": 6,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "dicere",
+       "sigla": "Rp"
+      }
+     ],
+     "note": "item v. 9"
+    },
+    {
+     "line": 8,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "nostrae",
+       "sigla": "p"
+      }
+     ]
+    },
+    {
+     "line": 10,
+     "lemma": "sub eo",
+     "readings": [
+      {
+       "text": "eo sub tenore",
+       "sigla": "L"
+      }
+     ],
+     "lemma_sigla": "BRVp",
+     "note": "sub eo tenore vulgo"
+    },
+    {
+     "line": 10,
+     "lemma": "apud",
+     "readings": [
+      {
+       "text": "in",
+       "sigla": "BLV"
+      }
+     ],
+     "lemma_sigla": "Rp"
+    },
+    {
+     "line": 11,
+     "lemma": "liberum",
+     "readings": [
+      {
+       "text": "episcopi nostri (nostri om. L) liberum",
+       "sigla": "BLV"
+      }
+     ],
+     "lemma_sigla": "Rp"
+    },
+    {
+     "line": 12,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "populos",
+       "sigla": "p"
+      }
+     ]
+    },
+    {
+     "line": 13,
+     "lemma": "africae",
+     "readings": [
+      {
+       "text": "africane",
+       "sigla": "BV"
+      },
+      {
+       "text": "africanis",
+       "sigla": "L"
+      }
+     ],
+     "lemma_sigla": "Rp",
+     "note": "africanis L et vulgo"
+    },
+    {
+     "line": 14,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "habeatis",
+       "sigla": "p"
+      }
+     ]
+    },
+    {
+     "line": 14,
+     "lemma": "et quae .. facere",
+     "readings": [
+      {
+       "text": "om.",
+       "sigla": "Rp"
+      }
+     ]
+    },
+    {
+     "line": 15,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "quem ammodum",
+       "sigla": "B"
+      }
+     ]
+    },
+    {
+     "line": 15,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "reseruatum",
+       "sigla": "Rp"
+      }
+     ]
+    },
+    {
+     "line": 15,
+     "lemma": "tam",
+     "readings": [
+      {
+       "text": "ita",
+       "sigla": "L"
+      },
+      {
+       "text": "non tantum",
+       "sigla": "p"
+      }
+     ]
+    },
+    {
+     "line": 16,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "clericis sed",
+       "sigla": "B"
+      }
+     ]
+    },
+    {
+     "line": 17,
+     "lemma": "iubentur",
+     "readings": [
+      {
+       "text": "iubebuntur",
+       "sigla": "p"
+      }
+     ],
+     "lemma_sigla": "BLRV",
+     "note": "et vulgo"
+    },
+    {
+     "line": 17,
+     "lemma": "quod dum ed.",
+     "readings": [
+      {
+       "text": "qui dum ed.",
+       "sigla": "BV"
+      },
+      {
+       "text": "quod edictum dum",
+       "sigla": "L"
+      }
+     ],
+     "lemma_sigla": "Rp"
+    },
+    {
+     "line": 18,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "Iuniarum",
+       "sigla": "p"
+      }
+     ]
+    },
+    {
+     "line": 19,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "insidiantibus",
+       "sigla": "p"
+      }
+     ]
+    },
+    {
+     "line": 19,
+     "lemma": "dolis",
+     "readings": [
+      {
+       "text": "dolos",
+       "sigla": "L"
+      }
+     ],
+     "lemma_sigla": "BRVp",
+     "note": "dolos L et vulgo"
+    },
+    {
+     "line": 20,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "dixisse legato",
+       "sigla": "p"
+      }
+     ]
+    },
+    {
+     "line": 20,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "condictionibus",
+       "sigla": "V"
+      }
+     ]
+    },
+    {
+     "line": 21,
+     "lemma": "haec",
+     "readings": [
+      {
+       "text": "om.",
+       "sigla": "Rp"
+      }
+     ]
+    },
+    {
+     "line": 21,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "gubernet",
+       "sigla": "p"
+      }
+     ]
+    },
+    {
+     "line": 22,
+     "lemma": "dignatus est",
+     "readings": [
+      {
+       "text": "dignatur",
+       "sigla": "BLV"
+      }
+     ],
+     "lemma_sigla": "Rp"
+    },
+    {
+     "line": 23,
+     "lemma": "ut",
+     "readings": [
+      {
+       "text": "ait",
+       "sigla": "p"
+      }
+     ]
+    },
+    {
+     "line": 23,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "possit",
+       "sigla": "L"
+      }
+     ]
+    },
+    {
+     "line": 25,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "ordinatu*",
+       "sigla": "B"
+      },
+      {
+       "text": "ordinatur",
+       "sigla": "V1"
+      }
+     ]
+    },
+    {
+     "line": 26,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "commulatum",
+       "sigla": "B"
+      }
+     ]
+    },
+    {
+     "line": 26,
+     "lemma": "exultans",
+     "readings": [
+      {
+       "text": "exultat",
+       "sigla": "L"
+      }
+     ],
+     "lemma_sigla": "BRVp",
+     "note": "exultat L et vulgo"
+    },
+    {
+     "line": 27,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "numerus iuuenum",
+       "sigla": "Rp"
+      }
+     ]
+    },
+    {
+     "line": 28,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "gaudens",
+       "sigla": "Rp"
+      }
+     ]
+    },
+    {
+     "line": 31,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "ita esset",
+       "sigla": "BV"
+      }
+     ]
+    },
+    {
+     "line": 31,
+     "lemma": "omnibus",
+     "readings": [
+      {
+       "text": "ab omnibus",
+       "sigla": "BLV"
+      }
+     ],
+     "lemma_sigla": "Rp"
+    },
+    {
+     "line": 32,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "eisdem uniuersis",
+       "sigla": "p"
+      }
+     ]
+    },
+    {
+     "line": 32,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "delactaretur",
+       "sigla": "p"
+      }
+     ]
+    },
+    {
+     "line": 32,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "elemosinas",
+       "sigla": "LVp"
+      },
+      {
+       "text": "helemosinas",
+       "sigla": "R"
+      }
+     ],
+     "note": "eleemosynas vulgo"
+    },
+    {
+     "line": 33,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "facere est",
+       "sigla": "p"
+      }
+     ]
+    },
+    {
+     "line": 34,
+     "lemma": "ne",
+     "readings": [
+      {
+       "text": "nec",
+       "sigla": "p"
+      }
+     ],
+     "lemma_sigla": "BLRV",
+     "note": "nec p et vulgo"
+    },
+    {
+     "line": 34,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "agnoscitur",
+       "sigla": "R"
+      },
+      {
+       "text": "agnosceretur",
+       "sigla": "p"
+      }
+     ]
+    }
+   ],
+   "notes": "Clear print, fully legible. Lowercase p is cited as a witness alongside BLRV; treated as a siglum. Entries citing only mei / Lor. / vulgo / ed. Ruin. (2 ordinasset; 16 uel; 19 musitantes) skipped. Non-siglum authorities (vulgo, ed. Ruin.) kept in 'note'."
+  },
+  {
+   "text_id": "eutropius_breviarium",
+   "page": 147,
+   "entries": [
+    {
+     "line": 1,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "ἐπέτρεψε",
+       "sigla": "S"
+      }
+     ]
+    },
+    {
+     "line": 1,
+     "lemma": "τοῖς ἐπιφανεστέροις",
+     "readings": [
+      {
+       "text": "add.",
+       "sigla": "S"
+      }
+     ]
+    },
+    {
+     "line": 1,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "καὶ",
+       "sigla": "L"
+      },
+      {
+       "text": "κατὰ",
+       "sigla": "S"
+      }
+     ]
+    },
+    {
+     "line": 3,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "ἀπονέμοντας",
+       "sigla": "LS"
+      }
+     ],
+     "note": "corr. Mommsen"
+    },
+    {
+     "line": 12,
+     "lemma": "ἑαυτῷ",
+     "readings": [
+      {
+       "text": "om.",
+       "sigla": "S"
+      }
+     ]
+    },
+    {
+     "line": 12,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "κομόδῳ",
+       "sigla": "L"
+      },
+      {
+       "text": "κόμοδον",
+       "sigla": "S"
+      }
+     ]
+    },
+    {
+     "line": 15,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "πρὸς τοῦτο",
+       "sigla": "L"
+      },
+      {
+       "text": "πρὸς τοὺς αὐτόθι",
+       "sigla": "S"
+      }
+     ],
+     "note": "πρὸς τοὺς ἐν τούτῳ prop. Mommsen"
+    },
+    {
+     "line": 17,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "βασιλέων",
+       "sigla": "L"
+      },
+      {
+       "text": "βασιλεύων",
+       "sigla": "S"
+      }
+     ]
+    },
+    {
+     "line": 21,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "ἰὼν",
+       "sigla": "LS"
+      }
+     ],
+     "note": "ἄγων Schulze"
+    },
+    {
+     "line": 23,
+     "lemma": "αὐτὸν",
+     "readings": [
+      {
+       "text": "om.",
+       "sigla": "S"
+      }
+     ]
+    },
+    {
+     "line": 27,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "γεφύρῃ",
+       "sigla": "L"
+      }
+     ]
+    },
+    {
+     "line": 28,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "μουβίᾳ",
+       "sigla": "L"
+      }
+     ],
+     "note": "corr. S"
+    },
+    {
+     "line": 29,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "ἀφρὸς",
+       "sigla": "L1"
+      }
+     ]
+    },
+    {
+     "line": 30,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "λέρκις",
+       "sigla": "L"
+      },
+      {
+       "text": "λέπτις",
+       "sigla": "S"
+      }
+     ]
+    },
+    {
+     "line": 32,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "ταμίου",
+       "sigla": "LS"
+      }
+     ]
+    },
+    {
+     "line": 34,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "ἦλθεν",
+       "sigla": "L2"
+      }
+     ]
+    }
+   ],
+   "notes": "Greek page (Paeanius' Metaphrasis); witnesses here are L and S only. Legible. Bands 0-2 did not reach the apparatus; it is in band3 (band4 blank/black). Skipped 10 μήτε om. cod. Sylb. and λαμπρόν τι add. Sylb. (no siglum). 28: 'corr. S' read as S corrects; kept as note."
+  },
+  {
+   "text_id": "fortunatus_vita_martini",
+   "page": 355,
+   "entries": [
+    {
+     "line": 212,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "eximiei",
+       "sigla": "N"
+      }
+     ]
+    },
+    {
+     "line": 213,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "trhonum",
+       "sigla": "S"
+      }
+     ]
+    },
+    {
+     "line": 213,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "superbum",
+       "sigla": "S1"
+      }
+     ]
+    },
+    {
+     "line": 215,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "collentes",
+       "sigla": "N"
+      }
+     ]
+    },
+    {
+     "line": 218,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "tunc",
+       "sigla": "B"
+      }
+     ]
+    },
+    {
+     "line": 218,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "antestis",
+       "sigla": "PM"
+      }
+     ]
+    },
+    {
+     "line": 219,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "peruigili",
+       "sigla": "NP2"
+      },
+      {
+       "text": "perinuice**",
+       "sigla": "P1"
+      }
+     ]
+    },
+    {
+     "line": 219,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "existens",
+       "sigla": "L"
+      }
+     ]
+    },
+    {
+     "line": 219,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "scubat choris",
+       "sigla": "P1"
+      }
+     ]
+    },
+    {
+     "line": 222,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "phoedibus",
+       "sigla": "P1"
+      }
+     ]
+    },
+    {
+     "line": 224,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "stidula",
+       "sigla": "N"
+      }
+     ]
+    },
+    {
+     "line": 224,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "sydereo",
+       "sigla": "S"
+      }
+     ]
+    },
+    {
+     "line": 225,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "fremebunt da",
+       "sigla": "P1"
+      }
+     ]
+    },
+    {
+     "line": 228,
+     "lemma": "inpulit",
+     "readings": [
+      {
+       "text": "impulit",
+       "sigla": "L"
+      }
+     ],
+     "lemma_sigla": "PMS"
+    },
+    {
+     "line": 228,
+     "lemma": "inpacta",
+     "readings": [
+      {
+       "text": "impacta",
+       "sigla": "L"
+      }
+     ],
+     "lemma_sigla": "PNMS"
+    },
+    {
+     "line": 229,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "comnuit",
+       "sigla": "N"
+      }
+     ]
+    },
+    {
+     "line": 231,
+     "lemma": "o",
+     "readings": [
+      {
+       "text": "q****",
+       "sigla": "L1"
+      }
+     ]
+    },
+    {
+     "line": 231,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "antestis",
+       "sigla": "PM"
+      }
+     ]
+    },
+    {
+     "line": 232,
+     "lemma": "quis",
+     "readings": [
+      {
+       "text": "qui",
+       "sigla": "S2"
+      },
+      {
+       "text": "que",
+       "sigla": "L1"
+      }
+     ]
+    },
+    {
+     "line": 233,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "x",
+       "sigla": "PM"
+      },
+      {
+       "text": "IX",
+       "sigla": "B"
+      }
+     ]
+    },
+    {
+     "line": 233,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "miro",
+       "sigla": "PN"
+      }
+     ]
+    },
+    {
+     "line": 233,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "loquor",
+       "sigla": "S"
+      }
+     ]
+    },
+    {
+     "line": 234,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "informes",
+       "sigla": "PNM"
+      }
+     ]
+    },
+    {
+     "line": 235,
+     "lemma": "inmanis",
+     "readings": [
+      {
+       "text": "inmanes",
+       "sigla": "P1"
+      }
+     ],
+     "lemma_sigla": "LSP2"
+    },
+    {
+     "line": 236,
+     "lemma": "superinpositum",
+     "readings": [
+      {
+       "text": "superimpositum",
+       "sigla": "L"
+      }
+     ],
+     "lemma_sigla": "PNMS"
+    },
+    {
+     "line": 238,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "recurrit",
+       "sigla": "L2"
+      }
+     ]
+    },
+    {
+     "line": 240,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "stratur",
+       "sigla": "BMS"
+      }
+     ]
+    },
+    {
+     "line": 241,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "fusus",
+       "sigla": "S1"
+      }
+     ]
+    },
+    {
+     "line": 242,
+     "lemma": "est",
+     "readings": [
+      {
+       "text": "et",
+       "sigla": "NBM"
+      },
+      {
+       "text": "ex",
+       "sigla": "L1"
+      }
+     ],
+     "lemma_sigla": "PSL2"
+    },
+    {
+     "line": 242,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "discendere",
+       "sigla": "PN"
+      }
+     ]
+    }
+   ],
+   "notes": "Legible. Apparatus in bands 2-3. The upper footnote quoting the Sulpicius source cites 'thronum VAF' / 'codd.' (sigla of the source text, not this edition) - not included."
+  },
+  {
+   "text_id": "ennodius_opera",
+   "page": 61,
+   "entries": [
+    {
+     "line": 1,
+     "lemma": "gloriam uenerabilis",
+     "readings": [
+      {
+       "text": "gloriam hd (supra lin.) uenerabilis",
+       "sigla": "V"
+      },
+      {
+       "text": "gloriam hd uenerabilis",
+       "sigla": "T"
+      },
+      {
+       "text": "gloriam munerabilis",
+       "sigla": "AR"
+      }
+     ],
+     "note": "gloriam uenerabilis rel."
+    },
+    {
+     "line": 1,
+     "lemma": "non requirit — dispensatione",
+     "readings": [
+      {
+       "text": "verba unus exhibet",
+       "sigla": "B"
+      }
+     ]
+    },
+    {
+     "line": 1,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "requiret",
+       "sigla": "B"
+      }
+     ]
+    },
+    {
+     "line": 2,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "iugitur sup. lin. n",
+       "sigla": "B"
+      }
+     ]
+    },
+    {
+     "line": 2,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "trotinator",
+       "sigla": "B"
+      }
+     ]
+    },
+    {
+     "line": 3,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "inspexit",
+       "sigla": "C Pb"
+      }
+     ]
+    },
+    {
+     "line": 4,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "eclesiastica",
+       "sigla": "B"
+      }
+     ]
+    },
+    {
+     "line": 4,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "acusatio | ra",
+       "sigla": "B"
+      }
+     ]
+    },
+    {
+     "line": 5,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "sufficiant",
+       "sigla": "B"
+      }
+     ],
+     "note": "sufficiunt ceteri"
+    },
+    {
+     "line": 5,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "scribtione",
+       "sigla": "B"
+      }
+     ]
+    },
+    {
+     "line": 6,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "destinator",
+       "sigla": "B Va"
+      }
+     ]
+    },
+    {
+     "line": 11,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "dispicitis",
+       "sigla": "B"
+      }
+     ]
+    },
+    {
+     "line": 12,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "antistis",
+       "sigla": "B"
+      }
+     ]
+    },
+    {
+     "line": 13,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "abtatur",
+       "sigla": "BVLA"
+      }
+     ]
+    },
+    {
+     "line": 15,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "deuotus",
+       "sigla": "B"
+      }
+     ]
+    },
+    {
+     "line": 15,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "adtrahet",
+       "sigla": "B"
+      }
+     ]
+    },
+    {
+     "line": 16,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "eclesiarum",
+       "sigla": "B"
+      }
+     ]
+    },
+    {
+     "line": 19,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "ubique (que sup. lin.)",
+       "sigla": "B"
+      }
+     ]
+    },
+    {
+     "line": 28,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "commotationem",
+       "sigla": "B1"
+      }
+     ]
+    },
+    {
+     "line": 30,
+     "lemma": "superest",
+     "readings": [
+      {
+       "text": "est sup. lin. add.",
+       "sigla": "B2"
+      }
+     ]
+    },
+    {
+     "line": 34,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "fastigii",
+       "sigla": "Pb"
+      }
+     ],
+     "note": "fastidii ceteri, cf. p. 63, 38"
+    },
+    {
+     "line": 37,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "praesulem",
+       "sigla": "C Pb"
+      }
+     ]
+    }
+   ],
+   "notes": "Legible. 'Pb' printed as one siglum (P with b) and 'Va' as V with superscript a - written with spaces as multi-character sigla ('C Pb', 'B Va'). Skipped: iniuriam] incuriam Hartel; 13 incentivum (libri / edit.); 16 structura mediocris (conjecture); 20 negare codices."
+  },
+  {
+   "text_id": "isidorus_chronica_maiora",
+   "page": 447,
+   "entries": [
+    {
+     "line": "175,1",
+     "lemma": "herodotus",
+     "readings": [
+      {
+       "text": "arodotus",
+       "sigla": "M"
+      },
+      {
+       "text": "erodotus",
+       "sigla": "KSY"
+      },
+      {
+       "text": "eurodotus",
+       "sigla": "F"
+      },
+      {
+       "text": "herodos",
+       "sigla": "L"
+      },
+      {
+       "text": "eruditus",
+       "sigla": "Z"
+      },
+      {
+       "text": "inter eruditos",
+       "sigla": "NT"
+      }
+     ]
+    },
+    {
+     "line": "175,1",
+     "lemma": "historiarum",
+     "readings": [
+      {
+       "text": "storiarum",
+       "sigla": "L"
+      },
+      {
+       "text": "historia",
+       "sigla": "N"
+      }
+     ]
+    },
+    {
+     "line": "175,1",
+     "lemma": "scriptor",
+     "readings": [
+      {
+       "text": "scriptores",
+       "sigla": "CDENTXZ"
+      },
+      {
+       "text": "q. h. scr. om.",
+       "sigla": "M"
+      }
+     ]
+    },
+    {
+     "line": "175,1",
+     "lemma": "herodotus quoque historiarum scriptor",
+     "readings": [
+      {
+       "text": "om.",
+       "sigla": "V"
+      }
+     ],
+     "note": "'om. V' printed after the scriptor parenthesis; scope uncertain"
+    },
+    {
+     "line": "175,1",
+     "lemma": "et",
+     "readings": [
+      {
+       "text": "e",
+       "sigla": "DEMX"
+      },
+      {
+       "text": "eu",
+       "sigla": "NT"
+      }
+     ]
+    },
+    {
+     "line": "175,1",
+     "lemma": null,
+     "readings": [
+      {
+       "text": "zeucsis",
+       "sigla": "Vw"
+      },
+      {
+       "text": "zeusis",
+       "sigla": "D E K N S Ve X"
+      },
+      {
+       "text": "seusis",
+       "sigla": "M"
+      },
+      {
+       "text": "zeosis",
+       "sigla": "CFYZ"
+      },
+      {
+       "text": "eusis",
+       "sigla": "P"
+      },
+      {
+       "text": "geusis",
+       "sigla": "B"
+      }
+     ]
+    },
+    {
+     "line": "175,2",
+     "lemma": "agnoscitur",
+     "readings": [
+      {
+       "text": "agnusc-",
+       "sigla": "X"
+      },
+      {
+       "text": "-citor",
+       "sigla": "N"
+      }
+     ]
+    },
+    {
+     "line": "175,2",
+     "lemma": "pictor",
+     "readings": [
+      {
+       "text": "pictur",
+       "sigla": "X1"
+      },
+      {
+       "text": "pinctor",
+       "sigla": "C"
+      },
+      {
+       "text": "pictus",
+       "sigla": "X2"
+      }
+     ]
+    },
+    {
+     "line": "175,2",
+     "lemma": "agnoscitur pictor",
+     "readings": [
+      {
+       "text": "pict. agn.",
+       "sigla": "V"
+      }
+     ]
+    },
+    {
+     "line": 176,
+     "lemma": "artaxerxes",
+     "readings": [
+      {
+       "text": "artarserxes",
+       "sigla": "G"
+      },
+      {
+       "text": "arterxerxes",
+       "sigla": "N"
+      },
+      {
+       "text": "artaxerses",
+       "sigla": "BEFKS"
+      },
+      {
+       "text": "artaxersis",
+       "sigla": "CZ"
+      },
+      {
+       "text": "artarxersis",
+       "sigla": "Db"
+      },
+      {
+       "text": "artarxerses",
+       "sigla": "MVY"
+      },
+      {
+       "text": "artarexerxes",
+       "sigla": "X"
+      },
+      {
+       "text": "artr*xersis",
+       "sigla": "Da"
+      }
+     ],
+     "lemma_sigla": "LT"
+    },
+    {
+     "line": 176,
+     "lemma": "qui et",
+     "readings": [
+      {
+       "text": "om.",
+       "sigla": "L"
+      }
+     ]
+    },
+    {
+     "line": 176,
+     "lemma": "longimanus",
+     "readings": [
+      {
+       "text": "longaemanus",
+       "sigla": "FNT"
+      }
+     ]
+    },
+    {
+     "line": 176,
+     "lemma": "reg. a. xl",
+     "readings": [
+      {
+       "text": "an. xl q. et long.",
+       "sigla": "V"
+      }
+     ]
+    },
+    {
+     "line": "177,1",
+     "lemma": "eo regnante",
+     "readings": [
+      {
+       "text": "eodem tempore",
+       "sigla": "L"
+      },
+      {
+       "text": "om.",
+       "sigla": "V"
+      }
+     ]
+    },
+    {
+     "line": "177,1",
+     "lemma": null,
+     "readings": [
+      {
+       "text": "hesdras",
+       "sigla": "BDLMPSVZ"
+      },
+      {
+       "text": "haesdras",
+       "sigla": "C"
+      },
+      {
+       "text": "ezdras",
+       "sigla": "NT"
+      },
+      {
+       "text": "esdra",
+       "sigla": "E"
+      }
+     ]
+    },
+    {
+     "line": "177,1",
+     "lemma": "sacerdos",
+     "readings": [
+      {
+       "text": "om.",
+       "sigla": "V"
+      }
+     ]
+    },
+    {
+     "line": "177,1",
+     "lemma": "incensam a gentibus",
+     "readings": [
+      {
+       "text": "om. reliqui",
+       "sigla": ""
+      }
+     ],
+     "lemma_sigla": "BFPSVY"
+    },
+    {
+     "line": "177,1",
+     "lemma": "a",
+     "readings": [
+      {
+       "text": "ex",
+       "sigla": "BPS"
+      },
+      {
+       "text": "in",
+       "sigla": "Ve"
+      }
+     ]
+    },
+    {
+     "line": "177,2",
+     "lemma": null,
+     "readings": [
+      {
+       "text": "legem renouabit",
+       "sigla": "EGLZ"
+      },
+      {
+       "text": "ren. leg.",
+       "sigla": "V"
+      }
+     ]
+    },
+    {
+     "line": 178,
+     "lemma": "neem.",
+     "readings": [
+      {
+       "text": "et neem.",
+       "sigla": "F"
+      },
+      {
+       "text": "neaemenias",
+       "sigla": "C"
+      }
+     ]
+    },
+    {
+     "line": 178,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "murus",
+       "sigla": "C X1"
+      },
+      {
+       "text": "moros",
+       "sigla": "S"
+      },
+      {
+       "text": "murum",
+       "sigla": "Ma"
+      }
+     ]
+    },
+    {
+     "line": 178,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "hyerusolimorum",
+       "sigla": "EX"
+      },
+      {
+       "text": "hierusolimarum",
+       "sigla": "K"
+      },
+      {
+       "text": "hierusalem",
+       "sigla": "CLM"
+      }
+     ]
+    },
+    {
+     "line": 178,
+     "lemma": "restituit",
+     "readings": [
+      {
+       "text": "iterum rest.",
+       "sigla": "C"
+      },
+      {
+       "text": "instituit",
+       "sigla": "FL"
+      },
+      {
+       "text": "restitant",
+       "sigla": "Da"
+      }
+     ]
+    },
+    {
+     "line": "179,1",
+     "lemma": null,
+     "readings": [
+      {
+       "text": "aristarcus",
+       "sigla": "DKX"
+      },
+      {
+       "text": "aristercus",
+       "sigla": "N"
+      }
+     ]
+    },
+    {
+     "line": "179,1",
+     "lemma": "et",
+     "readings": [
+      {
+       "text": "om.",
+       "sigla": "EK"
+      }
+     ]
+    },
+    {
+     "line": "179,1",
+     "lemma": null,
+     "readings": [
+      {
+       "text": "aristofanis",
+       "sigla": "DELX"
+      },
+      {
+       "text": "aristophanes",
+       "sigla": "KZ"
+      },
+      {
+       "text": "aristofoneis",
+       "sigla": "P"
+      },
+      {
+       "text": "aristofones",
+       "sigla": "S"
+      }
+     ]
+    },
+    {
+     "line": "179,1",
+     "lemma": null,
+     "readings": [
+      {
+       "text": "soffocles",
+       "sigla": "Z"
+      },
+      {
+       "text": "suffochles",
+       "sigla": "C"
+      },
+      {
+       "text": "sofodes",
+       "sigla": "L"
+      },
+      {
+       "text": "suffocles",
+       "sigla": "D"
+      },
+      {
+       "text": "sophocles",
+       "sigla": "K"
+      }
+     ]
+    },
+    {
+     "line": "179,2",
+     "lemma": "tragoediarum ... 180,2 socrates",
+     "readings": [
+      {
+       "text": "om.",
+       "sigla": "Da"
+      }
+     ]
+    },
+    {
+     "line": "179,2",
+     "lemma": null,
+     "readings": [
+      {
+       "text": "tragoaediarum",
+       "sigla": "G"
+      },
+      {
+       "text": "tracoediarum",
+       "sigla": "EXZ"
+      },
+      {
+       "text": "tragoetiarum",
+       "sigla": "C"
+      },
+      {
+       "text": "tragodiarum",
+       "sigla": "L"
+      },
+      {
+       "text": "traguediarum",
+       "sigla": "FKT"
+      },
+      {
+       "text": "traguaediarum",
+       "sigla": "N"
+      },
+      {
+       "text": "traguendiarum",
+       "sigla": "S"
+      }
+     ]
+    },
+    {
+     "line": "179,2",
+     "lemma": null,
+     "readings": [
+      {
+       "text": "scribtoris",
+       "sigla": "L"
+      }
+     ]
+    },
+    {
+     "line": "179,2",
+     "lemma": "clari hab. sunt",
+     "readings": [
+      {
+       "text": "habiti sunt",
+       "sigla": "CDFKMNTXYZ"
+      },
+      {
+       "text": "abiti sunt insignes",
+       "sigla": "G"
+      },
+      {
+       "text": "habitus",
+       "sigla": "E"
+      },
+      {
+       "text": "om.",
+       "sigla": "BPS"
+      }
+     ],
+     "lemma_sigla": "L"
+    },
+    {
+     "line": 180,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "breviavit sic: cratinus primus comicus et socrates philosophus et ypocras medicus claruerunt",
+       "sigla": "V"
+      }
+     ]
+    },
+    {
+     "line": "180,1",
+     "lemma": "cratinus quoque comicus primus",
+     "readings": [
+      {
+       "text": "gratinus quoque comicus primus",
+       "sigla": "BPS"
+      },
+      {
+       "text": "similiter (vide supra)",
+       "sigla": "V"
+      },
+      {
+       "text": "et cratinus primus comicus post claruerunt",
+       "sigla": "K"
+      }
+     ],
+     "note": "non habet F; om. reliqui"
+    },
+    {
+     "line": "180,1",
+     "lemma": "hippocrates",
+     "readings": [
+      {
+       "text": "hyppocratis",
+       "sigla": "EX"
+      },
+      {
+       "text": "hypocratis",
+       "sigla": "Z"
+      },
+      {
+       "text": "hypocrates",
+       "sigla": "M"
+      },
+      {
+       "text": "hypocras",
+       "sigla": "Db"
+      },
+      {
+       "text": "hyphocrates",
+       "sigla": "C"
+      },
+      {
+       "text": "yppocrates",
+       "sigla": "K"
+      },
+      {
+       "text": "ypocrates",
+       "sigla": "F"
+      },
+      {
+       "text": "hipocrates",
+       "sigla": "G"
+      },
+      {
+       "text": "hipogratis",
+       "sigla": "S"
+      },
+      {
+       "text": "et hippocrates",
+       "sigla": "BP"
+      },
+      {
+       "text": "ipp.",
+       "sigla": "B"
+      },
+      {
+       "text": "pochratis",
+       "sigla": "N"
+      }
+     ]
+    },
+    {
+     "line": "180,2",
+     "lemma": "quoque",
+     "readings": [
+      {
+       "text": "enim",
+       "sigla": "F"
+      },
+      {
+       "text": "om.",
+       "sigla": "BPSY"
+      }
+     ]
+    },
+    {
+     "line": "180,2",
+     "lemma": "ac",
+     "readings": [
+      {
+       "text": "hac",
+       "sigla": "CEKS"
+      }
+     ]
+    },
+    {
+     "line": "180,2",
+     "lemma": "socrates",
+     "readings": [
+      {
+       "text": "socratis",
+       "sigla": "EXZ"
+      }
+     ]
+    },
+    {
+     "line": "180,2",
+     "lemma": "quoque med. ac socrates",
+     "readings": [
+      {
+       "text": "om.",
+       "sigla": "MNT"
+      }
+     ]
+    },
+    {
+     "line": "180,2",
+     "lemma": null,
+     "readings": [
+      {
+       "text": "phylosophus",
+       "sigla": "X"
+      },
+      {
+       "text": "philosaphus",
+       "sigla": "F"
+      },
+      {
+       "text": "om.",
+       "sigla": "Y"
+      }
+     ]
+    },
+    {
+     "line": "180,2",
+     "lemma": "et",
+     "readings": [
+      {
+       "text": "atque",
+       "sigla": "BPSY"
+      }
+     ]
+    },
+    {
+     "line": "180,2/3",
+     "lemma": null,
+     "readings": [
+      {
+       "text": "demochritus",
+       "sigla": "C"
+      },
+      {
+       "text": "dimocritus",
+       "sigla": "K"
+      },
+      {
+       "text": "domocritus",
+       "sigla": "Da X Z"
+      },
+      {
+       "text": "domocretus",
+       "sigla": "T"
+      },
+      {
+       "text": "domecritus",
+       "sigla": "S"
+      }
+     ]
+    },
+    {
+     "line": 181,
+     "lemma": "qui et",
+     "readings": [
+      {
+       "text": "om.",
+       "sigla": "DEX"
+      }
+     ]
+    },
+    {
+     "line": 181,
+     "lemma": "nothus",
+     "readings": [
+      {
+       "text": "notus",
+       "sigla": "CEKNZ"
+      },
+      {
+       "text": "nutus",
+       "sigla": "X"
+      }
+     ]
+    },
+    {
+     "line": 181,
+     "lemma": "qui et nothus",
+     "readings": [
+      {
+       "text": "om.",
+       "sigla": "L"
+      }
+     ]
+    },
+    {
+     "line": 181,
+     "lemma": "regn. ann.",
+     "readings": [
+      {
+       "text": "om.",
+       "sigla": "E"
+      }
+     ]
+    },
+    {
+     "line": 181,
+     "lemma": "xuiiii",
+     "readings": [
+      {
+       "text": "uiiii",
+       "sigla": "L"
+      }
+     ]
+    },
+    {
+     "line": "182. 182a",
+     "lemma": "plato nascitur",
+     "readings": [
+      {
+       "text": "haec a. h. philosophum pl. et gorgiam pr. rhetorem",
+       "sigla": "BFPSV"
+      },
+      {
+       "text": "platon nascitur et gordias primus retor habetur",
+       "sigla": "K"
+      }
+     ],
+     "note": "plato nascitur plerique"
+    },
+    {
+     "line": "182a",
+     "lemma": "philosophum",
+     "readings": [
+      {
+       "text": "om.",
+       "sigla": "V"
+      }
+     ]
+    },
+    {
+     "line": "182a",
+     "lemma": "rhetorem",
+     "readings": [
+      {
+       "text": "rectorem",
+       "sigla": "S"
+      },
+      {
+       "text": "om.",
+       "sigla": "F"
+      }
+     ]
+    },
+    {
+     "line": "182b",
+     "lemma": null,
+     "readings": [
+      {
+       "text": "cudoxus",
+       "sigla": "M"
+      }
+     ]
+    },
+    {
+     "line": 118,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "artaxerses",
+       "sigla": "W"
+      },
+      {
+       "text": "artasersex",
+       "sigla": "A"
+      },
+      {
+       "text": "artarxerxes",
+       "sigla": "DQ"
+      },
+      {
+       "text": "artarxerses",
+       "sigla": "BEMP"
+      },
+      {
+       "text": "artharxerses",
+       "sigla": "H"
+      },
+      {
+       "text": "sexerxes",
+       "sigla": "C"
+      }
+     ]
+    },
+    {
+     "line": 119,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "esdras",
+       "sigla": "ADPQ"
+      },
+      {
+       "text": "ezdras",
+       "sigla": "Wb"
+      },
+      {
+       "text": "ezodras",
+       "sigla": "Wa"
+      },
+      {
+       "text": "hestras",
+       "sigla": "H"
+      }
+     ]
+    },
+    {
+     "line": 119,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "ronouat",
+       "sigla": "E"
+      },
+      {
+       "text": "renouauit",
+       "sigla": "B"
+      },
+      {
+       "text": "renouabit",
+       "sigla": "P"
+      },
+      {
+       "text": "reuocat (mg. ead. m. renouat)",
+       "sigla": "AM"
+      }
+     ]
+    },
+    {
+     "line": 120,
+     "lemma": "post darius",
+     "readings": [
+      {
+       "text": "ins. autem",
+       "sigla": "H"
+      }
+     ]
+    },
+    {
+     "line": 120,
+     "lemma": "qui et",
+     "readings": [
+      {
+       "text": "e",
+       "sigla": "P"
+      },
+      {
+       "text": "est",
+       "sigla": "C"
+      }
+     ]
+    },
+    {
+     "line": 120,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "not(h)us",
+       "sigla": "BCPW"
+      }
+     ]
+    },
+    {
+     "line": 120,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "xuiii",
+       "sigla": "C"
+      }
+     ]
+    },
+    {
+     "line": 121,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "platone",
+       "sigla": "P"
+      }
+     ]
+    },
+    {
+     "line": 121,
+     "lemma": "post platonem",
+     "readings": [
+      {
+       "text": "ins. et gorgiam primum rhetorem",
+       "sigla": "C"
+      }
+     ],
+     "note": "C (?)"
+    }
+   ],
+   "notes": "Two apparatus blocks: main chronicle (witness list BCDEFGKLMNPSTV (om. c. 178. 179) XYZ) and short recension 118-121 (ABCDEHMPQW). The first ~6 apparatus lines (175,1 to 176 artr*xersis) lie above band0 and were read from the full image at reduced resolution: legible but superscripts (Vw, Ve, X1/X2, Db/Da) less certain. Multi-character sigla with letter superscripts written with spaces (e.g. 'D E K N S Ve X'). Marginal sigla lists next to the edited text (BFPSVY, BKPSV, BFKPSV, M) not included as entries. Lines given as printed, compound refs as strings."
+  },
+  {
+   "text_id": "historia_brittonum",
+   "page": 214,
+   "entries": [
+    {
+     "line": 1,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "dourig",
+       "sigla": "C1DGP"
+      },
+      {
+       "text": "donrig",
+       "sigla": "C2L"
+      }
+     ]
+    },
+    {
+     "line": 1,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "abrem",
+       "sigla": "Q"
+      }
+     ]
+    },
+    {
+     "line": 2,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "duos",
+       "sigla": "G"
+      }
+     ]
+    },
+    {
+     "line": "2/3",
+     "lemma": null,
+     "readings": [
+      {
+       "text": "inundatur",
+       "sigla": "C2DGLPQ"
+      },
+      {
+       "text": "mundatur",
+       "sigla": "C1"
+      }
+     ]
+    },
+    {
+     "line": 3,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "sisam",
+       "sigla": "C2D2G"
+      }
+     ]
+    },
+    {
+     "line": 6,
+     "lemma": "in modum ... 7 collidunt se",
+     "readings": [
+      {
+       "text": "om. (ut videtur)",
+       "sigla": "C1"
+      },
+      {
+       "text": "om.",
+       "sigla": "D1PQ"
+      }
+     ]
+    },
+    {
+     "line": 7,
+     "lemma": "se",
+     "readings": [
+      {
+       "text": "om.",
+       "sigla": "D2"
+      }
+     ]
+    },
+    {
+     "line": "7/9",
+     "lemma": "ad inuicem et iterum secedit alter ab altero et iterum procedunt",
+     "readings": [
+      {
+       "text": "haec etsi adsunt in textu, repetit in margine, dans recedit pro secedit et iterumque pro et iterum, post procedunt addens ex uno cumulo super omnem faciem maris",
+       "sigla": "D2"
+      },
+      {
+       "text": "similiterque",
+       "sigla": "C2GL"
+      }
+     ]
+    },
+    {
+     "line": null,
+     "lemma": "alter",
+     "readings": [
+      {
+       "text": "alterum",
+       "sigla": "HK"
+      }
+     ]
+    },
+    {
+     "line": 9,
+     "lemma": "et iterum",
+     "readings": [
+      {
+       "text": "iterumque",
+       "sigla": "D2"
+      },
+      {
+       "text": "iterumque",
+       "sigla": "PQ"
+      }
+     ],
+     "note": "iterumque D2 (vide supra) PQ"
+    },
+    {
+     "line": 9,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "scissa",
+       "sigla": "D"
+      },
+      {
+       "text": "seissa",
+       "sigla": "G"
+      }
+     ]
+    },
+    {
+     "line": 10,
+     "lemma": "fac. ab in. m.",
+     "readings": [
+      {
+       "text": "ab in. m. fac.",
+       "sigla": "DGP"
+      }
+     ]
+    },
+    {
+     "line": 10,
+     "lemma": "fac.",
+     "readings": [
+      {
+       "text": "om.",
+       "sigla": "Q"
+      }
+     ]
+    },
+    {
+     "line": 11,
+     "lemma": "hodiernum",
+     "readings": [
+      {
+       "text": "presentem",
+       "sigla": "DGPQ"
+      }
+     ]
+    },
+    {
+     "line": 12,
+     "lemma": "id est oper linn liuan",
+     "readings": [
+      {
+       "text": "stagni luiane quod est aper lin luian",
+       "sigla": "CDGLPQ"
+      }
+     ],
+     "note": "Lin Liguuan Galfredus 9, 7"
+    },
+    {
+     "line": 12,
+     "lemma": "linn",
+     "readings": [
+      {
+       "text": "lin",
+       "sigla": "Ha"
+      }
+     ]
+    },
+    {
+     "line": 12,
+     "lemma": "stagni",
+     "readings": [
+      {
+       "text": "stagnum",
+       "sigla": "D1G"
+      }
+     ]
+    },
+    {
+     "line": 12,
+     "lemma": "aper lin luian",
+     "readings": [
+      {
+       "text": "apud luinnam",
+       "sigla": "Q"
+      }
+     ]
+    },
+    {
+     "line": 14,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "sabrinam",
+       "sigla": "PQ"
+      }
+     ]
+    },
+    {
+     "line": 14,
+     "lemma": "et q. s. inundatur",
+     "readings": [
+      {
+       "text": "om.",
+       "sigla": "Q"
+      }
+     ]
+    },
+    {
+     "line": 14,
+     "lemma": "inundatur",
+     "readings": [
+      {
+       "text": "i. s.",
+       "sigla": "CDGLP"
+      }
+     ]
+    },
+    {
+     "line": 15,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "scissam",
+       "sigla": "Q"
+      },
+      {
+       "text": "sisam",
+       "sigla": "G"
+      }
+     ]
+    },
+    {
+     "line": 15,
+     "lemma": "et mare ... 19 ad sissam",
+     "readings": [
+      {
+       "text": "om.",
+       "sigla": "D1PQ"
+      }
+     ]
+    },
+    {
+     "line": 15,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "sim. inund.",
+       "sigla": "CD2GKL"
+      }
+     ]
+    },
+    {
+     "line": 16,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "ostio stagni",
+       "sigla": "CD2GL"
+      }
+     ]
+    },
+    {
+     "line": 17,
+     "lemma": "et mare",
+     "readings": [
+      {
+       "text": "mare et",
+       "sigla": "HKL1"
+      },
+      {
+       "text": "et (om. mare)",
+       "sigla": "C1"
+      }
+     ]
+    },
+    {
+     "line": 19,
+     "lemma": "quamdiu",
+     "readings": [
+      {
+       "text": "quando",
+       "sigla": "CD2GL"
+      }
+     ]
+    },
+    {
+     "line": 19,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "sisam",
+       "sigla": "D2G"
+      }
+     ]
+    },
+    {
+     "line": 20,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "istum",
+       "sigla": "D"
+      }
+     ]
+    },
+    {
+     "line": 21,
+     "lemma": "liuan",
+     "readings": [
+      {
+       "text": "luiane",
+       "sigla": "DGPQ"
+      },
+      {
+       "text": "liguane",
+       "sigla": "CL"
+      }
+     ]
+    },
+    {
+     "line": 22,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "mare",
+       "sigla": "DG"
+      }
+     ]
+    },
+    {
+     "line": 23,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "instrar",
+       "sigla": "H"
+      },
+      {
+       "text": "ad instar",
+       "sigla": "P"
+      }
+     ]
+    },
+    {
+     "line": 24,
+     "lemma": "post unda",
+     "readings": [
+      {
+       "text": "ins. deuorauit de mari",
+       "sigla": "H"
+      }
+     ]
+    },
+    {
+     "line": 24,
+     "lemma": "unda eructat",
+     "readings": [
+      {
+       "text": "e. u.",
+       "sigla": "CL"
+      }
+     ]
+    },
+    {
+     "line": 24,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "erumpit",
+       "sigla": "PQ"
+      }
+     ]
+    },
+    {
+     "line": 25,
+     "lemma": "est",
+     "readings": [
+      {
+       "text": "est istud litus",
+       "sigla": "CD2GL"
+      }
+     ]
+    },
+    {
+     "line": 26,
+     "lemma": "faciem",
+     "readings": [
+      {
+       "text": "f. suam",
+       "sigla": "C2L"
+      }
+     ]
+    },
+    {
+     "line": "26/27",
+     "lemma": "et",
+     "readings": [
+      {
+       "text": "om.",
+       "sigla": "PQ"
+      }
+     ]
+    },
+    {
+     "line": "26/27",
+     "lemma": null,
+     "readings": [
+      {
+       "text": "unda trahit exercitum",
+       "sigla": "CDGL"
+      },
+      {
+       "text": "exercitus trahitur unda",
+       "sigla": "P"
+      }
+     ]
+    },
+    {
+     "line": 27,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "humoris",
+       "sigla": "CD2GL"
+      }
+     ]
+    },
+    {
+     "line": 28,
+     "lemma": "autem",
+     "readings": [
+      {
+       "text": "om.",
+       "sigla": "CL"
+      }
+     ]
+    },
+    {
+     "line": 29,
+     "lemma": "exercitus",
+     "readings": [
+      {
+       "text": "supradictus e.",
+       "sigla": "CD2GL"
+      }
+     ]
+    },
+    {
+     "line": 32,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "denudatus",
+       "sigla": "CL"
+      }
+     ]
+    },
+    {
+     "line": 33,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "cinloipiauc",
+       "sigla": "CDGLPQ"
+      }
+     ]
+    },
+    {
+     "line": 34,
+     "lemma": "finnaun",
+     "readings": [
+      {
+       "text": "fontain",
+       "sigla": "P"
+      },
+      {
+       "text": "fontaun",
+       "sigla": "CDGL"
+      },
+      {
+       "text": "fontatum",
+       "sigla": "Q"
+      },
+      {
+       "text": "om.",
+       "sigla": "K"
+      }
+     ],
+     "lemma_sigla": "H"
+    },
+    {
+     "line": 34,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "guor",
+       "sigla": "CDGLP"
+      },
+      {
+       "text": "gor",
+       "sigla": "Q"
+      }
+     ]
+    }
+   ],
+   "notes": "Legible; apparatus labelled 'SIN.:' with witness list CDGHKLPQ. Nested parenthetical variants split into separate entries. 'alter] alterum HK' printed without its own line number (after 7/9), line null. 'Ha' = H with superscript a."
+  },
+  {
+   "text_id": "avitus_carmina",
+   "page": 254,
+   "entries": [
+    {
+     "line": 646,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "munera",
+       "sigla": "N"
+      }
+     ]
+    },
+    {
+     "line": 646,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "uario",
+       "sigla": "N"
+      }
+     ]
+    },
+    {
+     "line": 646,
+     "lemma": "omni",
+     "readings": [
+      {
+       "text": "i in ras.",
+       "sigla": "R"
+      }
+     ]
+    },
+    {
+     "line": 647,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "uitale",
+       "sigla": "R"
+      }
+     ]
+    },
+    {
+     "line": 647,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "monstrant",
+       "sigla": "N"
+      }
+     ]
+    },
+    {
+     "line": 647,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "pigneris",
+       "sigla": "LF2"
+      },
+      {
+       "text": "pignoris",
+       "sigla": "NRF1β"
+      }
+     ]
+    },
+    {
+     "line": 647,
+     "lemma": "arcum",
+     "readings": [
+      {
+       "text": "c ex ct?",
+       "sigla": "R"
+      }
+     ]
+    },
+    {
+     "line": 649,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "exhis",
+       "sigla": "LR"
+      }
+     ]
+    },
+    {
+     "line": 650,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "namque",
+       "sigla": "ω"
+      },
+      {
+       "text": "nam",
+       "sigla": "ψ"
+      }
+     ],
+     "note": "nam ψ Sirmondus"
+    },
+    {
+     "line": 650,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "inquid",
+       "sigla": "n"
+      }
+     ]
+    },
+    {
+     "line": 652,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "discriberet",
+       "sigla": "LN"
+      },
+      {
+       "text": "describeret",
+       "sigla": "RFβ"
+      }
+     ]
+    },
+    {
+     "line": 653,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "conparat",
+       "sigla": "αG"
+      },
+      {
+       "text": "conpurat",
+       "sigla": "R"
+      }
+     ]
+    },
+    {
+     "line": 654,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "praecibus",
+       "sigla": "NR"
+      }
+     ],
+     "note": "praecibus N (non n) R"
+    },
+    {
+     "line": 654,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "flectibus",
+       "sigla": "n"
+      }
+     ]
+    },
+    {
+     "line": 654,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "obtans",
+       "sigla": "R"
+      }
+     ]
+    },
+    {
+     "line": 656,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "nec",
+       "sigla": "R"
+      }
+     ]
+    },
+    {
+     "line": 656,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "surgat",
+       "sigla": "L"
+      }
+     ]
+    },
+    {
+     "line": 656,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "ne debelat ar/e bellent",
+       "sigla": "R"
+      }
+     ]
+    },
+    {
+     "line": 658,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "quo",
+       "sigla": "α"
+      },
+      {
+       "text": "quia",
+       "sigla": "β"
+      }
+     ]
+    },
+    {
+     "line": 658,
+     "lemma": "non",
+     "readings": [
+      {
+       "text": "inon",
+       "sigla": "L"
+      }
+     ]
+    },
+    {
+     "line": 658,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "subpetit",
+       "sigla": "R"
+      }
+     ]
+    },
+    {
+     "line": "tit.",
+     "lemma": "ALCIMI",
+     "readings": [
+      {
+       "text": "ALCHIMI",
+       "sigla": "L"
+      },
+      {
+       "text": "AL'",
+       "sigla": "V"
+      }
+     ],
+     "lemma_sigla": "ω",
+     "note": "lemma is whole title 'ALCIMI AVITI EPISCOPI EXPLICIT DE DILVVIO MVNDI LIBER QVARTVS INCIPIT DE TRANSITV MARIS RVBRI EIVSDEM LIBER QVINTVS ω'"
+    },
+    {
+     "line": "tit.",
+     "lemma": "AVITI",
+     "readings": [
+      {
+       "text": "AV̄",
+       "sigla": "V"
+      }
+     ]
+    },
+    {
+     "line": "tit.",
+     "lemma": "Alcimi Auiti epi",
+     "readings": [
+      {
+       "text": "om. hoc loco",
+       "sigla": "M"
+      }
+     ]
+    },
+    {
+     "line": "tit.",
+     "lemma": "EXPLICIT",
+     "readings": [
+      {
+       "text": "post numerum IIII habet",
+       "sigla": "V"
+      },
+      {
+       "text": "EXPLICAT",
+       "sigla": "M"
+      }
+     ]
+    },
+    {
+     "line": "tit.",
+     "lemma": "MVNDI",
+     "readings": [
+      {
+       "text": "om.",
+       "sigla": "FG"
+      }
+     ]
+    },
+    {
+     "line": "tit.",
+     "lemma": "de diluuio mundi",
+     "readings": [
+      {
+       "text": "om.",
+       "sigla": "RD"
+      }
+     ]
+    },
+    {
+     "line": "tit.",
+     "lemma": "INCIPIT ... RVBRI",
+     "readings": [
+      {
+       "text": "INCIPIT LIBER ALCHIMI AVITI EPI DE — RVBRI",
+       "sigla": "N"
+      },
+      {
+       "text": "ALCHIMI AVITI EPI LIB INCIPIT DE — RVBRI",
+       "sigla": "Vn"
+      }
+     ]
+    },
+    {
+     "line": "tit.",
+     "lemma": "TRANSITV",
+     "readings": [
+      {
+       "text": "TRANSITV/// (M eras.)",
+       "sigla": "R"
+      }
+     ]
+    },
+    {
+     "line": "tit.",
+     "lemma": "EIVSDEM",
+     "readings": [
+      {
+       "text": "in uno",
+       "sigla": "F"
+      }
+     ],
+     "note": "deest in ceteris"
+    },
+    {
+     "line": "tit.",
+     "lemma": "LIBER V",
+     "readings": [
+      {
+       "text": "om.",
+       "sigla": "N D"
+      }
+     ],
+     "note": "om. N (non n) D"
+    },
+    {
+     "line": "tit.",
+     "lemma": "ALCIMI AVITI VIENNENSIS EPI",
+     "readings": [
+      {
+       "text": "post QVINTVS in fine habet",
+       "sigla": "M"
+      }
+     ]
+    },
+    {
+     "line": "tit.",
+     "lemma": "totus titulus",
+     "readings": [
+      {
+       "text": "deest",
+       "sigla": "E"
+      }
+     ]
+    },
+    {
+     "line": 1,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "ter^ris",
+       "sigla": "R"
+      }
+     ]
+    },
+    {
+     "line": 1,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "potuisse",
+       "sigla": "ω"
+      },
+      {
+       "text": "patuisse",
+       "sigla": "ψ"
+      }
+     ],
+     "note": "patuisse ψ Sirmondus"
+    },
+    {
+     "line": 2,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "nuc",
+       "sigla": "R"
+      }
+     ]
+    },
+    {
+     "line": 3,
+     "lemma": "v. 3",
+     "readings": [
+      {
+       "text": "omissus, sed supra in marg. pr. m. add. notis hd et hh adpositis",
+       "sigla": "G"
+      }
+     ]
+    },
+    {
+     "line": 4,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "nunc",
+       "sigla": "α"
+      },
+      {
+       "text": "hinc",
+       "sigla": "β"
+      }
+     ]
+    },
+    {
+     "line": 4,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "succenso",
+       "sigla": "N"
+      }
+     ]
+    },
+    {
+     "line": 4,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "furorae",
+       "sigla": "R"
+      }
+     ]
+    },
+    {
+     "line": 5,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "periture",
+       "sigla": "L"
+      }
+     ]
+    },
+    {
+     "line": 6,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "sed",
+       "sigla": "ω"
+      }
+     ],
+     "note": "si Sirmondus"
+    },
+    {
+     "line": 6,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "tanti/ (g eras.?)",
+       "sigla": "n"
+      }
+     ]
+    },
+    {
+     "line": 7,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "diuinum laude",
+       "sigla": "R"
+      },
+      {
+       "text": "nec non ut vid., in quo in deest",
+       "sigla": "F"
+      }
+     ]
+    },
+    {
+     "line": 8,
+     "lemma": null,
+     "readings": [
+      {
+       "text": "montrari",
+       "sigla": "R"
+      }
+     ]
+    }
+   ],
+   "notes": "Legible. Covers end of book IV (646-658), the book title, and V.1-8. Title entries given line 'tit.'. 654 'N (non n) R' and 'om. N (non n) D' written without the n. Bands 2-3 used; band4 blank."
+  }
+ ]
+}

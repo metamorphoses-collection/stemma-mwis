@@ -1,0 +1,24 @@
+{
+ "stemma_witnesses": "HPVLAOBXYZ",
+ "cited": {
+  "H": 323,
+  "P": 523,
+  "V": 491,
+  "L": 987,
+  "A": 2212,
+  "O": 2683,
+  "B": 2229,
+  "X": 1639,
+  "Y": 1592,
+  "Z": 760
+ },
+ "analysis_witnesses": "HPVLAOBXYZ",
+ "units_with_shared_departure": 2495,
+ "included": true,
+ "exclusion": [],
+ "editor_top": [
+  "HPVLAOB",
+  "XYZ"
+ ],
+ "k_E": 2
+}

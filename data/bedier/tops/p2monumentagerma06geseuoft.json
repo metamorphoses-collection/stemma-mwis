@@ -1,0 +1,347 @@
+{
+ "volume": "AA 6.2",
+ "ia_id": "p2monumentagerma06geseuoft",
+ "texts": [
+  {
+   "volume": "AA 6.2",
+   "ia_id": "p2monumentagerma06geseuoft",
+   "text_id": "avitus_epistulae_homiliae",
+   "work": "Alcimus Ecdicius Avitus, Epistulae (with dialogi c. Arrianos reliquiae, c. Eutychianam haeresim) and homiliarum reliquiae",
+   "editor": "R. Peiper",
+   "year": 1883,
+   "text_lines": [
+    5442,
+    16762
+   ],
+   "preface_lines": [
+    60,
+    3598
+   ],
+   "sigla": [
+    {
+     "siglum": "L",
+     "manuscript": "Lugdunensis 535 (nunc 111)",
+     "date_if_given": "s. XI/XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "S",
+     "manuscript": "editio Sirmondiana 1643 (from a lost codex, 'Cartusiensis?')",
+     "date_if_given": "1643",
+     "role": "indirect"
+    },
+    {
+     "siglum": "P (papyrus)",
+     "manuscript": "papyrus Thuanea, olim Lugdunensis, nunc Parisina (fragments of letters and homilies)",
+     "date_if_given": "s. VI",
+     "role": "direct"
+    },
+    {
+     "siglum": "P (ep. VII)",
+     "manuscript": "Vaticanus Palatinus 574 (canon collection; ep. VII only; siglum P used locally)",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "P (ep. XXXIIII)",
+     "manuscript": "Parisinus lat. 19211 (ep. XXXIIII only; siglum P used locally)",
+     "date_if_given": "s. XIV",
+     "role": "direct"
+    },
+    {
+     "siglum": "F",
+     "manuscript": "Flori diaconi Lugdunensis excerpta (Cheltenhamensis 14036)",
+     "date_if_given": "s. XI",
+     "role": "indirect"
+    },
+    {
+     "siglum": "V/v",
+     "manuscript": "Vaticanus 4961 (collectio Avellana) and its copy Vat. 3787, for the Hormisdas letters",
+     "date_if_given": "s. X / s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "H",
+     "manuscript": "Henschenius' exemplar of the homilia in rogationibus",
+     "date_if_given": null,
+     "role": "indirect"
+    }
+   ],
+   "apparatus": "negative_sigla",
+   "filiation_stated": "diagram",
+   "top_branches": [
+    [
+     "P (papyrus)"
+    ],
+    [
+     "F",
+     "L",
+     "S",
+     "P (ep. VII)",
+     "P (ep. XXXIIII)"
+    ]
+   ],
+   "deeper_groups": [
+    [
+     "L"
+    ],
+    [
+     "S",
+     "P (ep. VII)",
+     "P (ep. XXXIIII)"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 1968,
+     "page": "p. XXVIII",
+     "quote": "Paulo post magnam iacturam passus est liber: abreptus est dialogus paene totus ... Ex libro ita decurtato duo exemplaria fluxerunt, quorum alterum progenuit Lugdunensem nostrum, alterum fons est et Palatini et Sirmondiani cum Parisino."
+    },
+    {
+     "ocr_line": 1963,
+     "page": "p. XXVIII",
+     "quote": "Sic factum est, ut Lugdunensis liber, qui est alterius familiae, in malis non raro consentiat cum foliis Thuaneis."
+    },
+    {
+     "ocr_line": 1109,
+     "page": "p. XIV",
+     "quote": "Hunc enim et Sirmondianum ex uno fonte derivatos diverso quidem ab eo exemplari, unde descriptus est Lugdunensis, communes utrique errores ostendunt"
+    },
+    {
+     "ocr_line": 2019,
+     "page": "p. XXVIII (stemma)",
+     "quote": "Decurtatus abrepto dialogo abiectisque homiliis, archetypus librorum LS | archetypus librorum PS | Lugdunensis membranaceus s. XI/XII | Parisinus ep. XXXIII | Sirmondianus (diagram garbled)"
+    }
+   ],
+   "flags": [
+    "diagram_garbled_in_ocr",
+    "multiple_sections_different_witnesses"
+   ],
+   "confidence": "low",
+   "notes": "Stemma (p. XXVIII) garbled; placement of the papyrus is ambiguous: the text calls L 'alterius familiae' than the papyrus, yet says Florus' exemplar (ancestor of L, S) was of the same family as the Vita-author's codex, 'si non ipsum papyreum at cognatum papyreo'. Check the diagram on the page image. The papyrus overlaps only a few letters/homilies; for most letters the witnesses are L and S (an edition), so the operative split is L vs PS.",
+   "classification_A3": "explicit"
+  },
+  {
+   "volume": "AA 6.2",
+   "ia_id": "p2monumentagerma06geseuoft",
+   "text_id": "avitus_carmina",
+   "work": "Alcimus Avitus, Poematum libri VI (De spiritalis historiae gestis I-V; De virginitate)",
+   "editor": "R. Peiper",
+   "year": 1883,
+   "text_lines": [
+    19351,
+    26398
+   ],
+   "preface_lines": [
+    3599,
+    5345
+   ],
+   "sigla": [
+    {
+     "siglum": "N",
+     "manuscript": "Laudunensis 279 (ordo I, Laurissensis family; books I-IV)",
+     "date_if_given": "s. IX in.",
+     "role": "direct"
+    },
+    {
+     "siglum": "n",
+     "manuscript": "Laudunensis 273 (ordo I; cited only where it differs from N)",
+     "date_if_given": "s. IX ex.",
+     "role": "direct"
+    },
+    {
+     "siglum": "P",
+     "manuscript": "Parisinus lat. 11326 (ordo I, derived from a Laudunensis or its brother)",
+     "date_if_given": "s. XI/XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "p",
+     "manuscript": "Parisinus lat. 14758 (S. Victoris; mixed from two families; raro laudatus)",
+     "date_if_given": "s. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "L",
+     "manuscript": "Leidensis Vossianus lat. Q 86 (ordo II, the Cluniacensis survivor)",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "R",
+     "manuscript": "Vaticanus Reginae 2078 (ordo III)",
+     "date_if_given": "s. IX-X",
+     "role": "direct"
+    },
+    {
+     "siglum": "F",
+     "manuscript": "Laurentianus pl. XXXIII cod. 20 (ordo III, cognate with R)",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "K?",
+     "manuscript": "Gratianopolitanus c. 95 (book VI only; siglum uncertain in OCR)",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "Gagn.",
+     "manuscript": "editio Gagneii 1536 from lost Viennensis codex (ordo III, cognate with Sangallenses)",
+     "date_if_given": "1536",
+     "role": "indirect"
+    },
+    {
+     "siglum": "G",
+     "manuscript": "Sangallensis 197 (Germanici, β)",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "g",
+     "manuscript": "Sangallensis 198 (copy of G)",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "D",
+     "manuscript": "Augustanus, nunc Dresdensis (from G)",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "V",
+     "manuscript": "Vindobonensis 2132",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "M",
+     "manuscript": "Monacensis lat. 330 (β, interpolated from α)",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "E",
+     "manuscript": "Monacensis lat. 14420 (S. Emmerami)",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "B",
+     "manuscript": "Monacensis lat. 4652 (Benedictoburanus)",
+     "date_if_given": "s. XI/XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "T",
+     "manuscript": "Monacensis lat. 19450 (Tegernseensis; siglum assumed)",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "α / β / ω",
+     "manuscript": "group sigla: Gallicani, Germanici, consensus potiorum",
+     "date_if_given": null,
+     "role": "direct"
+    }
+   ],
+   "apparatus": "negative_sigla",
+   "filiation_stated": "verbal",
+   "top_branches": [
+    [
+     "N",
+     "n",
+     "P",
+     "R",
+     "F",
+     "K?",
+     "G",
+     "g",
+     "D",
+     "V",
+     "M",
+     "E",
+     "B",
+     "T"
+    ],
+    [
+     "L"
+    ]
+   ],
+   "deeper_groups": [
+    [
+     "N",
+     "n",
+     "P"
+    ],
+    [
+     "R",
+     "F"
+    ],
+    [
+     "G",
+     "g",
+     "D",
+     "V",
+     "M",
+     "E",
+     "B",
+     "T"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 3669,
+     "page": "p. LII",
+     "quote": "Eorum tres ordines constituendi sunt, quorum primus et alter dignitate ab initio parum fuisse videntur diversi, tertius ab primo ut videtur derivatus multo est inferior."
+    },
+    {
+     "ocr_line": 5217,
+     "page": "p. LXXIV",
+     "quote": "Alterius ordinis β librorum, qui ad exemplar aliquod cum RF cognatum recedunt, quamvis nullus omnino sit usus in constituendis auctoris verbis"
+    },
+    {
+     "ocr_line": 5122,
+     "page": "p. LXXIII",
+     "quote": "Bavarici libri ... alteram ordinis β classem constituunt interpolatam adscitis ordinis α libris maximeque eius classis ad quam pertinet F"
+    }
+   ],
+   "flags": [
+    "contamination_at_top"
+   ],
+   "confidence": "low",
+   "notes": "No diagram; verbal only and hedged ('ut videtur'). Reading the derivation of ordo III from ordo I gives top split [ordo I + III + β] vs [ordo II = L]; but Peiper also says ordo I and II were of nearly equal worth and does not explicitly name a common sub-archetype. β (Germanici) descends from an RF-cognate exemplar but is contaminated from α; p (S. Victoris) mixes two families. Several sigla (K?, T, n vs N) need checking against the conspectus image (line ~19372).",
+   "classification_A3": "undecided"
+  }
+ ],
+ "skipped": [
+  {
+   "text_id": "avitus_collatio_episcoporum",
+   "work": "Collatio episcoporum coram rege Gundebado (appendix, spurious; OCR 16763-17003)",
+   "reason": "no stemma: appendix piece, preface states no filiation for it"
+  },
+  {
+   "text_id": "acta_concilii_epaonensis",
+   "work": "Acta concilii Epaonensis (appendix; OCR 17004-17889)",
+   "reason": "no stemma: preface only names collators of canon-law codices (p. LXXVI)"
+  },
+  {
+   "text_id": "acta_concilii_lugdunensis",
+   "work": "Acta concilii Lugdunensis (appendix; OCR 17890-18062)",
+   "reason": "no stemma: preface only names collators"
+  },
+  {
+   "text_id": "vita_aviti",
+   "work": "Vita beati Aviti (appendix; OCR 18063-18425)",
+   "reason": "no stemma stated in preface"
+  },
+  {
+   "text_id": "titulorum_gallicanorum_liber",
+   "work": "Titulorum Gallicanorum liber (appendix; OCR 18426-19350)",
+   "reason": "no stemma: appendix collection, preface states no filiation (apparatus cites P, E piecemeal)"
+  }
+ ],
+ "reader": "agent",
+ "date": "2026-11-13"
+}

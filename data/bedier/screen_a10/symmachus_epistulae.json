@@ -1,0 +1,18 @@
+{
+ "stemma_witnesses": "PVMF",
+ "cited": {
+  "P": 2318,
+  "V": 2127,
+  "M": 900,
+  "F": 1378
+ },
+ "analysis_witnesses": "PVMF",
+ "units_with_shared_departure": 975,
+ "included": true,
+ "exclusion": [],
+ "editor_top": [
+  "P",
+  "VMF"
+ ],
+ "k_E": 2
+}

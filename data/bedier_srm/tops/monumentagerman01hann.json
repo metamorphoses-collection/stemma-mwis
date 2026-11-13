@@ -1,0 +1,860 @@
+{
+ "volume": "SRM 1",
+ "ia_id": "monumentagerman01hann",
+ "texts": [
+  {
+   "volume": "SRM 1.1",
+   "ia_id": "monumentagerman01hann",
+   "text_id": "gregorius_historia_francorum",
+   "work": "Gregorius Turonensis, Historiarum libri X (Historia Francorum)",
+   "editor": "W. Arndt",
+   "year": 1884,
+   "text_lines": [
+    2519,
+    35190
+   ],
+   "preface_lines": [
+    1783,
+    2403
+   ],
+   "sigla": [
+    {
+     "siglum": "A1",
+     "manuscript": "Casinensis nr. 275",
+     "date_if_given": "s. XI ex. vel XII in.",
+     "role": "direct"
+    },
+    {
+     "siglum": "A2",
+     "manuscript": "fragmenta: Leidensis 21 (olim S. Maximini Miciacensis), Vat. Reg. Christ. 689 bis(?), Havniensis (one leaf)",
+     "date_if_given": "s. VII",
+     "role": "direct"
+    },
+    {
+     "siglum": "B1",
+     "manuscript": "Cameracensis nr. 624 (books VII-X added before s. VIII ex.)",
+     "date_if_given": null,
+     "role": "direct"
+    },
+    {
+     "siglum": "B2",
+     "manuscript": "Bruxellensis nr. 9403, olim Duboisianus",
+     "date_if_given": null,
+     "role": "direct"
+    },
+    {
+     "siglum": "B3",
+     "manuscript": "Bellovacensis, nunc Paris. 17654 (OCR '17054')",
+     "date_if_given": "s. VII",
+     "role": "direct"
+    },
+    {
+     "siglum": "B4",
+     "manuscript": "Leidensis Voss. Lat. 63",
+     "date_if_given": "s. VIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "B5",
+     "manuscript": "Corbeiensis, nunc Paris. 17655",
+     "date_if_given": "s. VII",
+     "role": "direct"
+    },
+    {
+     "siglum": "C1",
+     "manuscript": "Laurissensis/Palatinus, Heidelberg. 864",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "C1*",
+     "manuscript": "Monacense fragmentum (from a binding)",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "C2",
+     "manuscript": "Mettensis, Paris. 5921",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "C3",
+     "manuscript": "Paris. 9765 (Suppl. lat. 808)",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "C4",
+     "manuscript": "Bertinianus, Audomar. 706",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "C4*",
+     "manuscript": "S. Vedasti Atrebatensis, Bruxell. 6439-6451 (copied from C4; siglum as OCR 'CV)', uncertain)",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "C5",
+     "manuscript": "Otterburg, Paris. 5922",
+     "date_if_given": "s. XI ex.",
+     "role": "direct"
+    },
+    {
+     "siglum": "C6",
+     "manuscript": "Leodiensis S. Laurentii, Bruxell. 9361-9367",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "C7",
+     "manuscript": "S. Huberti Andaginensis, Namur 11",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "C8",
+     "manuscript": "Guelferbytanus Aug. 10.9 (fragments)",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "D1",
+     "manuscript": "Cluniacensis (lost; known from Bouquet's notes)",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "D2",
+     "manuscript": "codex of the editio princeps (lost)",
+     "date_if_given": null,
+     "role": "indirect"
+    },
+    {
+     "siglum": "D3",
+     "manuscript": "S. Michaelis codex: Leiden Voss. 39 + Paris. 5920",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "D4",
+     "manuscript": "Montispessulanus nr. 31",
+     "date_if_given": "s. XIII vel XIV",
+     "role": "direct"
+    },
+    {
+     "siglum": "D5",
+     "manuscript": "Blesensis S. Launomari, Vat. Reg. 556",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "D6",
+     "manuscript": "Petavianus, Vat. Reg. 1056 (OCR '105G')",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "D7",
+     "manuscript": "Gemmeticensis, Bern 155",
+     "date_if_given": "s. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "D8",
+     "manuscript": "Turonensis S. Martini (lost; used by Morel 1561)",
+     "date_if_given": null,
+     "role": "indirect"
+    },
+    {
+     "siglum": "D9",
+     "manuscript": "Beccensis (lost; per Ruinart)",
+     "date_if_given": null,
+     "role": "indirect"
+    },
+    {
+     "siglum": "D10",
+     "manuscript": "Vindocinensis S. Trinitatis (lost; per Ruinart)",
+     "date_if_given": "s. XV",
+     "role": "indirect"
+    },
+    {
+     "siglum": "D11",
+     "manuscript": "Claromontanus nr. 20",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "D12",
+     "manuscript": "Regiomontanus (lost; final leaves in Montpellier 305)",
+     "date_if_given": "s. XIV",
+     "role": "direct"
+    },
+    {
+     "siglum": "D13",
+     "manuscript": "Vat. Reg. Christ. 630",
+     "date_if_given": "s. XIII ex. vel XIV in.",
+     "role": "direct"
+    },
+    {
+     "siglum": "D14",
+     "manuscript": "S. Benedicti/Augustodunensis, seminarii 40",
+     "date_if_given": "s. XI ex.",
+     "role": "direct"
+    },
+    {
+     "siglum": "b",
+     "manuscript": "Berolinensis Theol. lat. fol. 355 (excerpts; variants noted 'p' per OCR)",
+     "date_if_given": "s. IX ex.",
+     "role": "indirect"
+    },
+    {
+     "siglum": "c",
+     "manuscript": "Paris. 1451 (V,43; VI,5.40)",
+     "date_if_given": "s. IX",
+     "role": "indirect"
+    },
+    {
+     "siglum": "l",
+     "manuscript": "Leidensis Voss. 12 (X,31 only)",
+     "date_if_given": null,
+     "role": "indirect"
+    },
+    {
+     "siglum": "g",
+     "manuscript": "Bruxellensis 5391, olim Gemblacensis (X,31 only)",
+     "date_if_given": null,
+     "role": "indirect"
+    },
+    {
+     "siglum": "p",
+     "manuscript": "Paris. 10848 (X,31 only)",
+     "date_if_given": "s. X",
+     "role": "indirect"
+    }
+   ],
+   "apparatus": "negative_sigla",
+   "filiation_stated": "verbal",
+   "top_branches": [
+    [
+     "A1",
+     "A2"
+    ],
+    [
+     "B1",
+     "B2",
+     "B3",
+     "B4",
+     "B5",
+     "C1",
+     "C1*",
+     "C2",
+     "C3",
+     "C4",
+     "C4*",
+     "C5",
+     "C6",
+     "C7",
+     "C8"
+    ],
+    [
+     "D1",
+     "D2",
+     "D3",
+     "D4",
+     "D5",
+     "D6",
+     "D7",
+     "D8",
+     "D9",
+     "D10",
+     "D11",
+     "D12",
+     "D13",
+     "D14"
+    ]
+   ],
+   "deeper_groups": [
+    [
+     "B1",
+     "B2",
+     "B3",
+     "B4",
+     "B5"
+    ],
+    [
+     "C1",
+     "C1*",
+     "C2",
+     "C3",
+     "C4",
+     "C4*",
+     "C5",
+     "C6",
+     "C7",
+     "C8"
+    ],
+    [
+     "B1",
+     "B2"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 1783,
+     "page": "p. 23",
+     "quote": "Codices in quatuor classes divisimus, quarum primae (A) Casinensem et pervetusti cuiusdam codicis fragmenta ... alteri (B) illos qui sex priores tantum libros habent, tertiae (C) codices tribuimus"
+    },
+    {
+     "ocr_line": 1790,
+     "page": "p. 23",
+     "quote": "codex Palatinus (C 1) ex quodam classis B codice exscriptus et ope exemplaris integri classis A, cuius interitum iam dolemus, emendatus atque auctus est, aeque ac omnes tertiae classi adscripti libri."
+    },
+    {
+     "ocr_line": 1793,
+     "page": "p. 23",
+     "quote": "In quartum denique classem (D) reliquos libros collegimus, qui omnes fere a librariis foedissime corrupti sunt neque textum Gregorii integrum conservaverunt"
+    },
+    {
+     "ocr_line": 2400,
+     "page": "p. 29",
+     "quote": "Cum autem codices omnes B ad idem exemplar hic illic corruptum redeant, quod archetypus, ex quo B 1 et 2 descripti sunt, novis mendis maculavit"
+    }
+   ],
+   "flags": [
+    "contamination_at_top",
+    "classes_only",
+    "multiple_sections_different_witnesses"
+   ],
+   "confidence": "medium",
+   "notes": "Arndt states classes A-D; only C is placed (copied from a B manuscript and corrected/supplemented from a lost complete A exemplar), so C is put under B with contamination from A. No relation of D (corrupt, all lack the first preface) to A/B is stated; D is treated as its own class-branch. B has only books I-VI (B1 later supplemented), so witness sets differ by book."
+  },
+  {
+   "volume": "SRM 1.2",
+   "ia_id": "monumentagerman01hann",
+   "text_id": "gregorius_libri_octo_miraculorum",
+   "work": "Gregorius Turonensis, Libri octo miraculorum (Gl. Mart., Virt. Iul., Virt. Mart. I-IV, Vita Patrum, Gl. Conf.)",
+   "editor": "B. Krusch",
+   "year": 1885,
+   "text_lines": [
+    37612,
+    61995
+   ],
+   "preface_lines": [
+    35238,
+    37610
+   ],
+   "sigla": [
+    {
+     "siglum": "1a",
+     "manuscript": "Paris. lat. 2204",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "1a*",
+     "manuscript": "Bernensis 199 (copy of 1a, eliminated)",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "1a**",
+     "manuscript": "Vindocinensis (Ruinart; descendant of 1a, not used)",
+     "date_if_given": null,
+     "role": "indirect"
+    },
+    {
+     "siglum": "1a***",
+     "manuscript": "Laudunensis (Ruinart; lost)",
+     "date_if_given": null,
+     "role": "indirect"
+    },
+    {
+     "siglum": "1a****",
+     "manuscript": "Vat. Reg. Christ. 530 (descendant of 1a, not used)",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "1a*****",
+     "manuscript": "Vat. Pal. 865 (descendant of 1a, not used)",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "1b",
+     "manuscript": "Paris. nouv. acq. lat. 1493 (Cluni), GM, VP, GC only",
+     "date_if_given": "s. IX/X",
+     "role": "direct"
+    },
+    {
+     "siglum": "2",
+     "manuscript": "Paris. lat. 2205",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "3",
+     "manuscript": "Claromontanus 11",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "3a",
+     "manuscript": "Bellovacensis (Ruinart's readings only; lost)",
+     "date_if_given": null,
+     "role": "indirect"
+    },
+    {
+     "siglum": "4",
+     "manuscript": "Bruxellensis 7666-71 (VP and GC only)",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "p",
+     "manuscript": "editio princeps",
+     "date_if_given": null,
+     "role": "indirect"
+    }
+   ],
+   "apparatus": "negative_sigla",
+   "filiation_stated": "diagram",
+   "top_branches": [
+    [
+     "1a",
+     "1a*",
+     "1a**",
+     "1a***",
+     "1a****",
+     "1a*****",
+     "1b",
+     "2",
+     "3",
+     "3a"
+    ],
+    [
+     "4"
+    ]
+   ],
+   "deeper_groups": [
+    [
+     "1a",
+     "1a*",
+     "1a**",
+     "1a***",
+     "1a****",
+     "1a*****",
+     "1b",
+     "2"
+    ],
+    [
+     "1a",
+     "1a*",
+     "1a**",
+     "1a***",
+     "1a****",
+     "1a*****",
+     "1b"
+    ],
+    [
+     "3",
+     "3a"
+    ],
+    [
+     "1a",
+     "1a*",
+     "1a**",
+     "1a***",
+     "1a****",
+     "1a*****"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 35922,
+     "page": "p. 462",
+     "quote": "codices in quattuor classes distinxi, e quibus tres arcte inter se cohaerent, quarta quamquam aetate inferior est, tamen locis quibusdam omnes superat"
+    },
+    {
+     "ocr_line": 36974,
+     "page": "p. 476",
+     "quote": "Is ex eodem exemplari (1) ac 1b fluxit"
+    },
+    {
+     "ocr_line": 36980,
+     "page": "p. 476",
+     "quote": "Codex 2 arcte quidem cum 1 coniunctus est, sed de vetustiore exemplari D pendet."
+    },
+    {
+     "ocr_line": 36989,
+     "page": "p. 476",
+     "quote": "Neque vero codex B, ex quo et D et 3 fluxit, mendis omnino vacuus erat."
+    },
+    {
+     "ocr_line": 37006,
+     "page": "p. 476",
+     "quote": "codicem 4 non de B, sed de alio exemplari C pendere, e cuius progenie nullus praeter illum iniuriam temporum tulerit."
+    },
+    {
+     "ocr_line": 37012,
+     "page": "p. 476",
+     "quote": "nescio an codex 4 ex exemplari 2 descriptus sit quod librarius quidam ex C emendaverit et suppleverit."
+    },
+    {
+     "ocr_line": 37017,
+     "page": "p. 476-477",
+     "quote": "B et C de exemplari iam corrupto A pendere probari possit"
+    },
+    {
+     "ocr_line": 37029,
+     "page": "p. 477",
+     "quote": "Stemma delineavi, quod hic subicere libet. [diagram OCR: 'A / 77 3 / 1 / 1a 1b / I / 1a*' - garbled; reconstructed from text: A > B, C; B > D, 3; D > 1 (1a,1b), 2; C > 4]"
+    }
+   ],
+   "flags": [
+    "diagram_garbled_in_ocr",
+    "contamination_at_top",
+    "multiple_sections_different_witnesses"
+   ],
+   "confidence": "high",
+   "notes": "Archetype A (already corrupt) splits into B and C; C survives only in 4 (VP and GC only), which Krusch suspects is a copy of a 2-type exemplar corrected from C (contamination across the top split). 3a assigned to class 3 by Krusch's choice; codices 5 ff. (single books/fragments, not seen) are listed but not placed and are omitted here. Witness coverage differs by book (1b three books, 3 lacks Iul. and Mart. III-IV, 4 only VP/GC)."
+  },
+  {
+   "volume": "SRM 1.2",
+   "ia_id": "monumentagerman01hann",
+   "text_id": "gregorius_miracula_andreae",
+   "work": "Gregorius Turonensis, Liber de miraculis beati Andreae apostoli",
+   "editor": "M. Bonnet",
+   "year": 1885,
+   "text_lines": [
+    62354,
+    63785
+   ],
+   "preface_lines": [
+    62006,
+    62352
+   ],
+   "sigla": [
+    {
+     "siglum": "1a",
+     "manuscript": "Paris. lat. 18104 (Notre Dame 90)",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "1b",
+     "manuscript": "Paris. lat. 5324? (Colbertinus 5421, Regius 4179.2.2; OCR shelfmark garbled)",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "1c",
+     "manuscript": "Bernensis 48",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "2a",
+     "manuscript": "Guelferbytanus Weissenburg. 48",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "2b",
+     "manuscript": "Paris. lat. 12604 (S. Germani 489, Corbeiensis 412)",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "3a",
+     "manuscript": "Montepessulanensis 30 (Passionale S. Benigni Divionensis)",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "3b",
+     "manuscript": "Montepessulanensis 1 (Clairvaux)",
+     "date_if_given": "s. XII aut XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "4a",
+     "manuscript": "Vat. lat. 1274",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "4b",
+     "manuscript": "Paris. lat. 12603 (S. Germani 488)",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "4c",
+     "manuscript": "Valentianensis 471",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "5",
+     "manuscript": "Friderici Nauseae codex (lost; known from Nausea's edition 1531)",
+     "date_if_given": null,
+     "role": "indirect"
+    }
+   ],
+   "apparatus": "mixed_sigla",
+   "filiation_stated": "verbal",
+   "top_branches": [
+    [
+     "1a",
+     "1b",
+     "1c",
+     "2a",
+     "2b",
+     "3a",
+     "3b"
+    ],
+    [
+     "4a",
+     "4b",
+     "4c",
+     "5"
+    ]
+   ],
+   "deeper_groups": [
+    [
+     "1a",
+     "1b",
+     "1c"
+    ],
+    [
+     "2a",
+     "2b"
+    ],
+    [
+     "3a",
+     "3b"
+    ],
+    [
+     "4a",
+     "4b",
+     "4c"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 62113,
+     "page": "p. 823",
+     "quote": "Ordinis A. 1a) Parisiacus Lat. 18104 ... 1b) ... 1c) Bernensis 48 ... 2a) Guelferbytanus ... 2b) ... 3a) ... 3b)"
+    },
+    {
+     "ocr_line": 62147,
+     "page": "p. 823",
+     "quote": "Ordinis B. 4a) Vaticanus Lat. 1274 ... 4b) Parisiacus Lat. 12603 ... 4c) Valentianensis 471 ... 5) Friderici Nauseae codex"
+    },
+    {
+     "ocr_line": 62227,
+     "page": "p. 824",
+     "quote": "Solus cod. 5, quem unde Grisaeus eruerit nescimus, alteri familiae adnumerandus est."
+    },
+    {
+     "ocr_line": 62287,
+     "page": "p. 825",
+     "quote": "quaecumque aut singuli codices aut alterutrius ordinis (A et B dico) una pars (velut 1, 2, cet.) contra eiusdem ordinis vel singulos libros cum altero ordine concinentes exhiberent"
+    },
+    {
+     "ocr_line": 62302,
+     "page": "p. 825",
+     "quote": "Porro probanda fuerunt, quae utriusque ordinis A B concentu nituntur; disceptandum autem inter A et B"
+    }
+   ],
+   "flags": [],
+   "confidence": "high",
+   "notes": "Two orders A and B, each subdivided by numeral (parts 1, 2, 3 of A; 4 and 5 of B); Bonnet's editorial rule treats A and B as the two independent branches under the archetype. Siglum 5 is reconstructed from Nausea's print. Check 1b shelfmark in the scan."
+  },
+  {
+   "volume": "SRM 1.2",
+   "ia_id": "monumentagerman01hann",
+   "text_id": "gregorius_passio_septem_dormientium",
+   "work": "Passio sanctorum martyrum septem dormientium apud Ephesum translata per Gregorium",
+   "editor": "B. Krusch",
+   "year": 1885,
+   "text_lines": [
+    63849,
+    64220
+   ],
+   "preface_lines": [
+    63804,
+    63834
+   ],
+   "sigla": [
+    {
+     "siglum": "1",
+     "manuscript": "codex S. Audomari (known through the Bollandist edition, AA.SS. Iul. VI)",
+     "date_if_given": null,
+     "role": "indirect"
+    },
+    {
+     "siglum": "M",
+     "manuscript": "Mombritius, Sanctuarium II (print from a lost codex)",
+     "date_if_given": null,
+     "role": "indirect"
+    }
+   ],
+   "apparatus": "negative_sigla",
+   "filiation_stated": "none",
+   "top_branches": [],
+   "deeper_groups": [],
+   "evidence": [
+    {
+     "ocr_line": 63823,
+     "page": "p. 847",
+     "quote": "Textum, quem Bollandiani ... e codice S. Audomari ediderunt, eundem fere recepi, sed Mombritium, ubi cum Gl. Mart. c. 94. convenit, anteposui."
+    }
+   ],
+   "flags": [],
+   "confidence": "high",
+   "notes": "Only two witnesses, both known through printed editions; no filiation stated. Krusch's rule (prefer M where it agrees with Gl. Mart. 94) implies independence of 1 and M but says nothing about a stemma."
+  },
+  {
+   "volume": "SRM 1.2",
+   "ia_id": "monumentagerman01hann",
+   "text_id": "gregorius_de_cursu_stellarum",
+   "work": "Gregorius Turonensis, De cursu stellarum ratio",
+   "editor": "B. Krusch",
+   "year": 1885,
+   "text_lines": [
+    64468,
+    65530
+   ],
+   "preface_lines": [
+    64245,
+    64467
+   ],
+   "sigla": [
+    {
+     "siglum": "1",
+     "manuscript": "Bambergensis H. I. IV. 15 (only complete witness)",
+     "date_if_given": "s. VIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "2",
+     "manuscript": "Paris. lat. 12277 (c. 1-16 only)",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "3",
+     "manuscript": "Vindobonensis, olim Bobiensis (c. 9-16; via Haupt/Haase editions)",
+     "date_if_given": "s. VIII/IX",
+     "role": "indirect"
+    },
+    {
+     "siglum": "4",
+     "manuscript": "Vaticanus (lost; c. 13-14 via Mai)",
+     "date_if_given": null,
+     "role": "indirect"
+    }
+   ],
+   "apparatus": "negative_sigla",
+   "filiation_stated": "none",
+   "top_branches": [],
+   "deeper_groups": [],
+   "evidence": [
+    {
+     "ocr_line": 64426,
+     "page": "p. 857",
+     "quote": "In libro recensendo codicem 1 potissime secutus sum, a quo plerumque recessi, quotiens 2 et 3 convenerunt. Codex 4 magis cum 1 quam cum 2. 3 consentit"
+    }
+   ],
+   "flags": [
+    "multiple_sections_different_witnesses"
+   ],
+   "confidence": "medium",
+   "notes": "Krusch gives only an editorial rule and an affinity remark (4 nearer 1, 2 and 3 agreeing against 1), not a stated stemma; one could read a 1(+4) vs 2+3 grouping into it but he does not say so. Chapters 17-47 rest on codex 1 alone."
+  },
+  {
+   "volume": "SRM 1.2",
+   "ia_id": "monumentagerman01hann",
+   "text_id": "gregorius_in_psalterii_tractatum",
+   "work": "Gregorius Turonensis, In psalterii tractatum commentarius (fragments)",
+   "editor": "B. Krusch",
+   "year": 1885,
+   "text_lines": [
+    65589,
+    65945
+   ],
+   "preface_lines": [
+    65539,
+    65587
+   ],
+   "sigla": [
+    {
+     "siglum": "1",
+     "manuscript": "Andecavensis 280 (via Bordier's edition)",
+     "date_if_given": "s. IX",
+     "role": "indirect"
+    },
+    {
+     "siglum": "2",
+     "manuscript": "Vat. lat. 4228 (explanatio de titulis only)",
+     "date_if_given": "s. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "3",
+     "manuscript": "S. Martini Tornacensis collectio de virtutibus et vitiis (lost; fragments via Mabillon/Ruinart)",
+     "date_if_given": null,
+     "role": "indirect"
+    }
+   ],
+   "apparatus": "negative_sigla",
+   "filiation_stated": "none",
+   "top_branches": [],
+   "deeper_groups": [],
+   "evidence": [
+    {
+     "ocr_line": 65578,
+     "page": "p. 873",
+     "quote": "Textum codicis 1 et incuria librarii et iniuria temporis pessime depravatum e codice 2 et ex Vulgata ut potui emendavi."
+    }
+   ],
+   "flags": [
+    "multiple_sections_different_witnesses"
+   ],
+   "confidence": "high",
+   "notes": "Fragmentary work; witnesses cover different parts (explanatio, index, excerpts); no filiation stated."
+  }
+ ],
+ "skipped": [
+  {
+   "text_id": "catalogus_48_martyrum_lugdunensium",
+   "work": "Appendix I: Catalogus XLVIII martyrum Lugdunensium (Krusch)",
+   "lines": [
+    65950,
+    66000
+   ],
+   "reason": "single manuscript (Monacensis lat. 3514), compared only with Gregory's Gl. Mart. 48"
+  },
+  {
+   "text_id": "passio_iuliani_martyris",
+   "work": "Appendix II: Passio S. Iuliani martyris (Krusch)",
+   "lines": [
+    66001,
+    66158
+   ],
+   "reason": "single manuscript (Monacensis lat. 3514), apparatus only against earlier editions"
+  },
+  {
+   "text_id": "waitz_praefatio_and_indices",
+   "work": "Waitz preface, Addenda, Index, Orthographica, Lexica et Grammatica",
+   "reason": "front/back matter, not editions"
+  }
+ ],
+ "reader": "agent",
+ "date": "2026-11-13"
+}

@@ -1,0 +1,20 @@
+{
+ "aldhelm_aenigmata": {
+  "vol": "mgh_auct_ant_15",
+  "leaf": 155,
+  "drawn_page": 130,
+  "how": "A4 draw"
+ },
+ "aldhelm_de_metris_tractatus": {
+  "vol": "mgh_auct_ant_15",
+  "leaf": 176,
+  "drawn_page": 151,
+  "how": "A4 draw"
+ },
+ "aldhelm_de_virginitate_carmen": {
+  "vol": "mgh_auct_ant_15",
+  "leaf": 387,
+  "drawn_page": 360,
+  "how": "A4 draw"
+ }
+}

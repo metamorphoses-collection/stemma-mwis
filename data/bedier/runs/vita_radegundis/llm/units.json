@@ -1,0 +1,6520 @@
+[
+{
+"line": 37,
+"entry_line": 37,
+"leaf": 73,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"LE"
+],
+"readings": [
+"persecutiones"
+]
+},
+{
+"line": 37,
+"entry_line": 37,
+"leaf": 73,
+"lemma": "manibus",
+"lemma_group": 0,
+"groups": [
+"",
+"TH"
+],
+"readings": [
+"sed iam tunc tenerae aetatis adhuc adulta, id agere studii habebat, ut quicquid sibi remansisset edulii, collectis paruulis eorumque capitibus mundatis"
+]
+},
+{
+"line": 37,
+"entry_line": 39,
+"leaf": 73,
+"lemma": "paruulis",
+"lemma_group": 0,
+"groups": [
+"",
+"LE"
+],
+"readings": [
+"aliis paruulis"
+]
+},
+{
+"line": 37,
+"entry_line": 40,
+"leaf": 73,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"M"
+],
+"readings": [
+"capita post remansisset"
+]
+},
+{
+"line": 37,
+"entry_line": 41,
+"leaf": 73,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"PM"
+],
+"readings": [
+"paruo"
+]
+},
+{
+"line": 37,
+"entry_line": 41,
+"leaf": 73,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"M",
+"LE"
+],
+"readings": [
+"regebat",
+"om."
+]
+},
+{
+"line": 37,
+"entry_line": 41,
+"leaf": 73,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"M"
+],
+"readings": [
+"facta cruce lignea"
+]
+},
+{
+"line": 37,
+"entry_line": 42,
+"leaf": 73,
+"lemma": "cum",
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"om."
+]
+},
+{
+"line": 37,
+"entry_line": 42,
+"leaf": 73,
+"lemma": "et",
+"lemma_group": 0,
+"groups": [
+"",
+"LET"
+],
+"readings": [
+"om."
+]
+},
+{
+"line": 37,
+"entry_line": 42,
+"leaf": 73,
+"lemma": "nitidans pauimentum",
+"lemma_group": 0,
+"groups": [
+"",
+"LET"
+],
+"readings": [
+"pauimentum nitidans"
+]
+},
+{
+"line": 37,
+"entry_line": 43,
+"leaf": 73,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"LET"
+],
+"readings": [
+"foras"
+]
+},
+{
+"line": 37,
+"entry_line": 44,
+"leaf": 73,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"P",
+"G",
+"L",
+"T"
+],
+"readings": [
+"IV, 51: ad uillam cui nomen est uicturiacon, uictoria***",
+"uictoriae",
+"uictoriacum",
+"uicturiaco"
+]
+},
+{
+"line": 37,
+"entry_line": 44,
+"leaf": 73,
+"lemma": "uoluisset",
+"lemma_group": 0,
+"groups": [
+"",
+"LE"
+],
+"readings": [
+"eam add."
+]
+},
+{
+"line": 37,
+"entry_line": 45,
+"leaf": 73,
+"lemma": "adteias",
+"lemma_group": 0,
+"groups": [
+"P",
+"M",
+"L",
+"E",
+"T"
+],
+"readings": [
+"adtegias",
+"ad atteias",
+"ab attegias",
+"ad ateias"
+]
+},
+{
+"line": 37,
+"entry_line": 45,
+"leaf": 73,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"PM"
+],
+"readings": [
+"noctu"
+]
+},
+{
+"line": 37,
+"entry_line": 46,
+"leaf": 73,
+"lemma": "erigeret",
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"fugit"
+]
+},
+{
+"line": 37,
+"entry_line": 46,
+"leaf": 73,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"E"
+],
+"readings": [
+", eligeret"
+]
+},
+{
+"line": 37,
+"entry_line": 46,
+"leaf": 73,
+"lemma": "euitans",
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"illa euitabat"
+]
+},
+{
+"line": 37,
+"entry_line": 46,
+"leaf": 73,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"debetur etiam"
+]
+},
+{
+"line": 37,
+"entry_line": 47,
+"leaf": 73,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L",
+"ET"
+],
+"readings": [
+"nubet",
+"nupsit"
+]
+},
+{
+"line": 37,
+"entry_line": 47,
+"leaf": 73,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"PM"
+],
+"readings": [
+"principe"
+]
+},
+{
+"line": 37,
+"entry_line": 48,
+"leaf": 73,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"secularis dignitas plus se inclinauit uoluntas quam permitteret dignitas"
+]
+},
+{
+"line": 37,
+"entry_line": 48,
+"leaf": 73,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"PM"
+],
+"readings": [
+"praemitteret"
+]
+},
+{
+"line": 37,
+"entry_line": 48,
+"leaf": 73,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"E"
+],
+"readings": [
+"sub tem| desinit"
+]
+},
+{
+"line": 37,
+"entry_line": 49,
+"leaf": 73,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"folia perierunt gessit"
+]
+},
+{
+"line": 37,
+"entry_line": 49,
+"leaf": 73,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"ideo principe"
+]
+},
+{
+"line": 37,
+"entry_line": 49,
+"leaf": 73,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"grato"
+]
+},
+{
+"line": 37,
+"entry_line": 49,
+"leaf": 73,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"cum sua"
+]
+},
+{
+"line": 37,
+"entry_line": 50,
+"leaf": 73,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"decimas dedit"
+]
+},
+{
+"line": 37,
+"entry_line": 50,
+"leaf": 73,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"LT"
+],
+"readings": [
+"misso"
+]
+},
+{
+"line": 37,
+"entry_line": 50,
+"leaf": 73,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"ad cuius munificentiam"
+]
+},
+{
+"line": 37,
+"entry_line": 50,
+"leaf": 73,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+", sicque"
+]
+},
+{
+"line": 37,
+"entry_line": 51,
+"leaf": 73,
+"lemma": "nec egeni uox",
+"lemma_group": 0,
+"groups": [
+"",
+"G"
+],
+"readings": [
+"egeni uox non"
+]
+},
+{
+"line": 37,
+"entry_line": 51,
+"leaf": 73,
+"lemma": "eam",
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"om."
+]
+},
+{
+"line": 37,
+"entry_line": 51,
+"leaf": 73,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"prodere"
+]
+},
+{
+"line": 37,
+"entry_line": 52,
+"leaf": 73,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"animo"
+]
+},
+{
+"line": 37,
+"entry_line": 52,
+"leaf": 73,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"ateias"
+]
+},
+{
+"line": 37,
+"entry_line": 52,
+"leaf": 73,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"inheseruit"
+]
+},
+{
+"line": 37,
+"entry_line": 52,
+"leaf": 73,
+"lemma": "quo",
+"lemma_group": 0,
+"groups": [
+"LT",
+"PMG"
+],
+"readings": [
+"ubi"
+]
+},
+{
+"line": 37,
+"entry_line": 52,
+"leaf": 73,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"M"
+],
+"readings": [
+"electis"
+]
+},
+{
+"line": 37,
+"entry_line": 53,
+"leaf": 73,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"congregans egenas feminas"
+]
+},
+{
+"line": 37,
+"entry_line": 53,
+"leaf": 73,
+"lemma": "eas",
+"lemma_group": 0,
+"groups": [
+"",
+"G",
+"LT"
+],
+"readings": [
+"et",
+"om."
+]
+},
+{
+"line": 37,
+"entry_line": 53,
+"leaf": 73,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"LT"
+],
+"readings": [
+"que om."
+]
+},
+{
+"line": 37,
+"entry_line": 53,
+"leaf": 73,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"curabat"
+]
+},
+{
+"line": 37,
+"entry_line": 53,
+"leaf": 73,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"uiuorum"
+]
+},
+{
+"line": 37,
+"entry_line": 54,
+"leaf": 73,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"lauerat"
+]
+},
+{
+"line": 37,
+"entry_line": 54,
+"leaf": 73,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"M",
+"L",
+"T"
+],
+"readings": [
+"subocculto",
+"occulte",
+"sua occulte"
+]
+},
+{
+"line": 37,
+"entry_line": 55,
+"leaf": 73,
+"lemma": "forte",
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"om."
+]
+},
+{
+"line": 37,
+"entry_line": 55,
+"leaf": 73,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"M"
+],
+"readings": [
+"cognoscetur"
+]
+},
+{
+"line": 37,
+"entry_line": 55,
+"leaf": 73,
+"lemma": "se",
+"lemma_group": 0,
+"groups": [
+"",
+"M"
+],
+"readings": [
+"om."
+]
+},
+{
+"line": 37,
+"entry_line": 55,
+"leaf": 73,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"fabae uel lenticulae"
+]
+},
+{
+"line": 92,
+"entry_line": 92,
+"leaf": 74,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"M"
+],
+"readings": [
+"occursu"
+]
+},
+{
+"line": 92,
+"entry_line": 92,
+"leaf": 74,
+"lemma": "excusans regi aliquo casu",
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"om."
+]
+},
+{
+"line": 92,
+"entry_line": 92,
+"leaf": 74,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"conuiuio subducebat"
+]
+},
+{
+"line": 92,
+"entry_line": 92,
+"leaf": 74,
+"lemma": "egressa",
+"lemma_group": 0,
+"groups": [
+"",
+"MT"
+],
+"readings": [
+"ut add."
+]
+},
+{
+"line": 92,
+"entry_line": 93,
+"leaf": 74,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"requireret"
+]
+},
+{
+"line": 92,
+"entry_line": 93,
+"leaf": 74,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"PMT"
+],
+"readings": [
+"idem"
+]
+},
+{
+"line": 92,
+"entry_line": 93,
+"leaf": 74,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"rogat"
+]
+},
+{
+"line": 92,
+"entry_line": 94,
+"leaf": 74,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"LT"
+],
+"readings": [
+"et leuans"
+]
+},
+{
+"line": 92,
+"entry_line": 94,
+"leaf": 74,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"cubiculum"
+]
+},
+{
+"line": 92,
+"entry_line": 94,
+"leaf": 74,
+"lemma": "ante secretum orationi",
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"secreta oratione"
+]
+},
+{
+"line": 92,
+"entry_line": 94,
+"leaf": 74,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"M"
+],
+"readings": [
+"spiritu"
+]
+},
+{
+"line": 92,
+"entry_line": 94,
+"leaf": 74,
+"lemma": "tormenta",
+"lemma_group": 0,
+"groups": [
+"",
+"G",
+"L"
+],
+"readings": [
+"om.",
+"tormentum"
+]
+},
+{
+"line": 92,
+"entry_line": 95,
+"leaf": 74,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"reputabat leuissimum quid"
+]
+},
+{
+"line": 92,
+"entry_line": 95,
+"leaf": 74,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"M"
+],
+"readings": [
+"ne*, ras. c"
+]
+},
+{
+"line": 92,
+"entry_line": 95,
+"leaf": 74,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"cubiculo"
+]
+},
+{
+"line": 92,
+"entry_line": 96,
+"leaf": 74,
+"lemma": "uix",
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"uel"
+]
+},
+{
+"line": 92,
+"entry_line": 96,
+"leaf": 74,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"regem"
+]
+},
+{
+"line": 92,
+"entry_line": 96,
+"leaf": 74,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L",
+"T"
+],
+"readings": [
+"potius se",
+"se magis"
+]
+},
+{
+"line": 92,
+"entry_line": 97,
+"leaf": 74,
+"lemma": "inlatas",
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"om."
+]
+},
+{
+"line": 92,
+"entry_line": 97,
+"leaf": 74,
+"lemma": "coniuge",
+"lemma_group": 0,
+"groups": [
+"",
+"PM"
+],
+"readings": [
+"rege"
+]
+},
+{
+"line": 92,
+"entry_line": 97,
+"leaf": 74,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+", redegit"
+]
+},
+{
+"line": 92,
+"entry_line": 98,
+"leaf": 74,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"poenitentem"
+]
+},
+{
+"line": 92,
+"entry_line": 98,
+"leaf": 74,
+"lemma": "ieiunii tempore",
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"om."
+]
+},
+{
+"line": 92,
+"entry_line": 98,
+"leaf": 74,
+"lemma": "mittens",
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"mittebat post piam"
+]
+},
+{
+"line": 92,
+"entry_line": 99,
+"leaf": 74,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"LT"
+],
+"readings": [
+"monacham nomine piam"
+]
+},
+{
+"line": 92,
+"entry_line": 99,
+"leaf": 74,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"cilicium in linteo sigillatum"
+]
+},
+{
+"line": 92,
+"entry_line": 99,
+"leaf": 74,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"MG"
+],
+"readings": [
+"ueste regia"
+]
+},
+{
+"line": 92,
+"entry_line": 99,
+"leaf": 74,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"portauit"
+]
+},
+{
+"line": 92,
+"entry_line": 100,
+"leaf": 74,
+"lemma": "transactis",
+"lemma_group": 0,
+"groups": [
+"",
+"LT"
+],
+"readings": [
+"autem add."
+]
+},
+{
+"line": 92,
+"entry_line": 100,
+"leaf": 74,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"si"
+]
+},
+{
+"line": 92,
+"entry_line": 100,
+"leaf": 74,
+"lemma": "diffunderet et",
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"om."
+]
+},
+{
+"line": 92,
+"entry_line": 101,
+"leaf": 74,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"G"
+],
+"readings": [
+"satiaret"
+]
+},
+{
+"line": 92,
+"entry_line": 101,
+"leaf": 74,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"dispectu"
+]
+},
+{
+"line": 92,
+"entry_line": 101,
+"leaf": 74,
+"lemma": "christus",
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"christi illi"
+]
+},
+{
+"line": 92,
+"entry_line": 101,
+"leaf": 74,
+"lemma": "in christo",
+"lemma_group": 0,
+"groups": [
+"",
+"PM"
+],
+"readings": [
+"om."
+]
+},
+{
+"line": 92,
+"entry_line": 102,
+"leaf": 74,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"perageret sollicite"
+]
+},
+{
+"line": 92,
+"entry_line": 102,
+"leaf": 74,
+"lemma": "ut quae per",
+"lemma_group": 0,
+"groups": [
+"",
+"PM"
+],
+"readings": [
+"circumiens"
+]
+},
+{
+"line": 92,
+"entry_line": 102,
+"leaf": 74,
+"lemma": "tota",
+"lemma_group": 0,
+"groups": [
+"",
+"PM"
+],
+"readings": [
+"ut tota"
+]
+},
+{
+"line": 92,
+"entry_line": 103,
+"leaf": 74,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"ministraret. pro quarum morti serotina"
+]
+},
+{
+"line": 92,
+"entry_line": 103,
+"leaf": 74,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L",
+"T"
+],
+"readings": [
+"quod se ad mansam rex requireret",
+"rex quod ad mensam"
+]
+},
+{
+"line": 92,
+"entry_line": 104,
+"leaf": 74,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"satagit"
+]
+},
+{
+"line": 92,
+"entry_line": 104,
+"leaf": 74,
+"lemma": "a",
+"lemma_group": 0,
+"groups": [
+"",
+"PM"
+],
+"readings": [
+"cum"
+]
+},
+{
+"line": 92,
+"entry_line": 104,
+"leaf": 74,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"pro munere"
+]
+},
+{
+"line": 92,
+"entry_line": 104,
+"leaf": 74,
+"lemma": "ei per",
+"lemma_group": 0,
+"groups": [
+"",
+"L",
+"T"
+],
+"readings": [
+"om.",
+"per"
+]
+},
+{
+"line": 92,
+"entry_line": 105,
+"leaf": 74,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"dei uel per se uel uocatus uisus fuisset occurrere"
+]
+},
+{
+"line": 92,
+"entry_line": 106,
+"leaf": 74,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"G",
+"L"
+],
+"readings": [
+"prouocatus",
+"euocatus"
+]
+},
+{
+"line": 92,
+"entry_line": 106,
+"leaf": 74,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"LT"
+],
+"readings": [
+"uideres illam"
+]
+},
+{
+"line": 92,
+"entry_line": 106,
+"leaf": 74,
+"lemma": "se putabat",
+"lemma_group": 0,
+"groups": [
+"",
+"LT"
+],
+"readings": [
+"om."
+]
+},
+{
+"line": 92,
+"entry_line": 106,
+"leaf": 74,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"decursa"
+]
+},
+{
+"line": 92,
+"entry_line": 107,
+"leaf": 74,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"M"
+],
+"readings": [
+"pace"
+]
+},
+{
+"line": 92,
+"entry_line": 107,
+"leaf": 74,
+"lemma": "intimis",
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"inrmis"
+]
+},
+{
+"line": 92,
+"entry_line": 107,
+"leaf": 74,
+"lemma": "et propinabat in patera",
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"propinabat ei pateram"
+]
+},
+{
+"line": 92,
+"entry_line": 108,
+"leaf": 74,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"PG",
+"M"
+],
+"readings": [
+"tota",
+"om."
+]
+},
+{
+"line": 92,
+"entry_line": 108,
+"leaf": 74,
+"lemma": "adipiscendi",
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"instituta circa dispicienda mundi"
+]
+},
+{
+"line": 92,
+"entry_line": 109,
+"leaf": 74,
+"lemma": "uenisset",
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"presbyter aut add."
+]
+},
+{
+"line": 92,
+"entry_line": 109,
+"leaf": 74,
+"lemma": "relaxabat",
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"quos uir deus letificata remunerare laxabat"
+]
+},
+{
+"line": 148,
+"entry_line": 148,
+"leaf": 75,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"mauorte lineo sauano nouo auro"
+]
+},
+{
+"line": 148,
+"entry_line": 149,
+"leaf": 75,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"ornato"
+]
+},
+{
+"line": 148,
+"entry_line": 149,
+"leaf": 75,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L",
+"T"
+],
+"readings": [
+"uestiuit barbaro et a",
+"uestiebatur barbaro"
+]
+},
+{
+"line": 148,
+"entry_line": 149,
+"leaf": 75,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"pueris, superscr. uel puellis"
+]
+},
+{
+"line": 148,
+"entry_line": 149,
+"leaf": 75,
+"lemma": "tali",
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"om."
+]
+},
+{
+"line": 148,
+"entry_line": 150,
+"leaf": 75,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"indumento"
+]
+},
+{
+"line": 148,
+"entry_line": 150,
+"leaf": 75,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"M",
+"L"
+],
+"readings": [
+"sancto loco",
+"loco sancto dirigebat"
+]
+},
+{
+"line": 148,
+"entry_line": 150,
+"leaf": 75,
+"lemma": "pro",
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"om."
+]
+},
+{
+"line": 148,
+"entry_line": 151,
+"leaf": 75,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"super altario diuino"
+]
+},
+{
+"line": 148,
+"entry_line": 151,
+"leaf": 75,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"reus gladio moreretur"
+]
+},
+{
+"line": 148,
+"entry_line": 151,
+"leaf": 75,
+"lemma": "quorum",
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"cuius"
+]
+},
+{
+"line": 148,
+"entry_line": 151,
+"leaf": 75,
+"lemma": "in",
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"om."
+]
+},
+{
+"line": 148,
+"entry_line": 152,
+"leaf": 75,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"M"
+],
+"readings": [
+"processit"
+]
+},
+{
+"line": 148,
+"entry_line": 152,
+"leaf": 75,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"laicam"
+]
+},
+{
+"line": 148,
+"entry_line": 152,
+"leaf": 75,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"declararent"
+]
+},
+{
+"line": 148,
+"entry_line": 152,
+"leaf": 75,
+"lemma": "pro ea",
+"lemma_group": 0,
+"groups": [
+"PMG",
+"L"
+],
+"readings": [
+"om."
+]
+},
+{
+"line": 148,
+"entry_line": 153,
+"leaf": 75,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"prandium ambularet"
+]
+},
+{
+"line": 148,
+"entry_line": 153,
+"leaf": 75,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"M",
+"L"
+],
+"readings": [
+"perrunna",
+"berrona"
+]
+},
+{
+"line": 148,
+"entry_line": 153,
+"leaf": 75,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"pro orto scisma"
+]
+},
+{
+"line": 148,
+"entry_line": 153,
+"leaf": 75,
+"lemma": "retrusi",
+"lemma_group": 0,
+"groups": [
+"",
+"L",
+"T"
+],
+"readings": [
+"et rusi",
+"trusi"
+]
+},
+{
+"line": 148,
+"entry_line": 154,
+"leaf": 75,
+"lemma": "ipsa",
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"autem add."
+]
+},
+{
+"line": 148,
+"entry_line": 154,
+"leaf": 75,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"M"
+],
+"readings": [
+"interrogabat"
+]
+},
+{
+"line": 148,
+"entry_line": 154,
+"leaf": 75,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"turba mendicorum"
+]
+},
+{
+"line": 148,
+"entry_line": 155,
+"leaf": 75,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L",
+"T"
+],
+"readings": [
+"occurrunt soluti",
+"sanctae occurrunt"
+]
+},
+{
+"line": 148,
+"entry_line": 155,
+"leaf": 75,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"dumque"
+]
+},
+{
+"line": 148,
+"entry_line": 156,
+"leaf": 75,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"religiosus"
+]
+},
+{
+"line": 148,
+"entry_line": 157,
+"leaf": 75,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"innocentis. igitur directa"
+]
+},
+{
+"line": 148,
+"entry_line": 157,
+"leaf": 75,
+"lemma": "nouomago",
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"nouiomagum"
+]
+},
+{
+"line": 148,
+"entry_line": 157,
+"leaf": 75,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"PM"
+],
+"readings": [
+"ipse"
+]
+},
+{
+"line": 148,
+"entry_line": 158,
+"leaf": 75,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"LT"
+],
+"readings": [
+"apostoli dicentis"
+]
+},
+{
+"line": 148,
+"entry_line": 158,
+"leaf": 75,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"quae"
+]
+},
+{
+"line": 148,
+"entry_line": 158,
+"leaf": 75,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"coniuge"
+]
+},
+{
+"line": 148,
+"entry_line": 159,
+"leaf": 75,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"etiam add."
+]
+},
+{
+"line": 148,
+"entry_line": 159,
+"leaf": 75,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"M"
+],
+"readings": [
+"proturbabant"
+]
+},
+{
+"line": 148,
+"entry_line": 159,
+"leaf": 75,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L",
+"T"
+],
+"readings": [
+"ab altario",
+"ab altare grauiter"
+]
+},
+{
+"line": 148,
+"entry_line": 160,
+"leaf": 75,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"non publi|"
+]
+},
+{
+"line": 148,
+"entry_line": 160,
+"leaf": 75,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"secretario"
+]
+},
+{
+"line": 148,
+"entry_line": 160,
+"leaf": 75,
+"lemma": "monachica",
+"lemma_group": 0,
+"groups": [
+"",
+"P",
+"G",
+"L"
+],
+"readings": [
+"e corr. ca",
+"monachi*ica",
+"monachi|"
+]
+},
+{
+"line": 148,
+"entry_line": 160,
+"leaf": 75,
+"lemma": "induitur",
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"et add."
+]
+},
+{
+"line": 148,
+"entry_line": 161,
+"leaf": 75,
+"lemma": "altare",
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"et add."
+]
+},
+{
+"line": 148,
+"entry_line": 161,
+"leaf": 75,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"qua"
+]
+},
+{
+"line": 148,
+"entry_line": 161,
+"leaf": 75,
+"lemma": "tonitruo",
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"om."
+]
+},
+{
+"line": 148,
+"entry_line": 162,
+"leaf": 75,
+"lemma": "blattis",
+"lemma_group": 0,
+"groups": [
+"",
+"M"
+],
+"readings": [
+"ablatis"
+]
+},
+{
+"line": 200,
+"entry_line": 200,
+"leaf": 76,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"pro honore"
+]
+},
+{
+"line": 200,
+"entry_line": 200,
+"leaf": 76,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"LT"
+],
+"readings": [
+"auro"
+]
+},
+{
+"line": 200,
+"entry_line": 200,
+"leaf": 76,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"pauperes"
+]
+},
+{
+"line": 200,
+"entry_line": 200,
+"leaf": 76,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"humeris"
+]
+},
+{
+"line": 200,
+"entry_line": 200,
+"leaf": 76,
+"lemma": "barbaro",
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"om."
+]
+},
+{
+"line": 200,
+"entry_line": 201,
+"leaf": 76,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"stabionem"
+]
+},
+{
+"line": 200,
+"entry_line": 202,
+"leaf": 76,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"E"
+],
+"readings": [
+"redit"
+]
+},
+{
+"line": 200,
+"entry_line": 202,
+"leaf": 76,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"tradidit"
+]
+},
+{
+"line": 200,
+"entry_line": 202,
+"leaf": 76,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"GT"
+],
+"readings": [
+"altari"
+]
+},
+{
+"line": 200,
+"entry_line": 202,
+"leaf": 76,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"dadonis"
+]
+},
+{
+"line": 200,
+"entry_line": 202,
+"leaf": 76,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"LE"
+],
+"readings": [
+"quo"
+]
+},
+{
+"line": 200,
+"entry_line": 202,
+"leaf": 76,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"LE"
+],
+"readings": [
+"induere"
+]
+},
+{
+"line": 200,
+"entry_line": 203,
+"leaf": 76,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L",
+"E"
+],
+"readings": [
+"factis tamitis",
+"facti mitis"
+]
+},
+{
+"line": 200,
+"entry_line": 203,
+"leaf": 76,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"M"
+],
+"readings": [
+"ociosam"
+]
+},
+{
+"line": 200,
+"entry_line": 204,
+"leaf": 76,
+"lemma": "quantumque",
+"lemma_group": 0,
+"groups": [
+"",
+"LE"
+],
+"readings": [
+"quam"
+]
+},
+{
+"line": 200,
+"entry_line": 204,
+"leaf": 76,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"M"
+],
+"readings": [
+"quod"
+]
+},
+{
+"line": 200,
+"entry_line": 204,
+"leaf": 76,
+"lemma": "ferre",
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"ornare in"
+]
+},
+{
+"line": 200,
+"entry_line": 205,
+"leaf": 76,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"E"
+],
+"readings": [
+"condotense"
+]
+},
+{
+"line": 200,
+"entry_line": 206,
+"leaf": 76,
+"lemma": "de",
+"lemma_group": 0,
+"groups": [
+"",
+"M"
+],
+"readings": [
+"a"
+]
+},
+{
+"line": 200,
+"entry_line": 206,
+"leaf": 76,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"GT"
+],
+"readings": [
+"suaedas"
+]
+},
+{
+"line": 200,
+"entry_line": 207,
+"leaf": 76,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L",
+"E"
+],
+"readings": [
+"pectauo",
+"pictauio"
+]
+},
+{
+"line": 200,
+"entry_line": 207,
+"leaf": 76,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"qualiter , quale"
+]
+},
+{
+"line": 200,
+"entry_line": 207,
+"leaf": 76,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"G"
+],
+"readings": [
+"enumerat"
+]
+},
+{
+"line": 200,
+"entry_line": 208,
+"leaf": 76,
+"lemma": "sigilatium",
+"lemma_group": 0,
+"groups": [
+"PMT",
+"G",
+"L",
+"E"
+],
+"readings": [
+"segalatium",
+"selacio",
+"sic allato"
+]
+},
+{
+"line": 200,
+"entry_line": 209,
+"leaf": 76,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"M",
+"LE"
+],
+"readings": [
+"panem absconsum ante sigilatium",
+"pane absconso"
+]
+},
+{
+"line": 200,
+"entry_line": 209,
+"leaf": 76,
+"lemma": "uel",
+"lemma_group": 0,
+"groups": [
+"",
+"L",
+"E"
+],
+"readings": [
+"et ordeacio",
+"ordeaceo"
+]
+},
+{
+"line": 200,
+"entry_line": 210,
+"leaf": 76,
+"lemma": "uero praeter",
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"om."
+]
+},
+{
+"line": 200,
+"entry_line": 210,
+"leaf": 76,
+"lemma": "et",
+"lemma_group": 0,
+"groups": [
+"",
+"M"
+],
+"readings": [
+"om."
+]
+},
+{
+"line": 200,
+"entry_line": 211,
+"leaf": 76,
+"lemma": "non",
+"lemma_group": 0,
+"groups": [
+"",
+"M"
+],
+"readings": [
+"om."
+]
+},
+{
+"line": 200,
+"entry_line": 211,
+"leaf": 76,
+"lemma": "nec",
+"lemma_group": 0,
+"groups": [
+"",
+"M"
+],
+"readings": [
+"ne"
+]
+},
+{
+"line": 200,
+"entry_line": 211,
+"leaf": 76,
+"lemma": "quid",
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"om."
+]
+},
+{
+"line": 200,
+"entry_line": 211,
+"leaf": 76,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"esui habuit"
+]
+},
+{
+"line": 200,
+"entry_line": 211,
+"leaf": 76,
+"lemma": "uero",
+"lemma_group": 0,
+"groups": [
+"",
+"LE"
+],
+"readings": [
+"om."
+]
+},
+{
+"line": 200,
+"entry_line": 212,
+"leaf": 76,
+"lemma": "aut",
+"lemma_group": 0,
+"groups": [
+"",
+"M"
+],
+"readings": [
+"atque"
+]
+},
+{
+"line": 200,
+"entry_line": 212,
+"leaf": 76,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"PG"
+],
+"readings": [
+"medus"
+]
+},
+{
+"line": 200,
+"entry_line": 213,
+"leaf": 76,
+"lemma": "codd. non contigit",
+"lemma_group": 0,
+"groups": [
+"",
+"L",
+"E"
+],
+"readings": [
+"om.",
+"non bibit"
+]
+},
+{
+"line": 200,
+"entry_line": 213,
+"leaf": 76,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"M"
+],
+"readings": [
+"tumore"
+]
+},
+{
+"line": 200,
+"entry_line": 214,
+"leaf": 76,
+"lemma": "postulauit",
+"lemma_group": 0,
+"groups": [
+"",
+"L",
+"E"
+],
+"readings": [
+"sua manu conmoluit add.",
+"commuluit add."
+]
+},
+{
+"line": 200,
+"entry_line": 215,
+"leaf": 76,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"LET"
+],
+"readings": [
+"incessanter"
+]
+},
+{
+"line": 200,
+"entry_line": 215,
+"leaf": 76,
+"lemma": "nec",
+"lemma_group": 0,
+"groups": [
+"",
+"M"
+],
+"readings": [
+"ne"
+]
+},
+{
+"line": 200,
+"entry_line": 215,
+"leaf": 76,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"tot thesauri"
+]
+},
+{
+"line": 200,
+"entry_line": 216,
+"leaf": 76,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"unde *** peregrinae tot diuitiae"
+]
+},
+{
+"line": 200,
+"entry_line": 217,
+"leaf": 76,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"diebus quinta scilicet feria et sabbato"
+]
+},
+{
+"line": 200,
+"entry_line": 217,
+"leaf": 76,
+"lemma": "de",
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"om."
+]
+},
+{
+"line": 200,
+"entry_line": 217,
+"leaf": 76,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"crustae"
+]
+},
+{
+"line": 257,
+"entry_line": 257,
+"leaf": 77,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"LE"
+],
+"readings": [
+"pectinabat"
+]
+},
+{
+"line": 257,
+"entry_line": 257,
+"leaf": 77,
+"lemma": "ad",
+"lemma_group": 0,
+"groups": [
+"",
+"G"
+],
+"readings": [
+"deest"
+]
+},
+{
+"line": 257,
+"entry_line": 257,
+"leaf": 77,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"inueterata"
+]
+},
+{
+"line": 257,
+"entry_line": 257,
+"leaf": 77,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"reddebat"
+]
+},
+{
+"line": 257,
+"entry_line": 258,
+"leaf": 77,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L",
+"E"
+],
+"readings": [
+"cocleariis",
+"coclea"
+]
+},
+{
+"line": 257,
+"entry_line": 258,
+"leaf": 77,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"PM"
+],
+"readings": [
+"sola se"
+]
+},
+{
+"line": 257,
+"entry_line": 258,
+"leaf": 77,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"PM"
+],
+"readings": [
+"marta"
+]
+},
+{
+"line": 257,
+"entry_line": 258,
+"leaf": 77,
+"lemma": "fierent",
+"lemma_group": 0,
+"groups": [
+"",
+"LE"
+],
+"readings": [
+"feruerent"
+]
+},
+{
+"line": 257,
+"entry_line": 259,
+"leaf": 77,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"assurgere uellent"
+]
+},
+{
+"line": 257,
+"entry_line": 259,
+"leaf": 77,
+"lemma": "omni",
+"lemma_group": 0,
+"groups": [
+"",
+"M"
+],
+"readings": [
+"om."
+]
+},
+{
+"line": 257,
+"entry_line": 259,
+"leaf": 77,
+"lemma": "uel aestate",
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"aestate"
+]
+},
+{
+"line": 257,
+"entry_line": 259,
+"leaf": 77,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"LE"
+],
+"readings": [
+"primum"
+]
+},
+{
+"line": 257,
+"entry_line": 259,
+"leaf": 77,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"G",
+"M"
+],
+"readings": [
+"omnes",
+"om."
+]
+},
+{
+"line": 257,
+"entry_line": 260,
+"leaf": 77,
+"lemma": "orationi occurrere",
+"lemma_group": 0,
+"groups": [
+"",
+"M",
+"L",
+"E"
+],
+"readings": [
+"orationi incurrere",
+"ad orationem recurrere",
+"orationi incumbere"
+]
+},
+{
+"line": 257,
+"entry_line": 261,
+"leaf": 77,
+"lemma": "et cursum",
+"lemma_group": 0,
+"groups": [
+"",
+"M"
+],
+"readings": [
+"ad cursum"
+]
+},
+{
+"line": 257,
+"entry_line": 261,
+"leaf": 77,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"occurrit"
+]
+},
+{
+"line": 257,
+"entry_line": 261,
+"leaf": 77,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"relaxaret"
+]
+},
+{
+"line": 257,
+"entry_line": 262,
+"leaf": 77,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"LE",
+"T"
+],
+"readings": [
+"intromittebantur",
+"intromittebat"
+]
+},
+{
+"line": 257,
+"entry_line": 263,
+"leaf": 77,
+"lemma": "maculis",
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"perfusas maculis"
+]
+},
+{
+"line": 257,
+"entry_line": 263,
+"leaf": 77,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"LE",
+"T"
+],
+"readings": [
+"uultus",
+"osculabatur in deoeas toto"
+]
+},
+{
+"line": 257,
+"entry_line": 263,
+"leaf": 77,
+"lemma": "uestimenti",
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"solatium add."
+]
+},
+{
+"line": 257,
+"entry_line": 264,
+"leaf": 77,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"GT"
+],
+"readings": [
+"munifica"
+]
+},
+{
+"line": 257,
+"entry_line": 264,
+"leaf": 77,
+"lemma": "et",
+"lemma_group": 0,
+"groups": [
+"PMG",
+"L",
+"E"
+],
+"readings": [
+"et si",
+"om."
+]
+},
+{
+"line": 257,
+"entry_line": 265,
+"leaf": 77,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L",
+"E"
+],
+"readings": [
+"beneuolo",
+"om."
+]
+},
+{
+"line": 257,
+"entry_line": 265,
+"leaf": 77,
+"lemma": "uere si me",
+"lemma_group": 0,
+"groups": [
+"",
+"L",
+"E"
+],
+"readings": [
+"uenire",
+"uerum si me"
+]
+},
+{
+"line": 257,
+"entry_line": 266,
+"leaf": 77,
+"lemma": "cura nec ulla",
+"lemma_group": 0,
+"groups": [
+"",
+"M",
+"T"
+],
+"readings": [
+"cura nulla",
+"nulla cura"
+]
+},
+{
+"line": 257,
+"entry_line": 266,
+"leaf": 77,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"PM"
+],
+"readings": [
+"auferebat"
+]
+},
+{
+"line": 257,
+"entry_line": 267,
+"leaf": 77,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"M"
+],
+"readings": [
+"esse hoc"
+]
+},
+{
+"line": 257,
+"entry_line": 267,
+"leaf": 77,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"sicque obtento uix"
+]
+},
+{
+"line": 257,
+"entry_line": 268,
+"leaf": 77,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"superpositum"
+]
+},
+{
+"line": 257,
+"entry_line": 269,
+"leaf": 77,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"sanctae feminae"
+]
+},
+{
+"line": 257,
+"entry_line": 269,
+"leaf": 77,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"offerebat"
+]
+},
+{
+"line": 257,
+"entry_line": 269,
+"leaf": 77,
+"lemma": "accensa morbidus",
+"lemma_group": 0,
+"groups": [
+"",
+"M"
+],
+"readings": [
+"autem add."
+]
+},
+{
+"line": 308,
+"entry_line": 308,
+"leaf": 78,
+"lemma": "cum",
+"lemma_group": 0,
+"groups": [
+"",
+"LET"
+],
+"readings": [
+"om."
+]
+},
+{
+"line": 308,
+"entry_line": 308,
+"leaf": 78,
+"lemma": "quid",
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"om."
+]
+},
+{
+"line": 308,
+"entry_line": 308,
+"leaf": 78,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L",
+"E"
+],
+"readings": [
+"cibariae",
+"cibi"
+]
+},
+{
+"line": 308,
+"entry_line": 309,
+"leaf": 78,
+"lemma": "fabulam",
+"lemma_group": 0,
+"groups": [
+"PET",
+"M"
+],
+"readings": [
+"v. Fortun. V."
+]
+},
+{
+"line": 308,
+"entry_line": 310,
+"leaf": 78,
+"lemma": "popularis",
+"lemma_group": 0,
+"groups": [
+"",
+"M"
+],
+"readings": [
+"om."
+]
+},
+{
+"line": 308,
+"entry_line": 310,
+"leaf": 78,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"frequenter"
+]
+},
+{
+"line": 308,
+"entry_line": 310,
+"leaf": 78,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L",
+"E"
+],
+"readings": [
+"praeter ergo uenerabilem diem",
+"ergo praeter uenerabilem diem"
+]
+},
+{
+"line": 308,
+"entry_line": 311,
+"leaf": 78,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"omnibus diebus ieiunii"
+]
+},
+{
+"line": 308,
+"entry_line": 311,
+"leaf": 78,
+"lemma": "ieiuna",
+"lemma_group": 0,
+"groups": [
+"",
+"M"
+],
+"readings": [
+"om."
+]
+},
+{
+"line": 308,
+"entry_line": 311,
+"leaf": 78,
+"lemma": "auem",
+"lemma_group": 0,
+"groups": [
+"",
+"T",
+"L",
+"E"
+],
+"readings": [
+"om.",
+"non add.",
+"uel add."
+]
+},
+{
+"line": 308,
+"entry_line": 312,
+"leaf": 78,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"edulio"
+]
+},
+{
+"line": 308,
+"entry_line": 312,
+"leaf": 78,
+"lemma": "sigilatium",
+"lemma_group": 0,
+"groups": [
+"",
+"G",
+"L",
+"E"
+],
+"readings": [
+"segalatium",
+"secale",
+"sigale"
+]
+},
+{
+"line": 308,
+"entry_line": 313,
+"leaf": 78,
+"lemma": "ordeatium",
+"lemma_group": 0,
+"groups": [
+"M",
+"L",
+"E",
+"T"
+],
+"readings": [
+"ordeum",
+"hordeum",
+"ordeaceus"
+]
+},
+{
+"line": 308,
+"entry_line": 314,
+"leaf": 78,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"G"
+],
+"readings": [
+"quam"
+]
+},
+{
+"line": 308,
+"entry_line": 314,
+"leaf": 78,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L",
+"E"
+],
+"readings": [
+"absconso",
+"absconse"
+]
+},
+{
+"line": 308,
+"entry_line": 314,
+"leaf": 78,
+"lemma": "etiam",
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"eius add."
+]
+},
+{
+"line": 308,
+"entry_line": 315,
+"leaf": 78,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"libata ac sitibunda"
+]
+},
+{
+"line": 308,
+"entry_line": 315,
+"leaf": 78,
+"lemma": "quoque",
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"om."
+]
+},
+{
+"line": 308,
+"entry_line": 315,
+"leaf": 78,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"LE"
+],
+"readings": [
+"malua"
+]
+},
+{
+"line": 308,
+"entry_line": 316,
+"leaf": 78,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"E"
+],
+"readings": [
+"aquae , aquam"
+]
+},
+{
+"line": 308,
+"entry_line": 316,
+"leaf": 78,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"duo sextaria sumens"
+]
+},
+{
+"line": 308,
+"entry_line": 316,
+"leaf": 78,
+"lemma": "duo",
+"lemma_group": 0,
+"groups": [
+"",
+"LE"
+],
+"readings": [
+"nisi duo"
+]
+},
+{
+"line": 308,
+"entry_line": 316,
+"leaf": 78,
+"lemma": "hinc",
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"om."
+]
+},
+{
+"line": 308,
+"entry_line": 316,
+"leaf": 78,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"cilium"
+]
+},
+{
+"line": 308,
+"entry_line": 317,
+"leaf": 78,
+"lemma": "linteo",
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"ac add."
+]
+},
+{
+"line": 308,
+"entry_line": 317,
+"leaf": 78,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L",
+"E"
+],
+"readings": [
+"cinerem seruatum",
+"cinere strato"
+]
+},
+{
+"line": 308,
+"entry_line": 317,
+"leaf": 78,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"relaxans"
+]
+},
+{
+"line": 308,
+"entry_line": 318,
+"leaf": 78,
+"lemma": "deinde",
+"lemma_group": 0,
+"groups": [
+"",
+"M"
+],
+"readings": [
+"et"
+]
+},
+{
+"line": 308,
+"entry_line": 318,
+"leaf": 78,
+"lemma": "dominica",
+"lemma_group": 0,
+"groups": [
+"MGT",
+"P",
+"LE"
+],
+"readings": [
+"die dominica",
+"die dominico"
+]
+},
+{
+"line": 308,
+"entry_line": 319,
+"leaf": 78,
+"lemma": "si bonum post alteram",
+"lemma_group": 0,
+"groups": [
+"",
+"L",
+"G",
+"E",
+"T"
+],
+"readings": [
+"om.",
+"ageret add.",
+"si ponebatur post alteram",
+"si bonum fecisset post alteram"
+]
+},
+{
+"line": 308,
+"entry_line": 320,
+"leaf": 78,
+"lemma": "simul et",
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"uel"
+]
+},
+{
+"line": 308,
+"entry_line": 321,
+"leaf": 78,
+"lemma": "ante sarcinans",
+"lemma_group": 0,
+"groups": [
+"L",
+"PG",
+"M",
+"E"
+],
+"readings": [
+"ante sarcinas",
+"om.",
+"sarcinas"
+]
+},
+{
+"line": 308,
+"entry_line": 321,
+"leaf": 78,
+"lemma": "quod aliis horret ",
+"lemma_group": 0,
+"groups": [
+"PMG",
+"L",
+"E",
+"T"
+],
+"readings": [
+"quicquid alius horrebat",
+"aliis quod horret",
+"quas alii horrebant"
+]
+},
+{
+"line": 308,
+"entry_line": 322,
+"leaf": 78,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"opus purgare"
+]
+},
+{
+"line": 308,
+"entry_line": 323,
+"leaf": 78,
+"lemma": "occupans ferens",
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"scopans ferebat"
+]
+},
+{
+"line": 308,
+"entry_line": 323,
+"leaf": 78,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"seruitii uilitate"
+]
+},
+{
+"line": 308,
+"entry_line": 323,
+"leaf": 78,
+"lemma": "flatibus",
+"lemma_group": 0,
+"groups": [
+"",
+"T",
+"E"
+],
+"readings": [
+"et add.",
+"excitans add."
+]
+},
+{
+"line": 308,
+"entry_line": 324,
+"leaf": 78,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"retrahebat"
+]
+},
+{
+"line": 362,
+"entry_line": 362,
+"leaf": 79,
+"lemma": "feruore",
+"lemma_group": 0,
+"groups": [
+"",
+"L",
+"E"
+],
+"readings": [
+"seruitio est",
+"seruicio"
+]
+},
+{
+"line": 362,
+"entry_line": 362,
+"leaf": 79,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"excita"
+]
+},
+{
+"line": 362,
+"entry_line": 363,
+"leaf": 79,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"focum flatu"
+]
+},
+{
+"line": 362,
+"entry_line": 363,
+"leaf": 79,
+"lemma": "leuans",
+"lemma_group": 0,
+"groups": [
+"",
+"M",
+"L"
+],
+"readings": [
+"lauans",
+"om."
+]
+},
+{
+"line": 362,
+"entry_line": 364,
+"leaf": 79,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L",
+"E"
+],
+"readings": [
+"lauans discos",
+"discos leuans"
+]
+},
+{
+"line": 362,
+"entry_line": 364,
+"leaf": 79,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"PMLE"
+],
+"readings": [
+"coquina"
+]
+},
+{
+"line": 362,
+"entry_line": 365,
+"leaf": 79,
+"lemma": "necessaria add. vulg. non tepida",
+"lemma_group": 0,
+"groups": [
+"",
+"E",
+"T"
+],
+"readings": [
+"intrepida",
+"intepida"
+]
+},
+{
+"line": 362,
+"entry_line": 366,
+"leaf": 79,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"M"
+],
+"readings": [
+"ilaretense regula"
+]
+},
+{
+"line": 362,
+"entry_line": 366,
+"leaf": 79,
+"lemma": "ebdomada",
+"lemma_group": 0,
+"groups": [
+"",
+"PG"
+],
+"readings": [
+"sub add."
+]
+},
+{
+"line": 362,
+"entry_line": 366,
+"leaf": 79,
+"lemma": "calidam faciebat humilitate",
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"faciebat humanitatem"
+]
+},
+{
+"line": 362,
+"entry_line": 367,
+"leaf": 79,
+"lemma": "omnes",
+"lemma_group": 0,
+"groups": [
+"",
+"LE",
+"T"
+],
+"readings": [
+"ante add.",
+"ac omnibus"
+]
+},
+{
+"line": 362,
+"entry_line": 367,
+"leaf": 79,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"LT"
+],
+"readings": [
+"pro commissa neglegentia"
+]
+},
+{
+"line": 362,
+"entry_line": 368,
+"leaf": 79,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"G",
+"T"
+],
+"readings": [
+"ipsa quae",
+"intulerit ipsa qui"
+]
+},
+{
+"line": 362,
+"entry_line": 368,
+"leaf": 79,
+"lemma": "dum",
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"om."
+]
+},
+{
+"line": 362,
+"entry_line": 368,
+"leaf": 79,
+"lemma": "latos tres",
+"lemma_group": 0,
+"groups": [
+"",
+"L",
+"E",
+"T"
+],
+"readings": [
+"inlatos tres",
+"inlatas tres",
+"tres latos"
+]
+},
+{
+"line": 362,
+"entry_line": 369,
+"leaf": 79,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"M",
+"L",
+"E"
+],
+"readings": [
+"abstricte",
+"adstrictius",
+"astrictius"
+]
+},
+{
+"line": 362,
+"entry_line": 369,
+"leaf": 79,
+"lemma": "sub",
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"om."
+]
+},
+{
+"line": 362,
+"entry_line": 370,
+"leaf": 79,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L",
+"E",
+"T"
+],
+"readings": [
+"auricalcam",
+"aurichalcam",
+"laminam de auricalco in signo christi"
+]
+},
+{
+"line": 362,
+"entry_line": 370,
+"leaf": 79,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"PM",
+"T"
+],
+"readings": [
+"cella",
+"cellulam"
+]
+},
+{
+"line": 362,
+"entry_line": 371,
+"leaf": 79,
+"lemma": "adhuc lima",
+"lemma_group": 0,
+"groups": [
+"",
+"L",
+"E"
+],
+"readings": [
+"ad ima",
+"adhuc ad ima"
+]
+},
+{
+"line": 362,
+"entry_line": 371,
+"leaf": 79,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"LE"
+],
+"readings": [
+"dissipantem"
+]
+},
+{
+"line": 362,
+"entry_line": 371,
+"leaf": 79,
+"lemma": "aquamanile",
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"manile"
+]
+},
+{
+"line": 362,
+"entry_line": 372,
+"leaf": 79,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"plenum ardentibus"
+]
+},
+{
+"line": 362,
+"entry_line": 372,
+"leaf": 79,
+"lemma": "a se",
+"lemma_group": 0,
+"groups": [
+"",
+"ET"
+],
+"readings": [
+"om."
+]
+},
+{
+"line": 362,
+"entry_line": 372,
+"leaf": 79,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"G"
+],
+"readings": [
+"martyr"
+]
+},
+{
+"line": 362,
+"entry_line": 373,
+"leaf": 79,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"PG"
+],
+"readings": [
+"feruenter"
+]
+},
+{
+"line": 362,
+"entry_line": 373,
+"leaf": 79,
+"lemma": "et",
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"om."
+]
+},
+{
+"line": 362,
+"entry_line": 373,
+"leaf": 79,
+"lemma": "conputrescens sanguis",
+"lemma_group": 0,
+"groups": [
+"",
+"L",
+"E"
+],
+"readings": [
+"conputrescentibus sanguis",
+"conputrescente riuus sanguinis"
+]
+},
+{
+"line": 362,
+"entry_line": 374,
+"leaf": 79,
+"lemma": "manifestabat",
+"lemma_group": 0,
+"groups": [
+"",
+"L",
+"E"
+],
+"readings": [
+"om.",
+"prodidit"
+]
+},
+{
+"line": 362,
+"entry_line": 375,
+"leaf": 79,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"PMLE"
+],
+"readings": [
+"addiderit"
+]
+},
+{
+"line": 362,
+"entry_line": 375,
+"leaf": 79,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"gislodi"
+]
+},
+{
+"line": 362,
+"entry_line": 375,
+"leaf": 79,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"M"
+],
+"readings": [
+"proceriris"
+]
+},
+{
+"line": 362,
+"entry_line": 375,
+"leaf": 79,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L",
+"E"
+],
+"readings": [
+"deuotae",
+"deuota"
+]
+},
+{
+"line": 362,
+"entry_line": 376,
+"leaf": 79,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"PE"
+],
+"readings": [
+"exoratam"
+]
+},
+{
+"line": 362,
+"entry_line": 376,
+"leaf": 79,
+"lemma": "occurri",
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"adduci"
+]
+},
+{
+"line": 362,
+"entry_line": 377,
+"leaf": 79,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"ad cuius genua prostrata uix impetrat ut dignaretur oculos eius tangere"
+]
+},
+{
+"line": 417,
+"entry_line": 417,
+"leaf": 80,
+"lemma": "ut tracta",
+"lemma_group": 0,
+"groups": [
+"",
+"M"
+],
+"readings": [
+"in tracta"
+]
+},
+{
+"line": 417,
+"entry_line": 417,
+"leaf": 80,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L",
+"E"
+],
+"readings": [
+"frailindis",
+"friafledis"
+]
+},
+{
+"line": 417,
+"entry_line": 417,
+"leaf": 80,
+"lemma": "tam",
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"om."
+]
+},
+{
+"line": 417,
+"entry_line": 418,
+"leaf": 80,
+"lemma": "suedas",
+"lemma_group": 0,
+"groups": [
+"ML",
+"PG",
+"ET"
+],
+"readings": [
+"suaedas",
+"om."
+]
+},
+{
+"line": 417,
+"entry_line": 418,
+"leaf": 80,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"PG",
+"L"
+],
+"readings": [
+"leubilo",
+"leobila"
+]
+},
+{
+"line": 417,
+"entry_line": 419,
+"leaf": 80,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"P"
+],
+"readings": [
+"in ru*re"
+]
+},
+{
+"line": 417,
+"entry_line": 420,
+"leaf": 80,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"MG"
+],
+"readings": [
+"liberatam"
+]
+},
+{
+"line": 417,
+"entry_line": 420,
+"leaf": 80,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"LE"
+],
+"readings": [
+"profertur"
+]
+},
+{
+"line": 417,
+"entry_line": 420,
+"leaf": 80,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"P",
+"M"
+],
+"readings": [
+"in populum, superscr. ł in puplicum",
+"in publicum"
+]
+},
+{
+"line": 417,
+"entry_line": 421,
+"leaf": 80,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"LE"
+],
+"readings": [
+"a monacha caput incipit"
+]
+},
+{
+"line": 417,
+"entry_line": 421,
+"leaf": 80,
+"lemma": "ipsam aegrotam",
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"et egram ipsam"
+]
+},
+{
+"line": 417,
+"entry_line": 421,
+"leaf": 80,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"LET"
+],
+"readings": [
+"fecit"
+]
+},
+{
+"line": 417,
+"entry_line": 421,
+"leaf": 80,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"PM"
+],
+"readings": [
+"cellam"
+]
+},
+{
+"line": 417,
+"entry_line": 422,
+"leaf": 80,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"LE",
+"T"
+],
+"readings": [
+"tapete",
+"tepida aqua"
+]
+},
+{
+"line": 417,
+"entry_line": 422,
+"leaf": 80,
+"lemma": "sola",
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"om."
+]
+},
+{
+"line": 417,
+"entry_line": 422,
+"leaf": 80,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"M"
+],
+"readings": [
+"forma corporis"
+]
+},
+{
+"line": 417,
+"entry_line": 422,
+"leaf": 80,
+"lemma": "ad",
+"lemma_group": 0,
+"groups": [
+"",
+"G"
+],
+"readings": [
+"om."
+]
+},
+{
+"line": 417,
+"entry_line": 423,
+"leaf": 80,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"LE"
+],
+"readings": [
+"plantas infirmae"
+]
+},
+{
+"line": 417,
+"entry_line": 423,
+"leaf": 80,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"M",
+"T"
+],
+"readings": [
+"deinde cum",
+"dein quo"
+]
+},
+{
+"line": 417,
+"entry_line": 423,
+"leaf": 80,
+"lemma": "dolor",
+"lemma_group": 0,
+"groups": [
+"",
+"M"
+],
+"readings": [
+"om."
+]
+},
+{
+"line": 417,
+"entry_line": 423,
+"leaf": 80,
+"lemma": "et",
+"lemma_group": 0,
+"groups": [
+"",
+"LE"
+],
+"readings": [
+"om."
+]
+},
+{
+"line": 417,
+"entry_line": 423,
+"leaf": 80,
+"lemma": "duae",
+"lemma_group": 0,
+"groups": [
+"",
+"M"
+],
+"readings": [
+"diu"
+]
+},
+{
+"line": 417,
+"entry_line": 424,
+"leaf": 80,
+"lemma": "de tepida",
+"lemma_group": 0,
+"groups": [
+"",
+"L",
+"E"
+],
+"readings": [
+"om.",
+"de tapete"
+]
+},
+{
+"line": 417,
+"entry_line": 424,
+"leaf": 80,
+"lemma": "refecta est",
+"lemma_group": 0,
+"groups": [
+"",
+"L",
+"E"
+],
+"readings": [
+"refecit",
+"reficit"
+]
+},
+{
+"line": 417,
+"entry_line": 424,
+"leaf": 80,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"G",
+"LE"
+],
+"readings": [
+"speraret",
+"spectaretur"
+]
+},
+{
+"line": 417,
+"entry_line": 425,
+"leaf": 80,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"sana"
+]
+},
+{
+"line": 417,
+"entry_line": 425,
+"leaf": 80,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"deperit de merito"
+]
+},
+{
+"line": 417,
+"entry_line": 425,
+"leaf": 80,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"rebellem hostem"
+]
+},
+{
+"line": 417,
+"entry_line": 425,
+"leaf": 80,
+"lemma": "se",
+"lemma_group": 0,
+"groups": [
+"",
+"M"
+],
+"readings": [
+"om."
+]
+},
+{
+"line": 417,
+"entry_line": 426,
+"leaf": 80,
+"lemma": "cum",
+"lemma_group": 0,
+"groups": [
+"",
+"M"
+],
+"readings": [
+"om."
+]
+},
+{
+"line": 417,
+"entry_line": 426,
+"leaf": 80,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"LE"
+],
+"readings": [
+"tumore"
+]
+},
+{
+"line": 417,
+"entry_line": 426,
+"leaf": 80,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"PE"
+],
+"readings": [
+"ceruicem"
+]
+},
+{
+"line": 417,
+"entry_line": 426,
+"leaf": 80,
+"lemma": "est et",
+"lemma_group": 0,
+"groups": [
+"",
+"LT",
+"E"
+],
+"readings": [
+"et",
+"extitit"
+]
+},
+{
+"line": 417,
+"entry_line": 427,
+"leaf": 80,
+"lemma": "magna",
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"est add."
+]
+},
+{
+"line": 417,
+"entry_line": 427,
+"leaf": 80,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"LE"
+],
+"readings": [
+"globus"
+]
+},
+{
+"line": 417,
+"entry_line": 428,
+"leaf": 80,
+"lemma": "sorix",
+"lemma_group": 0,
+"groups": [
+"PGE",
+"M",
+"L",
+"T"
+],
+"readings": [
+"surix",
+"surrexit",
+"sorex pependit in morsu"
+]
+},
+{
+"line": 417,
+"entry_line": 428,
+"leaf": 80,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"E"
+],
+"readings": [
+"om."
+]
+},
+{
+"line": 417,
+"entry_line": 429,
+"leaf": 80,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"M"
+],
+"readings": [
+"foreius"
+]
+},
+{
+"line": 417,
+"entry_line": 429,
+"leaf": 80,
+"lemma": "quidam",
+"lemma_group": 0,
+"groups": [
+"",
+"PM"
+],
+"readings": [
+"qui dicitur"
+]
+},
+{
+"line": 417,
+"entry_line": 429,
+"leaf": 80,
+"lemma": "nomine",
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"om."
+]
+},
+{
+"line": 417,
+"entry_line": 430,
+"leaf": 80,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"LE"
+],
+"readings": [
+"aborto"
+]
+},
+{
+"line": 417,
+"entry_line": 430,
+"leaf": 80,
+"lemma": "sentinante",
+"lemma_group": 0,
+"groups": [
+"",
+"L",
+"E"
+],
+"readings": [
+"sentinam",
+"sent"
+]
+},
+{
+"line": 417,
+"entry_line": 430,
+"leaf": 80,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"subdamur"
+]
+},
+{
+"line": 417,
+"entry_line": 431,
+"leaf": 80,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L",
+"E"
+],
+"readings": [
+"staturae suae",
+"suae naturae"
+]
+},
+{
+"line": 417,
+"entry_line": 431,
+"leaf": 80,
+"lemma": "feminae",
+"lemma_group": 0,
+"groups": [
+"",
+"M"
+],
+"readings": [
+"om."
+]
+},
+{
+"line": 472,
+"entry_line": 472,
+"leaf": 81,
+"lemma": "plus peccamus",
+"lemma_group": 0,
+"groups": [
+"",
+"M"
+],
+"readings": [
+"om."
+]
+},
+{
+"line": 472,
+"entry_line": 472,
+"leaf": 81,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"reliquis uelociter"
+]
+},
+{
+"line": 472,
+"entry_line": 472,
+"leaf": 81,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"G"
+],
+"readings": [
+"dilato"
+]
+},
+{
+"line": 472,
+"entry_line": 472,
+"leaf": 81,
+"lemma": "plurimis",
+"lemma_group": 0,
+"groups": [
+"",
+"P"
+],
+"readings": [
+"in plurimis"
+]
+},
+{
+"line": 472,
+"entry_line": 473,
+"leaf": 81,
+"lemma": "inergumine",
+"lemma_group": 0,
+"groups": [
+"",
+"G",
+"T"
+],
+"readings": [
+"inergumino",
+"in energumino"
+]
+},
+{
+"line": 472,
+"entry_line": 473,
+"leaf": 81,
+"lemma": "torqueretur",
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"spiritu add."
+]
+},
+{
+"line": 472,
+"entry_line": 474,
+"leaf": 81,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"LE"
+],
+"readings": [
+"sancta"
+]
+},
+{
+"line": 472,
+"entry_line": 474,
+"leaf": 81,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"penitere"
+]
+},
+{
+"line": 472,
+"entry_line": 474,
+"leaf": 81,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"sed ne moremur dicere quid"
+]
+},
+{
+"line": 472,
+"entry_line": 474,
+"leaf": 81,
+"lemma": "sancta",
+"lemma_group": 0,
+"groups": [
+"",
+"M"
+],
+"readings": [
+"om."
+]
+},
+{
+"line": 472,
+"entry_line": 475,
+"leaf": 81,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"egressus"
+]
+},
+{
+"line": 472,
+"entry_line": 475,
+"leaf": 81,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"deseruit et mulier"
+]
+},
+{
+"line": 472,
+"entry_line": 475,
+"leaf": 81,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L",
+"E",
+"T"
+],
+"readings": [
+"hospitium redit",
+"redit in hospicio",
+"reuisit hospitium"
+]
+},
+{
+"line": 472,
+"entry_line": 476,
+"leaf": 81,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"G"
+],
+"readings": [
+"similium"
+]
+},
+{
+"line": 472,
+"entry_line": 476,
+"leaf": 81,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"PM"
+],
+"readings": [
+"cellam"
+]
+},
+{
+"line": 472,
+"entry_line": 476,
+"leaf": 81,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"G"
+],
+"readings": [
+"toto"
+]
+},
+{
+"line": 472,
+"entry_line": 477,
+"leaf": 81,
+"lemma": "nisi",
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"quod nisi"
+]
+},
+{
+"line": 472,
+"entry_line": 477,
+"leaf": 81,
+"lemma": "de",
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"a"
+]
+},
+{
+"line": 472,
+"entry_line": 477,
+"leaf": 81,
+"lemma": "ramis",
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"et add."
+]
+},
+{
+"line": 472,
+"entry_line": 477,
+"leaf": 81,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"M"
+],
+"readings": [
+"familior"
+]
+},
+{
+"line": 472,
+"entry_line": 477,
+"leaf": 81,
+"lemma": "absinthii",
+"lemma_group": 0,
+"groups": [
+"ET",
+"PGL",
+"M"
+],
+"readings": [
+"absentii",
+"absenthii"
+]
+},
+{
+"line": 472,
+"entry_line": 478,
+"leaf": 81,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"M"
+],
+"readings": [
+"cf. Fortun. V."
+]
+},
+{
+"line": 472,
+"entry_line": 478,
+"leaf": 81,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"refrigeraretur"
+]
+},
+{
+"line": 472,
+"entry_line": 479,
+"leaf": 81,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"G"
+],
+"readings": [
+"memoria"
+]
+},
+{
+"line": 472,
+"entry_line": 479,
+"leaf": 81,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"LE"
+],
+"readings": [
+"tacite"
+]
+},
+{
+"line": 472,
+"entry_line": 479,
+"leaf": 81,
+"lemma": "mox",
+"lemma_group": 0,
+"groups": [
+"",
+"PM"
+],
+"readings": [
+"et add."
+]
+},
+{
+"line": 472,
+"entry_line": 479,
+"leaf": 81,
+"lemma": "ut add. mox",
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"om."
+]
+},
+{
+"line": 472,
+"entry_line": 480,
+"leaf": 81,
+"lemma": "redit",
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"om."
+]
+},
+{
+"line": 472,
+"entry_line": 480,
+"leaf": 81,
+"lemma": "leuat — tumulum",
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"pallor uicinus tumulo leuat de pallio"
+]
+},
+{
+"line": 472,
+"entry_line": 481,
+"leaf": 81,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L"
+],
+"readings": [
+"exaltarent, exp. n"
+]
+},
+{
+"line": 472,
+"entry_line": 481,
+"leaf": 81,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"uisum"
+]
+},
+{
+"line": 472,
+"entry_line": 481,
+"leaf": 81,
+"lemma": "cum",
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"quod cum"
+]
+},
+{
+"line": 472,
+"entry_line": 482,
+"leaf": 81,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"PM"
+],
+"readings": [
+"iuberet"
+]
+},
+{
+"line": 472,
+"entry_line": 482,
+"leaf": 81,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"manus"
+]
+},
+{
+"line": 472,
+"entry_line": 482,
+"leaf": 81,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"PM"
+],
+"readings": [
+"beata"
+]
+},
+{
+"line": 472,
+"entry_line": 482,
+"leaf": 81,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"super caput aegrotae oleum est"
+]
+},
+{
+"line": 472,
+"entry_line": 483,
+"leaf": 81,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"ministerio"
+]
+},
+{
+"line": 472,
+"entry_line": 483,
+"leaf": 81,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"PM",
+"G"
+],
+"readings": [
+"euigilante",
+"uigilante"
+]
+},
+{
+"line": 472,
+"entry_line": 483,
+"leaf": 81,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"nil de morbo in ea apparuit"
+]
+},
+{
+"line": 472,
+"entry_line": 483,
+"leaf": 81,
+"lemma": "sub",
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"om."
+]
+},
+{
+"line": 472,
+"entry_line": 484,
+"leaf": 81,
+"lemma": "nec morbus",
+"lemma_group": 0,
+"groups": [
+"PM",
+"G",
+"LE",
+"T"
+],
+"readings": [
+"nec morbi",
+"nec mors nec morbi",
+"morbus nec"
+]
+},
+{
+"line": 472,
+"entry_line": 485,
+"leaf": 81,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"de lectulo adcursum"
+]
+},
+{
+"line": 472,
+"entry_line": 485,
+"leaf": 81,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"LE",
+"T"
+],
+"readings": [
+"testimonio",
+"olei odor inesset capiti ad testimonium"
+]
+},
+{
+"line": 472,
+"entry_line": 485,
+"leaf": 81,
+"lemma": "nulla",
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"foret add."
+]
+},
+{
+"line": 472,
+"entry_line": 486,
+"leaf": 81,
+"lemma": "quo",
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"tota add."
+]
+},
+{
+"line": 472,
+"entry_line": 486,
+"leaf": 81,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"LE"
+],
+"readings": [
+"religio"
+]
+},
+{
+"line": 525,
+"entry_line": 525,
+"leaf": 82,
+"lemma": "sancta",
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"cum add."
+]
+},
+{
+"line": 525,
+"entry_line": 526,
+"leaf": 82,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"unum"
+]
+},
+{
+"line": 525,
+"entry_line": 526,
+"leaf": 82,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"G",
+"T"
+],
+"readings": [
+"coniuncta",
+"coniunctae"
+]
+},
+{
+"line": 525,
+"entry_line": 527,
+"leaf": 82,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"cantica audiui que retinui"
+]
+},
+{
+"line": 525,
+"entry_line": 527,
+"leaf": 82,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"testor"
+]
+},
+{
+"line": 525,
+"entry_line": 528,
+"leaf": 82,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"de saeculare cantico"
+]
+},
+{
+"line": 525,
+"entry_line": 528,
+"leaf": 82,
+"lemma": "ut",
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"quod"
+]
+},
+{
+"line": 525,
+"entry_line": 528,
+"leaf": 82,
+"lemma": "mente",
+"lemma_group": 0,
+"groups": [
+"",
+"PE"
+],
+"readings": [
+"quod add."
+]
+},
+{
+"line": 525,
+"entry_line": 529,
+"leaf": 82,
+"lemma": "signo tacto",
+"lemma_group": 0,
+"groups": [
+"MLT",
+"PG",
+"E"
+],
+"readings": [
+"signi tactu",
+"signo tactu"
+]
+},
+{
+"line": 525,
+"entry_line": 529,
+"leaf": 82,
+"lemma": "illud",
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"om."
+]
+},
+{
+"line": 525,
+"entry_line": 530,
+"leaf": 82,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"M"
+],
+"readings": [
+"deferretur"
+]
+},
+{
+"line": 525,
+"entry_line": 530,
+"leaf": 82,
+"lemma": "in",
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"ad"
+]
+},
+{
+"line": 525,
+"entry_line": 530,
+"leaf": 82,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"M"
+],
+"readings": [
+"portato"
+]
+},
+{
+"line": 525,
+"entry_line": 530,
+"leaf": 82,
+"lemma": "reclusa",
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"et clausa"
+]
+},
+{
+"line": 525,
+"entry_line": 531,
+"leaf": 82,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"iubet longe eas discedere"
+]
+},
+{
+"line": 525,
+"entry_line": 531,
+"leaf": 82,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"P"
+],
+"readings": [
+"discere"
+]
+},
+{
+"line": 525,
+"entry_line": 531,
+"leaf": 82,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"celari interea dum"
+]
+},
+{
+"line": 525,
+"entry_line": 532,
+"leaf": 82,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"P",
+"T"
+],
+"readings": [
+"praepararentur",
+"praeparantur , pararentur"
+]
+},
+{
+"line": 525,
+"entry_line": 532,
+"leaf": 82,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"LE"
+],
+"readings": [
+"mortuum"
+]
+},
+{
+"line": 525,
+"entry_line": 532,
+"leaf": 82,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"M",
+"T"
+],
+"readings": [
+"surgit illa",
+"illa resurgit"
+]
+},
+{
+"line": 525,
+"entry_line": 534,
+"leaf": 82,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"LE"
+],
+"readings": [
+"uico"
+]
+},
+{
+"line": 525,
+"entry_line": 534,
+"leaf": 82,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"percurrit"
+]
+},
+{
+"line": 525,
+"entry_line": 535,
+"leaf": 82,
+"lemma": "eum",
+"lemma_group": 0,
+"groups": [
+"",
+"M"
+],
+"readings": [
+"om."
+]
+},
+{
+"line": 525,
+"entry_line": 535,
+"leaf": 82,
+"lemma": "illic",
+"lemma_group": 0,
+"groups": [
+"",
+"L",
+"E"
+],
+"readings": [
+"om.",
+"ibi"
+]
+},
+{
+"line": 525,
+"entry_line": 535,
+"leaf": 82,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L",
+"E"
+],
+"readings": [
+"construerent",
+"conderetur"
+]
+},
+{
+"line": 525,
+"entry_line": 536,
+"leaf": 82,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"o quale"
+]
+},
+{
+"line": 525,
+"entry_line": 536,
+"leaf": 82,
+"lemma": "mysterium",
+"lemma_group": 0,
+"groups": [
+"",
+"LE"
+],
+"readings": [
+"in quantum sancta designauit, postea tantum add."
+]
+},
+{
+"line": 525,
+"entry_line": 536,
+"leaf": 82,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"PM"
+],
+"readings": [
+"quod"
+]
+},
+{
+"line": 525,
+"entry_line": 537,
+"leaf": 82,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"trahens"
+]
+},
+{
+"line": 525,
+"entry_line": 537,
+"leaf": 82,
+"lemma": "et uidebatur",
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"et om."
+]
+},
+{
+"line": 525,
+"entry_line": 537,
+"leaf": 82,
+"lemma": "propter me",
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"om."
+]
+},
+{
+"line": 525,
+"entry_line": 538,
+"leaf": 82,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"PM"
+],
+"readings": [
+"hora hac"
+]
+},
+{
+"line": 525,
+"entry_line": 538,
+"leaf": 82,
+"lemma": "ut",
+"lemma_group": 0,
+"groups": [
+"",
+"G"
+],
+"readings": [
+"u"
+]
+},
+{
+"line": 525,
+"entry_line": 538,
+"leaf": 82,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"quo"
+]
+},
+{
+"line": 525,
+"entry_line": 538,
+"leaf": 82,
+"lemma": "ibi",
+"lemma_group": 0,
+"groups": [
+"",
+"M"
+],
+"readings": [
+"om."
+]
+},
+{
+"line": 571,
+"entry_line": 571,
+"leaf": 83,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"misso"
+]
+},
+{
+"line": 571,
+"entry_line": 571,
+"leaf": 83,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"iustam migrasse"
+]
+},
+{
+"line": 571,
+"entry_line": 571,
+"leaf": 83,
+"lemma": "relaxato tribuno sano",
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"uacuato tribuno sanitati"
+]
+},
+{
+"line": 571,
+"entry_line": 571,
+"leaf": 83,
+"lemma": "in",
+"lemma_group": 0,
+"groups": [
+"",
+"LE"
+],
+"readings": [
+"om."
+]
+},
+{
+"line": 571,
+"entry_line": 572,
+"leaf": 83,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"LE"
+],
+"readings": [
+"quae"
+]
+},
+{
+"line": 571,
+"entry_line": 572,
+"leaf": 83,
+"lemma": "sic",
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"om."
+]
+},
+{
+"line": 571,
+"entry_line": 572,
+"leaf": 83,
+"lemma": "adhuc",
+"lemma_group": 0,
+"groups": [
+"LE",
+"PM"
+],
+"readings": [
+"et ad"
+]
+},
+{
+"line": 571,
+"entry_line": 573,
+"leaf": 83,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"L",
+"E"
+],
+"readings": [
+"VITA BEATAE RADEGVNDIS add.",
+"adiuuante dn̄o qui uiuit et regnat in saecula saeculorum amen add."
+]
+},
+{
+"line": 571,
+"entry_line": 575,
+"leaf": 83,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"TE"
+],
+"readings": [
+"VITA"
+]
+},
+{
+"line": 571,
+"entry_line": 575,
+"leaf": 83,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"T"
+],
+"readings": [
+"add."
+]
+},
+{
+"line": 571,
+"entry_line": 577,
+"leaf": 83,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"TE"
+],
+"readings": [
+"PRIMVSVITAE"
+]
+},
+{
+"line": 571,
+"entry_line": 577,
+"leaf": 83,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"PMGT"
+],
+"readings": [
+"add. XY sequitur Vita S. Radegundis a Baudonivia composita"
+]
+},
+{
+"line": 571,
+"entry_line": 579,
+"leaf": 83,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"M",
+"P"
+],
+"readings": [
+"prologus . . . . fortunat | uita sc̄i marcelli p | siorum ep̄i atramento in mg. scr.",
+"in facundissima incipit"
+]
+},
+{
+"line": 571,
+"entry_line": 580,
+"leaf": 83,
+"lemma": "patri",
+"lemma_group": 0,
+"groups": [
+"",
+"M"
+],
+"readings": [
+"om."
+]
+},
+{
+"line": 571,
+"entry_line": 580,
+"leaf": 83,
+"lemma": "oratorum",
+"lemma_group": 0,
+"groups": [
+"P",
+"M"
+],
+"readings": [
+"uirorum"
+]
+},
+{
+"line": 571,
+"entry_line": 580,
+"leaf": 83,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"M"
+],
+"readings": [
+"eloquiis"
+]
+},
+{
+"line": 571,
+"entry_line": 581,
+"leaf": 83,
+"lemma": "se",
+"lemma_group": 0,
+"groups": [
+"",
+"M"
+],
+"readings": [
+"om."
+]
+},
+{
+"line": 571,
+"entry_line": 581,
+"leaf": 83,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"P"
+],
+"readings": [
+"unde **** | quid illis"
+]
+},
+{
+"line": 571,
+"entry_line": 581,
+"leaf": 83,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"M"
+],
+"readings": [
+"copiosus"
+]
+},
+{
+"line": 571,
+"entry_line": 582,
+"leaf": 83,
+"lemma": "aliquos uel suae",
+"lemma_group": 0,
+"groups": [
+"",
+"M"
+],
+"readings": [
+"suae"
+]
+},
+{
+"line": 571,
+"entry_line": 582,
+"leaf": 83,
+"lemma": null,
+"lemma_group": 0,
+"groups": [
+"",
+"M"
+],
+"readings": [
+"possim"
+]
+},
+{
+"line": 571,
+"entry_line": 582,
+"leaf": 83,
+"lemma": "aliqua non",
+"lemma_group": 0,
+"groups": [
+"",
+"P"
+],
+"readings": [
+"aliqua"
+]
+}
+]

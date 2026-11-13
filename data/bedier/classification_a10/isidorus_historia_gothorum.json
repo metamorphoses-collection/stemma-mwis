@@ -1,0 +1,88 @@
+{
+ "stemma_witnesses": "PBNHOXYZRWMA",
+ "cited": {
+  "P": 212,
+  "B": 520,
+  "N": 458,
+  "H": 454,
+  "O": 473,
+  "X": 34,
+  "Y": 40,
+  "Z": 23,
+  "R": 32,
+  "W": 22,
+  "M": 652,
+  "A": 454
+ },
+ "analysis_witnesses": "PBNHOXYRMA",
+ "units_with_shared_departure": 464,
+ "included": true,
+ "exclusion": [],
+ "editor_top": [
+  "P",
+  "BNHOXYRMA"
+ ],
+ "k_E": 2,
+ "status": "OPTIMAL",
+ "weight": 174.0,
+ "branches": [
+  {
+   "branch": "P",
+   "status": "single_witness"
+  },
+  {
+   "branch": "BNHOXYRMA",
+   "status": "silent",
+   "by": null
+  }
+ ],
+ "classification": "partly_silent",
+ "k_D": 8,
+ "k_D_bootstrap": {
+  "4": 1.0
+ },
+ "stable_families": [
+  [
+   "MA",
+   80,
+   1.0
+  ],
+  [
+   "XY",
+   13,
+   1.0
+  ]
+ ],
+ "mwis": [
+  [
+   "MA",
+   80,
+   1.0
+  ],
+  [
+   "OMA",
+   34,
+   0.825
+  ],
+  [
+   "NH",
+   22,
+   0.7
+  ],
+  [
+   "NHOMA",
+   16,
+   0.84
+  ],
+  [
+   "XY",
+   13,
+   1.0
+  ],
+  [
+   "BR",
+   9,
+   0.505
+  ]
+ ]
+}
