@@ -2,8 +2,6 @@
 
 Code and data for **C. Jurczak, *Testing stemmata against the evidence of critical editions: Exact optimisation, evidence maps and Bédier's question*** (2026, preprint).
 
-DOI of this release: see `CITATION.cff` and the Zenodo badge once minted.
-
 A stemma is reconstructed as a maximum-weight set of jointly compatible families (splits) proposed by shared readings. Fragmentary witnesses are handled exactly: missing passages become joint completion of partial splits, solved by cutting planes on top of the pairwise relaxation. The code also draws an **evidence map** of any stemma (support, conflict and bootstrap stability of each family), benchmarks language models on the same input, and prepares native encodings for neutral-atom quantum processors.
 
 ## Layout
