@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper and this archive."
+title: "stemma-mwis: code and data for 'Testing stemmata against the evidence of critical editions'"
+type: software
+authors:
+  - family-names: Jurczak
+    given-names: Christophe
+    orcid: "https://orcid.org/0009-0001-8204-7333"
+    affiliation: "Metamorphoses of Civilization Collection"
+version: "1.2"
+date-released: "2026-11-15"
+license: MIT
+repository-code: "https://github.com/metamorphoses-collection/stemma-mwis"
+keywords:
+  - stemmatology
+  - textual criticism
+  - maximum-weight independent set
+  - critical editions
+  - Monumenta Germaniae Historica
+  - neutral-atom quantum computing
+preferred-citation:
+  type: article
+  title: "Testing stemmata against the evidence of critical editions: Exact optimisation, evidence maps and Bédier's question"
+  authors:
+    - family-names: Jurczak
+      given-names: Christophe
+      orcid: "https://orcid.org/0009-0001-8204-7333"
+  year: 2026

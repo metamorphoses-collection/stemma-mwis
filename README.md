@@ -1,6 +1,8 @@
 # stemma-mwis
 
-Code and data for **C. Jurczak, *Reconstructing manuscript genealogies with incomplete witnesses: exact optimisation and evidence maps*** (2026, preprint).
+Code and data for **C. Jurczak, *Testing stemmata against the evidence of critical editions: Exact optimisation, evidence maps and Bédier's question*** (2026, preprint).
+
+DOI of this release: see `CITATION.cff` and the Zenodo badge once minted.
 
 A stemma is reconstructed as a maximum-weight set of jointly compatible families (splits) proposed by shared readings. Fragmentary witnesses are handled exactly: missing passages become joint completion of partial splits, solved by cutting planes on top of the pairwise relaxation. The code also draws an **evidence map** of any stemma (support, conflict and bootstrap stability of each family), benchmarks language models on the same input, and prepares native encodings for neutral-atom quantum processors.
 
@@ -71,6 +73,35 @@ Reproduce the classification:
 python code/historic/bedier_top.py data/bedier/runs/<text>/units.json --witnesses <sigla> --top '<A|B>' --out out.json --B 200
 ```
 (sigla and top per text in `data/bedier/settings.json`).
+
+## Bédier's own case: the *Lai de l'Ombre* (Sec. "Bédier's own case")
+
+- `data/lai_ombre/` — vision-model transcriptions of the variant notes of Bédier's second edition (1913, Internet Archive
+  `lelaidelombre00jeanuoft`; `vision/`, one file per page), the 814 extracted notes (`units.json`), the blind proof page
+  (`proof_draw.json`, `proof_gold_n103.json`, `proof_score_n103.json`: 42 of 43 readings), and the three historical
+  classifications scored against the readings (`class_bedier1890.json`, `class_paris1890.json`); `NOTE_LAI_OMBRE.md`
+  summarises the analysis. Code: `code/historic/lai_read.py`, `lai_extract.py` (OpenRouter key read from your own environment).
+
+## Contamination: which witness carries the conflict (exploratory)
+
+`code/historic/contam_witness.py` deletes one witness at a time, re-solves the rooted optimum and compares the drop in
+conflict weight with the witness's share of the evidence, with a unit bootstrap. Results for Ennodius and the *Getica*:
+`data/bedier/contam_exploratory.json`.
+
+## Trees
+
+`data/trees/` — the stable families of every classified text as rooted Newick trees (labels: family, support, stability),
+and the unrooted tree of the *Lai de l'Ombre*. Built by `code/historic/families_to_newick.py`.
+
+## Neutral-atom runs (Sec. "Stemmata on neutral-atom quantum processors")
+
+- `data/ruby/priscus/` — the frozen protocol and its amendment, the register and drive (`ruby_mis_prep.json`), the
+  scorer (`score_ruby_mis.py`) and the four hardware result files of the run on Pasqal's Ruby (rows 728–731,
+  3,500 shots); score them with `python score_ruby_mis.py ruby_mis_prep.json ruby_diag_job_72{8,9}.json ruby_diag_job_73{0,1}.json`.
+- `data/ruby/lawrence/`, `data/ruby/lai/` — frozen protocols, registers, emulated predictions and scorers for the
+  Lawrence core and the *Lai de l'Ombre* (7 families, 8 copies, 56 atoms). Hardware results will be added when they exist.
+- `ruby/` — register construction and emulation (`ruby_mis_prep.py`, `emu_dist.py`, `layout_ruby.py`,
+  `lai_layout_compact.py`, `lai_tile.py`).
 
 ## Licence
 
