@@ -16,8 +16,8 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE); sys.path.insert(0, os.path.join(HERE, '..', 'donatus'))
 from stemma_mwis import load_num, tree_from_clusters, write_graph
 
-DATA = {'heinrichi': dict(num='data/heinrichi/heinrichi.num', truth='data/heinrichi/correct.txt'),
-        'donatus': dict(num='data/donatus/final.num', truth=None)}
+DATA = {'heinrichi': dict(num='~/casc_heinrichi/heinrichi.num', truth='~/casc_heinrichi/correct.txt'),
+        'donatus': dict(num='~/mc_edition_stage/leaves/licciardello/matrix/final.num', truth=None)}
 RENV = dict(HOME=os.environ['HOME'], PATH='/opt/homebrew/bin:/usr/bin:/bin', LANG='en_US.UTF-8')
 
 
@@ -125,6 +125,12 @@ def score(ds, out):
         lg = open(os.path.join(out, 'mb.log')).read()
         m = re.findall(r'Average standard deviation of split frequencies:\s*([0-9.]+)', lg)
         res['mrbayes']['asdsf_final'] = float(m[-1]) if m else None
+    # Roelli-Bachmann Leitfehler + Fitch-Margoliash (leitfehler_rb.py)
+    rb = os.path.join(out, 'rb_fm.tre')
+    if os.path.exists(rb):
+        cl = [canon(C) for C in clusters_from_newick(open(rb).read(), names, wit)]
+        kept = [C for C in dict.fromkeys(cl) if 2 <= len(C) <= n - 2]
+        res['roelli_bachmann'] = evaluate(ds, kept, kept, wit, n, out, 'rb', bm, casc)
     json.dump(res, open(os.path.join(out, 'scores.json'), 'w'), indent=1)
     print(json.dumps(res, indent=1))
 
