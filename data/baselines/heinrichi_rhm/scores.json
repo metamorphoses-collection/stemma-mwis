@@ -1,0 +1,17 @@
+{
+ "rhm_run1": {
+  "families_in_tree": 34,
+  "skeleton": 83.13,
+  "sankoff_score": "26257"
+ },
+ "rhm_run2": {
+  "families_in_tree": 34,
+  "skeleton": 77.77,
+  "sankoff_score": "26262"
+ },
+ "rhm_run3": {
+  "families_in_tree": 34,
+  "skeleton": 83.13,
+  "sankoff_score": "26257"
+ }
+}

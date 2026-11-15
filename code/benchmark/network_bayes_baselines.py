@@ -131,6 +131,23 @@ def score(ds, out):
         cl = [canon(C) for C in clusters_from_newick(open(rb).read(), names, wit)]
         kept = [C for C in dict.fromkeys(cl) if 2 <= len(C) <= n - 2]
         res['roelli_bachmann'] = evaluate(ds, kept, kept, wit, n, out, 'rb', bm, casc)
+    # RHM (run_rhm.py), one tree per run
+    import glob
+    for tre in sorted(glob.glob(os.path.join(out, 'rhm_run*', 'rhm.tre'))):
+        tag = tre.split(os.sep)[-2]
+        cl = [canon(C) for C in clusters_from_newick(open(tre).read(), names, wit)]
+        kept = [C for C in dict.fromkeys(cl) if 2 <= len(C) <= n - 2]
+        res[tag] = evaluate(ds, kept, kept, wit, n, out, tag, bm, casc)
+        res[tag]['sankoff_score'] = open(os.path.join(os.path.dirname(tre), 'score.txt')).read().strip()
+    # Semstem (run_semstem.py), one tree per seed
+    import glob
+    for tre in sorted(glob.glob(os.path.join(out, 'semstem_seed*', 'tree', 'treebest_std.tre'))):
+        tag = tre.split(os.sep)[-3]
+        cl = [canon(C) for C in clusters_from_newick(open(tre).read(), names, wit)]
+        kept = [C for C in dict.fromkeys(cl) if 2 <= len(C) <= n - 2]
+        res[tag] = evaluate(ds, kept, kept, wit, n, out, tag, bm, casc)
+        q = os.path.join(os.path.dirname(os.path.dirname(tre)), 'qscore.txt')
+        if os.path.exists(q): res[tag]['qscore'] = open(q).read().strip()
     json.dump(res, open(os.path.join(out, 'scores.json'), 'w'), indent=1)
     print(json.dumps(res, indent=1))
 
