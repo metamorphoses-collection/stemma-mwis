@@ -1,0 +1,77 @@
+{
+ "files": {
+  "ruby/results/ruby_diag_job_733.json": 1000
+ },
+ "shots": 1000,
+ "copy_samples": 8000,
+ "P_valid": 0.893125,
+ "P_valid_wilson_lo": 0.8861650487228301,
+ "H1_valid_lo_ge_0_80": true,
+ "P_any_MIS": 0.3275,
+ "P_any_MIS_wilson_lo": 0.31730091059363696,
+ "H2_above_random_and_ge_0_10": true,
+ "per_MIS_share": {
+  "{CG,DE,AB,DEF}": 0.113875,
+  "{CG,AB,DEF,EF}": 0.037125,
+  "{CG,AB,DEF,DF}": 0.0985,
+  "{CG,AB,CEG,DF}": 0.078
+ },
+ "H3_all_four_ge_0_02": true,
+ "reported_P_edition_tree": 0.113875,
+ "reported_ratio_to_noisy": 1.5357561547479486,
+ "reported_priscus_ratio": 1.2156862745098038,
+ "reported_TV_MIS_shares": {
+  "noiseless": 0.41000000000000003,
+  "noisy": 0.11425000000000003
+ },
+ "reported_P_isolated_on": {
+  "AB": 0.77575,
+  "CG": 0.79925
+ },
+ "per_copy_P_any_MIS": {
+  "c0": 0.339,
+  "c1": 0.329,
+  "c2": 0.356,
+  "c3": 0.284,
+  "c4": 0.366,
+  "c5": 0.315,
+  "c6": 0.325,
+  "c7": 0.306
+ },
+ "top_outcomes": {
+  "{CG,DE,AB,DEF}": 0.113875,
+  "{CG,AB,DEF,DF}": 0.0985,
+  "{CG,AB,DEF}": 0.078375,
+  "{CG,AB,CEG,DF}": 0.078,
+  "{CG,AB,DF}": 0.048875,
+  "{CG,AB,DEF,EF}": 0.037125,
+  "{CG,DE,DEF}": 0.032625,
+  "{CG,DEF,DF}": 0.032375,
+  "{CG,DE,AB}": 0.0315,
+  "{CG,AB,CEG}": 0.03
+ },
+ "emulated": {
+  "noiseless": {
+   "P_valid": 1.0,
+   "P_any_MIS": 0.7375,
+   "per_MIS": {
+    "{CG,DE,AB,DEF}": 0.28,
+    "{CG,AB,DEF,EF}": 0.0455,
+    "{CG,AB,DEF,DF}": 0.30925,
+    "{CG,AB,CEG,DF}": 0.10275
+   }
+  },
+  "noisy": {
+   "P_valid": 0.9325,
+   "P_any_MIS": 0.21325,
+   "per_MIS": {
+    "{CG,DE,AB,DEF}": 0.06725,
+    "{CG,AB,DEF,EF}": 0.0345,
+    "{CG,AB,DEF,DF}": 0.064,
+    "{CG,AB,CEG,DF}": 0.0475
+   }
+  }
+ }
+}
+
+VERDICT (frozen rules): H1 PASS | H2 PASS | H3 PASS | any MIS 0.328 = 1.54 x noisy emulation (Priscus 1.22)

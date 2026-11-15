@@ -72,3 +72,11 @@ Record the run in RUN_RUBY_MIS_LAWRENCE_<date>.md, the QPU ledger and NOW.md.
 ## Do not
 Change the drive or the copy count after seeing data; add rows without an amendment written before their data;
 resubmit a live batch.
+
+## Note, 15 Nov 2026 (no change to the protocol)
+The first submission (Slurm 6236622, row 732) never reached the processor: the driver's own pre-flight checked the
+regime against the suite's default drive (Omega 12.57, delta_f 18.85 rad/us) instead of this row's drive (Omega 9.42,
+delta_f 5.65), and stopped at "delta_f 18.85 not in (0, 0.75 V_nn = 16.41)" on 15 Nov 01:42, before any shot. The
+pre-flight now reads the built drive for the stemma rows (submit_ruby_diag.py, backup .bak_20261115_preflight);
+verify_preflight_stemma.py passes for rows 728, 732, 733 on the served device. Row 732 resubmitted unchanged
+(register, drive, 1000 shots) as Slurm 6244801, afterany the Lai row (6242191). No data existed at either point.

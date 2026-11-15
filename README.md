@@ -96,8 +96,13 @@ and the unrooted tree of the *Lai de l'Ombre*. Built by `code/historic/families_
 - `data/ruby/priscus/` — the frozen protocol and its amendment, the register and drive (`ruby_mis_prep.json`), the
   scorer (`score_ruby_mis.py`) and the four hardware result files of the run on Pasqal's Ruby (rows 728–731,
   3,500 shots); score them with `python score_ruby_mis.py ruby_mis_prep.json ruby_diag_job_72{8,9}.json ruby_diag_job_73{0,1}.json`.
-- `data/ruby/lawrence/`, `data/ruby/lai/` — frozen protocols, registers, emulated predictions and scorers for the
-  Lawrence core and the *Lai de l'Ombre* (7 families, 8 copies, 56 atoms). Hardware results will be added when they exist.
+- `data/ruby/lawrence/`, `data/ruby/lai/` — frozen protocols, registers, emulated predictions, scorers and the hardware
+  result files for the Lawrence core (row 732, 5 families, 7 copies, 35 atoms, 1,000 shots) and the *Lai de l'Ombre*
+  (row 733, 7 families, 8 copies, 56 atoms, 1,000 shots), with their scores. Score them with
+  `python score_ruby_mis_lawrence.py lawrence_mis_prep.json ruby_diag_job_732.json` and
+  `python score_ruby_mis_lai.py lai_mis_prep.json ruby_diag_job_733.json`. `shot_bootstrap_lawrence.py` is a post-hoc
+  sensitivity check of the Lawrence sampler share that resamples whole shots (seven copies together); it does not change
+  the frozen analysis.
 - `ruby/` — register construction and emulation (`ruby_mis_prep.py`, `emu_dist.py`, `layout_ruby.py`,
   `lai_layout_compact.py`, `lai_tile.py`).
 
