@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this code or data, please cite the paper and this archive."
-title: "stemma-mwis: code and data for 'Testing stemmata against the evidence of critical editions'"
+title: "stemma-mwis: code and data for 'Testing stemmata against the evidence'"
 type: software
 authors:
   - family-names: Jurczak
@@ -20,7 +20,7 @@ keywords:
   - neutral-atom quantum computing
 preferred-citation:
   type: article
-  title: "Testing stemmata against the evidence of critical editions: Exact optimisation, evidence maps and Bédier's question"
+  title: "Testing stemmata against the evidence: Exact optimisation, evidence maps and Bédier's question"
   authors:
     - family-names: Jurczak
       given-names: Christophe

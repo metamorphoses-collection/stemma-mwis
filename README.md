@@ -1,6 +1,6 @@
 # stemma-mwis
 
-Code and data for **C. Jurczak, *Testing stemmata against the evidence of critical editions: Exact optimisation, evidence maps and Bédier's question*** (2026, preprint).
+Code and data for **C. Jurczak, *Testing stemmata against the evidence: Exact optimisation, evidence maps and Bédier's question*** (2026, preprint).
 
 A stemma is reconstructed as a maximum-weight set of jointly compatible families (splits) proposed by shared readings. Fragmentary witnesses are handled exactly: missing passages become joint completion of partial splits, solved by cutting planes on top of the pairwise relaxation. The code also draws an **evidence map** of any stemma (support, conflict and bootstrap stability of each family), benchmarks language models on the same input, and prepares native encodings for neutral-atom quantum processors.
 
@@ -117,5 +117,5 @@ Code: MIT (see `LICENSE`). Data files in `data/`: CC BY 4.0.
 - `data/llm_results/fable_runs/`: the three Heinrichi runs and three Donatus runs of Claude Fable 5.2
   reported in the paper (every answer kept in full).
 - `papers/supplement_testing_stemmata.pdf`: Supplementary material S1–S10 of *Testing stemmata
-  against the evidence of critical editions*.
+  against the evidence*.
 - Lean formalisation: https://github.com/metamorphoses-collection/stemma-lean.
