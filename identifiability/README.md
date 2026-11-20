@@ -1,7 +1,7 @@
 # Checks and simulations for the mathematical results
 
 Scripts and outputs behind the technical report *Best-supported stemmata: compatibility results for
-textual traditions, with proofs and checks* and the paper *Coincident scribal error and the Bédier
+textual traditions, with proofs and checks* (https://doi.org/10.5281/zenodo.24405386) and the paper *Coincident scribal error and the Bédier
 effect*. The report's audit trail (Appendix A, checks C1–C25) names each script and output here.
 
 - `code/run_checks.sh` runs every check and reports each exit status; `code/verify_claims.py` runs
