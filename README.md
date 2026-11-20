@@ -2,7 +2,7 @@
 
 Code and data for **C. Jurczak, *Testing stemmata against the evidence: Exact optimisation, evidence maps and Bédier's question*** (2026, preprint).
 
-Archived release: https://doi.org/10.5281/zenodo.24405388. Technical report with the proofs and the audit trail of the checks: https://doi.org/10.5281/zenodo.24405386. Lean formalisation: https://github.com/metamorphoses-collection/stemma-lean (https://doi.org/10.5281/zenodo.24405390).
+Archived release: https://doi.org/10.5281/zenodo.24405388. Technical report with the proofs and the audit trail of the checks: https://doi.org/10.5281/zenodo.24405385. Lean formalisation: https://github.com/metamorphoses-collection/stemma-lean (https://doi.org/10.5281/zenodo.24405390).
 
 A stemma is reconstructed as a maximum-weight set of jointly compatible families (splits) proposed by shared readings. Fragmentary witnesses are handled exactly: missing passages become joint completion of partial splits, solved by cutting planes on top of the pairwise relaxation. The code also draws an **evidence map** of any stemma (support, conflict and bootstrap stability of each family), benchmarks language models on the same input, and prepares native encodings for neutral-atom quantum processors.
 
@@ -115,7 +115,7 @@ Code: MIT (see `LICENSE`). Data files in `data/`: CC BY 4.0.
 ## Mathematical checks, Fable runs and supplement
 
 - `identifiability/`: scripts and outputs of the machine checks C1–C25 and the simulations behind the
-  technical report (https://doi.org/10.5281/zenodo.24405386) and the mathematical paper (see
+  technical report (https://doi.org/10.5281/zenodo.24405385) and the mathematical paper (see
   `identifiability/README.md`).
 - `data/llm_results/fable_runs/`: the three Heinrichi runs and three Donatus runs of Claude Fable 5.2
   reported in the paper (every answer kept in full).
