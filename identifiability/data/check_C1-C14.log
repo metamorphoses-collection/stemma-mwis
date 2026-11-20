@@ -1,0 +1,15 @@
+C1_universality {'graphs': 300, 'all_realised': True}
+C2_pairs_triples {4: {'partial_splits': 3, 'pairs_completable': True, 'obstructing_triples': 0}, 5: {'partial_splits': 25, 'pairs_completable': True, 'obstructing_triples': 200}, 6: {'partial_splits': 130, 'pairs_completable': True, 'obstructing_triples': None}, 'example_pqr': {'pairwise': True, 'completable': False}}
+C3_displacement_matching {'trials': 3815, 'size_ok': True, 'A_nonempty': True, 'matching': True}
+C4_maximality {'trees': 400, 'maximal': True, 'max_size_ok': True}
+C5_rooted {'trees': 300, 'size_ok': True, 'maximal': True, 'laminar_bound': True}
+C6_quartet_formulas {'trials': 200, 'all_equal': True}
+C7_irreversible_bounds {'trials': 60, 'true_lower': True, 'false_upper': True}
+C8_gamma {'trials': 25, 'agree': True, 'max_abs_diff': 1.0002554340360348e-12, 'tolerance': 1e-09}
+C9_cutting_planes {'instances': 60, 'agree': True, 'cuts_total': 40}
+C10_certificates {'instances_local': 80, 'instances_global': 80, 'unique_true_optimum': True}
+C11_proper_partial_triples_n5 140
+C12_structure {'n5_iso_line_graph_K5': True, 'n5_iso_complement_petersen': True, 'n5_chordal': False, 'n5_induced_C4': True, 'n5_induced_C5': True, 'vertex_counts': {4: 3, 5: 10, 6: 25, 7: 56}}
+C13_crossing_set {'trees': 120, 'false_splits': 10274, 'crossing_equals_intersection': True, 'nonempty': True, 'connected': True}
+C14_dynamic_programme {'instances': 40, 'agree': True}
+ALL PASS

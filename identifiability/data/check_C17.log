@@ -1,0 +1,14 @@
+unrooted 12 -b*epsilon**2*(alpha**2*sigma - sigma - tau)
+unrooted 13 epsilon**2*rho
+unrooted 14 0
+rooted 12 -b*epsilon**2*sigma*(alpha - 1)*(alpha + 1)
+rooted 123 epsilon*sigma*(alpha**2*b*epsilon - alpha**2*epsilon*tau - b*epsilon + 1)
+rooted 124 0
+rooted 13 epsilon**2*rho
+rooted 134 0
+rooted 14 0
+rooted 23 0
+rooted 234 0
+rooted 24 0
+rooted 34 alpha**2*b*epsilon**2*tau
+MC max z 1.82

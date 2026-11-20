@@ -1,0 +1,20 @@
+{
+ "unrooted": {
+  "12": "-b*epsilon**2*(alpha**2*sigma - sigma - tau)",
+  "13": "epsilon**2*rho",
+  "14": "0"
+ },
+ "rooted": {
+  "12": "-b*epsilon**2*sigma*(alpha - 1)*(alpha + 1)",
+  "123": "epsilon*sigma*(alpha**2*b*epsilon - alpha**2*epsilon*tau - b*epsilon + 1)",
+  "124": "0",
+  "13": "epsilon**2*rho",
+  "134": "0",
+  "14": "0",
+  "23": "0",
+  "234": "0",
+  "24": "0",
+  "34": "alpha**2*b*epsilon**2*tau"
+ },
+ "monte_carlo_max_z": 1.82
+}

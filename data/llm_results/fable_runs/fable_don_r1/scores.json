@@ -1,0 +1,25 @@
+[
+ {
+  "dataset": "donatus",
+  "model": "anthropic_claude-fable-5.2",
+  "seconds": 944.2,
+  "cost": 4.154176,
+  "tokens_out": 96949,
+  "families_given": 39,
+  "families_kept": 38,
+  "crossing_dropped": 0,
+  "unknown_ids": 0,
+  "valid": true,
+  "editor_families_exact": 8,
+  "which": [
+   "kappa",
+   "lambda",
+   "mu",
+   "omicron",
+   "phi",
+   "pi",
+   "rho",
+   "sigma"
+  ]
+ }
+]

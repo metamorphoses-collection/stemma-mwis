@@ -1,0 +1,130 @@
+{
+ "delta": 0.05,
+ "dp_equals_cpsat": true,
+ "clean": {
+  "gamma": 0.012227401148265926,
+  "rows": [
+   {
+    "L": 1600,
+    "reps": 40,
+    "coverage": 1.0,
+    "certified": 0.0,
+    "certified_and_true": 0.0
+   },
+   {
+    "L": 6400,
+    "reps": 40,
+    "coverage": 1.0,
+    "certified": 0.55,
+    "certified_and_true": 0.55
+   },
+   {
+    "L": 25600,
+    "reps": 40,
+    "coverage": 1.0,
+    "certified": 1.0,
+    "certified_and_true": 1.0
+   },
+   {
+    "L": 102400,
+    "reps": 40,
+    "coverage": 1.0,
+    "certified": 1.0,
+    "certified_and_true": 1.0
+   },
+   {
+    "L": 409600,
+    "reps": 40,
+    "coverage": 1.0,
+    "certified": 1.0,
+    "certified_and_true": 1.0
+   }
+  ]
+ },
+ "noisy": {
+  "gamma": 0.001821517924327054,
+  "rows": [
+   {
+    "L": 1600,
+    "reps": 40,
+    "coverage": 1.0,
+    "certified": 0.0,
+    "certified_and_true": 0.0
+   },
+   {
+    "L": 6400,
+    "reps": 40,
+    "coverage": 1.0,
+    "certified": 0.0,
+    "certified_and_true": 0.0
+   },
+   {
+    "L": 25600,
+    "reps": 40,
+    "coverage": 1.0,
+    "certified": 0.0,
+    "certified_and_true": 0.0
+   },
+   {
+    "L": 102400,
+    "reps": 40,
+    "coverage": 1.0,
+    "certified": 0.0,
+    "certified_and_true": 0.0
+   },
+   {
+    "L": 409600,
+    "reps": 40,
+    "coverage": 1.0,
+    "certified": 1.0,
+    "certified_and_true": 1.0
+   }
+  ]
+ },
+ "lai": {
+  "L": 814,
+  "T": [
+   "DE",
+   "CDEFG",
+   "DEF",
+   "CG"
+  ],
+  "T_is_optimum": true,
+  "gamma_hat": 0.01719897985458374,
+  "gamma_lo": -0.02256166934967041,
+  "supports": {
+   "DE": 43,
+   "CDEFG": 38,
+   "DEF": 24,
+   "CG": 176
+  },
+  "bounds": {
+   "DE": [
+    0.03042,
+    0.08391
+   ],
+   "CDEFG": [
+    0.0258,
+    0.07637
+   ],
+   "DEF": [
+    0.01358,
+    0.05459
+   ],
+   "CG": [
+    0.17052,
+    0.26734
+   ]
+  },
+  "units_needed_per_split": 7.7142311448490855,
+  "scaled": {
+   "1": -0.02256166934967041,
+   "1.5": -0.013420939445495605,
+   "2": -0.008341491222381592,
+   "3": -0.002174675464630127,
+   "4": 0.0005026459693908691,
+   "6": 0.003641664981842041,
+   "8": 0.005495011806488037
+  }
+ }
+}

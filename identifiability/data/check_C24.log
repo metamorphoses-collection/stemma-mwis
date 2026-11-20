@@ -1,0 +1,18 @@
+PASS equal: three alphas
+PASS equal: 300 traditions each
+PASS uneven: three alphas
+PASS uneven: 300 traditions each
+PASS equal: raw false 0.88-1.20
+PASS equal: rule false 0.13-0.18
+PASS equal: k>=3 false 0.41-0.77
+PASS equal: rule keeps 96-99%
+PASS equal: k>=3 keeps 97-100%
+PASS equal: rule root 0.65-0.77, i3 0.84-0.87
+PASS uneven alpha=0.3: raw 0.99 -> rule 0.24
+PASS uneven alpha=0.6: raw 1.17 -> rule 0.38
+PASS uneven alpha=0.9: raw 1.53 -> rule 0.71
+PASS uneven: rule keeps 87-94%
+PASS fallback in 18-21% of traditions
+PASS places kept 90-99%
+PASS uneven: latent-parameter rule keeps 85-90%
+ALL PASS

@@ -1,0 +1,27 @@
+alpha=0.3 theta 0.09 hat 0.06 
+  true       bifid 0.70 deg2 0.82 deg3 0.14 i3 0.84 
+  raw        bifid 0.91 deg2 0.97 deg3 0.02 i3 0.98 | true 1.000 false/trad 0.88
+  calibrated bifid 0.78 deg2 0.88 deg3 0.11 i3 0.87 | true 0.993 false/trad 0.35
+  oracle     bifid 0.81 deg2 0.85 deg3 0.13 i3 0.90 | true 0.998 false/trad 0.19
+  k>=3       bifid 0.77 deg2 0.90 deg3 0.08 i3 0.91 | true 0.999 false/trad 0.41
+  filtered raw bifid 0.91 deg2 0.96 deg3 0.03 i3 0.97 | true 1.000 false/trad 0.80
+  filtered calibrated bifid 0.77 deg2 0.84 deg3 0.14 i3 0.87 | true 0.991 false/trad 0.18
+  filtered oracle bifid 0.80 deg2 0.84 deg3 0.13 i3 0.90 | true 0.997 false/trad 0.16
+alpha=0.6 theta 0.36 hat 0.32 
+  true       bifid 0.68 deg2 0.82 deg3 0.14 i3 0.84 
+  raw        bifid 0.95 deg2 0.99 deg3 0.01 i3 0.99 | true 0.998 false/trad 1.08
+  calibrated bifid 0.74 deg2 0.85 deg3 0.12 i3 0.87 | true 0.995 false/trad 0.25
+  oracle     bifid 0.75 deg2 0.84 deg3 0.13 i3 0.88 | true 0.995 false/trad 0.15
+  k>=3       bifid 0.79 deg2 0.91 deg3 0.08 i3 0.92 | true 0.996 false/trad 0.55
+  filtered raw bifid 0.95 deg2 0.98 deg3 0.02 i3 0.98 | true 0.997 false/trad 1.05
+  filtered calibrated bifid 0.74 deg2 0.84 deg3 0.13 i3 0.87 | true 0.991 false/trad 0.17
+  filtered oracle bifid 0.75 deg2 0.84 deg3 0.13 i3 0.88 | true 0.991 false/trad 0.16
+alpha=0.9 theta 0.81 hat 1.30 
+  true       bifid 0.64 deg2 0.81 deg3 0.15 i3 0.83 
+  raw        bifid 0.94 deg2 0.98 deg3 0.02 i3 0.98 | true 0.983 false/trad 1.20
+  calibrated bifid 0.65 deg2 0.81 deg3 0.15 i3 0.84 | true 0.965 false/trad 0.14
+  oracle     bifid 0.70 deg2 0.85 deg3 0.12 i3 0.86 | true 0.980 false/trad 0.38
+  k>=3       bifid 0.82 deg2 0.91 deg3 0.07 i3 0.94 | true 0.968 false/trad 0.77
+  filtered raw bifid 0.93 deg2 0.97 deg3 0.02 i3 0.98 | true 0.982 false/trad 1.19
+  filtered calibrated bifid 0.65 deg2 0.80 deg3 0.15 i3 0.84 | true 0.958 false/trad 0.13
+  filtered oracle bifid 0.71 deg2 0.85 deg3 0.12 i3 0.86 | true 0.979 false/trad 0.39

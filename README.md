@@ -109,3 +109,13 @@ and the unrooted tree of the *Lai de l'Ombre*. Built by `code/historic/families_
 ## Licence
 
 Code: MIT (see `LICENSE`). Data files in `data/`: CC BY 4.0.
+
+## Mathematical checks, Fable runs and supplement (added 20 Nov 2026)
+
+- `identifiability/`: scripts and outputs of the machine checks C1–C25 and the simulations behind the
+  technical report and the mathematical paper (see `identifiability/README.md`).
+- `data/llm_results/fable_runs/`: the three Heinrichi runs and three Donatus runs of Claude Fable 5.2
+  reported in the paper (every answer kept in full).
+- `papers/supplement_testing_stemmata.pdf`: Supplementary material S1–S10 of *Testing stemmata
+  against the evidence of critical editions*.
+- Lean formalisation: https://github.com/metamorphoses-collection/stemma-lean.

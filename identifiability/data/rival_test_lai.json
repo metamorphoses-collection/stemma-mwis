@@ -1,0 +1,34 @@
+[
+ {
+  "family": "CDEFG",
+  "support": 38,
+  "strongest_rival": "BCG",
+  "rival_support": 6,
+  "p_one_sided": 4.715187742476701e-07,
+  "crossing_rivals": 15
+ },
+ {
+  "family": "CG",
+  "support": 176,
+  "strongest_rival": "CD",
+  "rival_support": 9,
+  "p_one_sided": 1.2328731845381464e-41,
+  "crossing_rivals": 20
+ },
+ {
+  "family": "DE",
+  "support": 43,
+  "strongest_rival": "EF",
+  "rival_support": 23,
+  "p_one_sided": 0.009328630177010503,
+  "crossing_rivals": 20
+ },
+ {
+  "family": "DEF",
+  "support": 24,
+  "strongest_rival": "CEG",
+  "rival_support": 13,
+  "p_one_sided": 0.04943587479647249,
+  "crossing_rivals": 27
+ }
+]

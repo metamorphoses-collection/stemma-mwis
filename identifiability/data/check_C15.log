@@ -1,0 +1,14 @@
+unrooted 12 | p2=p4=0, r1=r2: r1*(2*alpha**4*p1*p3*r1 - 4*alpha**3*p1*p3*r1 - 2*alpha**3*p1*p3 + alpha**3*p1*r1 + alpha**3*p3*r1 + alpha**2*p1*p3*r1 + 4*alpha**2*p1*p3 - alpha**2*p1 - alpha**2*p3 - alpha**2*r1 + p1*p3*r1 - 2*p1*p3 - r1 + 2) | leading: -epsilon**2*rho*(a*alpha**2*epsilon + alpha**2*b*epsilon - 2)
+unrooted 13 | p2=p4=0, r1=r2: p1*p3*(2*alpha**4*r1**2 - 2*alpha**3*r1**2 - 2*alpha**3*r1 + 2*alpha**2*r1 + r1**2 - 2*r1 + 1) | leading: a*b*epsilon**2
+unrooted 14 | p2=p4=0, r1=r2: 2*alpha**2*p1*p3*r1*(alpha - 1)*(alpha*r1 - 1) | leading: 0
+rooted 12 | p2=p4=0, r1=r2: r1*(alpha**4*p1*p3*r1 - alpha**3*p1*p3*r1 - alpha**3*p1*p3 - alpha**3*p1*r1 + alpha**3*p3*r1 + alpha**2*p1*p3 + alpha**2*p1*r1 + alpha**2*p1 - alpha**2*p3 - alpha**2*r1 - p1 + 1) | leading: epsilon**2*rho*(a*alpha**2*epsilon - a*epsilon - alpha**2*b*epsilon + 1)
+rooted 123 | p2=p4=0, r1=r2: -alpha**2*p3*r1*(alpha*r1 - 1)*(alpha*p1 - p1 + 1) | leading: alpha**2*b*epsilon**3*rho
+rooted 124 | p2=p4=0, r1=r2: -alpha**2*p3*r1**2*(alpha - 1)*(alpha*p1 - p1 + 1) | leading: 0
+rooted 13 | p2=p4=0, r1=r2: alpha**2*p1*p3*(alpha*r1 - 1)**2 | leading: a*alpha**2*b*epsilon**2
+rooted 134 | p2=p4=0, r1=r2: -alpha**2*p1*r1*(alpha*r1 - 1)*(alpha*p3 - p3 + 1) | leading: a*alpha**2*epsilon**3*rho
+rooted 14 | p2=p4=0, r1=r2: alpha**2*p1*p3*r1*(alpha - 1)*(alpha*r1 - 1) | leading: 0
+rooted 23 | p2=p4=0, r1=r2: alpha**2*p1*p3*r1*(alpha - 1)*(alpha*r1 - 1) | leading: 0
+rooted 234 | p2=p4=0, r1=r2: -alpha**2*p1*r1**2*(alpha - 1)*(alpha*p3 - p3 + 1) | leading: 0
+rooted 24 | p2=p4=0, r1=r2: alpha**2*p1*p3*r1**2*(alpha - 1)**2 | leading: 0
+rooted 34 | p2=p4=0, r1=r2: r1*(alpha**4*p1*p3*r1 - alpha**3*p1*p3*r1 - alpha**3*p1*p3 + alpha**3*p1*r1 - alpha**3*p3*r1 + alpha**2*p1*p3 - alpha**2*p1 + alpha**2*p3*r1 + alpha**2*p3 - alpha**2*r1 - p3 + 1) | leading: -epsilon**2*rho*(a*alpha**2*epsilon - alpha**2*b*epsilon + b*epsilon - 1)
+{'unrooted_12|34_alpha1': True, 'unrooted_13|24_alpha1': True, 'monte_carlo_max_z': 1.58, 'monte_carlo_ok': True}

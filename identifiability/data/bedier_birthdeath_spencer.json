@@ -1,0 +1,243 @@
+{
+ "alpha=0.3": {
+  "true": {
+   "traditions": 300,
+   "bifid_root": 0.697,
+   "p_deg2": 0.825,
+   "p_deg3": 0.142,
+   "i3": 0.845
+  },
+  "raw": {
+   "traditions": 300,
+   "bifid_root": 0.9,
+   "p_deg2": 0.975,
+   "p_deg3": 0.02,
+   "i3": 0.972
+  },
+  "rival": {
+   "traditions": 300,
+   "bifid_root": 0.417,
+   "p_deg2": 0.735,
+   "p_deg3": 0.136,
+   "i3": 0.652
+  },
+  "k>=2": {
+   "traditions": 300,
+   "bifid_root": 0.82,
+   "p_deg2": 0.953,
+   "p_deg3": 0.037,
+   "i3": 0.943
+  },
+  "k>=3": {
+   "traditions": 300,
+   "bifid_root": 0.793,
+   "p_deg2": 0.938,
+   "p_deg3": 0.041,
+   "i3": 0.923
+  },
+  "k>=5": {
+   "traditions": 300,
+   "bifid_root": 0.707,
+   "p_deg2": 0.904,
+   "p_deg3": 0.064,
+   "i3": 0.888
+  },
+  "recovery": {
+   "raw": {
+    "true_found": 1137,
+    "false_added": 296,
+    "true_total": 1168
+   },
+   "rival": {
+    "true_found": 813,
+    "false_added": 14,
+    "true_total": 1168
+   },
+   "k>=2": {
+    "true_found": 1127,
+    "false_added": 251,
+    "true_total": 1168
+   },
+   "k>=3": {
+    "true_found": 1121,
+    "false_added": 202,
+    "true_total": 1168
+   },
+   "k>=5": {
+    "true_found": 1088,
+    "false_added": 150,
+    "true_total": 1168
+   }
+  },
+  "simulated": 985
+ },
+ "alpha=0.6": {
+  "true": {
+   "traditions": 300,
+   "bifid_root": 0.68,
+   "p_deg2": 0.822,
+   "p_deg3": 0.142,
+   "i3": 0.843
+  },
+  "raw": {
+   "traditions": 300,
+   "bifid_root": 0.947,
+   "p_deg2": 0.985,
+   "p_deg3": 0.013,
+   "i3": 0.986
+  },
+  "rival": {
+   "traditions": 300,
+   "bifid_root": 0.337,
+   "p_deg2": 0.699,
+   "p_deg3": 0.136,
+   "i3": 0.579
+  },
+  "k>=2": {
+   "traditions": 300,
+   "bifid_root": 0.88,
+   "p_deg2": 0.957,
+   "p_deg3": 0.035,
+   "i3": 0.967
+  },
+  "k>=3": {
+   "traditions": 300,
+   "bifid_root": 0.81,
+   "p_deg2": 0.934,
+   "p_deg3": 0.048,
+   "i3": 0.94
+  },
+  "k>=5": {
+   "traditions": 300,
+   "bifid_root": 0.733,
+   "p_deg2": 0.885,
+   "p_deg3": 0.067,
+   "i3": 0.89
+  },
+  "recovery": {
+   "raw": {
+    "true_found": 1245,
+    "false_added": 351,
+    "true_total": 1279
+   },
+   "rival": {
+    "true_found": 787,
+    "false_added": 7,
+    "true_total": 1279
+   },
+   "k>=2": {
+    "true_found": 1239,
+    "false_added": 295,
+    "true_total": 1279
+   },
+   "k>=3": {
+    "true_found": 1217,
+    "false_added": 243,
+    "true_total": 1279
+   },
+   "k>=5": {
+    "true_found": 1171,
+    "false_added": 137,
+    "true_total": 1279
+   }
+  },
+  "simulated": 986
+ },
+ "alpha=0.9": {
+  "true": {
+   "traditions": 300,
+   "bifid_root": 0.643,
+   "p_deg2": 0.809,
+   "p_deg3": 0.147,
+   "i3": 0.832
+  },
+  "raw": {
+   "traditions": 300,
+   "bifid_root": 0.99,
+   "p_deg2": 0.986,
+   "p_deg3": 0.013,
+   "i3": 0.994
+  },
+  "rival": {
+   "traditions": 300,
+   "bifid_root": 0.34,
+   "p_deg2": 0.603,
+   "p_deg3": 0.149,
+   "i3": 0.474
+  },
+  "k>=2": {
+   "traditions": 300,
+   "bifid_root": 0.947,
+   "p_deg2": 0.953,
+   "p_deg3": 0.031,
+   "i3": 0.972
+  },
+  "k>=3": {
+   "traditions": 300,
+   "bifid_root": 0.913,
+   "p_deg2": 0.925,
+   "p_deg3": 0.05,
+   "i3": 0.955
+  },
+  "k>=5": {
+   "traditions": 300,
+   "bifid_root": 0.8,
+   "p_deg2": 0.863,
+   "p_deg3": 0.079,
+   "i3": 0.892
+  },
+  "recovery": {
+   "raw": {
+    "true_found": 1192,
+    "false_added": 461,
+    "true_total": 1294
+   },
+   "rival": {
+    "true_found": 521,
+    "false_added": 13,
+    "true_total": 1294
+   },
+   "k>=2": {
+    "true_found": 1160,
+    "false_added": 384,
+    "true_total": 1294
+   },
+   "k>=3": {
+    "true_found": 1137,
+    "false_added": 314,
+    "true_total": 1294
+   },
+   "k>=5": {
+    "true_found": 1027,
+    "false_added": 196,
+    "true_total": 1294
+   }
+  },
+  "simulated": 1049
+ },
+ "params": {
+  "lam": 0.0085,
+  "mu": 0.0038,
+  "T_active": 1000,
+  "T_decimation": 1000,
+  "L": 1000,
+  "e": 0.03,
+  "gamma_shape": 0.38,
+  "traditions_per_alpha": 300,
+  "survivors": "3..30",
+  "camps_table1": {
+   "real": {
+    "bifid": 0.77,
+    "p_deg2": 0.81,
+    "p_deg3": 0.11,
+    "i3": 0.93
+   },
+   "simulated": {
+    "bifid": "0.60-0.64",
+    "p_deg2": "0.71-0.78",
+    "p_deg3": "0.14-0.15",
+    "i3": "0.80-0.85"
+   }
+  }
+ }
+}

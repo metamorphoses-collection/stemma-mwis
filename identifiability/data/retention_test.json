@@ -1,0 +1,362 @@
+{
+ "Heinrichi": {
+  "n": 37,
+  "pairs": 662,
+  "retention_median": 0.0,
+  "coincidence_median": 0.0,
+  "units_with_3plus_readings": 0.644,
+  "top10_retention": 0.00518,
+  "top10_coincidence": 0.10753,
+  "top10_C_over_R": 20.763,
+  "all_retention": 0.0719,
+  "all_coincidence": 0.8586,
+  "all_C_over_R": 11.949,
+  "top5": [
+   {
+    "i": "Cb",
+    "j": "Cf",
+    "pp": 0.0413,
+    "retention": 0.0,
+    "coincidence": 0.2403,
+    "retention_rate": 0.0,
+    "coincidence_rate": 0.0099
+   },
+   {
+    "i": "Cb",
+    "j": "J",
+    "pp": 0.034,
+    "retention": 0.0395,
+    "coincidence": 0.0,
+    "retention_rate": 0.0013,
+    "coincidence_rate": 0.0
+   },
+   {
+    "i": "Cb",
+    "j": "Da",
+    "pp": 0.0321,
+    "retention": 0.0,
+    "coincidence": 0.0,
+    "retention_rate": 0.0,
+    "coincidence_rate": 0.0
+   },
+   {
+    "i": "Cb",
+    "j": "I",
+    "pp": 0.0313,
+    "retention": 0.0438,
+    "coincidence": 0.0,
+    "retention_rate": 0.0014,
+    "coincidence_rate": 0.0
+   },
+   {
+    "i": "Cf",
+    "j": "J",
+    "pp": 0.0304,
+    "retention": 0.0811,
+    "coincidence": 0.0,
+    "retention_rate": 0.0025,
+    "coincidence_rate": 0.0
+   }
+  ]
+ },
+ "Donatus": {
+  "n": 54,
+  "pairs": 1378,
+  "retention_median": 0.0,
+  "coincidence_median": 0.0,
+  "units_with_3plus_readings": 0.406,
+  "top10_retention": 0.01237,
+  "top10_coincidence": 0.01573,
+  "top10_C_over_R": 1.272,
+  "all_retention": 0.1054,
+  "all_coincidence": 0.534,
+  "all_C_over_R": 5.068,
+  "top5": [
+   {
+    "i": "F17",
+    "j": "V3",
+    "pp": 0.0025,
+    "retention": 0.3823,
+    "coincidence": 0.0,
+    "retention_rate": 0.001,
+    "coincidence_rate": 0.0
+   },
+   {
+    "i": "Nn",
+    "j": "V3",
+    "pp": 0.0022,
+    "retention": 0.0,
+    "coincidence": 1.5888,
+    "retention_rate": 0.0,
+    "coincidence_rate": 0.0035
+   },
+   {
+    "i": "F15",
+    "j": "V3",
+    "pp": 0.002,
+    "retention": 0.0,
+    "coincidence": 0.4829,
+    "retention_rate": 0.0,
+    "coincidence_rate": 0.001
+   },
+   {
+    "i": "L2",
+    "j": "V3",
+    "pp": 0.0017,
+    "retention": 1.0696,
+    "coincidence": 2.1391,
+    "retention_rate": 0.0018,
+    "coincidence_rate": 0.0036
+   },
+   {
+    "i": "Nn",
+    "j": "F17",
+    "pp": 0.0016,
+    "retention": 2.2512,
+    "coincidence": 0.0,
+    "retention_rate": 0.0037,
+    "coincidence_rate": 0.0
+   }
+  ]
+ },
+ "Lawrence (BHL 4759)": {
+  "n": 7,
+  "pairs": 21,
+  "retention_median": 0.0,
+  "coincidence_median": 0.0,
+  "units_with_3plus_readings": 0.187,
+  "top10_retention": 0.07226,
+  "top10_coincidence": 0.28129,
+  "top10_C_over_R": 3.893,
+  "all_retention": 0.0856,
+  "all_coincidence": 0.3641,
+  "all_C_over_R": 4.254,
+  "top5": [
+   {
+    "i": "F",
+    "j": "B",
+    "pp": 0.0597,
+    "retention": 0.2232,
+    "coincidence": 0.2232,
+    "retention_rate": 0.0133,
+    "coincidence_rate": 0.0133
+   },
+   {
+    "i": "M",
+    "j": "B",
+    "pp": 0.0413,
+    "retention": 0.7812,
+    "coincidence": 0.0,
+    "retention_rate": 0.0323,
+    "coincidence_rate": 0.0
+   },
+   {
+    "i": "T",
+    "j": "B",
+    "pp": 0.0384,
+    "retention": 0.0,
+    "coincidence": 0.0,
+    "retention_rate": 0.0,
+    "coincidence_rate": 0.0
+   },
+   {
+    "i": "B",
+    "j": "R",
+    "pp": 0.0256,
+    "retention": 0.0,
+    "coincidence": 2.0833,
+    "retention_rate": 0.0,
+    "coincidence_rate": 0.0533
+   },
+   {
+    "i": "M",
+    "j": "F",
+    "pp": 0.0241,
+    "retention": 0.0,
+    "coincidence": 0.6696,
+    "retention_rate": 0.0,
+    "coincidence_rate": 0.0161
+   }
+  ]
+ },
+ "Jordanes, Getica": {
+  "n": 11,
+  "pairs": 55,
+  "retention_median": 0.0,
+  "coincidence_median": 1.522,
+  "units_with_3plus_readings": 0.411,
+  "top10_retention": 0.0,
+  "top10_coincidence": 0.53608,
+  "top10_C_over_R": null,
+  "all_retention": 0.0,
+  "all_coincidence": 1.0261,
+  "all_C_over_R": null,
+  "top5": [
+   {
+    "i": "A",
+    "j": "O",
+    "pp": 0.0151,
+    "retention": 0.0,
+    "coincidence": 0.7848,
+    "retention_rate": 0.0,
+    "coincidence_rate": 0.0119
+   },
+   {
+    "i": "A",
+    "j": "B",
+    "pp": 0.0114,
+    "retention": 0.0,
+    "coincidence": 3.2243,
+    "retention_rate": 0.0,
+    "coincidence_rate": 0.0366
+   },
+   {
+    "i": "L",
+    "j": "A",
+    "pp": 0.0109,
+    "retention": 0.0,
+    "coincidence": 1.2119,
+    "retention_rate": 0.0,
+    "coincidence_rate": 0.0132
+   },
+   {
+    "i": "A",
+    "j": "Z",
+    "pp": 0.0095,
+    "retention": 0.0,
+    "coincidence": 0.368,
+    "retention_rate": 0.0,
+    "coincidence_rate": 0.0035
+   },
+   {
+    "i": "A",
+    "j": "S",
+    "pp": 0.0093,
+    "retention": 0.0,
+    "coincidence": 0.0,
+    "retention_rate": 0.0,
+    "coincidence_rate": 0.0
+   }
+  ]
+ },
+ "Iwein (Lachmann 1827)": {
+  "n": 9,
+  "pairs": 34,
+  "retention_median": 0.023,
+  "coincidence_median": 0.212,
+  "units_with_3plus_readings": 0.275,
+  "top10_retention": 0.42058,
+  "top10_coincidence": 0.33343,
+  "top10_C_over_R": 0.793,
+  "all_retention": 0.8059,
+  "all_coincidence": 1.5029,
+  "all_C_over_R": 1.865,
+  "top5": [
+   {
+    "i": "A",
+    "j": "C",
+    "pp": 0.5447,
+    "retention": 0.612,
+    "coincidence": 0.0,
+    "retention_rate": 0.3333,
+    "coincidence_rate": 0.0
+   },
+   {
+    "i": "B",
+    "j": "C",
+    "pp": 0.3509,
+    "retention": 0.0,
+    "coincidence": 0.0,
+    "retention_rate": 0.0,
+    "coincidence_rate": 0.0
+   },
+   {
+    "i": "A",
+    "j": "B",
+    "pp": 0.2987,
+    "retention": 0.0823,
+    "coincidence": 0.0,
+    "retention_rate": 0.0246,
+    "coincidence_rate": 0.0
+   },
+   {
+    "i": "C",
+    "j": "a",
+    "pp": 0.2892,
+    "retention": 0.0,
+    "coincidence": 0.0,
+    "retention_rate": 0.0,
+    "coincidence_rate": 0.0
+   },
+   {
+    "i": "A",
+    "j": "c",
+    "pp": 0.2603,
+    "retention": 0.0,
+    "coincidence": 0.3841,
+    "retention_rate": 0.0,
+    "coincidence_rate": 0.1
+   }
+  ]
+ },
+ "Lai de l'Ombre (Bedier 1913)": {
+  "n": 7,
+  "pairs": 21,
+  "retention_median": 0.102,
+  "coincidence_median": 0.123,
+  "units_with_3plus_readings": 0.687,
+  "top10_retention": 0.13882,
+  "top10_coincidence": 0.15233,
+  "top10_C_over_R": 1.097,
+  "all_retention": 0.1732,
+  "all_coincidence": 0.559,
+  "all_C_over_R": 3.227,
+  "top5": [
+   {
+    "i": "D",
+    "j": "F",
+    "pp": 0.1842,
+    "retention": 0.1935,
+    "coincidence": 0.1001,
+    "retention_rate": 0.0356,
+    "coincidence_rate": 0.0184
+   },
+   {
+    "i": "C",
+    "j": "F",
+    "pp": 0.1139,
+    "retention": 0.1403,
+    "coincidence": 0.0432,
+    "retention_rate": 0.016,
+    "coincidence_rate": 0.0049
+   },
+   {
+    "i": "E",
+    "j": "F",
+    "pp": 0.1139,
+    "retention": 0.1295,
+    "coincidence": 0.2697,
+    "retention_rate": 0.0147,
+    "coincidence_rate": 0.0307
+   },
+   {
+    "i": "C",
+    "j": "D",
+    "pp": 0.1066,
+    "retention": 0.1498,
+    "coincidence": 0.1037,
+    "retention_rate": 0.016,
+    "coincidence_rate": 0.0111
+   },
+   {
+    "i": "D",
+    "j": "E",
+    "pp": 0.1066,
+    "retention": 0.0807,
+    "coincidence": 0.5301,
+    "retention_rate": 0.0086,
+    "coincidence_rate": 0.0565
+   }
+  ]
+ }
+}

@@ -1,0 +1,13 @@
+part A: boundary b>a agrees with recovery>1/2 at 223/225 grid points
+clean: b=0.0161 a=0.0049 local margin=+0.0123 population optimum = true tree: True gamma=0.0123
+  L=  100 recovery=0.070 global=0.000 local=0.000 local&wrong=0 bound pairwise 1 gamma 1 obs fail 0.930
+  L=  400 recovery=0.780 global=0.150 local=0.310 local&wrong=0 bound pairwise 1 gamma 1 obs fail 0.220
+  L= 1600 recovery=1.000 global=0.980 local=1.000 local&wrong=0 bound pairwise 0.0256 gamma 1 obs fail 0.000
+  L= 6400 recovery=1.000 global=1.000 local=1.000 local&wrong=0 bound pairwise 1e-10 gamma 0.144 obs fail 0.000
+noisy: b=0.0079 a=0.0184 local margin=-0.0082 population optimum = true tree: True gamma=0.0018
+  L=  800 recovery=0.190 global=0.000 local=0.000 local&wrong=0 bound pairwise 1 gamma 1 obs fail 0.810
+  L= 3200 recovery=0.750 global=0.000 local=0.000 local&wrong=0 bound pairwise 1 gamma 1 obs fail 0.250
+  L=12800 recovery=1.000 global=0.000 local=0.000 local&wrong=0 bound pairwise 1 gamma 1 obs fail 0.000
+long-branch: b=0.0063 a=0.0618 local margin=-0.0494 population optimum = true tree: False gamma=-1.0000
+  L=  800 recovery=0.000 global=0.000 local=0.000 local&wrong=0 bound pairwise 1 gamma 1 obs fail 1.000
+  L= 3200 recovery=0.000 global=0.000 local=0.000 local&wrong=0 bound pairwise 1 gamma 1 obs fail 1.000

@@ -1,0 +1,184 @@
+{
+ "part1_pass": true,
+ "part1_pairs": 490,
+ "heinrichi": {
+  "witnesses": 34,
+  "isolated_pairs": 542,
+  "R": 286,
+  "C": 229,
+  "alpha2_hat": 0.8007
+ },
+ "heinrichi_local_guard": {
+  "R": 41,
+  "C": 37,
+  "alpha2_hat": 0.9024,
+  "pairs_with_counts": 32
+ },
+ "heinrichi_complete_units_only": {
+  "units": 0,
+  "units_all": 1208,
+  "R": 0,
+  "C": 0,
+  "alpha2_hat": null
+ },
+ "lai_by_rooting": {
+  "Bedier (root on the DEF edge)": {
+   "pairs": [
+    "AC",
+    "AD",
+    "AE",
+    "AF",
+    "AG",
+    "BC",
+    "BD",
+    "BE",
+    "BF",
+    "BG",
+    "CD",
+    "CE",
+    "CF",
+    "DG",
+    "EG",
+    "FG"
+   ],
+   "R": 150,
+   "C": 51,
+   "alpha2_hat": 0.34
+  },
+  "AB against the rest": {
+   "pairs": [
+    "AC",
+    "AD",
+    "AE",
+    "AF",
+    "AG",
+    "BC",
+    "BD",
+    "BE",
+    "BF",
+    "BG",
+    "CD",
+    "CE",
+    "CF",
+    "DG",
+    "EG",
+    "FG"
+   ],
+   "R": 150,
+   "C": 51,
+   "alpha2_hat": 0.34
+  },
+  "Quentin (central vertex)": {
+   "pairs": [
+    "AC",
+    "AD",
+    "AE",
+    "AF",
+    "AG",
+    "BC",
+    "BD",
+    "BE",
+    "BF",
+    "BG",
+    "CD",
+    "CE",
+    "CF",
+    "DG",
+    "EG",
+    "FG"
+   ],
+   "R": 150,
+   "C": 51,
+   "alpha2_hat": 0.34
+  }
+ },
+ "lai": {
+  "isolated_pairs": [
+   "AC",
+   "AD",
+   "AE",
+   "AF",
+   "AG",
+   "BC",
+   "BD",
+   "BE",
+   "BF",
+   "BG",
+   "CD",
+   "CE",
+   "CF",
+   "DG",
+   "EG",
+   "FG"
+  ],
+  "per_pair": {
+   "AC": [
+    3,
+    1
+   ],
+   "AD": [
+    2,
+    0
+   ],
+   "AE": [
+    11,
+    0
+   ],
+   "AF": [
+    5,
+    0
+   ],
+   "AG": [
+    2,
+    0
+   ],
+   "BC": [
+    7,
+    3
+   ],
+   "BD": [
+    6,
+    3
+   ],
+   "BE": [
+    7,
+    4
+   ],
+   "BF": [
+    9,
+    1
+   ],
+   "BG": [
+    3,
+    2
+   ],
+   "CD": [
+    22,
+    9
+   ],
+   "CE": [
+    17,
+    7
+   ],
+   "CF": [
+    17,
+    4
+   ],
+   "DG": [
+    11,
+    6
+   ],
+   "EG": [
+    7,
+    4
+   ],
+   "FG": [
+    21,
+    7
+   ]
+  },
+  "R": 150,
+  "C": 51,
+  "alpha2_hat": 0.34
+ }
+}
