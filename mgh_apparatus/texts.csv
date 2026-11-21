@@ -1,0 +1,43 @@
+text_id,work,editor,year,volume,dmgh_volume,first_leaf,last_leaf,apparatus_entries,readings,witnesses_cited,editor_top_division
+acta_synhodorum_romae_499_501_502,"Acta synhodorum habitarum Romae a. 499, 501, 502 (with royal praecepta)",Th. Mommsen,1894,AA 12,mgh_auct_ant_12,582,638,2978,5029,,
+aldhelm_aenigmata,"Aldhelmus, Aenigmata (with metrical praefatio)",R. Ehwald,1919,AA 15,mgh_auct_ant_15,121,173,1577,1942,,
+aldhelm_carmina_ecclesiastica,"Aldhelmus, Carmina ecclesiastica I-V",R. Ehwald,1919,AA 15,mgh_auct_ant_15,35,56,661,773,,
+aldhelm_de_metris_tractatus,"Aldhelmus, Epistola ad Acircium: De metris (de septenario) et De pedum regulis (tractatus metricus, without the Aenigmata)",R. Ehwald,1919,AA 15,mgh_auct_ant_15,85,231,3333,3742,,
+aldhelm_de_virginitate_carmen,"Aldhelmus, Carmen de virginitate (with De octo vitiis principalibus)",R. Ehwald,1919,AA 15,mgh_auct_ant_15,376,497,3877,4938,,
+aldhelm_de_virginitate_prosa,"Aldhelmus, De virginitate (prosa)",R. Ehwald,1919,AA 15,mgh_auct_ant_15,250,349,3121,4208,,
+ausonius_opuscula,"D. Magnus Ausonius, Opuscula",C. Schenkl,1883,AA 5 pars posterior,mgh_auct_ant_5_2,65,326,5520,6079,VPTMBGZCQRW,TMC | VPQGBWR
+avitus_carmina,"Alcimus Avitus, Poematum libri VI (De spiritalis historiae gestis I-V; De virginitate)",R. Peiper,1883,AA 6.2,mgh_auct_ant_6_2,278,372,3106,3607,RLNFGPETVDMB,NPRFGVET | L
+cassiodorus_chronica,Cassiodori Senatoris chronica ad a. 519,Theodor Mommsen,1894,AA 11,mgh_auct_ant_11,126,167,772,804,,
+cassiodorus_variae,"Cassiodorus, Variae (libri I-XII)",Th. Mommsen,1894,AA 12,mgh_auct_ant_12,193,568,13175,15546,EFKHNGOPRBTZXMLUDC,MONXZEF | LRKPD
+chronica_gallica_452,Chronica Gallica a. CCCCLII,Theodor Mommsen,1892,AA 9,mgh_auct_ant_9,634,678,227,253,,
+claudianus_maior,"Claudius Claudianus, carmina maiora et publica cum carminum minorum corpusculo ('Claudianus maior')",Theodor Birt,1892,AA 10,mgh_auct_ant_10,250,579,11396,14310,PBVACRJMG,VPGM | CBAJR
+claudianus_raptus_proserpinae,"Claudius Claudianus, De raptu Proserpinae ('Claudianus minor')",Theodor Birt,1892,AA 10,mgh_auct_ant_10,582,628,1986,2788,SFWCADBV,FVS | CABDW
+dracontius_laudes_dei,"Blossius Aemilius Dracontius, De laudibus Dei (libri I-III)",F. Vollmer,1905,AA 14,mgh_auct_ant_14,74,164,1124,1247,,
+dracontius_orestis,"Dracontius, Orestis tragoedia",F. Vollmer,1905,AA 14,mgh_auct_ant_14,248,277,764,983,,
+dracontius_satisfactio,"Blossius Aemilius Dracontius, Satisfactio",F. Vollmer,1905,AA 14,mgh_auct_ant_14,165,182,52,55,,
+ennodius_opera,"Magnus Felix Ennodius, Opera (dictiones, epistulae, carmina, opuscula; one corpus with one manuscript tradition)",Fridericus Vogel,1885,AA 7,mgh_auct_ant_7,67,392,7973,8760,BVLCTPO,B | VLTCOP
+eugenius_carmina,"Eugenius Toletanus, Carmina",F. Vollmer,1905,AA 14,mgh_auct_ant_14,282,320,264,310,,
+eugenius_dracontiana,"Eugenius Toletanus, Dracontii libelli recensiti (hexaemeron = Laud. dei I recensio, satisfactio recensio, monosticha)",F. Vollmer,1905,AA 14,mgh_auct_ant_14,78,182,644,791,FMPQLZ,M | FPLQZ
+eugippius_vita_severini,"Eugippius, Vita S. Severini (with Epistola ad Paschasium and Paschasii epistola)",Hermannus Sauppe,1877,AA 1,mgh_auct_ant_1_2,20,49,1167,1287,MVLD,L | VMD
+eutropius_breviarium,"Eutropius, Breviarium ab urbe condita",H. Droysen (with bracketed notes by Th. Mommsen),1879,AA 2,mgh_auct_ant_2,76,255,3591,4096,LOGDF,GFD | LO
+fortunatus_carmina,"Venantius Fortunatus, Carmina libri XI (with prose epistulae and expositiones inserted)",F. Leo,1881,AA 4,mgh_auct_ant_4_1,29,297,9430,11965,,
+fortunatus_vita_martini,"Venantius Fortunatus, Vita S. Martini (libri IV, verse)",F. Leo,1881,AA 4,mgh_auct_ant_4_1,321,398,1948,2448,PNMLSBTF,PTF | NBLMS
+gildas_de_excidio,"Gildas, De excidio et conquestu Britanniae",Th. Mommsen,1898,AA 13,mgh_auct_ant_13,32,92,2970,3246,,
+historia_brittonum,"Historia Brittonum cum additamentis Nennii (7 parts: sex aetates, historia, vita Patricii, Arthuriana, genealogiae, civitates, mirabilia)",Th. Mommsen,1898,AA 13,mgh_auct_ant_13,151,229,1979,2950,MNQGLCDPZKH,HKPQDCGL | ZMN
+isidorus_chronica_maiora,Isidori Iunioris chronica maiora (ed. a. 615 / a. 624),Theodor Mommsen,1894,AA 11,mgh_auct_ant_11,428,487,2798,4859,XPCEMSFLBZDGVKNWYTA,ACDEGLMNTXYZ | BFKPSVW
+isidorus_historia_gothorum,Isidori Iunioris episcopi Hispalensis historia Gothorum Wandalorum Sueborum ad a. 624,Theodor Mommsen,1894,AA 11,mgh_auct_ant_11,273,309,1809,2503,MBONHAPYXRZW,P | BNHOXYRMA
+jordanes_getica,"Iordanes, De origine actibusque Getarum (Getica)",Th. Mommsen,1882,AA 5,mgh_auct_ant_5_1,126,211,5443,8005,OBAXYLZPVH,HPVLAOB | XYZ
+jordanes_romana,"Iordanes, De summa temporum vel origine actibusque gentis Romanorum (Romana)",Th. Mommsen,1882,AA 5,mgh_auct_ant_5_1,74,125,1380,1559,LPVH,HPVL
+marcellinus_comes_chronicon,Marcellini v. c. comitis chronicon ad a. 518 continuatum ad a. 534,Theodor Mommsen,1894,AA 11,mgh_auct_ant_11,64,108,1118,1276,SRTU,S | TUR
+paulus_historia_romana,"Paulus Diaconus, Historia Romana (books I-XVI)",H. Droysen,1879,AA 2,mgh_auct_ant_2,77,297,1926,2289,NZVMBH,HVBM | NZ
+polemius_laterculus_provinciarum,Polemii Silvii laterculus a. 449: laterculus provinciarum,Theodor Mommsen,1892,AA 9,mgh_auct_ant_9,545,626,281,320,,
+prosper_epitoma_chronicon,Prosperi Tironis epitoma chronicon (ed. 433-455),Theodor Mommsen,1892,AA 9,mgh_auct_ant_9,357,512,3900,4944,CVAMHOYPZRFXBD,AORV | MY
+sidonius_carmina,"C. Sollius Apollinaris Sidonius, Carmina I-XXIV",Christianus Luetjohann; carmina apparatus completed and filiation stated by Fridericus Leo,1887,AA 8,mgh_auct_ant_8,251,342,2113,2487,FPCTM,M | TCFP
+sidonius_epistulae,"C. Sollius Apollinaris Sidonius, Epistulae (libri I-IX)",Christianus Luetjohann (apparatus); preface on filiation by Fridericus Leo,1887,AA 8,mgh_auct_ant_8,79,250,8209,9930,CFMPTL,L | MTCFP
+symmachus_epistulae,"Q. Aurelius Symmachus, Epistulae libri X",O. Seeck,1883,AA 6.1,mgh_auct_ant_6_1,212,489,4973,5600,,
+symmachus_relationes,"Q. Aurelius Symmachus, Relationes",O. Seeck,1883,AA 6.1,mgh_auct_ant_6_1,490,528,951,1045,,
+victor_vitensis_historia,"Victor Vitensis, Historia persecutionis Africanae provinciae",Carolus Halm,1879,AA 3,mgh_auct_ant_3_1,10,67,2209,2490,RVLBA,BLV | R
+vita_germani,Vita S. Germani episcopi Parisiensis,B. Krusch,1885,AA 4,mgh_auct_ant_4_2,45,61,352,363,,
+vita_hilarii,Vita S. Hilarii et liber de virtutibus S. Hilarii,B. Krusch,1885,AA 4,mgh_auct_ant_4_2,35,45,214,234,,
+vita_medardi,Vita S. Medardi (spuria),B. Krusch,1885,AA 4,mgh_auct_ant_4_2,101,108,293,327,,
+vita_radegundis,"Vita S. Radegundis (liber I, Fortunatus)",B. Krusch,1885,AA 4,mgh_auct_ant_4_2,73,83,450,559,,

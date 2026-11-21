@@ -4,6 +4,10 @@ Code and data for **C. Jurczak, *Testing stemmata against the evidence: Exact op
 
 Archived release: https://doi.org/10.5281/zenodo.24405388. Technical report with the proofs and the audit trail of the checks: https://doi.org/10.5281/zenodo.24405385. Lean formalisation: https://github.com/metamorphoses-collection/stemma-lean (https://doi.org/10.5281/zenodo.24405390).
 
+## Dataset: MGH *Auctores antiquissimi* critical apparatus in tables
+
+**[`mgh_apparatus/`](mgh_apparatus/)** — the critical apparatus of 42 texts of the *Monumenta Germaniae Historica, Auctores antiquissimi* (1877–1919), read by machine from the page images: 122,054 entries and 150,947 readings, one CSV per text (reading, lemma, witnesses, page image, transcribed apparatus line), with tables of texts, sigla and extraction checks, and the 4,091 page transcriptions. CC BY 4.0. Also downloadable on its own from the Zenodo record as `MGH_Auctores_antiquissimi_apparatus_tables.zip`.
+
 A stemma is reconstructed as a maximum-weight set of jointly compatible families (splits) proposed by shared readings. Fragmentary witnesses are handled exactly: missing passages become joint completion of partial splits, solved by cutting planes on top of the pairwise relaxation. The code also draws an **evidence map** of any stemma (support, conflict and bootstrap stability of each family), benchmarks language models on the same input, and prepares native encodings for neutral-atom quantum processors.
 
 ## Layout
