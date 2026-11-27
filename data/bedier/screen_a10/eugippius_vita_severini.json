@@ -1,0 +1,18 @@
+{
+ "stemma_witnesses": "LVMD",
+ "cited": {
+  "L": 359,
+  "V": 533,
+  "M": 624,
+  "D": 193
+ },
+ "analysis_witnesses": "LVMD",
+ "units_with_shared_departure": 335,
+ "included": true,
+ "exclusion": [],
+ "editor_top": [
+  "L",
+  "VMD"
+ ],
+ "k_E": 2
+}

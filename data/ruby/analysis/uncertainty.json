@@ -1,0 +1,411 @@
+{
+ "priscus": {
+  "shots": 3500,
+  "copies": 9,
+  "copy_samples": 31500,
+  "maximum": {
+   "share": 0.6158412698412699,
+   "se_naive_binomial": 0.0027405294367512977,
+   "se_shot_clustered": 0.0029315003497022395,
+   "design_effect": 1.144223750316826,
+   "intra_shot_corr": 0.01802796878960325,
+   "ci95_shot_clustered": [
+    0.6100955291558534,
+    0.6215870105266863
+   ],
+   "ci95_shot_bootstrap": [
+    0.6100317460317459,
+    0.6215873015873016
+   ],
+   "per_copy": [
+    0.652,
+    0.632,
+    0.5574285714285714,
+    0.5802857142857143,
+    0.6491428571428571,
+    0.6522857142857142,
+    0.6002857142857143,
+    0.5688571428571428,
+    0.6502857142857142
+   ],
+   "per_copy_min": 0.5574285714285714,
+   "per_copy_max": 0.6522857142857142,
+   "per_copy_sd": 0.0392394821761354,
+   "per_copy_sd_expected_if_homogeneous": 0.008221588310253892,
+   "chi2_copy_homogeneity": 182.232179804548,
+   "chi2_df": 8,
+   "chi2_p": 0.0
+  },
+  "conflict_free": {
+   "share": 0.8925396825396825,
+   "se_naive_binomial": 0.0017449482425729939,
+   "se_shot_clustered": 0.0018544129554210697,
+   "design_effect": 1.1294000586541852,
+   "intra_shot_corr": 0.016175007331773156,
+   "ci95_shot_clustered": [
+    0.8889050331470573,
+    0.8961743319323078
+   ],
+   "ci95_shot_bootstrap": [
+    0.8888571428571429,
+    0.8961904761904763
+   ],
+   "per_copy": [
+    0.8782857142857143,
+    0.8817142857142857,
+    0.888,
+    0.894,
+    0.8831428571428571,
+    0.9057142857142857,
+    0.9065714285714286,
+    0.9002857142857142,
+    0.8951428571428571
+   ],
+   "per_copy_min": 0.8782857142857143,
+   "per_copy_max": 0.9065714285714286,
+   "per_copy_sd": 0.010420196680783575,
+   "per_copy_sd_expected_if_homogeneous": 0.005234844727718981,
+   "chi2_copy_homogeneity": 31.6981714949494,
+   "chi2_df": 8,
+   "chi2_p": 0.00010547565416796356
+  },
+  "per_pass": {
+   "ruby_diag_job_728.json": {
+    "shots": 500,
+    "maximum": 0.5986666666666667,
+    "conflict_free": 0.8928888888888888,
+    "maximum_se_clustered": 0.007898287074862502
+   },
+   "ruby_diag_job_729.json": {
+    "shots": 1000,
+    "maximum": 0.6186666666666667,
+    "conflict_free": 0.8924444444444445,
+    "maximum_se_clustered": 0.005461189432909363
+   },
+   "ruby_diag_job_730.json": {
+    "shots": 1000,
+    "maximum": 0.6204444444444445,
+    "conflict_free": 0.8907777777777778,
+    "maximum_se_clustered": 0.005550485952965484
+   },
+   "ruby_diag_job_731.json": {
+    "shots": 1000,
+    "maximum": 0.617,
+    "conflict_free": 0.8942222222222223,
+    "maximum_se_clustered": 0.0053811932869772565
+   }
+  },
+  "deBoor_tree": {
+   "share": 0.15606349206349207,
+   "se_naive_binomial": 0.0020447973354650807,
+   "se_shot_clustered": 0.0020769645210743488,
+   "design_effect": 1.0317099399640717,
+   "intra_shot_corr": 0.0039637424955089595,
+   "ci95_shot_clustered": [
+    0.15199264160218634,
+    0.1601343425247978
+   ],
+   "ci95_shot_bootstrap": [
+    0.152,
+    0.16022222222222224
+   ],
+   "per_copy": [
+    0.16514285714285715,
+    0.16942857142857143,
+    0.16228571428571428,
+    0.14285714285714285,
+    0.14542857142857143,
+    0.13228571428571428,
+    0.1482857142857143,
+    0.15457142857142858,
+    0.18428571428571427
+   ],
+   "per_copy_min": 0.13228571428571428,
+   "per_copy_max": 0.18428571428571427,
+   "per_copy_sd": 0.0158582868170233,
+   "per_copy_sd_expected_if_homogeneous": 0.006134392006395242,
+   "chi2_copy_homogeneity": 53.46375686924013,
+   "chi2_df": 8,
+   "chi2_p": 8.770225323750935e-09
+  },
+  "per_MIS": {
+   "{BMP,MP}": {
+    "share": 0.15606349206349207,
+    "se_shot_clustered": 0.0020769645210743488,
+    "per_copy_min": 0.13228571428571428,
+    "per_copy_max": 0.18428571428571427
+   },
+   "{MP,EB}": {
+    "share": 0.10606349206349207,
+    "se_shot_clustered": 0.0017836294751637026,
+    "per_copy_min": 0.08428571428571428,
+    "per_copy_max": 0.11914285714285715
+   },
+   "{EP,EMP}": {
+    "share": 0.11488888888888889,
+    "se_shot_clustered": 0.0018461676137562389,
+    "per_copy_min": 0.08885714285714286,
+    "per_copy_max": 0.1422857142857143
+   },
+   "{MP,EMP}": {
+    "share": 0.23882539682539683,
+    "se_shot_clustered": 0.0024742736685029994,
+    "per_copy_min": 0.178,
+    "per_copy_max": 0.30142857142857143
+   }
+  }
+ },
+ "lai": {
+  "shots": 1000,
+  "copies": 8,
+  "copy_samples": 8000,
+  "maximum": {
+   "share": 0.3275,
+   "se_naive_binomial": 0.005246948517948313,
+   "se_shot_clustered": 0.005768624361754459,
+   "design_effect": 1.2087344872043648,
+   "intra_shot_corr": 0.029819212457766402,
+   "ci95_shot_clustered": [
+    0.31619349625096127,
+    0.33880650374903876
+   ],
+   "ci95_shot_bootstrap": [
+    0.316125,
+    0.338875
+   ],
+   "per_copy": [
+    0.339,
+    0.329,
+    0.356,
+    0.284,
+    0.366,
+    0.315,
+    0.325,
+    0.306
+   ],
+   "per_copy_min": 0.284,
+   "per_copy_max": 0.366,
+   "per_copy_sd": 0.026581411335206202,
+   "per_copy_sd_expected_if_homogeneous": 0.014840611510311831,
+   "chi2_copy_homogeneity": 22.45693691648458,
+   "chi2_df": 7,
+   "chi2_p": 0.0021180893197335626
+  },
+  "conflict_free": {
+   "share": 0.893125,
+   "se_naive_binomial": 0.003454213629304795,
+   "se_shot_clustered": 0.0036845196511974343,
+   "design_effect": 1.1377932878675638,
+   "intra_shot_corr": 0.019684755409651977,
+   "ci95_shot_clustered": [
+    0.885903341483653,
+    0.9003466585163469
+   ],
+   "ci95_shot_bootstrap": [
+    0.88575,
+    0.900375
+   ],
+   "per_copy": [
+    0.905,
+    0.896,
+    0.905,
+    0.903,
+    0.889,
+    0.883,
+    0.887,
+    0.877
+   ],
+   "per_copy_min": 0.877,
+   "per_copy_max": 0.905,
+   "per_copy_sd": 0.010722972668861143,
+   "per_copy_sd_expected_if_homogeneous": 0.009769991523793663,
+   "chi2_copy_homogeneity": 8.43218379515385,
+   "chi2_df": 7,
+   "chi2_p": 0.2960299606253374
+  },
+  "per_MIS": {
+   "{CG,AB,CEG,DF}": {
+    "share": 0.078,
+    "se_shot_clustered": 0.0031206150416605762,
+    "per_copy_min": 0.064,
+    "per_copy_max": 0.104
+   },
+   "{CG,DE,AB,DEF}": {
+    "share": 0.113875,
+    "se_shot_clustered": 0.0036484819851269373,
+    "per_copy_min": 0.097,
+    "per_copy_max": 0.136
+   },
+   "{CG,AB,DEF,DF}": {
+    "share": 0.0985,
+    "se_shot_clustered": 0.00340908666241735,
+    "per_copy_min": 0.083,
+    "per_copy_max": 0.123
+   },
+   "{CG,AB,DEF,EF}": {
+    "share": 0.037125,
+    "se_shot_clustered": 0.0021326409760042907,
+    "per_copy_min": 0.026,
+    "per_copy_max": 0.047
+   }
+  },
+  "tree_minus_runnerup": {
+   "diff": 0.015375,
+   "se_shot_clustered": 0.005261360688195715
+  }
+ },
+ "lawrence": {
+  "shots": 1000,
+  "copies": 7,
+  "copy_samples": 7000,
+  "maximum": {
+   "share": 0.31157142857142855,
+   "se_naive_binomial": 0.005535530345857796,
+   "se_shot_clustered": 0.006308706632203461,
+   "design_effect": 1.2988595525110636,
+   "intra_shot_corr": 0.04980992541851059,
+   "ci95_shot_clustered": [
+    0.2992063635723098,
+    0.3239364935705473
+   ],
+   "ci95_shot_bootstrap": [
+    0.2994285714285714,
+    0.3241428571428571
+   ],
+   "per_copy": [
+    0.378,
+    0.309,
+    0.27,
+    0.319,
+    0.337,
+    0.227,
+    0.341
+   ],
+   "per_copy_min": 0.227,
+   "per_copy_max": 0.378,
+   "per_copy_sd": 0.04977903555667165,
+   "per_copy_sd_expected_if_homogeneous": 0.01464563666999109,
+   "chi2_copy_homogeneity": 69.31507456681051,
+   "chi2_df": 6,
+   "chi2_p": 5.635492072997295e-13
+  },
+  "conflict_free": {
+   "share": 0.9494285714285714,
+   "se_naive_binomial": 0.00261899542310388,
+   "se_shot_clustered": 0.0026225903265354213,
+   "design_effect": 1.0027471377996993,
+   "intra_shot_corr": 0.000457856299949877,
+   "ci95_shot_clustered": [
+    0.944288294388562,
+    0.9545688484685808
+   ],
+   "ci95_shot_bootstrap": [
+    0.9442857142857143,
+    0.9544285714285715
+   ],
+   "per_copy": [
+    0.945,
+    0.942,
+    0.948,
+    0.945,
+    0.959,
+    0.952,
+    0.955
+   ],
+   "per_copy_min": 0.942,
+   "per_copy_max": 0.959,
+   "per_copy_sd": 0.006133436852128478,
+   "per_copy_sd_expected_if_homogeneous": 0.006929210574349252,
+   "chi2_copy_homogeneity": 4.701013820810615,
+   "chi2_df": 6,
+   "chi2_p": 0.5826913088081611
+  },
+  "E": {
+   "share": 0.31157142857142855,
+   "se_naive_binomial": 0.005535530345857796,
+   "se_shot_clustered": 0.006308706632203461,
+   "design_effect": 1.2988595525110636,
+   "intra_shot_corr": 0.04980992541851059,
+   "ci95_shot_clustered": [
+    0.2992063635723098,
+    0.3239364935705473
+   ],
+   "ci95_shot_bootstrap": [
+    0.299,
+    0.32385714285714284
+   ],
+   "per_copy": [
+    0.378,
+    0.309,
+    0.27,
+    0.319,
+    0.337,
+    0.227,
+    0.341
+   ],
+   "per_copy_min": 0.227,
+   "per_copy_max": 0.378,
+   "per_copy_sd": 0.04977903555667165,
+   "per_copy_sd_expected_if_homogeneous": 0.01464563666999109,
+   "chi2_copy_homogeneity": 69.31507456681051,
+   "chi2_df": 6,
+   "chi2_p": 5.635492072997295e-13
+  },
+  "R": {
+   "share": 0.08385714285714285,
+   "se_naive_binomial": 0.003312856394821751,
+   "se_shot_clustered": 0.0035601308507597967,
+   "design_effect": 1.1548529815965183,
+   "intra_shot_corr": 0.02580883026608638,
+   "ci95_shot_clustered": [
+    0.07687928638965365,
+    0.09083499932463206
+   ],
+   "ci95_shot_bootstrap": [
+    0.077,
+    0.09085714285714284
+   ],
+   "per_copy": [
+    0.087,
+    0.081,
+    0.081,
+    0.085,
+    0.083,
+    0.092,
+    0.078
+   ],
+   "per_copy_min": 0.078,
+   "per_copy_max": 0.092,
+   "per_copy_sd": 0.004634241089562612,
+   "per_copy_sd_expected_if_homogeneous": 0.00876499414996836,
+   "chi2_copy_homogeneity": 1.6772787175538615,
+   "chi2_df": 6,
+   "chi2_p": 0.9468618768458612
+  },
+  "E_over_E_plus_R": {
+   "share": 0.7879335260115607,
+   "n_E": 2181,
+   "n_R": 587,
+   "se_shot_clustered_delta": 0.008407647306786678,
+   "ci95_delta": [
+    0.7714545372902588,
+    0.8044125147328627
+   ],
+   "ci95_shot_bootstrap": [
+    0.7716159169628098,
+    0.8041198535711821
+   ],
+   "per_copy": [
+    0.8129032258064516,
+    0.7923076923076923,
+    0.7692307692307693,
+    0.7896039603960396,
+    0.8023809523809524,
+    0.7115987460815048,
+    0.8138424821002387
+   ],
+   "per_copy_min": 0.7115987460815048,
+   "per_copy_max": 0.8138424821002387
+  }
+ }
+}

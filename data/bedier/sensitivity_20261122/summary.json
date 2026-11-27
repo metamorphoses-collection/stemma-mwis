@@ -1,0 +1,1440 @@
+{
+ "baseline": {
+  "counts": {
+   "partly_silent": 6,
+   "contradicted": 4,
+   "supported": 4
+  },
+  "pooled_p": 1.36625753542501e-05
+ },
+ "scenarios": {
+  "C0": {
+   "per_text": {
+    "isidorus_chronica_maiora": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "partly_silent": 40
+     },
+     "gate_fail": 0.0
+    },
+    "claudianus_raptus_proserpinae": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "partly_silent": 40
+     },
+     "gate_fail": 0.0
+    },
+    "prosper_epitoma_chronicon": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "contradicted": 40
+     },
+     "gate_fail": 0.0
+    },
+    "historia_brittonum": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "partly_silent": 40
+     },
+     "gate_fail": 0.0
+    },
+    "isidorus_historia_gothorum": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "partly_silent": 40
+     },
+     "gate_fail": 0.0
+    },
+    "fortunatus_vita_martini": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "contradicted": 40
+     },
+     "gate_fail": 0.0
+    },
+    "claudianus_maior": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "partly_silent": 40
+     },
+     "gate_fail": 0.0
+    },
+    "sidonius_carmina": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "supported": 40
+     },
+     "gate_fail": 0.0
+    },
+    "ennodius_opera": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "contradicted": 40
+     },
+     "gate_fail": 0.0
+    },
+    "paulus_historia_romana": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "contradicted": 40
+     },
+     "gate_fail": 0.0
+    },
+    "victor_vitensis_historia": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "supported": 40
+     },
+     "gate_fail": 0.0
+    },
+    "jordanes_romana": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "partly_silent": 40
+     },
+     "gate_fail": 0.0
+    },
+    "eugippius_vita_severini": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "supported": 40
+     },
+     "gate_fail": 0.0
+    },
+    "marcellinus_comes_chronicon": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "supported": 40
+     },
+     "gate_fail": 0.0
+    }
+   },
+   "n_complete": 40,
+   "all_14_unchanged": 1.0,
+   "counts_exact_4_4_6": 1.0,
+   "supported": [
+    4,
+    4
+   ],
+   "contradicted": [
+    4,
+    4
+   ],
+   "silent": [
+    6,
+    6
+   ],
+   "supported_mean": 4.0,
+   "contradicted_mean": 4.0,
+   "silent_mean": 6.0,
+   "p_median": 6.496727706742376e-07,
+   "p_95": 1.36625753542501e-05,
+   "p_max": 1.36625753542501e-05,
+   "share_p_lt_001": 1.0,
+   "non_optimal": 0,
+   "secs": 3315.9900000000002
+  },
+  "D16": {
+   "per_text": {
+    "isidorus_chronica_maiora": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "partly_silent": 40
+     },
+     "gate_fail": 0.0
+    },
+    "claudianus_raptus_proserpinae": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "partly_silent": 40
+     },
+     "gate_fail": 0.0
+    },
+    "prosper_epitoma_chronicon": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "contradicted": 40
+     },
+     "gate_fail": 0.0
+    },
+    "historia_brittonum": {
+     "n": 40,
+     "unchanged": 0.975,
+     "dist": {
+      "partly_silent": 39,
+      "contradicted": 1
+     },
+     "gate_fail": 0.0
+    },
+    "isidorus_historia_gothorum": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "partly_silent": 40
+     },
+     "gate_fail": 0.0
+    },
+    "fortunatus_vita_martini": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "contradicted": 40
+     },
+     "gate_fail": 0.0
+    },
+    "claudianus_maior": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "partly_silent": 40
+     },
+     "gate_fail": 0.0
+    },
+    "sidonius_carmina": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "supported": 40
+     },
+     "gate_fail": 0.0
+    },
+    "ennodius_opera": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "contradicted": 40
+     },
+     "gate_fail": 0.0
+    },
+    "paulus_historia_romana": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "contradicted": 40
+     },
+     "gate_fail": 0.0
+    },
+    "victor_vitensis_historia": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "supported": 40
+     },
+     "gate_fail": 0.0
+    },
+    "jordanes_romana": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "partly_silent": 40
+     },
+     "gate_fail": 0.0
+    },
+    "eugippius_vita_severini": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "supported": 40
+     },
+     "gate_fail": 0.0
+    },
+    "marcellinus_comes_chronicon": {
+     "n": 40,
+     "unchanged": 0.55,
+     "dist": {
+      "partly_silent": 18,
+      "supported": 22
+     },
+     "gate_fail": 1.0
+    }
+   },
+   "n_complete": 40,
+   "all_14_unchanged": 0.55,
+   "counts_exact_4_4_6": 0.55,
+   "supported": [
+    3,
+    4
+   ],
+   "contradicted": [
+    4,
+    5
+   ],
+   "silent": [
+    6,
+    7
+   ],
+   "supported_mean": 3.55,
+   "contradicted_mean": 4.025,
+   "silent_mean": 6.425,
+   "p_median": 8.873138047762151e-07,
+   "p_95": 1.36625753542501e-05,
+   "p_max": 5.741705439247081e-05,
+   "share_p_lt_001": 1.0,
+   "non_optimal": 0,
+   "secs": 2200.18
+  },
+  "D30": {
+   "per_text": {
+    "isidorus_chronica_maiora": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "partly_silent": 40
+     },
+     "gate_fail": 0.0
+    },
+    "claudianus_raptus_proserpinae": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "partly_silent": 40
+     },
+     "gate_fail": 0.0
+    },
+    "prosper_epitoma_chronicon": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "contradicted": 40
+     },
+     "gate_fail": 0.0
+    },
+    "historia_brittonum": {
+     "n": 40,
+     "unchanged": 0.925,
+     "dist": {
+      "partly_silent": 37,
+      "contradicted": 2,
+      "supported": 1
+     },
+     "gate_fail": 0.0
+    },
+    "isidorus_historia_gothorum": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "partly_silent": 40
+     },
+     "gate_fail": 0.0
+    },
+    "fortunatus_vita_martini": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "contradicted": 40
+     },
+     "gate_fail": 0.0
+    },
+    "claudianus_maior": {
+     "n": 40,
+     "unchanged": 0.95,
+     "dist": {
+      "partly_silent": 38,
+      "contradicted": 2
+     },
+     "gate_fail": 0.0
+    },
+    "sidonius_carmina": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "supported": 40
+     },
+     "gate_fail": 0.0
+    },
+    "ennodius_opera": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "contradicted": 40
+     },
+     "gate_fail": 0.0
+    },
+    "paulus_historia_romana": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "contradicted": 40
+     },
+     "gate_fail": 0.0
+    },
+    "victor_vitensis_historia": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "supported": 40
+     },
+     "gate_fail": 0.0
+    },
+    "jordanes_romana": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "partly_silent": 40
+     },
+     "gate_fail": 0.0
+    },
+    "eugippius_vita_severini": {
+     "n": 40,
+     "unchanged": 0.975,
+     "dist": {
+      "supported": 39,
+      "partly_silent": 1
+     },
+     "gate_fail": 0.0
+    },
+    "marcellinus_comes_chronicon": {
+     "n": 40,
+     "unchanged": 0.525,
+     "dist": {
+      "supported": 21,
+      "partly_silent": 19
+     },
+     "gate_fail": 1.0
+    }
+   },
+   "n_complete": 40,
+   "all_14_unchanged": 0.5,
+   "counts_exact_4_4_6": 0.5,
+   "supported": [
+    3,
+    4
+   ],
+   "contradicted": [
+    4,
+    5
+   ],
+   "silent": [
+    5,
+    7
+   ],
+   "supported_mean": 3.525,
+   "contradicted_mean": 4.1,
+   "silent_mean": 6.375,
+   "p_median": 1.3774892014366076e-06,
+   "p_95": 3.485372287134712e-05,
+   "p_max": 6.084048946462268e-05,
+   "share_p_lt_001": 1.0,
+   "non_optimal": 0,
+   "secs": 1459.61
+  },
+  "A10": {
+   "per_text": {
+    "isidorus_chronica_maiora": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "partly_silent": 40
+     },
+     "gate_fail": 0.0
+    },
+    "claudianus_raptus_proserpinae": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "partly_silent": 40
+     },
+     "gate_fail": 0.0
+    },
+    "prosper_epitoma_chronicon": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "contradicted": 40
+     },
+     "gate_fail": 0.0
+    },
+    "historia_brittonum": {
+     "n": 40,
+     "unchanged": 0.975,
+     "dist": {
+      "partly_silent": 39,
+      "contradicted": 1
+     },
+     "gate_fail": 0.0
+    },
+    "isidorus_historia_gothorum": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "partly_silent": 40
+     },
+     "gate_fail": 0.0
+    },
+    "fortunatus_vita_martini": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "contradicted": 40
+     },
+     "gate_fail": 0.0
+    },
+    "claudianus_maior": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "partly_silent": 40
+     },
+     "gate_fail": 0.0
+    },
+    "sidonius_carmina": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "supported": 40
+     },
+     "gate_fail": 0.0
+    },
+    "ennodius_opera": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "contradicted": 40
+     },
+     "gate_fail": 0.0
+    },
+    "paulus_historia_romana": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "contradicted": 40
+     },
+     "gate_fail": 0.0
+    },
+    "victor_vitensis_historia": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "supported": 40
+     },
+     "gate_fail": 0.0
+    },
+    "jordanes_romana": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "partly_silent": 40
+     },
+     "gate_fail": 0.0
+    },
+    "eugippius_vita_severini": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "supported": 40
+     },
+     "gate_fail": 0.0
+    },
+    "marcellinus_comes_chronicon": {
+     "n": 40,
+     "unchanged": 0.75,
+     "dist": {
+      "partly_silent": 10,
+      "supported": 30
+     },
+     "gate_fail": 0.0
+    }
+   },
+   "n_complete": 40,
+   "all_14_unchanged": 0.725,
+   "counts_exact_4_4_6": 0.725,
+   "supported": [
+    3,
+    4
+   ],
+   "contradicted": [
+    4,
+    5
+   ],
+   "silent": [
+    5,
+    7
+   ],
+   "supported_mean": 3.75,
+   "contradicted_mean": 4.025,
+   "silent_mean": 6.225,
+   "p_median": 1.1021456819217493e-06,
+   "p_95": 2.8472036613704355e-05,
+   "p_max": 8.675909575022695e-05,
+   "share_p_lt_001": 1.0,
+   "non_optimal": 0,
+   "secs": 3606.18
+  },
+  "A20": {
+   "per_text": {
+    "isidorus_chronica_maiora": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "partly_silent": 40
+     },
+     "gate_fail": 0.0
+    },
+    "claudianus_raptus_proserpinae": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "partly_silent": 40
+     },
+     "gate_fail": 0.0
+    },
+    "prosper_epitoma_chronicon": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "contradicted": 40
+     },
+     "gate_fail": 0.0
+    },
+    "historia_brittonum": {
+     "n": 40,
+     "unchanged": 0.975,
+     "dist": {
+      "supported": 1,
+      "partly_silent": 39
+     },
+     "gate_fail": 0.0
+    },
+    "isidorus_historia_gothorum": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "partly_silent": 40
+     },
+     "gate_fail": 0.0
+    },
+    "fortunatus_vita_martini": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "contradicted": 40
+     },
+     "gate_fail": 0.0
+    },
+    "claudianus_maior": {
+     "n": 40,
+     "unchanged": 0.95,
+     "dist": {
+      "partly_silent": 38,
+      "contradicted": 2
+     },
+     "gate_fail": 0.0
+    },
+    "sidonius_carmina": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "supported": 40
+     },
+     "gate_fail": 0.0
+    },
+    "ennodius_opera": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "contradicted": 40
+     },
+     "gate_fail": 0.0
+    },
+    "paulus_historia_romana": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "contradicted": 40
+     },
+     "gate_fail": 0.0
+    },
+    "victor_vitensis_historia": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "supported": 40
+     },
+     "gate_fail": 0.0
+    },
+    "jordanes_romana": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "partly_silent": 40
+     },
+     "gate_fail": 0.0
+    },
+    "eugippius_vita_severini": {
+     "n": 40,
+     "unchanged": 0.85,
+     "dist": {
+      "partly_silent": 6,
+      "supported": 34
+     },
+     "gate_fail": 0.0
+    },
+    "marcellinus_comes_chronicon": {
+     "n": 40,
+     "unchanged": 0.65,
+     "dist": {
+      "supported": 26,
+      "partly_silent": 14
+     },
+     "gate_fail": 0.0
+    }
+   },
+   "n_complete": 40,
+   "all_14_unchanged": 0.475,
+   "counts_exact_4_4_6": 0.5,
+   "supported": [
+    3,
+    4
+   ],
+   "contradicted": [
+    4,
+    5
+   ],
+   "silent": [
+    5,
+    7
+   ],
+   "supported_mean": 3.525,
+   "contradicted_mean": 4.05,
+   "silent_mean": 6.425,
+   "p_median": 1.157200761036099e-06,
+   "p_95": 2.807656062592669e-05,
+   "p_max": 6.0346838867498646e-05,
+   "share_p_lt_001": 1.0,
+   "non_optimal": 0,
+   "secs": 4530.97
+  },
+  "M": {
+   "per_text": {
+    "isidorus_chronica_maiora": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "partly_silent": 40
+     },
+     "gate_fail": 0.0
+    },
+    "claudianus_raptus_proserpinae": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "partly_silent": 40
+     },
+     "gate_fail": 0.0
+    },
+    "prosper_epitoma_chronicon": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "contradicted": 40
+     },
+     "gate_fail": 0.0
+    },
+    "historia_brittonum": {
+     "n": 40,
+     "unchanged": 0.975,
+     "dist": {
+      "partly_silent": 39,
+      "contradicted": 1
+     },
+     "gate_fail": 0.0
+    },
+    "isidorus_historia_gothorum": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "partly_silent": 40
+     },
+     "gate_fail": 0.0
+    },
+    "fortunatus_vita_martini": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "contradicted": 40
+     },
+     "gate_fail": 0.0
+    },
+    "claudianus_maior": {
+     "n": 40,
+     "unchanged": 0.975,
+     "dist": {
+      "partly_silent": 39,
+      "contradicted": 1
+     },
+     "gate_fail": 0.0
+    },
+    "sidonius_carmina": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "supported": 40
+     },
+     "gate_fail": 0.0
+    },
+    "ennodius_opera": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "contradicted": 40
+     },
+     "gate_fail": 0.0
+    },
+    "paulus_historia_romana": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "contradicted": 40
+     },
+     "gate_fail": 0.0
+    },
+    "victor_vitensis_historia": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "supported": 40
+     },
+     "gate_fail": 0.0
+    },
+    "jordanes_romana": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "partly_silent": 40
+     },
+     "gate_fail": 0.0
+    },
+    "eugippius_vita_severini": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "supported": 40
+     },
+     "gate_fail": 0.0
+    },
+    "marcellinus_comes_chronicon": {
+     "n": 40,
+     "unchanged": 0.525,
+     "dist": {
+      "supported": 21,
+      "partly_silent": 19
+     },
+     "gate_fail": 1.0
+    }
+   },
+   "n_complete": 40,
+   "all_14_unchanged": 0.5,
+   "counts_exact_4_4_6": 0.5,
+   "supported": [
+    3,
+    4
+   ],
+   "contradicted": [
+    4,
+    5
+   ],
+   "silent": [
+    5,
+    7
+   ],
+   "supported_mean": 3.525,
+   "contradicted_mean": 4.05,
+   "silent_mean": 6.425,
+   "p_median": 1.312876463518073e-06,
+   "p_95": 2.4060992191506506e-05,
+   "p_max": 5.781611511195853e-05,
+   "share_p_lt_001": 1.0,
+   "non_optimal": 0,
+   "secs": 2246.84
+  },
+  "BX": {
+   "per_text": {
+    "isidorus_chronica_maiora": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "partly_silent": 40
+     },
+     "gate_fail": 0.0
+    },
+    "claudianus_raptus_proserpinae": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "partly_silent": 40
+     },
+     "gate_fail": 0.0
+    },
+    "prosper_epitoma_chronicon": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "contradicted": 40
+     },
+     "gate_fail": 0.0
+    },
+    "historia_brittonum": {
+     "n": 40,
+     "unchanged": 0.6,
+     "dist": {
+      "partly_silent": 24,
+      "supported": 16
+     },
+     "gate_fail": 0.0
+    },
+    "isidorus_historia_gothorum": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "partly_silent": 40
+     },
+     "gate_fail": 0.0
+    },
+    "fortunatus_vita_martini": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "contradicted": 40
+     },
+     "gate_fail": 0.0
+    },
+    "claudianus_maior": {
+     "n": 40,
+     "unchanged": 0.975,
+     "dist": {
+      "partly_silent": 39,
+      "contradicted": 1
+     },
+     "gate_fail": 0.0
+    },
+    "sidonius_carmina": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "supported": 40
+     },
+     "gate_fail": 0.0
+    },
+    "ennodius_opera": {
+     "n": 40,
+     "unchanged": 0.3,
+     "dist": {
+      "partly_silent": 28,
+      "contradicted": 12
+     },
+     "gate_fail": 0.0
+    },
+    "paulus_historia_romana": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "contradicted": 40
+     },
+     "gate_fail": 0.0
+    },
+    "victor_vitensis_historia": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "supported": 40
+     },
+     "gate_fail": 0.0
+    },
+    "jordanes_romana": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "partly_silent": 40
+     },
+     "gate_fail": 0.0
+    },
+    "eugippius_vita_severini": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "supported": 40
+     },
+     "gate_fail": 0.0
+    },
+    "marcellinus_comes_chronicon": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "supported": 40
+     },
+     "gate_fail": 1.0
+    }
+   },
+   "n_complete": 40,
+   "all_14_unchanged": 0.125,
+   "counts_exact_4_4_6": 0.125,
+   "supported": [
+    4,
+    5
+   ],
+   "contradicted": [
+    3,
+    5
+   ],
+   "silent": [
+    5,
+    7
+   ],
+   "supported_mean": 4.4,
+   "contradicted_mean": 3.325,
+   "silent_mean": 6.275,
+   "p_median": 2.1470169898907436e-08,
+   "p_95": 1.1510058302474074e-06,
+   "p_max": 3.249848399293437e-06,
+   "share_p_lt_001": 1.0,
+   "non_optimal": 0,
+   "secs": 1534.22
+  },
+  "BA": {
+   "per_text": {
+    "isidorus_chronica_maiora": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "partly_silent": 40
+     },
+     "gate_fail": 0.0
+    },
+    "claudianus_raptus_proserpinae": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "partly_silent": 40
+     },
+     "gate_fail": 0.0
+    },
+    "prosper_epitoma_chronicon": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "contradicted": 40
+     },
+     "gate_fail": 0.0
+    },
+    "historia_brittonum": {
+     "n": 40,
+     "unchanged": 0.85,
+     "dist": {
+      "partly_silent": 34,
+      "contradicted": 6
+     },
+     "gate_fail": 0.0
+    },
+    "isidorus_historia_gothorum": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "partly_silent": 40
+     },
+     "gate_fail": 0.0
+    },
+    "fortunatus_vita_martini": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "contradicted": 40
+     },
+     "gate_fail": 0.0
+    },
+    "claudianus_maior": {
+     "n": 40,
+     "unchanged": 0.9,
+     "dist": {
+      "partly_silent": 36,
+      "contradicted": 4
+     },
+     "gate_fail": 0.0
+    },
+    "sidonius_carmina": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "supported": 40
+     },
+     "gate_fail": 0.0
+    },
+    "ennodius_opera": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "contradicted": 40
+     },
+     "gate_fail": 0.0
+    },
+    "paulus_historia_romana": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "contradicted": 40
+     },
+     "gate_fail": 0.0
+    },
+    "victor_vitensis_historia": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "supported": 40
+     },
+     "gate_fail": 0.0
+    },
+    "jordanes_romana": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "partly_silent": 40
+     },
+     "gate_fail": 0.0
+    },
+    "eugippius_vita_severini": {
+     "n": 40,
+     "unchanged": 0.975,
+     "dist": {
+      "supported": 39,
+      "partly_silent": 1
+     },
+     "gate_fail": 0.0
+    },
+    "marcellinus_comes_chronicon": {
+     "n": 40,
+     "unchanged": 0.025,
+     "dist": {
+      "partly_silent": 39,
+      "supported": 1
+     },
+     "gate_fail": 1.0
+    }
+   },
+   "n_complete": 40,
+   "all_14_unchanged": 0.025,
+   "counts_exact_4_4_6": 0.025,
+   "supported": [
+    2,
+    4
+   ],
+   "contradicted": [
+    4,
+    5
+   ],
+   "silent": [
+    6,
+    8
+   ],
+   "supported_mean": 3.0,
+   "contradicted_mean": 4.25,
+   "silent_mean": 6.75,
+   "p_median": 2.608899401620372e-06,
+   "p_95": 0.00013518030619957526,
+   "p_max": 0.00022240994292719053,
+   "share_p_lt_001": 1.0,
+   "non_optimal": 0,
+   "secs": 2105.7
+  },
+  "RX": {
+   "per_text": {
+    "isidorus_chronica_maiora": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "partly_silent": 40
+     },
+     "gate_fail": 0.0
+    },
+    "claudianus_raptus_proserpinae": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "partly_silent": 40
+     },
+     "gate_fail": 0.0
+    },
+    "prosper_epitoma_chronicon": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "contradicted": 40
+     },
+     "gate_fail": 0.0
+    },
+    "historia_brittonum": {
+     "n": 40,
+     "unchanged": 0.0,
+     "dist": {
+      "contradicted": 40
+     },
+     "gate_fail": 0.0
+    },
+    "isidorus_historia_gothorum": {
+     "n": 40,
+     "unchanged": 0.975,
+     "dist": {
+      "partly_silent": 39,
+      "contradicted": 1
+     },
+     "gate_fail": 0.0
+    },
+    "fortunatus_vita_martini": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "contradicted": 40
+     },
+     "gate_fail": 0.0
+    },
+    "claudianus_maior": {
+     "n": 40,
+     "unchanged": 0.875,
+     "dist": {
+      "partly_silent": 35,
+      "contradicted": 5
+     },
+     "gate_fail": 0.0
+    },
+    "sidonius_carmina": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "supported": 40
+     },
+     "gate_fail": 0.0
+    },
+    "ennodius_opera": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "contradicted": 40
+     },
+     "gate_fail": 0.0
+    },
+    "paulus_historia_romana": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "contradicted": 40
+     },
+     "gate_fail": 0.0
+    },
+    "victor_vitensis_historia": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "supported": 40
+     },
+     "gate_fail": 0.0
+    },
+    "jordanes_romana": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "partly_silent": 40
+     },
+     "gate_fail": 0.0
+    },
+    "eugippius_vita_severini": {
+     "n": 40,
+     "unchanged": 0.0,
+     "dist": {
+      "partly_silent": 40
+     },
+     "gate_fail": 0.0
+    },
+    "marcellinus_comes_chronicon": {
+     "n": 40,
+     "unchanged": 0.0,
+     "dist": {
+      "partly_silent": 39,
+      "contradicted": 1
+     },
+     "gate_fail": 0.0
+    }
+   },
+   "n_complete": 40,
+   "all_14_unchanged": 0.0,
+   "counts_exact_4_4_6": 0.0,
+   "supported": [
+    2,
+    2
+   ],
+   "contradicted": [
+    5,
+    6
+   ],
+   "silent": [
+    6,
+    7
+   ],
+   "supported_mean": 2.0,
+   "contradicted_mean": 5.175,
+   "silent_mean": 6.825,
+   "p_median": 0.0004894438617814854,
+   "p_95": 0.001739324945948506,
+   "p_max": 0.002168782086969992,
+   "share_p_lt_001": 0.875,
+   "non_optimal": 0,
+   "secs": 5005.84
+  },
+  "RA": {
+   "per_text": {
+    "isidorus_chronica_maiora": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "partly_silent": 40
+     },
+     "gate_fail": 0.0
+    },
+    "claudianus_raptus_proserpinae": {
+     "n": 40,
+     "unchanged": 0.975,
+     "dist": {
+      "partly_silent": 39,
+      "supported": 1
+     },
+     "gate_fail": 0.0
+    },
+    "prosper_epitoma_chronicon": {
+     "n": 40,
+     "unchanged": 0.6,
+     "dist": {
+      "partly_silent": 16,
+      "contradicted": 24
+     },
+     "gate_fail": 0.0
+    },
+    "historia_brittonum": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "partly_silent": 40
+     },
+     "gate_fail": 0.0
+    },
+    "isidorus_historia_gothorum": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "partly_silent": 40
+     },
+     "gate_fail": 0.0
+    },
+    "fortunatus_vita_martini": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "contradicted": 40
+     },
+     "gate_fail": 0.0
+    },
+    "claudianus_maior": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "partly_silent": 40
+     },
+     "gate_fail": 0.0
+    },
+    "sidonius_carmina": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "supported": 40
+     },
+     "gate_fail": 0.0
+    },
+    "ennodius_opera": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "contradicted": 40
+     },
+     "gate_fail": 0.0
+    },
+    "paulus_historia_romana": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "contradicted": 40
+     },
+     "gate_fail": 0.0
+    },
+    "victor_vitensis_historia": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "supported": 40
+     },
+     "gate_fail": 0.0
+    },
+    "jordanes_romana": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "partly_silent": 40
+     },
+     "gate_fail": 0.0
+    },
+    "eugippius_vita_severini": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "supported": 40
+     },
+     "gate_fail": 0.0
+    },
+    "marcellinus_comes_chronicon": {
+     "n": 40,
+     "unchanged": 1.0,
+     "dist": {
+      "supported": 40
+     },
+     "gate_fail": 0.0
+    }
+   },
+   "n_complete": 40,
+   "all_14_unchanged": 0.575,
+   "counts_exact_4_4_6": 0.575,
+   "supported": [
+    4,
+    5
+   ],
+   "contradicted": [
+    3,
+    4
+   ],
+   "silent": [
+    5,
+    7
+   ],
+   "supported_mean": 4.025,
+   "contradicted_mean": 3.6,
+   "silent_mean": 6.375,
+   "p_median": 7.570286485898453e-08,
+   "p_95": 1.948289371881083e-07,
+   "p_max": 5.225068766937474e-07,
+   "share_p_lt_001": 1.0,
+   "non_optimal": 0,
+   "secs": 2681.11
+  }
+ }
+}

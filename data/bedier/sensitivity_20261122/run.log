@@ -1,0 +1,5 @@
+28000 jobs
+0 250 s
+500 1228 s
+.../multiprocessing/resource_tracker.py:479: UserWarning: resource_tracker: There appear to be 6 leaked semaphore objects to clean up at shutdown: {'/mp-oib2djeq', '/mp-67solon1', '/mp-sqxzrfak', '/mp-fv546a5x', '/mp-l5yln5bu', '/mp-eoz5tdvz'}
+  warnings.warn(

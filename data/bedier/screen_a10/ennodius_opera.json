@@ -1,0 +1,21 @@
+{
+ "stemma_witnesses": "BVLTCOP",
+ "cited": {
+  "B": 6334,
+  "V": 2076,
+  "L": 1028,
+  "T": 571,
+  "C": 786,
+  "O": 49,
+  "P": 532
+ },
+ "analysis_witnesses": "BVLTCOP",
+ "units_with_shared_departure": 1321,
+ "included": true,
+ "exclusion": [],
+ "editor_top": [
+  "B",
+  "VLTCOP"
+ ],
+ "k_E": 2
+}

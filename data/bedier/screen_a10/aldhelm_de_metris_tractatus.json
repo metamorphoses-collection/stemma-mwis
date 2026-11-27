@@ -1,0 +1,19 @@
+{
+ "stemma_witnesses": "KSNAF",
+ "cited": {
+  "K": 1161,
+  "S": 127,
+  "N": 848,
+  "A": 923,
+  "F": 1149
+ },
+ "analysis_witnesses": "KSNAF",
+ "units_with_shared_departure": 384,
+ "included": true,
+ "exclusion": [],
+ "editor_top": [
+  "KS",
+  "NAF"
+ ],
+ "k_E": 2
+}

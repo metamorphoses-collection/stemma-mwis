@@ -1,0 +1,131 @@
+{
+ "trials": [
+  {
+   "n": 5,
+   "edges": 8,
+   "failures": 0
+  },
+  {
+   "n": 5,
+   "edges": 8,
+   "failures": 0
+  },
+  {
+   "n": 5,
+   "edges": 8,
+   "failures": 0
+  },
+  {
+   "n": 5,
+   "edges": 8,
+   "failures": 0
+  },
+  {
+   "n": 5,
+   "edges": 8,
+   "failures": 0
+  },
+  {
+   "n": 5,
+   "edges": 8,
+   "failures": 0
+  },
+  {
+   "n": 5,
+   "edges": 8,
+   "failures": 0
+  },
+  {
+   "n": 5,
+   "edges": 8,
+   "failures": 0
+  },
+  {
+   "n": 6,
+   "edges": 10,
+   "failures": 0
+  },
+  {
+   "n": 6,
+   "edges": 10,
+   "failures": 0
+  },
+  {
+   "n": 6,
+   "edges": 10,
+   "failures": 0
+  },
+  {
+   "n": 6,
+   "edges": 10,
+   "failures": 0
+  },
+  {
+   "n": 6,
+   "edges": 10,
+   "failures": 0
+  },
+  {
+   "n": 6,
+   "edges": 10,
+   "failures": 0
+  },
+  {
+   "n": 6,
+   "edges": 10,
+   "failures": 0
+  },
+  {
+   "n": 6,
+   "edges": 10,
+   "failures": 0
+  },
+  {
+   "n": 7,
+   "edges": 12,
+   "failures": 0
+  },
+  {
+   "n": 7,
+   "edges": 12,
+   "failures": 0
+  },
+  {
+   "n": 7,
+   "edges": 12,
+   "failures": 0
+  },
+  {
+   "n": 7,
+   "edges": 12,
+   "failures": 0
+  },
+  {
+   "n": 7,
+   "edges": 12,
+   "failures": 0
+  },
+  {
+   "n": 7,
+   "edges": 12,
+   "failures": 0
+  },
+  {
+   "n": 7,
+   "edges": 12,
+   "failures": 0
+  },
+  {
+   "n": 7,
+   "edges": 12,
+   "failures": 0
+  }
+ ],
+ "coincident_false_cases": 554,
+ "quartet": {
+  "m13": true,
+  "m14_zero": true,
+  "m12_leading": true
+ },
+ "ok": true
+}

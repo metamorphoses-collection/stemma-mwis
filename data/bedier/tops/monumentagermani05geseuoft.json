@@ -1,0 +1,473 @@
+{
+ "volume": "AA 5",
+ "ia_id": "monumentagermani05geseuoft",
+ "texts": [
+  {
+   "volume": "AA 5",
+   "ia_id": "monumentagermani05geseuoft",
+   "text_id": "jordanes_romana",
+   "work": "Iordanes, De summa temporum vel origine actibusque gentis Romanorum (Romana)",
+   "editor": "Th. Mommsen",
+   "year": 1882,
+   "text_lines": [
+    4133,
+    8251
+   ],
+   "preface_lines": [
+    2372,
+    4041
+   ],
+   "sigla": [
+    {
+     "siglum": "H",
+     "manuscript": "Heidelbergensis 921 (Romana from p. 7,20)",
+     "date_if_given": "s. VIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "P",
+     "manuscript": "Vaticanus Palatinus 920",
+     "date_if_given": "s. X (corrigenda: s. IX)",
+     "role": "direct"
+    },
+    {
+     "siglum": "V",
+     "manuscript": "Valenciennensis 88",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "L",
+     "manuscript": "Laurentianus plut. 65,35 (lacunose in Romana)",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "S",
+     "manuscript": "Epitome Phillippsiana (Cheltenham), excerpts, class II",
+     "date_if_given": "s. IX",
+     "role": "indirect"
+    },
+    {
+     "siglum": "Par.",
+     "manuscript": "Parisinus lat. 4860 (from lost Augiensis; recensio rejected, cited rarely)",
+     "date_if_given": "c. a. 940",
+     "role": "direct"
+    },
+    {
+     "siglum": "Florus/Paulus/Frechulfus",
+     "manuscript": "Florus (source), Paulus Diaconus, Frechulfus (testimonia in lower margin)",
+     "date_if_given": null,
+     "role": "indirect"
+    }
+   ],
+   "apparatus": "mixed_sigla",
+   "filiation_stated": "verbal",
+   "top_branches": [
+    [
+     "H",
+     "P",
+     "V",
+     "L"
+    ],
+    [
+     "S"
+    ]
+   ],
+   "deeper_groups": [
+    [
+     "H",
+     "P",
+     "V"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 3968,
+     "page": "p. LXXII",
+     "quote": "nam in Romanis cum praeter excerpta Cheltenhamensia non adsint nisi primi ordinis libri, res facilis est et expedita."
+    },
+    {
+     "ocr_line": 3035,
+     "page": "p. LVI",
+     "quote": "Item in Romanis, quae tertius ordo non habet, ex secundo sola excerpta Phillippsiana."
+    },
+    {
+     "ocr_line": 2620,
+     "page": "p. XLIX",
+     "quote": "neque absimile veri est archetypum Laurentiani diversum fuisse ab archetypo librorum HPV et quibusdam locis minus corruptum."
+    }
+   ],
+   "flags": [],
+   "confidence": "low",
+   "notes": "The p. LXXII stemma is stated for the Getica; for the Romana all direct codices are class I and class II survives only in excerpts (S), so the only direct top-level branch is class I. Within class I Mommsen hedges that L derives from an archetype different from that of HPV ('neque absimile veri'); this is the only internal split. Not a pilot text.",
+   "classification_A3": "explicit"
+  },
+  {
+   "volume": "AA 5",
+   "ia_id": "monumentagermani05geseuoft",
+   "text_id": "jordanes_getica",
+   "work": "Iordanes, De origine actibusque Getarum (Getica)",
+   "editor": "Th. Mommsen",
+   "year": 1882,
+   "text_lines": [
+    8252,
+    15576
+   ],
+   "preface_lines": [
+    2372,
+    4041
+   ],
+   "sigla": [
+    {
+     "siglum": "H",
+     "manuscript": "Heidelbergensis 921 (lost in Mommsen's fire 1880)",
+     "date_if_given": "s. VIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "P",
+     "manuscript": "Vaticanus Palatinus 920 (Laureshamensis)",
+     "date_if_given": "s. X (corrigenda: s. IX)",
+     "role": "direct"
+    },
+    {
+     "siglum": "V",
+     "manuscript": "Valenciennensis 88 (olim S. Amandi)",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "L",
+     "manuscript": "Florentinus Laurentianus plut. 65,35",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "L2",
+     "manuscript": "Laurentianus with corrector hand coaeval (L2 in apparatus)",
+     "date_if_given": "s. XI",
+     "role": "corrector_hand"
+    },
+    {
+     "siglum": "A",
+     "manuscript": "Mediolanensis Ambrosianus C 72 inf. (class I, interpolated; from P or its twin)",
+     "date_if_given": "s. XI/XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "S",
+     "manuscript": "Epitome Phillippsiana (Cheltenham 1885/1886), excerpts, class II",
+     "date_if_given": "s. IX",
+     "role": "indirect"
+    },
+    {
+     "siglum": "O",
+     "manuscript": "Vaticanus Ottobonianus 1346",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "B",
+     "manuscript": "Breslaviensis Rehdigeranus 106",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "X",
+     "manuscript": "Atrebatensis (lost; known from Rosweyde's collation)",
+     "date_if_given": null,
+     "role": "direct"
+    },
+    {
+     "siglum": "Y",
+     "manuscript": "Cantabrigiensis Trinity College O. 4. 36 (olim Gale 64)",
+     "date_if_given": "s. XI ex.",
+     "role": "direct"
+    },
+    {
+     "siglum": "Z",
+     "manuscript": "Berolinensis lat. fol. 359 (olim Laetiensis)",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "Vind.",
+     "manuscript": "Vindobonensis 203 (contaminated from classes II and I; cited occasionally)",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "Duac.",
+     "manuscript": "Duacensis 753 excerpts (class III, cited occasionally)",
+     "date_if_given": "s. X/XI",
+     "role": "indirect"
+    },
+    {
+     "siglum": "Rav.",
+     "manuscript": "Geographus Ravennas (testimonia)",
+     "date_if_given": null,
+     "role": "indirect"
+    },
+    {
+     "siglum": "Paulus/Frechulfus/Landolfus",
+     "manuscript": "Paulus Diaconus Hist. Rom., Frechulfus, Landolfus Sagax (excerpts, lower margin)",
+     "date_if_given": null,
+     "role": "indirect"
+    }
+   ],
+   "apparatus": "mixed_sigla",
+   "filiation_stated": "diagram",
+   "top_branches": [
+    [
+     "H",
+     "P",
+     "V",
+     "L",
+     "A",
+     "O",
+     "B"
+    ],
+    [
+     "X",
+     "Y",
+     "Z"
+    ]
+   ],
+   "deeper_groups": [
+    [
+     "H",
+     "P",
+     "V",
+     "L",
+     "A"
+    ],
+    [
+     "O",
+     "B"
+    ],
+    [
+     "P",
+     "A"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 3988,
+     "page": "p. LXXII",
+     "quote": "nam stemma codicum, quod ex supra positis efficitur, hoc fere est: archetypum commune | archetypum ordinum primi et secundi | archetypum ordinis tertii | archetypum ordinis primi | archetypum ordinis secundi"
+    },
+    {
+     "ocr_line": 4005,
+     "page": "p. LXXII",
+     "quote": "libera electio est non solum ibi, ubi tres ordines dissentiunt, sed ibi quoque, ubi ab una parte stant HPVLASOB contra XYZ: e contrario ubicumque aut HPVLAXYZ stant contra SOB aut SOBXYZ contra HPVLA, classis solitaria vincitur."
+    },
+    {
+     "ocr_line": 4033,
+     "page": "p. LXXIII n. 114",
+     "quote": "ex corruptela in archetypo primi secundique ei substituta ... natae sunt lectiones interpolatae ambae classis secundae ouium, classis primae ouium auiumque."
+    },
+    {
+     "ocr_line": 2680,
+     "page": "p. L",
+     "quote": "habuit igitur codicis Ambrosiani librarius archetypum optimis accensendum aut ipsum Palatinum aut gemellum eius"
+    }
+   ],
+   "flags": [
+    "pilot_text",
+    "diagram_garbled_in_ocr"
+   ],
+   "confidence": "high",
+   "notes": "Stemma diagram (p. LXXII) OCR-garbled but its node labels survive and the following sentence (HPVLASOB vs XYZ) confirms the top split: classes I+II under a common sub-archetype vs class III. S (Phillipps epitome) is class II but excerpts; Vind. 203 contaminated I/II. Check Y/Z siglum assignment (Y=Cantabrigiensis, Z=Berolinensis) against the notarum index image.",
+   "classification_A3": "explicit"
+  },
+  {
+   "volume": "AA 5 pars posterior",
+   "ia_id": "monumentagermani05geseuoft",
+   "text_id": "ausonius_opuscula",
+   "work": "D. Magnus Ausonius, Opuscula",
+   "editor": "C. Schenkl",
+   "year": 1883,
+   "text_lines": [
+    33214,
+    55049
+   ],
+   "preface_lines": [
+    29378,
+    31950
+   ],
+   "sigla": [
+    {
+     "siglum": "T",
+     "manuscript": "Tilianus = Leidensis Vossianus Q 107 (prius genus)",
+     "date_if_given": "s. XV",
+     "role": "direct"
+    },
+    {
+     "siglum": "M",
+     "manuscript": "Magliabecchianus I 6, 29 (prius genus)",
+     "date_if_given": null,
+     "role": "direct"
+    },
+    {
+     "siglum": "λ",
+     "manuscript": "Laurentianus LI 13, Magliabecchiani apographum (OCR siglum uncertain)",
+     "date_if_given": null,
+     "role": "direct"
+    },
+    {
+     "siglum": "ω (deteriores)",
+     "manuscript": "prius genus deteriores: Escorialensis III S 25 (e), Regius Kings 31 (k), Laurentianus XXXIII 19 (l), Magliabecchianus VII 8,315 (m), Patavinus C 64 (p), Perusinus J 102 (p2), Urbinas 649 (u), Vaticanus 1611 (v), Vaticanus 3152 (v2); group siglum garbled in OCR",
+     "date_if_given": "s. XV",
+     "role": "direct"
+    },
+    {
+     "siglum": "b2/y/g2/μ/p3",
+     "manuscript": "codices excerptorum (Barberinus 815, Augustanus 10.9, Gudianus 145, Marcianus XII 8, Parisinus 18275)",
+     "date_if_given": null,
+     "role": "indirect"
+    },
+    {
+     "siglum": "a/h2/p4",
+     "manuscript": "apographa librorum impressorum (Ambrosianus P 83 sup., Harleianus 2578, Parisinus 8284)",
+     "date_if_given": null,
+     "role": "indirect"
+    },
+    {
+     "siglum": "C",
+     "manuscript": "Cantabrigiensis 2070 (univ. Kk. V 34)",
+     "date_if_given": null,
+     "role": "direct"
+    },
+    {
+     "siglum": "E/Med./Ven./Ug./Par./Iunt./Ald./Basil./Lugd.",
+     "manuscript": "early editions (ed. princeps 1472 etc.)",
+     "date_if_given": null,
+     "role": "indirect"
+    },
+    {
+     "siglum": "V",
+     "manuscript": "Leidensis Vossianus lat. F 111 (alterum genus)",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "P",
+     "manuscript": "Parisinus lat. 8500 (alterum genus)",
+     "date_if_given": "s. XIV",
+     "role": "direct"
+    },
+    {
+     "siglum": "h",
+     "manuscript": "Harleianus 2613 (from P)",
+     "date_if_given": "s. XV",
+     "role": "direct"
+    },
+    {
+     "siglum": "Q",
+     "manuscript": "Leidensis Vossianus Q 33 (Technopaegnion only; from same archetype as VP)",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "π/β/n",
+     "manuscript": "Paulinus codices: Parisinus 7558 (s. IX), Bruxellensis 10703/5 (s. XII), Parisinus 2122 Puteaneus (s. X) (epistulae ad Paulinum; OCR sigla garbled)",
+     "date_if_given": null,
+     "role": "direct"
+    },
+    {
+     "siglum": "G",
+     "manuscript": "Sangallensis 899 (Mosella florilegium)",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "B",
+     "manuscript": "Bruxellensis 5369/73 (Gemblacensis)",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "W",
+     "manuscript": "Parisinus 4887 eiusque apographa",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "R",
+     "manuscript": "Regius mus. Brit. 15 B XIX (few pieces)",
+     "date_if_given": null,
+     "role": "direct"
+    },
+    {
+     "siglum": "Z",
+     "manuscript": "consensus siglum used in apparatus (e.g. 'GBWZ')",
+     "date_if_given": null,
+     "role": "direct"
+    }
+   ],
+   "apparatus": "negative_sigla",
+   "filiation_stated": "verbal",
+   "top_branches": [
+    [
+     "T",
+     "M",
+     "λ",
+     "ω (deteriores)",
+     "C"
+    ],
+    [
+     "V",
+     "P",
+     "h",
+     "Q",
+     "π/β/n",
+     "G",
+     "B",
+     "W",
+     "R"
+    ]
+   ],
+   "deeper_groups": [
+    [
+     "V",
+     "P",
+     "h",
+     "Q"
+    ],
+    [
+     "G",
+     "B",
+     "W"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 29377,
+     "page": "p. XVIII",
+     "quote": "Duo sunt codicum genera, quibus Ausonii opuscula ad nostram memoriam pervenerunt. utroque non omnes Ausonii libelli continentur, sed excerpta ex corpore ampliore."
+    },
+    {
+     "ocr_line": 30661,
+     "page": "p. XL",
+     "quote": "ceterum Parisinum et Vossianum ex communi fonte fluxisse scripturae in utroque consensus ostendit."
+    },
+    {
+     "ocr_line": 33096,
+     "page": "p. LXIII (index librorum)",
+     "quote": "Prius codicum genus: T Tilianus ... M Magliabecchianus ... Alterum codicum genus: V Vossianus 111 ... P Parisinus 8500"
+    }
+   ],
+   "flags": [
+    "multiple_sections_different_witnesses",
+    "several_archetypes"
+   ],
+   "confidence": "low",
+   "notes": "Schenkl divides witnesses into two genera, but each is an anthology of different opuscula drawn from a fuller corpus; the 'alterum genus' lumps the V/P florilegium, the Paulinus codices and a separate Mosella/Caesares florilegium (G B W) with no common sub-archetype asserted. No single stemma; witness sets differ poem by poem, so any top division must be set per opusculum. Several OCR sigla in the index (lines 33092-33200) are garbled.",
+   "classification_A3": "undecided"
+  }
+ ],
+ "skipped": [],
+ "reader": "agent",
+ "date": "2026-11-13"
+}

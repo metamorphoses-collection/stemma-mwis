@@ -1,0 +1,26 @@
+{
+ "stemma_witnesses": "NPLRFGDVMEBT",
+ "cited": {
+  "N": 666,
+  "P": 74,
+  "L": 1374,
+  "R": 1605,
+  "F": 450,
+  "G": 181,
+  "D": 28,
+  "V": 30,
+  "M": 26,
+  "E": 54,
+  "B": 12,
+  "T": 40
+ },
+ "analysis_witnesses": "NPLRFGVET",
+ "units_with_shared_departure": 672,
+ "included": true,
+ "exclusion": [],
+ "editor_top": [
+  "NPRFGVET",
+  "L"
+ ],
+ "k_E": 2
+}

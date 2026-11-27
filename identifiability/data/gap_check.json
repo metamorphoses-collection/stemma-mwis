@@ -1,0 +1,24 @@
+{
+ "lemma_passed": true,
+ "instances": 8125,
+ "lai_top_supports": [
+  176,
+  41,
+  38,
+  24,
+  23,
+  13,
+  13,
+  10
+ ],
+ "lai_largest_gap": [
+  41,
+  176
+ ],
+ "lai_kept_by_gap_rule": [
+  [
+   "CG",
+   176
+  ]
+ ]
+}

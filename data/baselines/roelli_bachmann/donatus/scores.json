@@ -1,0 +1,18 @@
+{
+ "roelli_bachmann": {
+  "families_in_tree": 51,
+  "editor_families_exact": 9,
+  "which": [
+   "kappa",
+   "lambda",
+   "mu",
+   "omicron",
+   "phi",
+   "pi",
+   "rho",
+   "sigma",
+   "upsilon"
+  ],
+  "editor_families_among_all_splits": 9
+ }
+}

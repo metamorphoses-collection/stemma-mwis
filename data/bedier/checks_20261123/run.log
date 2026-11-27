@@ -1,0 +1,228 @@
+maj_all      ennodius_opera                   contradicted   (frozen contradicted) units 1287 1s
+maj_span     ennodius_opera                   contradicted   (frozen contradicted) units 1284 1s
+printed      ennodius_opera                   contradicted   (frozen contradicted) units 1321 1s
+maj_span     claudianus_maior                 partly_silent  (frozen partly_silent) units 1688 1s
+printed      claudianus_maior                 partly_silent  (frozen partly_silent) units 1692 2s
+maj_all      claudianus_maior                 partly_silent  (frozen partly_silent) units 1692 2s
+maj_all      historia_brittonum               contradicted   (frozen partly_silent) units 1359 3s
+maj_span     historia_brittonum               contradicted   (frozen partly_silent) units 1353 3s
+printed      historia_brittonum               partly_silent  (frozen partly_silent) units 1360 3s
+nosp_broad   historia_brittonum               partly_silent  (frozen partly_silent) units 1301 3s
+nosp_strict  historia_brittonum               partly_silent  (frozen partly_silent) units 1337 3s
+printed      sidonius_carmina                 supported      (frozen supported) units 391 0s
+nosp_strict  claudianus_maior                 partly_silent  (frozen partly_silent) units 1385 4s
+nosp_broad   claudianus_maior                 partly_silent  (frozen partly_silent) units 1340 4s
+printed      victor_vitensis_historia         supported      (frozen supported) units 713 0s
+printed      jordanes_romana                  partly_silent  (frozen partly_silent) units 310 0s
+printed      paulus_historia_romana           contradicted   (frozen contradicted) units 689 1s
+printed      eugippius_vita_severini          supported      (frozen supported) units 335 0s
+printed      marcellinus_comes_chronicon      supported      (frozen supported) units 219 0s
+printed      fortunatus_vita_martini          contradicted   (frozen contradicted) units 687 2s
+nosp_strict  ennodius_opera                   contradicted   (frozen contradicted) units 1228 4s
+nosp_union   historia_brittonum               partly_silent  (frozen partly_silent) units 1293 4s
+printed      isidorus_historia_gothorum       partly_silent  (frozen partly_silent) units 464 2s
+maj_all      sidonius_carmina                 partly_silent  (frozen supported) units 299 0s
+maj_all      victor_vitensis_historia         partly_silent  (frozen supported) units 616 0s
+maj_all      jordanes_romana                  partly_silent  (frozen partly_silent) units 157 0s
+maj_all      marcellinus_comes_chronicon      contradicted   (frozen supported) units 159 0s
+maj_all      eugippius_vita_severini          partly_silent  (frozen supported) units 256 0s
+maj_all      paulus_historia_romana           contradicted   (frozen contradicted) units 680 1s
+nosp_union   claudianus_maior                 partly_silent  (frozen partly_silent) units 1327 4s
+nosp_broad   ennodius_opera                   partly_silent  (frozen contradicted) units 997 5s
+maj_all      isidorus_historia_gothorum       partly_silent  (frozen partly_silent) units 464 2s
+maj_span     sidonius_carmina                 partly_silent  (frozen supported) units 276 0s
+maj_all      fortunatus_vita_martini          contradicted   (frozen contradicted) units 687 1s
+maj_span     victor_vitensis_historia         partly_silent  (frozen supported) units 512 0s
+nosp_union   ennodius_opera                   partly_silent  (frozen contradicted) units 938 5s
+maj_span     jordanes_romana                  partly_silent  (frozen partly_silent) units 156 0s
+maj_span     eugippius_vita_severini          partly_silent  (frozen supported) units 139 0s
+maj_span     marcellinus_comes_chronicon      contradicted   (frozen supported) units 159 0s
+maj_span     paulus_historia_romana           contradicted   (frozen contradicted) units 680 1s
+maj_span     isidorus_historia_gothorum       partly_silent  (frozen partly_silent) units 453 2s
+maj_span     fortunatus_vita_martini          contradicted   (frozen contradicted) units 686 1s
+printed      prosper_epitoma_chronicon        contradicted   (frozen contradicted) units 808 5s
+printed      claudianus_raptus_proserpinae    partly_silent  (frozen partly_silent) units 581 6s
+nosp_strict  sidonius_carmina                 supported      (frozen supported) units 284 1s
+maj_all      prosper_epitoma_chronicon        contradicted   (frozen contradicted) units 808 4s
+nosp_strict  fortunatus_vita_martini          contradicted   (frozen contradicted) units 630 2s
+nosp_strict  paulus_historia_romana           contradicted   (frozen contradicted) units 660 2s
+nosp_strict  isidorus_historia_gothorum       partly_silent  (frozen partly_silent) units 447 2s
+nosp_strict  jordanes_romana                  partly_silent  (frozen partly_silent) units 262 1s
+nosp_strict  marcellinus_comes_chronicon      supported      (frozen supported) units 186 0s
+maj_all      claudianus_raptus_proserpinae    partly_silent  (frozen partly_silent) units 579 5s
+nosp_strict  victor_vitensis_historia         supported      (frozen supported) units 615 1s
+nosp_strict  eugippius_vita_severini          supported      (frozen supported) units 298 1s
+maj_span     prosper_epitoma_chronicon        contradicted   (frozen contradicted) units 808 4s
+nosp_strict  claudianus_raptus_proserpinae    partly_silent  (frozen partly_silent) units 405 3s
+maj_span     claudianus_raptus_proserpinae    partly_silent  (frozen partly_silent) units 579 5s
+nosp_broad   sidonius_carmina                 supported      (frozen supported) units 252 1s
+nosp_broad   jordanes_romana                  partly_silent  (frozen partly_silent) units 193 1s
+nosp_broad   eugippius_vita_severini          supported      (frozen supported) units 276 1s
+nosp_broad   victor_vitensis_historia         supported      (frozen supported) units 534 1s
+nosp_broad   isidorus_historia_gothorum       partly_silent  (frozen partly_silent) units 368 2s
+nosp_broad   paulus_historia_romana           contradicted   (frozen contradicted) units 563 2s
+nosp_broad   marcellinus_comes_chronicon      supported      (frozen supported) units 153 0s
+nosp_broad   fortunatus_vita_martini          contradicted   (frozen contradicted) units 510 2s
+nosp_union   sidonius_carmina                 supported      (frozen supported) units 249 1s
+nosp_strict  prosper_epitoma_chronicon        contradicted   (frozen contradicted) units 766 6s
+nosp_broad   claudianus_raptus_proserpinae    partly_silent  (frozen partly_silent) units 397 3s
+nosp_union   fortunatus_vita_martini          contradicted   (frozen contradicted) units 407 2s
+nosp_union   isidorus_historia_gothorum       partly_silent  (frozen partly_silent) units 365 2s
+nosp_union   jordanes_romana                  partly_silent  (frozen partly_silent) units 190 1s
+nosp_union   eugippius_vita_severini          supported      (frozen supported) units 276 1s
+nosp_union   marcellinus_comes_chronicon      supported      (frozen supported) units 149 0s
+nosp_union   victor_vitensis_historia         supported      (frozen supported) units 528 1s
+nosp_union   paulus_historia_romana           contradicted   (frozen contradicted) units 561 2s
+nosp_union   claudianus_raptus_proserpinae    partly_silent  (frozen partly_silent) units 397 3s
+nosp_broad   prosper_epitoma_chronicon        contradicted   (frozen contradicted) units 710 5s
+nosp_union   prosper_epitoma_chronicon        contradicted   (frozen contradicted) units 706 6s
+nosp_broad   isidorus_chronica_maiora         partly_silent  (frozen partly_silent) units 1005 23s
+nosp_union   isidorus_chronica_maiora         partly_silent  (frozen partly_silent) units 1004 24s
+nosp_strict  isidorus_chronica_maiora         partly_silent  (frozen partly_silent) units 1149 34s
+printed      isidorus_chronica_maiora         partly_silent  (frozen partly_silent) units 1228 42s
+maj_all      isidorus_chronica_maiora         partly_silent  (frozen partly_silent) units 1228 41s
+maj_span     isidorus_chronica_maiora         partly_silent  (frozen partly_silent) units 1228 41s
+{
+ "printed": {
+  "score_sum": {
+   "observed": 13,
+   "null_mean": 3.210822940389504,
+   "p_one_sided": 1.36625753542501e-05
+  },
+  "n_supported": {
+   "observed": 4,
+   "null_mean": 0.942901542901543,
+   "p_one_sided": 0.004644736216164788
+  },
+  "n_not_contradicted": {
+   "observed": 9,
+   "null_mean": 2.267921397487961,
+   "p_one_sided": 8.01237328005373e-07
+  },
+  "median_share_random_contradicted": 0.8571428571428571,
+  "n_texts": 13,
+  "editor_counts": {
+   "partly_silent": 6,
+   "contradicted": 4,
+   "supported": 4
+  }
+ },
+ "maj_all": {
+  "score_sum": {
+   "observed": 7,
+   "null_mean": 3.29681472638129,
+   "p_one_sided": 0.0025387976262593046
+  },
+  "n_supported": {
+   "observed": 0,
+   "null_mean": 6.660006660006661e-05,
+   "p_one_sided": 1.0
+  },
+  "n_not_contradicted": {
+   "observed": 7,
+   "null_mean": 3.2967481263146894,
+   "p_one_sided": 0.0025310740339557756
+  },
+  "median_share_random_contradicted": 0.8,
+  "n_texts": 13,
+  "editor_counts": {
+   "partly_silent": 8,
+   "contradicted": 6
+  }
+ },
+ "maj_span": {
+  "score_sum": {
+   "observed": 7,
+   "null_mean": 3.4968147263812903,
+   "p_one_sided": 0.003345530728523467
+  },
+  "n_supported": {
+   "observed": 0,
+   "null_mean": 6.660006660006661e-05,
+   "p_one_sided": 1.0
+  },
+  "n_not_contradicted": {
+   "observed": 7,
+   "null_mean": 3.496748126314691,
+   "p_one_sided": 0.0033361019826993214
+  },
+  "median_share_random_contradicted": 0.8,
+  "n_texts": 13,
+  "editor_counts": {
+   "partly_silent": 8,
+   "contradicted": 6
+  }
+ },
+ "nosp_strict": {
+  "score_sum": {
+   "observed": 13,
+   "null_mean": 3.067965797532361,
+   "p_one_sided": 6.496727706742376e-07
+  },
+  "n_supported": {
+   "observed": 4,
+   "null_mean": 0.8000444000444,
+   "p_one_sided": 0.0012510545010545014
+  },
+  "n_not_contradicted": {
+   "observed": 9,
+   "null_mean": 2.267921397487961,
+   "p_one_sided": 8.01237328005373e-07
+  },
+  "median_share_random_contradicted": 0.8571428571428571,
+  "n_texts": 13,
+  "editor_counts": {
+   "partly_silent": 6,
+   "contradicted": 4,
+   "supported": 4
+  }
+ },
+ "nosp_broad": {
+  "score_sum": {
+   "observed": 14,
+   "null_mean": 3.3536800832466467,
+   "p_one_sided": 2.570481704012527e-08
+  },
+  "n_supported": {
+   "observed": 4,
+   "null_mean": 0.8000444000444,
+   "p_one_sided": 0.0012510545010545016
+  },
+  "n_not_contradicted": {
+   "observed": 10,
+   "null_mean": 2.553635683202247,
+   "p_one_sided": 2.5896721530063065e-08
+  },
+  "median_share_random_contradicted": 0.8,
+  "n_texts": 13,
+  "editor_counts": {
+   "partly_silent": 7,
+   "contradicted": 3,
+   "supported": 4
+  }
+ },
+ "nosp_union": {
+  "score_sum": {
+   "observed": 14,
+   "null_mean": 3.3536800832466467,
+   "p_one_sided": 2.570481704012527e-08
+  },
+  "n_supported": {
+   "observed": 4,
+   "null_mean": 0.8000444000444,
+   "p_one_sided": 0.0012510545010545016
+  },
+  "n_not_contradicted": {
+   "observed": 10,
+   "null_mean": 2.553635683202247,
+   "p_one_sided": 2.5896721530063065e-08
+  },
+  "median_share_random_contradicted": 0.8,
+  "n_texts": 13,
+  "editor_counts": {
+   "partly_silent": 7,
+   "contradicted": 3,
+   "supported": 4
+  }
+ }
+}

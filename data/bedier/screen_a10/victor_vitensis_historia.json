@@ -1,0 +1,19 @@
+{
+ "stemma_witnesses": "ABLRV",
+ "cited": {
+  "A": 156,
+  "B": 779,
+  "L": 834,
+  "R": 956,
+  "V": 870
+ },
+ "analysis_witnesses": "ABLRV",
+ "units_with_shared_departure": 713,
+ "included": true,
+ "exclusion": [],
+ "editor_top": [
+  "BLV",
+  "R"
+ ],
+ "k_E": 2
+}

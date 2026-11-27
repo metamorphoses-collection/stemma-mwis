@@ -1,0 +1,7 @@
+A gap 0.0616 freq [0.59, 0.94, 1.0, 1.0] pass True
+A gap 0.04 freq [0.37, 0.91, 1.0, 1.0] pass True
+A gap 0.0403 freq [0.52, 0.87, 1.0, 1.0] pass True
+B gap -0.0338 freq [0.06, 0.04, 0.03, 0.0] pass True
+B gap -0.1275 freq [0.02, 0.0, 0.0, 0.0] pass True
+B gap -0.0974 freq [0.06, 0.0, 0.0, 0.0] pass True
+{'passed': True, 'instances_found': {'A': 3, 'B': 3}, 'reps': 100}

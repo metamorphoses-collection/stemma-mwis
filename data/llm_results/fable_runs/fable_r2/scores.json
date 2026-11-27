@@ -1,0 +1,15 @@
+[
+ {
+  "dataset": "heinrichi",
+  "model": "anthropic_claude-fable-5.2",
+  "seconds": 922.5,
+  "cost": 3.826872,
+  "tokens_out": 90762,
+  "families_given": 29,
+  "families_kept": 29,
+  "crossing_dropped": 0,
+  "unknown_ids": 0,
+  "valid": true,
+  "skeleton": 82.04
+ }
+]

@@ -1,0 +1,8 @@
+CONSPECTVS CODICVM.
+H = cod. Bambergensis 513 membr. saec. X vel IX.
+V = cod. Vaticanus 3339 membr. saec. XI.
+N = cod. Laurentianus 65, 35 membr. saec. XI.
+Z = cod. Vaticanus 7312 membr. saec. XII.
+M = cod. Monacensis 3516 (Aug. civ. 16) membr. saec. X.
+B = cod. Berolinensis Lat. IV. 1. membr. saec. XII.
+L = cod. Palatinus 909 Landolfi.

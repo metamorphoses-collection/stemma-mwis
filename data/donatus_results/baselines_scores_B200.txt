@@ -1,0 +1,6 @@
+pars_plain.nwk families  51  exact 9/12  nested-or-equal 30/51  nu=0.758 mu=✓ xi=0.9 tau=0.875 phi=✓ kappa=✓ upsilon=✓ omicron=✓ rho=✓ sigma=✓ lambda=✓ pi=✓
+pars_t0.3.nwk families  51  exact 10/12  nested-or-equal 35/51  nu=0.758 mu=✓ xi=✓ tau=✓ phi=✓ kappa=✓ upsilon=0.75 omicron=✓ rho=✓ sigma=✓ lambda=✓ pi=✓
+pars_t0.5.nwk families  51  exact 9/12  nested-or-equal 31/51  nu=0.758 mu=✓ xi=✓ tau=0.875 phi=✓ kappa=✓ upsilon=0.75 omicron=✓ rho=✓ sigma=✓ lambda=✓ pi=✓
+pars_t0.7.nwk families  51  exact 9/12  nested-or-equal 28/51  nu=0.758 mu=✓ xi=✓ tau=0.875 phi=✓ kappa=✓ upsilon=0.75 omicron=✓ rho=✓ sigma=✓ lambda=✓ pi=✓
+pars_t0.8.nwk families  51  exact 10/12  nested-or-equal 30/51  nu=0.758 mu=✓ xi=✓ tau=0.875 phi=✓ kappa=✓ upsilon=✓ omicron=✓ rho=✓ sigma=✓ lambda=✓ pi=✓
+pars_t0.9.nwk families  51  exact 10/12  nested-or-equal 30/51  nu=0.758 mu=✓ xi=✓ tau=0.875 phi=✓ kappa=✓ upsilon=✓ omicron=✓ rho=✓ sigma=✓ lambda=✓ pi=✓

@@ -1,0 +1,20 @@
+{
+ "stemma_witnesses": "HVBNZM",
+ "cited": {
+  "H": 365,
+  "V": 556,
+  "B": 441,
+  "N": 802,
+  "Z": 614,
+  "M": 454
+ },
+ "analysis_witnesses": "HVBNZM",
+ "units_with_shared_departure": 689,
+ "included": true,
+ "exclusion": [],
+ "editor_top": [
+  "HVBM",
+  "NZ"
+ ],
+ "k_E": 2
+}

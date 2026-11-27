@@ -1,0 +1,24 @@
+{
+ "stemma_witnesses": "ACPMDGVBLRF",
+ "cited": {
+  "A": 2014,
+  "C": 2648,
+  "P": 1390,
+  "M": 2302,
+  "D": 1946,
+  "G": 2007,
+  "V": 397,
+  "B": 1442,
+  "L": 1699,
+  "R": 1736,
+  "F": 894
+ },
+ "analysis_witnesses": "ACPMDGVBLRF",
+ "units_with_shared_departure": 3026,
+ "included": true,
+ "exclusion": [],
+ "editor_top": [
+  "ACPMDGVBLRF"
+ ],
+ "k_E": 1
+}

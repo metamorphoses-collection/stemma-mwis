@@ -1,0 +1,27 @@
+{
+ "stemma_witnesses": "PMGLEWQTHZ",
+ "cited": {
+  "P": 52,
+  "M": 106,
+  "G": 43,
+  "L": 185,
+  "E": 104,
+  "W": 0,
+  "Q": 0,
+  "T": 192,
+  "H": 1,
+  "Z": 0
+ },
+ "analysis_witnesses": "PMGLET",
+ "units_with_shared_departure": 107,
+ "included": false,
+ "exclusion": [
+  "too thin"
+ ],
+ "editor_top": [
+  "PMG",
+  "LE",
+  "T"
+ ],
+ "k_E": 3
+}

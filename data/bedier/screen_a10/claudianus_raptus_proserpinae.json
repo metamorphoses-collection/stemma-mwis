@@ -1,0 +1,22 @@
+{
+ "stemma_witnesses": "FVSCABDW",
+ "cited": {
+  "F": 685,
+  "V": 189,
+  "S": 850,
+  "C": 499,
+  "A": 442,
+  "B": 262,
+  "D": 383,
+  "W": 519
+ },
+ "analysis_witnesses": "FVSCABDW",
+ "units_with_shared_departure": 581,
+ "included": true,
+ "exclusion": [],
+ "editor_top": [
+  "FVS",
+  "CABDW"
+ ],
+ "k_E": 2
+}

@@ -1,0 +1,360 @@
+{
+ "flow": {
+  "recorded": {
+   "n": 71
+  },
+  "stemma_stated": {
+   "n": 51,
+   "excluded": {
+    "no stemma (A3 none)": 20
+   }
+  },
+  "two_sigla_and_top": {
+   "n": 46,
+   "excluded": {
+    "fewer than 2 single-capital sigla (A4 siglum form)": 5
+   }
+  },
+  "located": {
+   "n": 42,
+   "excluded": {
+    "not located (A7/A8, start or end match < 0.75)": 4
+   }
+  },
+  "screen": {
+   "n": 28,
+   "excluded": {
+    "too thin": 6,
+    "too few witnesses + too thin": 8
+   }
+  },
+  "proof_page": {
+   "n": 21,
+   "excluded": {
+    "proof page fails [new (A10)] P=1.00 R=0.57": 1,
+    "proof page fails [new (A10)] P=0.75 R=0.46": 1,
+    "proof page fails [fresh (A10 repair)] P=0.75 R=1.00": 1,
+    "proof page fails [new (A10)] P=1.00 R=0.33": 1,
+    "proof page fails [rescore (A10, parser v4)] P=0.62 R=0.50": 1,
+    "proof page fails [fresh (A10 repair)] P=0.83 R=1.00": 1,
+    "proof page fails [fresh (A10 repair)] P=0.80 R=0.57": 1
+   }
+  },
+  "primary": {
+   "n": 14,
+   "excluded": {
+    "pilot / case-study edition": 4,
+    "top undecided (reported separately)": 2,
+    "top implied (reported separately)": 1
+   }
+  }
+ },
+ "kinds_at_46": {
+  "explicit": 36,
+  "implied": 5,
+  "undecided": 5
+ },
+ "primary": [
+  "sidonius_carmina",
+  "victor_vitensis_historia",
+  "eugippius_vita_severini",
+  "paulus_historia_romana",
+  "fortunatus_vita_martini",
+  "jordanes_romana",
+  "ennodius_opera",
+  "prosper_epitoma_chronicon",
+  "claudianus_maior",
+  "claudianus_raptus_proserpinae",
+  "marcellinus_comes_chronicon",
+  "isidorus_historia_gothorum",
+  "isidorus_chronica_maiora",
+  "historia_brittonum"
+ ],
+ "log": [
+  {
+   "stage": "stemma_stated",
+   "text": "faustus_aliorumque_epistulae",
+   "reason": "no stemma (A3 none)"
+  },
+  {
+   "stage": "stemma_stated",
+   "text": "salvianus_de_gubernatione_dei",
+   "reason": "no stemma (A3 none)"
+  },
+  {
+   "stage": "stemma_stated",
+   "text": "salvianus_ad_ecclesiam",
+   "reason": "no stemma (A3 none)"
+  },
+  {
+   "stage": "stemma_stated",
+   "text": "vita_albini",
+   "reason": "no stemma (A3 none)"
+  },
+  {
+   "stage": "stemma_stated",
+   "text": "vita_paterni",
+   "reason": "no stemma (A3 none)"
+  },
+  {
+   "stage": "stemma_stated",
+   "text": "vita_marcelli",
+   "reason": "no stemma (A3 none)"
+  },
+  {
+   "stage": "stemma_stated",
+   "text": "vita_amantii",
+   "reason": "no stemma (A3 none)"
+  },
+  {
+   "stage": "stemma_stated",
+   "text": "vita_remedii",
+   "reason": "no stemma (A3 none)"
+  },
+  {
+   "stage": "stemma_stated",
+   "text": "vita_leobini",
+   "reason": "no stemma (A3 none)"
+  },
+  {
+   "stage": "stemma_stated",
+   "text": "vita_maurilii",
+   "reason": "no stemma (A3 none)"
+  },
+  {
+   "stage": "stemma_stated",
+   "text": "passio_dionysii",
+   "reason": "no stemma (A3 none)"
+  },
+  {
+   "stage": "stemma_stated",
+   "text": "computatio_452",
+   "reason": "no stemma (A3 none)"
+  },
+  {
+   "stage": "stemma_stated",
+   "text": "liber_genealogus",
+   "reason": "no stemma (A3 none)"
+  },
+  {
+   "stage": "stemma_stated",
+   "text": "notitia_galliarum",
+   "reason": "no stemma (A3 none)"
+  },
+  {
+   "stage": "stemma_stated",
+   "text": "claudianus_paneg_probino_olybrio",
+   "reason": "no stemma (A3 none)"
+  },
+  {
+   "stage": "stemma_stated",
+   "text": "isidorus_chronicorum_epitome",
+   "reason": "no stemma (A3 none)"
+  },
+  {
+   "stage": "stemma_stated",
+   "text": "beda_chronica_maiora",
+   "reason": "no stemma (A3 none)"
+  },
+  {
+   "stage": "stemma_stated",
+   "text": "beda_chronica_minora",
+   "reason": "no stemma (A3 none)"
+  },
+  {
+   "stage": "stemma_stated",
+   "text": "laterculus_imperatorum_ad_iustinum_i",
+   "reason": "no stemma (A3 none)"
+  },
+  {
+   "stage": "stemma_stated",
+   "text": "laterculus_regum_visigothorum",
+   "reason": "no stemma (A3 none)"
+  },
+  {
+   "stage": "two_sigla_and_top",
+   "text": "corippus_in_laudem_iustini",
+   "reason": "fewer than 2 single-capital sigla (A4 siglum form)"
+  },
+  {
+   "stage": "two_sigla_and_top",
+   "text": "consularia_constantinopolitana",
+   "reason": "fewer than 2 single-capital sigla (A4 siglum form)"
+  },
+  {
+   "stage": "two_sigla_and_top",
+   "text": "victor_tonnennensis_chronica",
+   "reason": "fewer than 2 single-capital sigla (A4 siglum form)"
+  },
+  {
+   "stage": "two_sigla_and_top",
+   "text": "iohannes_biclarensis_chronica",
+   "reason": "fewer than 2 single-capital sigla (A4 siglum form)"
+  },
+  {
+   "stage": "two_sigla_and_top",
+   "text": "avitus_epistulae_homiliae",
+   "reason": "fewer than 2 single-capital sigla (A4 siglum form)"
+  },
+  {
+   "stage": "located",
+   "text": "expositio_fidei_catholicae",
+   "reason": "not located (A7/A8, start or end match < 0.75)"
+  },
+  {
+   "stage": "located",
+   "text": "chronographus_354",
+   "reason": "not located (A7/A8, start or end match < 0.75)"
+  },
+  {
+   "stage": "located",
+   "text": "liber_generationis_I",
+   "reason": "not located (A7/A8, start or end match < 0.75)"
+  },
+  {
+   "stage": "located",
+   "text": "victorius_cursus_paschalis",
+   "reason": "not located (A7/A8, start or end match < 0.75)"
+  },
+  {
+   "stage": "screen",
+   "text": "aldhelm_carmina_ecclesiastica",
+   "reason": "too thin"
+  },
+  {
+   "stage": "screen",
+   "text": "vita_hilarii",
+   "reason": "too few witnesses + too thin"
+  },
+  {
+   "stage": "screen",
+   "text": "vita_germani",
+   "reason": "too few witnesses + too thin"
+  },
+  {
+   "stage": "screen",
+   "text": "vita_radegundis",
+   "reason": "too thin"
+  },
+  {
+   "stage": "screen",
+   "text": "vita_medardi",
+   "reason": "too few witnesses + too thin"
+  },
+  {
+   "stage": "screen",
+   "text": "polemius_laterculus_provinciarum",
+   "reason": "too thin"
+  },
+  {
+   "stage": "screen",
+   "text": "chronica_gallica_452",
+   "reason": "too few witnesses + too thin"
+  },
+  {
+   "stage": "screen",
+   "text": "cassiodorus_chronica",
+   "reason": "too few witnesses + too thin"
+  },
+  {
+   "stage": "screen",
+   "text": "gildas_de_excidio",
+   "reason": "too thin"
+  },
+  {
+   "stage": "screen",
+   "text": "dracontius_laudes_dei",
+   "reason": "too thin"
+  },
+  {
+   "stage": "screen",
+   "text": "dracontius_satisfactio",
+   "reason": "too few witnesses + too thin"
+  },
+  {
+   "stage": "screen",
+   "text": "dracontius_orestis",
+   "reason": "too few witnesses + too thin"
+  },
+  {
+   "stage": "screen",
+   "text": "eugenius_carmina",
+   "reason": "too thin"
+  },
+  {
+   "stage": "screen",
+   "text": "symmachus_relationes",
+   "reason": "too few witnesses + too thin"
+  },
+  {
+   "stage": "proof_page",
+   "text": "aldhelm_de_metris_tractatus",
+   "reason": "proof page fails [new (A10)] P=1.00 R=0.57"
+  },
+  {
+   "stage": "proof_page",
+   "text": "aldhelm_aenigmata",
+   "reason": "proof page fails [new (A10)] P=0.75 R=0.46"
+  },
+  {
+   "stage": "proof_page",
+   "text": "aldhelm_de_virginitate_prosa",
+   "reason": "proof page fails [fresh (A10 repair)] P=0.75 R=1.00"
+  },
+  {
+   "stage": "proof_page",
+   "text": "aldhelm_de_virginitate_carmen",
+   "reason": "proof page fails [new (A10)] P=1.00 R=0.33"
+  },
+  {
+   "stage": "proof_page",
+   "text": "fortunatus_carmina",
+   "reason": "proof page fails [rescore (A10, parser v4)] P=0.62 R=0.50"
+  },
+  {
+   "stage": "proof_page",
+   "text": "acta_synhodorum_romae_499_501_502",
+   "reason": "proof page fails [fresh (A10 repair)] P=0.83 R=1.00"
+  },
+  {
+   "stage": "proof_page",
+   "text": "symmachus_epistulae",
+   "reason": "proof page fails [fresh (A10 repair)] P=0.80 R=0.57"
+  },
+  {
+   "stage": "primary",
+   "text": "sidonius_epistulae",
+   "reason": "pilot / case-study edition"
+  },
+  {
+   "stage": "primary",
+   "text": "eutropius_breviarium",
+   "reason": "pilot / case-study edition"
+  },
+  {
+   "stage": "primary",
+   "text": "jordanes_getica",
+   "reason": "pilot / case-study edition"
+  },
+  {
+   "stage": "primary",
+   "text": "ausonius_opuscula",
+   "reason": "top undecided (reported separately)"
+  },
+  {
+   "stage": "primary",
+   "text": "cassiodorus_variae",
+   "reason": "pilot / case-study edition"
+  },
+  {
+   "stage": "primary",
+   "text": "eugenius_dracontiana",
+   "reason": "top implied (reported separately)"
+  },
+  {
+   "stage": "primary",
+   "text": "avitus_carmina",
+   "reason": "top undecided (reported separately)"
+  }
+ ]
+}

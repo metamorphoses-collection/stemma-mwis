@@ -1,0 +1,42 @@
+{
+ "semstem_seed1": {
+  "families_in_tree": 21,
+  "editor_families_exact": 5,
+  "which": [
+   "kappa",
+   "lambda",
+   "mu",
+   "omicron",
+   "sigma"
+  ],
+  "editor_families_among_all_splits": 5,
+  "qscore": "{'qscore': np.float64(37968.784818527245)}"
+ },
+ "semstem_seed2": {
+  "families_in_tree": 22,
+  "editor_families_exact": 6,
+  "which": [
+   "kappa",
+   "lambda",
+   "omicron",
+   "phi",
+   "pi",
+   "sigma"
+  ],
+  "editor_families_among_all_splits": 6,
+  "qscore": "{'qscore': np.float64(37889.601992847325)}"
+ },
+ "semstem_seed3": {
+  "families_in_tree": 20,
+  "editor_families_exact": 5,
+  "which": [
+   "kappa",
+   "lambda",
+   "phi",
+   "pi",
+   "sigma"
+  ],
+  "editor_families_among_all_splits": 5,
+  "qscore": "{'qscore': np.float64(38072.610404151885)}"
+ }
+}

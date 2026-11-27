@@ -1,0 +1,249 @@
+{"pages":[
+{"text_id":"aldhelm_aenigmata","leaf":155,"page":131,
+"notes":"Two riddles on page (LXXIV Fundibalum, LXXV Crabro); line numbers restart per riddle, so field 'section' gives the riddle number. Negative apparatus without ']' : lemma is the word of the edited text, readings as printed. Hand markers (m1, m2) kept in sigla only where printed attached to sigla; 'alii', 'cett.', 'codd.' are not counted as sigla and readings attested only by them are omitted. Editors (Giles, De=Delrio) kept where printed beside sigla. Testimonia (second apparatus) skipped. All well legible.",
+"entries":[
+{"section":"LXXIV","line":null,"lemma":"FVNDIBALVM","readings":[
+ {"text":"Fundibalum (alii)","sigla":"AF1F2"},
+ {"text":"Fundibalus","sigla":"P3"},
+ {"text":"LXXIIII Fundibula","sigla":"E"},
+ {"text":"De fundibalo","sigla":"BB1CS1"},
+ {"text":"praesc. LXXIIII","sigla":"PP4"},
+ {"text":"LXXIIII De fundibula, m2 fundibalus","sigla":"V"},
+ {"text":"LXXV","sigla":"FKN"}]},
+{"section":"LXXIV","line":1,"lemma":"campi","readings":[
+ {"text":"campi (s. l. ruris) (alii)","sigla":"AB1EF"},
+ {"text":"ruris s. l. campi (m2)","sigla":"KV"},
+ {"text":"raris","sigla":"P3"}]},
+{"section":"LXXIV","line":2,"lemma":"Et tergus","readings":[
+ {"text":"Aet: A eras.","sigla":"P"},
+ {"text":"Aetergus s. l. t","sigla":"P4"}]},
+{"section":"LXXIV","line":2,"lemma":"mihi","readings":[
+ {"text":"mi (i supra m)","sigla":"N"}]},
+{"section":"LXXIV","line":2,"lemma":"tradebant","readings":[
+ {"text":"tradebant n eras.","sigla":"P"},
+ {"text":"tradebat","sigla":"CE"}]},
+{"section":"LXXIV","line":3,"lemma":"retinacula filo","readings":[
+ {"text":"retinacula filo","sigla":"ABCEF1F2PP1P4"},
+ {"text":"nam brachia filo (in marg. vl retin . . .)","sigla":"NP3S1V"},
+ {"text":"nam brachia filo (in marg. retinacula — loro)","sigla":"K"},
+ {"text":"post brachia longa rasura","sigla":"F"},
+ {"text":"nam brachia loro","sigla":"BS2De Giles"}]},
+{"section":"LXXIV","line":4,"lemma":"trucidabam","readings":[
+ {"text":"tracda (s. l. v et i m2) bam","sigla":"V"}]},
+{"section":"LXXIV","line":4,"lemma":"tirannum","readings":[
+ {"text":"ty(i)rannum (alii)","sigla":"AB1CNS1V"},
+ {"text":"suprasc. m2 gigantum","sigla":"A"},
+ {"text":"suprasc. gigantẽ (cf. prosa de virg. c. 53 (71, 33 G))","sigla":"K"},
+ {"text":"gigantem","sigla":"BS2"}]},
+{"section":"LXXIV","line":5,"lemma":"(in marg.)","readings":[
+ {"text":"in marg. Testudo Formica (cf. ad LV 5)","sigla":"F1F2"}]},
+{"section":"LXXIV","line":5,"lemma":"cuperent","readings":[
+ {"text":"caperent s. l.","sigla":"F1V"}]},
+{"section":"LXXIV","line":5,"lemma":"gentis","readings":[
+ {"text":"genus m1 gentis m2","sigla":"N"},
+ {"text":"gentes","sigla":"PP3"},
+ {"text":"ingentes","sigla":"B1CE"}]},
+{"section":"LXXIV","line":5,"lemma":"saevire","readings":[
+ {"text":"se iure","sigla":"F1"}]},
+{"section":"LXXIV","line":6,"lemma":"tereti","readings":[
+ {"text":"ter&i s. l. i","sigla":"V"},
+ {"text":"conteriti","sigla":"PP3P4"}]},
+{"section":"LXXIV","line":7,"lemma":"duris pugnans","readings":[
+ {"text":"durius pugnans","sigla":"D"},
+ {"text":"corr. pugnam","sigla":"D1"}]},
+{"section":"LXXIV","line":7,"lemma":"ferrata","readings":[
+ {"text":"ferreta, e in a","sigla":"V"},
+ {"text":"ferrato","sigla":"B"}]},
+{"section":"LXXIV","line":7,"lemma":"cuspide","readings":[
+ {"text":"cuspite (alii) (m2 t in d)","sigla":"A Vm1"},
+ {"text":"cuspite","sigla":"D Giles F"},
+ {"text":"d ex t","sigla":"S2"},
+ {"text":"cuspide (alii)","sigla":"CFN"},
+ {"text":"cospide","sigla":"B"}]},
+{"section":"LXXIV","line":7,"lemma":"contis","readings":[
+ {"text":"cantis","sigla":"P3"},
+ {"text":"contis ex cunctis","sigla":"S2"}]},
+{"section":"LXXIV","line":9,"lemma":"caput","readings":[
+ {"text":"capud","sigla":"AF2"}]},
+{"section":"LXXIV","line":9,"lemma":"circa","readings":[
+ {"text":"circum","sigla":"DGiles"}]},
+{"section":"LXXIV","line":9,"lemma":"tenues","readings":[
+ {"text":"tenues extendere","sigla":"BB1CE"}]},
+{"section":"LXXV","line":null,"lemma":"CRABRO","readings":[
+ {"text":"Crabro (alii)","sigla":"AF1F2e"},
+ {"text":"praesc. LXXV","sigla":"E"},
+ {"text":"LXXV De crabrone","sigla":"PP4"},
+ {"text":"crabone s. l. r","sigla":"m2V"},
+ {"text":"LXXXVI","sigla":"FKN"}]},
+{"section":"LXXV","line":1,"lemma":"Aera","readings":[
+ {"text":"Era","sigla":"K"}]},
+{"section":"LXXV","line":1,"lemma":"nunc binis","readings":[
+ {"text":"nunbinis s. l. c","sigla":"N"},
+ {"text":"bonis s. l. i","sigla":"F"}]},
+{"section":"LXXV","line":2,"lemma":"Horridus","readings":[
+ {"text":"horridas v s. l.","sigla":"m2A"}]},
+{"section":"LXXV","line":2,"lemma":"murmura","readings":[
+ {"text":"murmora s. l. v","sigla":"m2V"},
+ {"text":"murra","sigla":"B"},
+ {"text":"mormura","sigla":"L"}]},
+{"section":"LXXV","line":3,"lemma":"Inque","readings":[
+ {"text":"In quae","sigla":"P4"},
+ {"text":"Namque","sigla":"C"}]},
+{"section":"LXXV","line":3,"lemma":"stipite","readings":[
+ {"text":"stipitæ","sigla":"Fm1"},
+ {"text":"spite","sigla":"P4"}]},
+{"section":"LXXV","line":5,"lemma":"horrent","readings":[
+ {"text":"horront o in e","sigla":"m2V"}]},
+{"section":"LXXV","line":6,"lemma":"disrumpens","readings":[
+ {"text":"disrupens","sigla":"P3"}]},
+{"section":"LXXV","line":6,"lemma":"foedera","readings":[
+ {"text":"foedera s. l. e","sigla":"V"},
+ {"text":"foedere s. l. a m2 = Giles","sigla":"P"}]},
+{"section":"LXXV","line":7,"lemma":"commaculare","readings":[
+ {"text":"conmaculare (plurimi)","sigla":"A"}]},
+{"section":"LXXV","line":7,"lemma":"sub culmine","readings":[
+ {"text":"sub culmine: mine in ras.","sigla":"e"}]},
+{"section":"LXXV","line":7,"lemma":"querno","readings":[
+ {"text":"querci","sigla":"E"},
+ {"text":"in marg. ulmi","sigla":"F"},
+ {"text":"querno s. l. cus","sigla":"m2A"},
+ {"text":"quera","sigla":"F1F2"},
+ {"text":"quercus","sigla":"S1"},
+ {"text":"querco","sigla":"BK"},
+ {"text":"querco s. l. N","sigla":"S2"}]},
+{"section":"LXXV","line":8,"lemma":"Extemplo","readings":[
+ {"text":"Exemplo m1, Extimplo","sigla":"m2A"},
+ {"text":"Exemplo s. l. t","sigla":"S2"},
+ {"text":"Extimplo (alii)","sigla":"B1CEF1S1"},
+ {"text":"Extemplo e in i","sigla":"m2V"},
+ {"text":"Extymplo","sigla":"P"},
+ {"text":"Exemplo","sigla":"Giles"}]},
+{"section":"LXXV","line":8,"lemma":"socias","readings":[
+ {"text":"socios","sigla":"B1"},
+ {"text":"socians (corr. Delrio)","sigla":"D"}]},
+{"section":"LXXV","line":8,"lemma":"cohortes","readings":[
+ {"text":"cohertes","sigla":"P1"}]},
+{"section":"LXXV","line":9,"lemma":"trudunt","readings":[
+ {"text":"trudent s. l. v","sigla":"m2V"},
+ {"text":"tradunt","sigla":"D"}]},
+{"section":"LXXV","line":10,"lemma":"defugiunt","readings":[
+ {"text":"Defugiunt","sigla":"A"},
+ {"text":"difugiunt","sigla":"BNS2PP4"},
+ {"text":"difugiant","sigla":"S1K"},
+ {"text":"diffugiunt (alii)","sigla":"DP1V"}]},
+{"section":"LXXV","line":10,"lemma":"iaculis exterrita","readings":[
+ {"text":"iaculis sed territa","sigla":"S1"},
+ {"text":"iacula: a in is","sigla":"m2P1"}]}
+]},
+{"text_id":"aldhelm_de_metris_tractatus","leaf":176,"page":152,
+"notes":"Apparatus keyed by footnote letters; the letter series restarts after z (second a)-g) on the same page), so duplicate keys a-g are distinguished by 'line' (printed margin line number of the text, approximate from text). Lemma = word of edited text. Entries citing only editors (Mai/Giles) skipped: 2nd a) duobus Mai Giles, f) ne Giles, m) Queis Giles, o) foeminino Giles, u) chelys Giles, 2nd c) generatus Mai Giles. 'codd.' not counted as siglum. Lower-case b is a manuscript siglum here. Numbered testimonia notes 1) 2) skipped. Well legible.",
+"entries":[
+{"key":"a","line":1,"lemma":"colligi","readings":[{"text":"collegi","sigla":"KP1N"}]},
+{"key":"b","line":1,"lemma":"queat","readings":[{"text":"quead","sigla":"F3"}]},
+{"key":"c","line":1,"lemma":"conferantur","readings":[{"text":"conferuntur","sigla":"AF3"}]},
+{"key":"d","line":2,"lemma":"fine","readings":[{"text":"fine=","sigla":"F"}]},
+{"key":"e","line":2,"lemma":"a","readings":[{"text":"om.","sigla":"KF3NMai Giles"}]},
+{"key":"f","line":4,"lemma":"clauduntur","readings":[{"text":"cluduntur","sigla":"P1"},{"text":"diuiduntur","sigla":"A"}]},
+{"key":"g","line":4,"lemma":"paenultimo","readings":[{"text":"peneultimo","sigla":"P1"},{"text":"ante ultimo in N: nominis & uerbi, sed punctis supra positis","sigla":"N"}]},
+{"key":"h","line":4,"lemma":"si","readings":[{"text":"om.","sigla":"FF3NMaiGiles"}]},
+{"key":"i","line":5,"lemma":"quae","readings":[{"text":"qua","sigla":"P1"},{"text":"quia","sigla":"F3K"}]},
+{"key":"k","line":6,"lemma":"aut","readings":[{"text":"uel","sigla":"P1"}]},
+{"key":"l","line":6,"lemma":"pronuntiatur","readings":[{"text":"pronunciatur","sigla":"AbF"}]},
+{"key":"m","line":7,"lemma":"praeoccupans","readings":[{"text":"p̄ocupans","sigla":"F3"}]},
+{"key":"n","line":7,"lemma":"usurpabit","readings":[{"text":"usurpauit","sigla":"K"}]},
+{"key":"o","line":null,"lemma":"DE PIRRICHIO","readings":[
+ {"text":"DE PYRRICHIO in marg. superiore alia manu Pirricius princeps 7 autor reliquorum pedum dicitur; quod (om. cod.) in pirracha habetur nuncupatus est; iuxta scriptum Victorinus dicit (cf. Plotium Gr. L. VI 497, 17)","sigla":"A"},
+ {"text":"De pyrrichio ṡ dibrachio","sigla":"Fb"},
+ {"text":"de pyrricheo","sigla":"F3"},
+ {"text":"titulum om.","sigla":"N"}]},
+{"key":"p","line":9,"lemma":"Iam nunc exemplorum","readings":[{"text":"△ Iam nunc exemplorum bis","sigla":"N"}]},
+{"key":"q","line":9,"lemma":"pirrichium","readings":[{"text":"pyrrichium","sigla":"AF3bN"}]},
+{"key":"r","line":10,"lemma":"satago audire","readings":[{"text":"audire satago","sigla":"F3KP1"}]},
+{"key":"s","line":11,"lemma":"nomina","readings":[{"text":"noam","sigla":"F3"}]},
+{"key":"t","line":11,"lemma":"multiformi","readings":[{"text":"multiforma","sigla":"P1"}]},
+{"key":"u","line":12,"lemma":"pululasse","readings":[{"text":"pullulasse","sigla":"AP1Mai Giles"}]},
+{"key":"v","line":12,"lemma":"noscuntur","readings":[{"text":"noscnt9, v supra c","sigla":"K"},{"text":"nascuntur (corr.)","sigla":"b"}]},
+{"key":"w","line":12,"lemma":"domus","readings":[{"text":"om.","sigla":"A"}]},
+{"key":"x","line":13,"lemma":"thronus","readings":[{"text":"thorus crocus chorus thronus","sigla":"A"},{"text":"thorus","sigla":"P1"},{"text":"tronus","sigla":"F3b"}]},
+{"key":"y","line":14,"lemma":"locus","readings":[{"text":"lucus","sigla":"F3"}]},
+{"key":"z","line":14,"lemma":"nequam","readings":[{"text":"sine quã","sigla":"K"}]},
+{"key":"b","line":15,"lemma":"et","readings":[{"text":"om.","sigla":"F3"}]},
+{"key":"c","line":16,"lemma":"errans","readings":[{"text":"om.","sigla":"AbFF3KN"}]},
+{"key":"d","line":16,"lemma":"anguis","readings":[{"text":"angus i supra u","sigla":"F"}]},
+{"key":"e","line":17,"lemma":"bucolicis","readings":[{"text":"buccolicis","sigla":"bFP1"}]},
+{"key":"g","line":18,"lemma":"abstulit","readings":[{"text":"abstullit","sigla":"F3"}]},
+{"key":"h","line":19,"lemma":"ast vero","readings":[{"text":"At uero","sigla":"A"},{"text":"ast ex et","sigla":"P1"}]},
+{"key":"i","line":19,"lemma":"antemnarum","readings":[{"text":"antennarum","sigla":"Giles"},{"text":"mn in ras.","sigla":"F3"},{"text":"antenarum","sigla":"P1"}]},
+{"key":"k","line":19,"lemma":"et","readings":[{"text":"om.","sigla":"A"}]},
+{"key":"l","line":20,"lemma":"Vergilius","readings":[{"text":"uirgł","sigla":"AP1"},{"text":"uirgilius","sigla":"F3"}]},
+{"key":"n","line":21,"lemma":"pedem","readings":[{"text":"pedem e ex u","sigla":"F"}]},
+{"key":"p","line":23,"lemma":"trocheum","readings":[{"text":"throcheũ","sigla":"P1"}]},
+{"key":"q","line":24,"lemma":"steriles","readings":[{"text":"stereles","sigla":"KN"}]},
+{"key":"r","line":24,"lemma":"feminino — valentes","readings":[{"text":"feminino — ualentes om.","sigla":"F3"}]},
+{"key":"s","line":25,"lemma":"avis","readings":[{"text":"auis nauis","sigla":"MaiGiles"},{"text":"auis s. l.","sigla":"N"},{"text":"nauis om.","sigla":"KP1"},{"text":"lapis nauis canis","sigla":"AbFF3"}]},
+{"key":"t","line":25,"lemma":"cinis","readings":[{"text":"cinis om. (est in N)","sigla":"Mai Giles"}]},
+{"key":"v","line":25,"lemma":"clamis","readings":[{"text":"clamis codd., etiam","sigla":"N"},{"text":"s. l. h","sigla":"b"},{"text":"chlamis","sigla":"Mai"},{"text":"chlamys","sigla":"Giles"}]},
+{"key":"w","line":25,"lemma":"cutis","readings":[{"text":"scutis","sigla":"b"}]},
+{"key":"x","line":25,"lemma":"polus","readings":[{"text":"pobus","sigla":"bF"}]},
+{"key":"y","line":25,"lemma":"homo — scrobis","readings":[{"text":"homo — scrobis om.","sigla":"AbFF3"},{"text":"scrouis","sigla":"KNP1"}]},
+{"key":"z","line":26,"lemma":"in","readings":[{"text":"in s. l.","sigla":"N"}]},
+{"key":"a","line":26,"lemma":"litteram","readings":[{"text":"n litteram","sigla":"A"}]},
+{"key":"b","line":26,"lemma":"terminatur","readings":[{"text":"pes nominatur","sigla":"A"}]},
+{"key":"d","line":27,"lemma":"piger","readings":[{"text":"piper","sigla":"NMaiGiles"}]},
+{"key":"e","line":27,"lemma":"siler","readings":[{"text":"soler (in marg. an siler)","sigla":"Fb"}]},
+{"key":"f","line":28,"lemma":"celer","readings":[{"text":"caeler","sigla":"F3"}]},
+{"key":"g","line":28,"lemma":"glomer","readings":[{"text":"glemer","sigla":"F3"}]}
+]},
+{"text_id":"aldhelm_de_virginitate_carmen","leaf":387,"page":361,
+"notes":"Lemma = word of edited text (negative apparatus). 'cett.', 'codd.' not counted as sigla; readings attested only by them omitted. Lower-case p is a manuscript siglum. Hand markers (m1, m2, m3) kept in text unless printed attached to sigla (RNm1, NP1m1, Em1pS1). 201 'uirginitas cj. Abr. Gronovius' skipped (no siglum). Testimonia skipped. Well legible.",
+"entries":[
+{"line":189,"lemma":"fulget","readings":[{"text":"fulge////t","sigla":"E"}]},
+{"line":189,"lemma":"veluti","readings":[{"text":"uel=ti (eras. i, suprasc. u)","sigla":"B"}]},
+{"line":189,"lemma":"purpura","readings":[{"text":"purpora","sigla":"R"},{"text":"suprasc. v","sigla":"E"}]},
+{"line":191,"lemma":"Integritas","readings":[{"text":"Integr=itas","sigla":"A"}]},
+{"line":191,"lemma":"regnans","readings":[{"text":"regnat","sigla":"R"}]},
+{"line":192,"lemma":"virgineus","readings":[{"text":"uirgi=neus","sigla":"B"},{"text":"uirgineos","sigla":"R"},{"text":"uirgineas (suprasc. v m2)","sigla":"N"}]},
+{"line":193,"lemma":"Nec cadit","readings":[{"text":"Nec cadit (ec et ca in ras.)","sigla":"S"}]},
+{"line":193,"lemma":"in terram","readings":[{"text":"in terra","sigla":"R"}]},
+{"line":193,"lemma":"ligustra","readings":[{"text":"ligistra (i in v m3)","sigla":"B"}]},
+{"line":193,"lemma":"fronde ligustra","readings":[{"text":"fronde . gusta (suprasc. li et r)","sigla":"S"}]},
+{"line":193,"lemma":"fatescunt","readings":[{"text":"fatescunt (in marg. m. saec. X flore . . .)","sigla":"A"},{"text":"fatescunt (e in i m2)","sigla":"GP1"}]},
+{"line":194,"lemma":"fecundis","readings":[{"text":"fecundos (suprasc. i)","sigla":"S2"}]},
+{"line":194,"lemma":"vernent","readings":[{"text":"vennent (n in v m1)","sigla":"S2"},{"text":"uestient","sigla":"R"}]},
+{"line":195,"lemma":"sanguineo","readings":[{"text":"sanguineo m1 supra lin.","sigla":"C"},{"text":"sanguneo (suprasc. i)","sigla":"O"}]},
+{"line":195,"lemma":"sanguineo ... rubescat","readings":[{"text":"uirgineo . . . rubescit","sigla":"G"}]},
+{"line":196,"lemma":"ornatus","readings":[{"text":"ornatur (ex versu 158)","sigla":"R"}]},
+{"line":196,"lemma":"vincit","readings":[{"text":"uincis (suprasc. t)","sigla":"S"},{"text":"vicit (suprasc. n)","sigla":"C"}]},
+{"line":196,"lemma":"forte palestris","readings":[{"text":"palestres","sigla":"C"},{"text":"palestris (e in ras. m1)","sigla":"G"},{"text":"iuncti forte palestris","sigla":"p"}]},
+{"line":197,"lemma":"Accipit","readings":[{"text":"Accepit (suprasc. i m1)","sigla":"R"}]},
+{"line":197,"lemma":"circo","readings":[{"text":"*incirco punctis suppositis, suprasc. idcirco","sigla":"V"},{"text":"idcirco","sigla":"M"},{"text":"idcirco (id in ras.)","sigla":"N"},{"text":"in circo cett., et scripsi; circi I. F. Gronovius","sigla":""}]},
+{"line":197,"lemma":"certamine","readings":[{"text":"certamina","sigla":"A"},{"text":"certamine (e in ras.)","sigla":"S"},{"text":"uictor certamine uictor (uictor linea circumclusum) serta","sigla":"M"},{"text":"accipit hic certum uictor certamine sertũ","sigla":"p"}]},
+{"line":197,"lemma":"serta","readings":[{"text":"sertam","sigla":"S1"},{"text":"sertam (lineam add. m2)","sigla":"S"},{"text":"sertę (ę in a m1)","sigla":"S2"}]},
+{"line":198,"lemma":"Haud","readings":[{"text":"Aut","sigla":"p"},{"text":"haut","sigla":"N"}]},
+{"line":198,"lemma":"devicta","readings":[{"text":"diuicta (i in e m3)","sigla":"B"}]},
+{"line":198,"lemma":"rebelli","readings":[{"text":"rebellis","sigla":"C"}]},
+{"line":199,"lemma":"Atque","readings":[{"text":"Adque","sigla":"R"}]},
+{"line":199,"lemma":"nefandorum","readings":[{"text":"nefandarum","sigla":"S1"}]},
+{"line":199,"lemma":"prostratis","readings":[{"text":"p̧straet/////","sigla":"M"}]},
+{"line":200,"lemma":"Pulchras","readings":[{"text":"Pulcras","sigla":"R"}]},
+{"line":200,"lemma":"gestabit","readings":[{"text":"gestauit","sigla":"N"}]},
+{"line":200,"lemma":"(post versum)","readings":[{"text":"Post hunc versum EX(H)ORTATIO CONIVGATORUM BONORVM","sigla":"C1EGOW"},{"text":"Exortatio con|iugato℞ in marg.","sigla":"C"}]},
+{"line":201,"lemma":"ornetur","readings":[{"text":"or///netur","sigla":"S"}]},
+{"line":202,"lemma":"pudicorum","readings":[{"text":"pudocorum (o in i)","sigla":"N"}]},
+{"line":202,"lemma":"crebrescat","readings":[{"text":"crebrescit (suprasc. a m2)","sigla":"V"}]},
+{"line":203,"lemma":"fraudantur","readings":[{"text":"fraudandtur","sigla":"A"},{"text":"fraudantur aeterno","sigla":"M"}]},
+{"line":204,"lemma":"licitae","readings":[{"text":"licita","sigla":"R"}]},
+{"line":204,"lemma":"conubia","readings":[{"text":"conubia (voluit conuiuia m2)","sigla":"A"}]},
+{"line":205,"lemma":"argenti squalescit","readings":[{"text":"squalescit argenti","sigla":"M"},{"text":"squalescat","sigla":"E"},{"text":"squalescat (a in ras.)","sigla":"GOW"}]},
+{"line":206,"lemma":"pensat","readings":[{"text":"pensa///t","sigla":"P1"}]},
+{"line":207,"lemma":"(versus)","readings":[{"text":"om.","sigla":"R"}]},
+{"line":207,"lemma":"auratis","readings":[{"text":"aurata","sigla":"N"},{"text":"auratas (suprasc. i m1)","sigla":"G"},{"text":"erratis","sigla":"p"}]},
+{"line":208,"lemma":"aut certe","readings":[{"text":"at certe","sigla":"B"}]},
+{"line":208,"lemma":"flavescant","readings":[{"text":"flauescat (suprasc. N m1)","sigla":"S"},{"text":"flauescunt","sigla":"RNm1"}]},
+{"line":208,"lemma":"petala","readings":[{"text":"petula (u ex a m2)","sigla":"A"},{"text":"p&ula","sigla":"NP1m1"},{"text":"petala (ras. supra a prius)","sigla":"S"}]},
+{"line":209,"lemma":"Nec lanterna","readings":[{"text":"Nellanterna","sigla":"R"},{"text":"la///terna","sigla":"P1S"},{"text":"laterna","sigla":"Em1pS1"}]},
+{"line":210,"lemma":"raso","readings":[{"text":"rasso","sigla":"AMNS2"},{"text":"raso (in ras. m2)","sigla":"P"},{"text":"raso (so in ras.)","sigla":"S"},{"text":"rasa","sigla":"R"}]},
+{"line":211,"lemma":"Seu membranarum","readings":[{"text":"Seu m////ẽbranarũ (tres vel quattuor litterae erasae)","sigla":"P"},{"text":"Neu","sigla":"G"}]},
+{"line":211,"lemma":"velamine","readings":[{"text":"uelamina","sigla":"AS2"},{"text":"uelamine (e in ras.)","sigla":"S"}]}
+]}
+]}

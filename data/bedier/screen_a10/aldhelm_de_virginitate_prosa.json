@@ -1,0 +1,22 @@
+{
+ "stemma_witnesses": "AGPBOLHS",
+ "cited": {
+  "A": 1696,
+  "G": 1296,
+  "P": 297,
+  "B": 1118,
+  "O": 828,
+  "L": 648,
+  "H": 10,
+  "S": 75
+ },
+ "analysis_witnesses": "AGPBOLS",
+ "units_with_shared_departure": 1064,
+ "included": true,
+ "exclusion": [],
+ "editor_top": [
+  "AGPB",
+  "OLS"
+ ],
+ "k_E": 2
+}

@@ -1,0 +1,20 @@
+{
+ "stemma_witnesses": "CDAX",
+ "cited": {
+  "C": 102,
+  "D": 1039,
+  "A": 1881,
+  "X": 360
+ },
+ "analysis_witnesses": "CDAX",
+ "units_with_shared_departure": 129,
+ "included": false,
+ "exclusion": [
+  "too thin"
+ ],
+ "editor_top": [
+  "CD",
+  "AX"
+ ],
+ "k_E": 2
+}

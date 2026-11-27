@@ -1,0 +1,18 @@
+{
+ "56": {
+  "gamma_lo_at_1": -0.023613452911376953,
+  "first_multiple_certified": 4.5
+ },
+ "8": {
+  "gamma_lo_at_1": -0.015781402587890625,
+  "first_multiple_certified": 3.0
+ },
+ "4": {
+  "gamma_lo_at_1": -0.012641966342926025,
+  "first_multiple_certified": 2.75
+ },
+ "1": {
+  "gamma_lo_at_1": -0.005533993244171143,
+  "first_multiple_certified": 1.5
+ }
+}

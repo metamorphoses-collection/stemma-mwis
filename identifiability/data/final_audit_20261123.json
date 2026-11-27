@@ -1,0 +1,2065 @@
+{
+ "date": "20261123",
+ "report": "report_stemma_compatibility/main.tex",
+ "results": [
+  {
+   "group": "Preliminaries, complexity and fragmentary witnesses (Sections~\\ref{sec:prelim}--\\ref{sec:partial})"
+  },
+  {
+   "label": "prop:buneman",
+   "number": "3.2",
+   "kind": "Prop.",
+   "name": "Buneman's theorem",
+   "tested": "a set of non-trivial splits is a stemma's split set iff pairwise compatible, the tree unique up to isomorphism",
+   "checks": [
+    {
+     "former_check": "new",
+     "instances": "300 random stemmata ($4\\le n\\le10$, 188 non-binary) and 300 random compatible sets",
+     "result": "split sets pairwise compatible; split set $\\to$ tree $\\to$ split set exact, internal degrees $\\ge3$, rebuilt tree isomorphic to the original as a leaf-labelled tree, in all",
+     "passed": true,
+     "script": "audit_new_checks.py"
+    }
+   ],
+   "passed": true
+  },
+  {
+   "label": "lem:facts",
+   "number": "3.3",
+   "kind": "Lemma",
+   "name": "Two counting facts",
+   "tested": "size $n-3$ and maximality of binary split sets; at most $n-3$ splits in any compatible set",
+   "checks": [
+    {
+     "former_check": "C4",
+     "instances": "400 random binary trees, $4\\le n\\le9$, all splits scanned per tree; sampled compatible sets",
+     "result": "size $n-3$, maximality and the bound $n-3$ hold in all",
+     "passed": true,
+     "script": "verify_claims.py"
+    }
+   ],
+   "passed": true
+  },
+  {
+   "label": "lem:exclusive",
+   "number": "3.5",
+   "kind": "Lemma",
+   "name": "Exclusivity",
+   "tested": "splits (and clusters) proposed by one unit are pairwise compatible",
+   "checks": [
+    {
+     "former_check": "new",
+     "instances": "400 random collations, $4\\le n\\le9$, multistate units with random illegibility (6{,}141 units)",
+     "result": "all 3{,}791 same-unit split pairs compatible and all 1{,}716 cluster pairs laminar; 10{,}433 conflicting pairs across units (control)",
+     "passed": true,
+     "script": "audit_new_checks.py"
+    }
+   ],
+   "passed": true
+  },
+  {
+   "label": "thm:universal",
+   "number": "4.1",
+   "kind": "Thm",
+   "name": "Universality",
+   "tested": "the construction realises a given graph as the conflict graph of distinct non-trivial splits",
+   "checks": [
+    {
+     "former_check": "C1",
+     "instances": "300 random graphs, $2\\le|V|\\le8$",
+     "result": "all realised ($4|E|+2|V|+2$ witnesses, distinct non-trivial splits, conflict graph equal to $H$)",
+     "passed": true,
+     "script": "verify_claims.py"
+    }
+   ],
+   "passed": true
+  },
+  {
+   "label": "cor:nphard",
+   "number": "4.2",
+   "kind": "Cor.",
+   "name": "NP-hardness",
+   "tested": "the construction preserves vertex weights and MWIS values, so it is a reduction",
+   "checks": [
+    {
+     "former_check": "new",
+     "instances": "250 random graphs, $2\\le|V|\\le10$, integer weights $1$--$20$",
+     "result": "MWIS of $H$ (brute force) equals the maximum-weight compatible set of the constructed splits, same value and same optimal sets, in all; $4|E|+2|V|+2$ witnesses",
+     "passed": true,
+     "script": "audit_new_checks.py"
+    }
+   ],
+   "passed": true
+  },
+  {
+   "label": "prop:triple",
+   "number": "5.2",
+   "kind": "Prop.",
+   "name": "Pairs exact, triples not",
+   "tested": "overlap-compatible pairs are completable; triples need not be",
+   "checks": [
+    {
+     "former_check": "C2",
+     "instances": "every partial split on $n=4,5,6$ witnesses (domains of size $4$ to $n$)",
+     "result": "all overlap-compatible pairs completable; 0 obstructing triples on $4$ witnesses, 200 on $5$; the triple $p,q,r$ pairwise compatible and not completable",
+     "passed": true,
+     "script": "verify_claims.py"
+    },
+    {
+     "former_check": "C11",
+     "instances": "proper partial splits on five witnesses, all triples",
+     "result": "140 obstructing triples of quartets (expected $140$)",
+     "passed": true,
+     "script": "verify_claims.py"
+    }
+   ],
+   "passed": true
+  },
+  {
+   "label": "thm:cutting",
+   "number": "5.3",
+   "kind": "Thm",
+   "name": "Cutting planes",
+   "tested": "the lazy-cut loop returns a maximum jointly completable family",
+   "checks": [
+    {
+     "former_check": "C9",
+     "instances": "60 random weighted families of partial splits, $n=5,6$",
+     "result": "cut loop reaches the brute-force optimum in all (40 cuts in total)",
+     "passed": true,
+     "script": "verify_claims.py"
+    }
+   ],
+   "passed": true
+  },
+  {
+   "group": "Certificates of uniqueness (Section~\\ref{sec:certificates})"
+  },
+  {
+   "label": "lem:hall",
+   "number": "6.1",
+   "kind": "Lemma",
+   "name": "Displacement matching",
+   "tested": "for compatible $S\\neq\\T$: $A\\neq\\emptyset$, $|B|\\le|A|$ and a matching of $B$ into $A$ by conflicts",
+   "checks": [
+    {
+     "former_check": "C3",
+     "instances": "3{,}815 sampled pairs $(T,S)$, $4\\le n\\le9$",
+     "result": "$A\\neq\\emptyset$, $|B|\\le|A|$ and the matching exist in all",
+     "passed": true,
+     "script": "verify_claims.py"
+    }
+   ],
+   "passed": true
+  },
+  {
+   "label": "thm:local",
+   "number": "6.2",
+   "kind": "Thm",
+   "name": "Local separation",
+   "tested": "under the local hypothesis the true set is the unique maximum-weight compatible set",
+   "checks": [
+    {
+     "former_check": "C10",
+     "instances": "80 random binary trees, $n=5..7$, weights meeting the local hypothesis; all compatible sets enumerated",
+     "result": "the true set is the unique optimum in all",
+     "passed": true,
+     "script": "verify_claims.py"
+    }
+   ],
+   "passed": true
+  },
+  {
+   "label": "thm:global",
+   "number": "6.3",
+   "kind": "Thm",
+   "name": "Global separation",
+   "tested": "under the global hypothesis the true set is the unique maximum-weight compatible set",
+   "checks": [
+    {
+     "former_check": "C10",
+     "instances": "80 random binary trees, $n=5..7$, weights meeting the global hypothesis; all compatible sets enumerated",
+     "result": "the true set is the unique optimum in all",
+     "passed": true,
+     "script": "verify_claims.py"
+    }
+   ],
+   "passed": true
+  },
+  {
+   "label": "prop:threshold",
+   "number": "6.9",
+   "kind": "Prop.",
+   "name": "Non-binary threshold",
+   "tested": "with false weights $\\le t<$ true weights, the optimum over splits of weight $>t$ is $\\T$",
+   "checks": [
+    {
+     "former_check": "new",
+     "instances": "146 random stemmata, $5\\le n\\le7$ (binary and not), integer weights meeting the hypothesis",
+     "result": "restricted optimum is $\\T$, uniquely, in all (all compatible sets enumerated); without the threshold the optimum differs from $\\T$ in 78",
+     "passed": true,
+     "script": "audit_new_checks.py"
+    }
+   ],
+   "passed": true
+  },
+  {
+   "label": "prop:rooted",
+   "number": "6.10",
+   "kind": "Prop.",
+   "name": "Rooted analogue",
+   "tested": "the counting and maximality facts for clusters",
+   "checks": [
+    {
+     "former_check": "C5",
+     "instances": "300 random rooted trees, $3\\le n\\le8$ ($\\X$ adjoined)",
+     "result": "counting and maximality facts and the laminar bound hold in all",
+     "passed": true,
+     "script": "verify_claims.py"
+    }
+   ],
+   "passed": true
+  },
+  {
+   "group": "Consistency and sample size (Section~\\ref{sec:consistency})"
+  },
+  {
+   "label": "thm:pairwise",
+   "number": "7.1",
+   "kind": "Thm",
+   "name": "Pairwise bound",
+   "tested": "the bound is at least the error probability of the estimator",
+   "checks": [
+    {
+     "former_check": "new",
+     "instances": "6 attraction-model instances meeting the hypotheses ($n=5,6$), two lengths each (bound $\\approx0.5$ and $\\approx0.05$, $L=40$--$1306$), $2\\times10^4$--$4\\times10^4$ simulated collations",
+     "result": "bound $\\ge$ simulated $\\Pr(\\hat S_L\\neq\\T)$ (ties counted as errors) in all; largest ratio simulated/bound $0.198$",
+     "passed": true,
+     "script": "audit_new_checks.py"
+    }
+   ],
+   "passed": true
+  },
+  {
+   "label": "lem:gamma",
+   "number": "7.3",
+   "kind": "Lemma",
+   "name": "Computing $\\gamma$",
+   "tested": "bisection on $g$ gives the margin of the ratio definition",
+   "checks": [
+    {
+     "former_check": "C8",
+     "instances": "25 instances, $n=6$, all compatible sets enumerated, no solver",
+     "result": "bisection equals the ratio definition (tolerance $10^{-9}$, largest difference $1.0\\times10^{-12}$)",
+     "passed": true,
+     "script": "verify_claims.py"
+    }
+   ],
+   "passed": true
+  },
+  {
+   "label": "thm:consistency",
+   "number": "7.4",
+   "kind": "Thm",
+   "name": "Consistency",
+   "tested": "(a) the Bernstein and Hoeffding bounds dominate the error; (b) $\\Pr(\\hat S_L=\\T)\\to0$ when some $m(S)>m(\\T)$",
+   "checks": [
+    {
+     "former_check": "new",
+     "instances": "(a) 4 attraction-model instances with $\\gamma=0.032$--$0.114$ ($n=5,6$), at the length where each bound first reaches $0.5$ ($L=301$--$7{,}031$), $2\\times10^4$ collations; (b) a designed law and a long-branch instance with $m(S)>m(\\T)$, $L=25$--$6{,}400$",
+     "result": "(a) both bounds $\\ge$ simulated error in all (largest simulated error $0.0003$); (b) $\\Pr(\\hat S_L=\\T)$ falls from $0.32$ to $0.00$ and $0.04$ to $0.00$",
+     "passed": true,
+     "script": "audit_new_checks.py"
+    }
+   ],
+   "passed": true
+  },
+  {
+   "label": "cor:samplesize",
+   "number": "7.6",
+   "kind": "Cor.",
+   "name": "Sample size",
+   "tested": "the length given by the formula makes the error at most $\\varepsilon$",
+   "checks": [
+    {
+     "former_check": "new",
+     "instances": "236 (instance, $\\varepsilon$) cases: attraction-model instances with $\\gamma>0$ ($n=5,6$), $\\varepsilon\\in\\{0.5,0.1,0.01,0.001\\}$; 4 simulated at $\\varepsilon=0.1$",
+     "result": "at the $L$ of the formula the Bernstein bound is $\\le\\varepsilon$ in all (largest ratio $0.239$); no error in the simulations at $\\varepsilon=0.1$",
+     "passed": true,
+     "script": "audit_new_checks.py"
+    }
+   ],
+   "passed": true
+  },
+  {
+   "label": "prop:blocks",
+   "number": "7.8",
+   "kind": "Prop.",
+   "name": "Dependent blocks",
+   "tested": "with $J$ i.i.d.\\ blocks and any dependence inside them, $2(n-3+K)e^{-J\\gamma^2/2}$ dominates the error",
+   "checks": [
+    {
+     "former_check": "new",
+     "instances": "4 attraction-model instances ($n=5$, $\\gamma=0.088$--$0.247$), blocks of $k=5$ identical units or $k=10$ units repeated with probability $1/2$, $J=122$--$951$ blocks, $10^4$ collations",
+     "result": "bound $\\ge$ simulated error in all (at bound $\\approx0.5$, simulated error $0.0000$ at most; with $k=20$ identical units and $J=10$--$320$, simulated error up to $0.697$, still below the bound); control: the i.i.d.\\ bound with $L=Jk$ is exceeded by the simulated error in 4 of 12 short-$J$ cases",
+     "passed": true,
+     "script": "audit_new_checks.py"
+    }
+   ],
+   "passed": true
+  },
+  {
+   "label": "thm:gammaconf",
+   "number": "7.9",
+   "kind": "Thm",
+   "name": "Confidence bound for $\\gamma$",
+   "tested": "Clopper--Pearson $\\gamma_{\\mathrm{lo}}$ covers $\\gamma$ with probability $\\ge1-\\delta$; no false certificate",
+   "checks": [
+    {
+     "former_check": "C22",
+     "instances": "two ten-witness regimes with exact $m$, $5$ lengths ($L=1{,}600$--$409{,}600$), $40$ collations each; the \\emph{Lai}",
+     "result": "$\\gamma_{\\mathrm{lo}}\\le\\gamma$ in 400 of 400 collations (at least $95\\%$ required at each length); every certified $\\hat S_L$ is the true one; \\emph{Lai}: $\\hat S_L$ binary and optimal, $\\gamma_{\\mathrm{lo}}=-0.0236$, increasing with scaled length",
+     "passed": true,
+     "script": "gamma_confidence.py"
+    }
+   ],
+   "passed": true
+  },
+  {
+   "label": "prop:gammablocks",
+   "number": "7.11",
+   "kind": "Prop.",
+   "name": "Certifying $\\gamma$ with dependent units",
+   "tested": "with blocks and Hoeffding intervals, $\\gamma_{\\mathrm{lo}}\\le\\gamma$ for all binary stemmata simultaneously with probability $\\ge1-\\delta$",
+   "checks": [
+    {
+     "former_check": "new",
+     "instances": "3 attraction-model instances on $n=5$ (two with $\\gamma>0$, one long-branch with $\\gamma<0$), $\\delta=0.05,0.2$, $J=50,400,3{,}200$ blocks of $4$ units (identical, or repeated with probability $1/2$), $2{,}000$ collations each",
+     "result": "$\\gamma_{\\mathrm{lo}}(T)\\le\\gamma(T)$ for all $15$ binary stemmata simultaneously in every simulated collation (required $1-\\delta$); no false certificate; the true stemma is certified in a fraction $0.00$ or less at $J=50$ and up to $1.00$ at $J=3{,}200$",
+     "passed": true,
+     "script": "audit_new_checks.py"
+    }
+   ],
+   "passed": true
+  },
+  {
+   "label": "thm:fragmentary",
+   "number": "7.12",
+   "kind": "Thm",
+   "name": "Fragmentary witnesses",
+   "tested": "the two bounds of (b) and the sufficient condition of (c), under independent illegibility",
+   "checks": [
+    {
+     "former_check": "C19",
+     "instances": "40 random rooted trees, $n=5$, random rates, $\\alpha$ and independent illegibility; all innovation outcomes and legibility patterns enumerated",
+     "result": "proposals are restrictions; both bounds of (b) hold; in the 4 instances meeting the sufficient condition the true set is the unique maximum of $\\tilde m$, and in all 39 with $\\varrho>0$, rerun at $\\delta=0.9\\varrho/(4+2\\mu)$",
+     "passed": true,
+     "script": "fragmentary_check.py"
+    }
+   ],
+   "passed": true
+  },
+  {
+   "label": "prop:textillegible",
+   "number": "7.13",
+   "kind": "Prop.",
+   "name": "Illegibility that depends on the text",
+   "tested": "the bounds of Theorem~\\ref{thm:fragmentary}(b) with $\\delta$, and the condition of (c), when illegibility depends on the readings",
+   "checks": [
+    {
+     "former_check": "new",
+     "instances": "48 random rooted trees ($n=5$: 30, $n=6$: 18), attraction model, all innovation outcomes; for each reading partition its own joint law of the illegible set (singletons, blocks, random mixtures, dependent across witnesses; on 12 trees, two witnesses illegible together exactly when they turn a proposed true split into a false one), every conditional rate $\\le\\delta$",
+     "result": "$\\tilde m_\\sigma\\ge(1-4\\delta)m_\\sigma$ and $\\tilde m_\\tau\\le m_\\tau+2\\delta\\mu$ for every split (smallest slacks $4.0\\times10^{-8}$, $7.8\\times10^{-3}$); the independent-case bound with $\\delta^{d}$ fails for 4 splits (control; 4 of them under the targeted laws); in all 36 instances with $\\varrho>0$, rerun at $\\delta=0.9\\varrho/(4+2\\mu)$, the true set is the unique maximum of $\\tilde m$",
+     "passed": true,
+     "script": "audit_new_checks.py"
+    }
+   ],
+   "passed": true
+  },
+  {
+   "label": "thm:cuttingconsistency",
+   "number": "7.14",
+   "kind": "Thm",
+   "name": "Cutting-plane consistency",
+   "tested": "the cutting-plane estimator maximises $M$ over trees and is consistent exactly when the true tree maximises $M$",
+   "checks": [
+    {
+     "former_check": "C25",
+     "instances": "(a) 33 random weighted collations, $n=5,6$; (b) the five-witness example; (c) 30 random rooted trees, $n=5$, all innovation states and legibility patterns",
+     "result": "(a) the maximum completable family has the weight of the best displaying tree; (b) uniquely best tree with a split never observed in full; (c) the inequality holds against every rival tree (smallest slack $0.07$)",
+     "passed": true,
+     "script": "cutting_consistency.py"
+    },
+    {
+     "former_check": "C26",
+     "instances": "six random rooted trees, $n=5$, attraction model with random illegibility, $M$ computed exactly; 100 collations per length",
+     "result": "true tree the unique maximum of $M$: selection frequency from $0.37$--$0.59$ at $L=25$ to $1.00$ at $L=1{,}600$; rival with larger $M$: falls to $0.00$",
+     "passed": true,
+     "script": "cutting_consistency_sim.py"
+    }
+   ],
+   "passed": true
+  },
+  {
+   "label": "prop:dimfree",
+   "number": "7.15",
+   "kind": "Prop.",
+   "name": "Tolerance independent of $n$",
+   "tested": "the display probability of a false split by a rival tree is at most $2\\max(\\delta,2\\delta^2)$, whatever $n$",
+   "checks": [
+    {
+     "former_check": "new",
+     "instances": "68 random binary trees $T'$ ($n=5$--$8$), all 2552 false splits, all legibility patterns, $\\delta\\in\\{0.01,\\dots,0.9\\}$",
+     "result": "display probability $\\le2\\max(\\delta,2\\delta^2)$ in all (largest ratio 0.995); every displayed pattern leaves one of the four parts of the proof wholly illegible",
+     "passed": true,
+     "script": "audit_new_checks.py"
+    }
+   ],
+   "passed": true
+  },
+  {
+   "group": "Non-binary stemmata and coincident error (Section~\\ref{sec:bedier})"
+  },
+  {
+   "label": "prop:bediereffect",
+   "number": "8.1",
+   "kind": "Prop.",
+   "name": "B\u00e9dier effect",
+   "tested": "$\\Pr(\\hat S_L=\\T)\\le(1-m_\\tau)^L$ (exact part); over-resolution on birth--death traditions",
+   "checks": [
+    {
+     "former_check": "new",
+     "instances": "6 attraction-model trees with a polytomy ($n=5,6$), the largest $m_\\tau$ among false splits compatible with $\\T$ ($0.012$--$0.066$), two lengths each ($L=11$--$194$), $2\\times10^4$ collations",
+     "result": "$\\Pr(\\T$ is a maximiser$)\\le(1-m_\\tau)^L$ in all (ratio simulated/bound $0.00$--$0.58$)",
+     "passed": true,
+     "script": "audit_new_checks.py"
+    },
+    {
+     "former_check": "C21",
+     "instances": "index code on hand-made trees; the saved outputs of the three birth--death settings, all $\\alpha$",
+     "result": "62 assertions pass, 0 fail: truth inside the null band, raw optimum over-resolves, rival test and thresholds as stated, $P(\\deg\\ge3)$ ranges (orderings and bands only)",
+     "passed": true,
+     "script": "bedier_birthdeath_check.py"
+    }
+   ],
+   "passed": true
+  },
+  {
+   "label": "cor:tops",
+   "number": "8.2",
+   "kind": "Cor.",
+   "name": "Polytomies that survive",
+   "tested": "at a vertex of a rooted optimum with $k\\ge3$ children, no union of two children is proposed",
+   "checks": [
+    {
+     "former_check": "C29",
+     "instances": "400 random weightings on $n=5$, every optimum (505), 139 vertices with three or more children",
+     "result": "no union of two children has positive weight",
+     "passed": true,
+     "script": "tops_check.py"
+    }
+   ],
+   "passed": true
+  },
+  {
+   "label": "thm:bedier",
+   "number": "8.3",
+   "kind": "Thm",
+   "name": "B\u00e9dier threshold",
+   "tested": "the Kullback--Leibler bound dominates the error of the thresholded estimator; the second form dominates the first",
+   "checks": [
+    {
+     "former_check": "new",
+     "instances": "5 attraction-model trees with a polytomy ($n=5,6$) and $b>a$, $c=c^\\ast$ and a random $c\\in(a,b)$, at the length where the bound first reaches $0.5$ ($L=121$--$14{,}001$), $2\\times10^4$ collations",
+     "result": "KL bound $\\ge$ simulated $\\Pr(\\hat S_{L,c}\\neq\\T)$ in all (largest simulated error $0.1233$); at $c^\\ast$ the KL bound is below the second form at every $L$ tested ($10$--$10^4$)",
+     "passed": true,
+     "script": "audit_new_checks.py"
+    }
+   ],
+   "passed": true
+  },
+  {
+   "label": "prop:gap",
+   "number": "8.4",
+   "kind": "Prop.",
+   "name": "Largest-gap threshold",
+   "tested": "deterministic step: under the hypothesis the largest gap separates true from false",
+   "checks": [
+    {
+     "former_check": "C18",
+     "instances": "8{,}125 random instances meeting the hypothesis",
+     "result": "the cut separates true from false in all",
+     "passed": true,
+     "script": "gap_check.py"
+    }
+   ],
+   "passed": true
+  },
+  {
+   "label": "prop:rival",
+   "number": "8.5",
+   "kind": "Prop.",
+   "name": "Rival test",
+   "tested": "given $w(\\sigma)+w(\\tau)=N$, $w(\\sigma)$ is binomial with parameters $N$ and $m_\\sigma/(m_\\sigma+m_\\tau)$",
+   "checks": [
+    {
+     "former_check": "new",
+     "instances": "4 attraction-model trees ($n=5,6$), a true split and its strongest crossing rival, $L=200$, $4\\times10^4$ collations",
+     "result": "exact unit law: no unit proposes both; randomised probability-integral transform of $w(\\sigma)$ given the sum, chi-square on deciles: $p=0.42$--$0.95$ under the binomial law, $p<10^{-6}$ for the control with the ratio raised by $15\\%$",
+     "passed": true,
+     "script": "audit_new_checks.py"
+    },
+    {
+     "former_check": "computed",
+     "instances": "",
+     "result": "on the \\emph{Lai} (computed, not a check), one-sided $p$ against the strongest rival: CDEFG $4.7\\times10^{-7}$, CG $1.2\\times10^{-41}$, DE $0.016$, DEF $0.049$",
+     "passed": true,
+     "script": "rival_test.py"
+    }
+   ],
+   "passed": true
+  },
+  {
+   "label": "thm:mechanisms",
+   "number": "8.7",
+   "kind": "Thm",
+   "name": "Mechanisms of false support",
+   "tested": "classification of outcomes with at most two innovations; two-sided bounds on every support",
+   "checks": [
+    {
+     "former_check": "C16",
+     "instances": "40 random rooted trees, $n=5,6$, random rates and $\\alpha$, all outcomes enumerated",
+     "result": "classification of all outcomes with at most two innovations, and the two-sided bounds on every support, hold in all",
+     "passed": true,
+     "script": "mechanisms_check.py"
+    }
+   ],
+   "passed": true
+  },
+  {
+   "label": "cor:dominance",
+   "number": "8.8",
+   "kind": "Cor.",
+   "name": "Comparison of the codings",
+   "tested": "at second order, the rooted support of each cluster of a split not of the tree is at most the unrooted support of the split",
+   "checks": [
+    {
+     "former_check": "new",
+     "instances": "60 random rooted trees ($n=5$--$7$, a third with polytomies), random rates, $\\alpha\\in\\{0,1\\}$ or random; all outcomes with at most two innovations; all 1396 splits not of the tree",
+     "result": "second-order rooted support of each cluster $\\le$ unrooted support of the split in all (strict in 792); per outcome, a rooted proposal of $C$ or $D$ implies the unrooted proposal of $\\tau$; the decomposition of the proof (disjoint pairs $\\alpha^2$ against $1$, nested pairs $1-\\alpha^2$ in both) equals the enumeration (largest difference $1.4\\times10^{-17}$)",
+     "passed": true,
+     "script": "audit_new_checks.py"
+    }
+   ],
+   "passed": true
+  },
+  {
+   "label": "prop:modelbounds",
+   "number": "8.10",
+   "kind": "Prop.",
+   "name": "Support bounds",
+   "tested": "irreversible model, general $n$: the lower bound on true support and the upper bound on false mass",
+   "checks": [
+    {
+     "former_check": "C7",
+     "instances": "60 random rooted trees, $n=6,7$, all mark patterns",
+     "result": "both bounds hold in all",
+     "passed": true,
+     "script": "verify_claims.py"
+    }
+   ],
+   "passed": true
+  },
+  {
+   "label": "cor:modelglobal",
+   "number": "8.11",
+   "kind": "Cor.",
+   "name": "A sufficient condition",
+   "tested": "under the hypothesis, global separation holds for the exact supports",
+   "checks": [
+    {
+     "former_check": "new",
+     "instances": "185 random rooted binary trees ($n=5$--$8$, rooted on an edge or at a vertex) with rates meeting the hypothesis; all $2^{|\\mathcal E|}$ mark patterns enumerated",
+     "result": "global separation in all (smallest $\\min_\\T m-\\max_\\F m=6.3\\times10^{-3}$), $\\gamma>0$ for $n\\le6$; of 756 instances missing the hypothesis, separation fails in 323",
+     "passed": true,
+     "script": "audit_new_checks.py"
+    }
+   ],
+   "passed": true
+  },
+  {
+   "label": "prop:quartet",
+   "number": "8.12",
+   "kind": "Prop.",
+   "name": "Quartet",
+   "tested": "the three formulas for the quartet supports of the irreversible model",
+   "checks": [
+    {
+     "former_check": "C6",
+     "instances": "200 random rate vectors",
+     "result": "the three formulas equal exhaustive enumeration ($10^{-12}$)",
+     "passed": true,
+     "script": "verify_claims.py"
+    }
+   ],
+   "passed": true
+  },
+  {
+   "label": "cor:lba",
+   "number": "8.13",
+   "kind": "Cor.",
+   "name": "Textual long-branch zone",
+   "tested": "with $p_2=p_4=0$, $r_1=r_2=r$: consistency iff $(1-r)p_1p_3<r(2-p_1-p_3)$, and $13|24$ selected on the reverse side",
+   "checks": [
+    {
+     "former_check": "new",
+     "instances": "4210 points $(r,p_1,p_3)$, $p_2=p_4=0$: a grid, random points and 1000 within $10^{-9}$ of the boundary; and $300$ random general rate vectors; exact rational arithmetic",
+     "result": "the formulas of Proposition~\\ref{prop:quartet} equal enumeration of the $2^6$ mark patterns at all 4510 points; $m_{12|34}>\\max(m_{13|24},m_{14|23})$ exactly where $(1-r)p_1p_3<r(2-p_1-p_3)$ (2505 points) and $13|24$ strictly heaviest exactly on the reverse side (1165); neither at the 540 points of equality; 0 mismatches",
+     "passed": true,
+     "script": "audit_new_checks.py"
+    }
+   ],
+   "passed": true
+  },
+  {
+   "label": "thm:coding",
+   "number": "8.14",
+   "kind": "Thm",
+   "name": "Coding theorem",
+   "tested": "the exact supports of the attraction model on the quartet, both codings",
+   "checks": [
+    {
+     "former_check": "C15",
+     "instances": "exact supports on the quartet (symbolic); $4\\times10^5$ simulated units at a random parameter point",
+     "result": "reduce to Proposition~\\ref{prop:quartet} at $\\alpha=1$; Monte Carlo largest $|z|=1.58$ (fails at $5$)",
+     "passed": true,
+     "script": "kappa_quartet.py"
+    }
+   ],
+   "passed": true
+  },
+  {
+   "label": "prop:drift",
+   "number": "8.15",
+   "kind": "Prop.",
+   "name": "Drift towards the root",
+   "tested": "the exact supports on $(((1,3),2),4)$, both codings",
+   "checks": [
+    {
+     "former_check": "C17",
+     "instances": "exact supports (symbolic); $3\\times10^5$ simulated units at a random point",
+     "result": "supports in $[0,1]$; Monte Carlo largest $|z|=1.82$ (fails at $5$)",
+     "passed": true,
+     "script": "drift_quartet.py"
+    }
+   ],
+   "passed": true
+  },
+  {
+   "label": "prop:multistate",
+   "number": "8.17",
+   "kind": "Prop.",
+   "name": "Several attractive readings",
+   "tested": "with $A=\\sum_ja_j^2$, the supports are those of the attraction model at $\\alpha=\\sqrt A$ up to $\\Pr(|M|\\ge3)$",
+   "checks": [
+    {
+     "former_check": "C27",
+     "instances": "24 random rooted trees ($n=5,6$), $k\\in\\{2,3\\}$ attractive readings, all outcomes enumerated",
+     "result": "two-innovation parts equal to those at $\\alpha=\\sqrt A$; $|m-m^{(\\sqrt A)}|\\le\\Pr(|M|\\ge3)$; dominance",
+     "passed": true,
+     "script": "multistate_check.py"
+    }
+   ],
+   "passed": true
+  },
+  {
+   "label": "prop:tworeading",
+   "number": "8.16",
+   "kind": "Prop.",
+   "name": "Two-reading coding",
+   "tested": "only coincidence proposes false splits at second order; the quartet supports and boundary",
+   "checks": [
+    {
+     "former_check": "C28",
+     "instances": "24 random rooted trees ($n=5,6,7$), every outcome with at most two innovations; the quartet supports summed over all outcomes",
+     "result": "only disjoint pairs with both readings attractive propose a false split; $m_{13|24}=\\alpha^2p_1p_3(1-r)^2$, $m_{14|23}=0$, $m_{12|34}=2r+O(\\varepsilon^3)$",
+     "passed": true,
+     "script": "tworeading_check.py"
+    }
+   ],
+   "passed": true
+  },
+  {
+   "label": "prop:alpha",
+   "number": "8.18",
+   "kind": "Prop.",
+   "name": "Estimating $\\alpha$",
+   "tested": "$C^{(2)}=\\alpha^2R^{(2)}$ for isolated pairs",
+   "checks": [
+    {
+     "former_check": "C20",
+     "instances": "60 random rooted trees, $n=5..7$, 538 isolated pairs, all two-innovation outcomes",
+     "result": "$C^{(2)}=\\alpha^2R^{(2)}$ exactly; data: shared-departure ratio $\\hat C/\\hat R$, Heinrichi $222/270=0.82$ (540 pairs isolated among the legible witnesses), \\emph{Lai} $50/147=0.34$ (computed)",
+     "passed": true,
+     "script": "alpha_estimate.py"
+    }
+   ],
+   "passed": true
+  },
+  {
+   "label": "prop:polytomynull",
+   "number": "8.19",
+   "kind": "Prop.",
+   "name": "Coincidence null at a polytomy",
+   "tested": "the leading term of $m(\\tau)$ at a polytomy, with an $O(\\varepsilon^3)$ remainder",
+   "checks": [
+    {
+     "former_check": "C23",
+     "instances": "60 random rooted trees with a polytomy ($k=3$ or $4$; 22 at the root), all $3^{|E|}$ innovation states at $\\varepsilon=0.004$ and $0.002$",
+     "result": "the remainder divides by $7.8$--$8.1$ when $\\varepsilon$ is halved (required $7$--$9$); median relative size $1.1\\%$ (output). Not checked: $\\kappa$, the overwrite case at $\\alpha=1$, the estimators",
+     "passed": true,
+     "script": "polytomy_null.py"
+    }
+   ],
+   "passed": true
+  },
+  {
+   "label": "sec:calibrated",
+   "number": "8.4",
+   "kind": "Section",
+   "name": "Calibrated B\u00e9dier test, pruning rule",
+   "tested": "every number and range stated for the pruning rule, on the saved outputs",
+   "checks": [
+    {
+     "former_check": "C24",
+     "instances": "the saved outputs, three $\\alpha$ and $300$ traditions in each of the two settings",
+     "result": "17 assertions on every number and range stated for the pruning rule pass, 0 fail (reconstruction only, no null rejection rate)",
+     "passed": true,
+     "script": "bedier_calibrated_check.py"
+    }
+   ],
+   "passed": true
+  },
+  {
+   "group": "The graphs of stemmatics (Section~\\ref{sec:graphs})"
+  },
+  {
+   "label": "prop:size",
+   "number": "9.1",
+   "kind": "Prop.",
+   "name": "Size",
+   "tested": "the number of non-trivial splits is $2^{n-1}-n-1$",
+   "checks": [
+    {
+     "former_check": "C12",
+     "instances": "full conflict graphs on $n=4..7$ witnesses",
+     "result": "vertex counts $3,10,25,56$, equal to $2^{n-1}-n-1$",
+     "passed": true,
+     "script": "verify_claims.py"
+    }
+   ],
+   "passed": true
+  },
+  {
+   "label": "prop:crossing",
+   "number": "9.2",
+   "kind": "Prop.",
+   "name": "Crossing set",
+   "tested": "the true splits crossed by a false $\\tau=A|B$ are the internal edges of $T[A]\\cap T[B]$, non-empty and connected",
+   "checks": [
+    {
+     "former_check": "C13",
+     "instances": "120 random binary trees, $n=5..9$, all 10{,}274 false splits",
+     "result": "crossing set equals $T[A]\\cap T[B]$, non-empty and connected, in all",
+     "passed": true,
+     "script": "verify_claims.py"
+    }
+   ],
+   "passed": true
+  },
+  {
+   "label": "prop:five",
+   "number": "9.3",
+   "kind": "Prop.",
+   "name": "Five witnesses",
+   "tested": "the conflict graph on five witnesses is $L(K_5)$, neither chordal nor perfect",
+   "checks": [
+    {
+     "former_check": "C12",
+     "instances": "the full conflict graph on five witnesses",
+     "result": "isomorphic to $L(K_5)$ and to the complement of the Petersen graph; induced $C_4$ and $C_5$, not chordal",
+     "passed": true,
+     "script": "verify_claims.py"
+    }
+   ],
+   "passed": true
+  },
+  {
+   "label": "thm:fpt",
+   "number": "9.4",
+   "kind": "Thm",
+   "name": "Dynamic programme",
+   "tested": "the $O(3^n)$ dynamic programme returns the maximum-weight compatible set",
+   "checks": [
+    {
+     "former_check": "C14",
+     "instances": "40 random instances, $n=5..8$ (and $32$ more, $n=7,10$, in the margin check)",
+     "result": "the dynamic programme equals an exact MWIS (CP-SAT) in all",
+     "passed": true,
+     "script": "verify_claims.py"
+    }
+   ],
+   "passed": true
+  },
+  {
+   "group": "Simulations (Section~\\ref{sec:simulations})"
+  },
+  {
+   "label": "sec:birthdeath",
+   "number": "10.2",
+   "kind": "Section",
+   "name": "Birth--death traditions",
+   "tested": "the metrics on hand-made trees, and the orderings and bands stated, on the saved outputs",
+   "checks": [
+    {
+     "former_check": "C21",
+     "instances": "index code on hand-made trees; the saved outputs of the three birth--death settings, all $\\alpha$",
+     "result": "62 assertions pass, 0 fail: truth inside the null band, raw optimum over-resolves, rival test and thresholds as stated, $P(\\deg\\ge3)$ ranges (orderings and bands only)",
+     "passed": true,
+     "script": "bedier_birthdeath_check.py"
+    }
+   ],
+   "passed": true
+  }
+ ],
+ "scripts": {
+  "C1-C14": {
+   "script": "verify_claims",
+   "exit": 0,
+   "seconds": 3.4,
+   "log": "data/check_C1-C14.log"
+  },
+  "C15": {
+   "script": "kappa_quartet",
+   "exit": 0,
+   "seconds": 4.4,
+   "log": "data/check_C15.log"
+  },
+  "C16": {
+   "script": "mechanisms_check",
+   "exit": 0,
+   "seconds": 6.3,
+   "log": "data/check_C16.log"
+  },
+  "C17": {
+   "script": "drift_quartet",
+   "exit": 0,
+   "seconds": 1.4,
+   "log": "data/check_C17.log"
+  },
+  "C27": {
+   "script": "multistate_check",
+   "exit": 0,
+   "seconds": 147.0,
+   "log": "data/check_C27.log"
+  },
+  "C28": {
+   "script": "tworeading_check",
+   "exit": 0,
+   "seconds": 0.3,
+   "log": "data/check_C28.log"
+  },
+  "C29": {
+   "script": "tops_check",
+   "exit": 0,
+   "seconds": 0.0,
+   "log": "data/check_C29.log"
+  },
+  "C18": {
+   "script": "gap_check",
+   "exit": 0,
+   "seconds": 0.1,
+   "log": "data/check_C18.log"
+  },
+  "C19": {
+   "script": "fragmentary_check",
+   "exit": 0,
+   "seconds": 33.3,
+   "log": "data/check_C19.log"
+  },
+  "C20": {
+   "script": "alpha_estimate",
+   "exit": 0,
+   "seconds": 2.1,
+   "log": "data/check_C20.log"
+  },
+  "C21": {
+   "script": "bedier_birthdeath_check",
+   "exit": 0,
+   "seconds": 0.5,
+   "log": "data/check_C21.log"
+  },
+  "C22": {
+   "script": "gamma_confidence",
+   "exit": 0,
+   "seconds": 9.5,
+   "log": "data/check_C22.log"
+  },
+  "C23": {
+   "script": "polytomy_null",
+   "exit": 0,
+   "seconds": 4.9,
+   "log": "data/check_C23.log"
+  },
+  "C24": {
+   "script": "bedier_calibrated_check",
+   "exit": 0,
+   "seconds": 0.0,
+   "log": "data/check_C24.log"
+  },
+  "C25": {
+   "script": "cutting_consistency",
+   "exit": 0,
+   "seconds": 5.5,
+   "log": "data/check_C25.log"
+  },
+  "C26": {
+   "script": "cutting_consistency_sim",
+   "exit": 0,
+   "seconds": 5.4,
+   "log": "data/check_C26.log"
+  },
+  "rival": {
+   "script": "rival_test",
+   "exit": 0,
+   "seconds": 0.0,
+   "log": "data/check_rival.log"
+  },
+  "rival_unequal": {
+   "script": "rival_unequal",
+   "exit": 0,
+   "seconds": 0.1,
+   "log": "data/check_rival_unequal.log"
+  },
+  "regime": {
+   "script": "coding_regime",
+   "exit": 0,
+   "seconds": 0.8,
+   "log": "data/check_regime.log"
+  }
+ },
+ "new_checks": {
+  "exclusive": {
+   "passed": true,
+   "seconds": 0.0,
+   "numbers": {
+    "collations": 400,
+    "units": 6141,
+    "split_pairs": 3791,
+    "cluster_pairs": 1716,
+    "cross_unit_conflicts": 10433
+   }
+  },
+  "nphard": {
+   "passed": true,
+   "seconds": 0.1,
+   "numbers": {
+    "graphs": 250,
+    "max_vertices": 10
+   }
+  },
+  "buneman": {
+   "passed": true,
+   "seconds": 0.2,
+   "numbers": {
+    "trees": 300,
+    "nonbinary_trees": 188,
+    "compatible_sets": 300
+   }
+  },
+  "threshold": {
+   "passed": true,
+   "seconds": 0.0,
+   "numbers": {
+    "instances": 146,
+    "unrestricted_optimum_not_T": 78
+   }
+  },
+  "pairwise": {
+   "passed": true,
+   "seconds": 0.8,
+   "numbers": {
+    "rows": [
+     {
+      "n": 5,
+      "alpha": 0.102,
+      "K": 8,
+      "L": 46,
+      "bound": 0.4887,
+      "sim_error": 0.0644,
+      "reps": 40000,
+      "passed": true
+     },
+     {
+      "n": 5,
+      "alpha": 0.102,
+      "K": 8,
+      "L": 93,
+      "bound": 0.0489,
+      "sim_error": 0.00638,
+      "reps": 40000,
+      "passed": true
+     },
+     {
+      "n": 5,
+      "alpha": 0.871,
+      "K": 8,
+      "L": 58,
+      "bound": 0.4977,
+      "sim_error": 0.06865,
+      "reps": 40000,
+      "passed": true
+     },
+     {
+      "n": 5,
+      "alpha": 0.871,
+      "K": 8,
+      "L": 108,
+      "bound": 0.0491,
+      "sim_error": 0.0068,
+      "reps": 40000,
+      "passed": true
+     },
+     {
+      "n": 5,
+      "alpha": 0.299,
+      "K": 8,
+      "L": 40,
+      "bound": 0.4975,
+      "sim_error": 0.07842,
+      "reps": 40000,
+      "passed": true
+     },
+     {
+      "n": 5,
+      "alpha": 0.299,
+      "K": 8,
+      "L": 80,
+      "bound": 0.0492,
+      "sim_error": 0.00802,
+      "reps": 40000,
+      "passed": true
+     },
+     {
+      "n": 5,
+      "alpha": 0.696,
+      "K": 8,
+      "L": 505,
+      "bound": 0.4988,
+      "sim_error": 0.08903,
+      "reps": 40000,
+      "passed": true
+     },
+     {
+      "n": 5,
+      "alpha": 0.696,
+      "K": 8,
+      "L": 1306,
+      "bound": 0.0499,
+      "sim_error": 0.00682,
+      "reps": 40000,
+      "passed": true
+     },
+     {
+      "n": 6,
+      "alpha": 0.312,
+      "K": 22,
+      "L": 152,
+      "bound": 0.4988,
+      "sim_error": 0.09885,
+      "reps": 20000,
+      "passed": true
+     },
+     {
+      "n": 6,
+      "alpha": 0.312,
+      "K": 22,
+      "L": 460,
+      "bound": 0.0497,
+      "sim_error": 0.00775,
+      "reps": 20000,
+      "passed": true
+     },
+     {
+      "n": 6,
+      "alpha": 0.422,
+      "K": 22,
+      "L": 82,
+      "bound": 0.4985,
+      "sim_error": 0.05865,
+      "reps": 20000,
+      "passed": true
+     },
+     {
+      "n": 6,
+      "alpha": 0.422,
+      "K": 22,
+      "L": 158,
+      "bound": 0.0495,
+      "sim_error": 0.00635,
+      "reps": 20000,
+      "passed": true
+     }
+    ],
+    "max_sim_over_bound": 0.1982
+   }
+  },
+  "consistency": {
+   "passed": true,
+   "seconds": 0.6,
+   "numbers": {
+    "part_a": [
+     {
+      "n": 5,
+      "gamma": 0.0324,
+      "at": "Bernstein",
+      "L": 1925,
+      "bernstein": 0.4997,
+      "hoeffding": 7.2845,
+      "sim_error": 0.0,
+      "passed": true
+     },
+     {
+      "n": 5,
+      "gamma": 0.0324,
+      "at": "Hoeffding",
+      "L": 7031,
+      "bernstein": 0.0067,
+      "hoeffding": 0.5,
+      "sim_error": 0.0,
+      "passed": true
+     },
+     {
+      "n": 5,
+      "gamma": 0.0893,
+      "at": "Bernstein",
+      "L": 365,
+      "bernstein": 0.4971,
+      "hoeffding": 4.6718,
+      "sim_error": 0.0003,
+      "passed": true
+     },
+     {
+      "n": 5,
+      "gamma": 0.0893,
+      "at": "Hoeffding",
+      "L": 926,
+      "bernstein": 0.0157,
+      "hoeffding": 0.4998,
+      "sim_error": 0.0,
+      "passed": true
+     },
+     {
+      "n": 5,
+      "gamma": 0.1137,
+      "at": "Bernstein",
+      "L": 301,
+      "bernstein": 0.4999,
+      "hoeffding": 2.8582,
+      "sim_error": 0.0001,
+      "passed": true
+     },
+     {
+      "n": 5,
+      "gamma": 0.1137,
+      "at": "Hoeffding",
+      "L": 571,
+      "bernstein": 0.0796,
+      "hoeffding": 0.4991,
+      "sim_error": 0.0,
+      "passed": true
+     },
+     {
+      "n": 6,
+      "gamma": 0.0438,
+      "at": "Bernstein",
+      "L": 1351,
+      "bernstein": 0.4992,
+      "hoeffding": 13.7001,
+      "sim_error": 0.0,
+      "passed": true
+     },
+     {
+      "n": 6,
+      "gamma": 0.0438,
+      "at": "Hoeffding",
+      "L": 4806,
+      "bernstein": 0.0056,
+      "hoeffding": 0.4999,
+      "sim_error": 0.0,
+      "passed": true
+     }
+    ],
+    "part_b": [
+     {
+      "case": "designed",
+      "gap": 0.04,
+      "L": [
+       25,
+       100,
+       400,
+       1600,
+       6400
+      ],
+      "freq_T": [
+       0.316,
+       0.233,
+       0.0895,
+       0.005,
+       0.0
+      ],
+      "passed": true
+     },
+     {
+      "case": "long branch",
+      "gap": 0.0359,
+      "L": [
+       25,
+       100,
+       400,
+       1600,
+       6400
+      ],
+      "freq_T": [
+       0.0432,
+       0.0485,
+       0.02,
+       0.0003,
+       0.0
+      ],
+      "passed": true
+     }
+    ]
+   }
+  },
+  "samplesize": {
+   "passed": true,
+   "seconds": 2.5,
+   "numbers": {
+    "cases": 236,
+    "max_bound_over_eps": 0.2387,
+    "simulated": [
+     {
+      "n": 6,
+      "gamma": 0.0211,
+      "L": 34170,
+      "bernstein": 0.004,
+      "sim_error": 0.0
+     },
+     {
+      "n": 5,
+      "gamma": 0.1367,
+      "L": 541,
+      "bernstein": 0.0129,
+      "sim_error": 0.0
+     },
+     {
+      "n": 5,
+      "gamma": 0.2138,
+      "L": 283,
+      "bernstein": 0.0196,
+      "sim_error": 0.0
+     },
+     {
+      "n": 6,
+      "gamma": 0.0431,
+      "L": 4661,
+      "bernstein": 0.0057,
+      "sim_error": 0.0
+     }
+    ]
+   }
+  },
+  "blocks": {
+   "passed": true,
+   "seconds": 0.3,
+   "numbers": {
+    "rows": [
+     {
+      "gamma": 0.1022,
+      "K": 8,
+      "rho": 1.0,
+      "k": 5,
+      "J": 706,
+      "bound": 0.4998,
+      "sim_error": 0.0,
+      "passed": true
+     },
+     {
+      "gamma": 0.1022,
+      "K": 8,
+      "rho": 0.5,
+      "k": 10,
+      "J": 706,
+      "bound": 0.4998,
+      "sim_error": 0.0,
+      "passed": true
+     },
+     {
+      "gamma": 0.2467,
+      "K": 8,
+      "rho": 1.0,
+      "k": 5,
+      "J": 122,
+      "bound": 0.4889,
+      "sim_error": 0.0,
+      "passed": true
+     },
+     {
+      "gamma": 0.2467,
+      "K": 8,
+      "rho": 0.5,
+      "k": 10,
+      "J": 122,
+      "bound": 0.4889,
+      "sim_error": 0.0,
+      "passed": true
+     },
+     {
+      "gamma": 0.0881,
+      "K": 8,
+      "rho": 1.0,
+      "k": 5,
+      "J": 951,
+      "bound": 0.4999,
+      "sim_error": 0.0,
+      "passed": true
+     },
+     {
+      "gamma": 0.0881,
+      "K": 8,
+      "rho": 0.5,
+      "k": 10,
+      "J": 951,
+      "bound": 0.4999,
+      "sim_error": 0.0,
+      "passed": true
+     },
+     {
+      "gamma": 0.1076,
+      "K": 8,
+      "rho": 1.0,
+      "k": 5,
+      "J": 637,
+      "bound": 0.4992,
+      "sim_error": 0.0,
+      "passed": true
+     },
+     {
+      "gamma": 0.1076,
+      "K": 8,
+      "rho": 0.5,
+      "k": 10,
+      "J": 637,
+      "bound": 0.4992,
+      "sim_error": 0.0,
+      "passed": true
+     }
+    ],
+    "control": [
+     {
+      "gamma": 0.0922,
+      "J": 10,
+      "k": 20,
+      "bound": 19.1674,
+      "iid_bound_L_Jk": 8.54470991126453,
+      "sim_error": 0.6967,
+      "iid_bound_violated": false,
+      "passed": true
+     },
+     {
+      "gamma": 0.0922,
+      "J": 20,
+      "k": 20,
+      "bound": 18.3695,
+      "iid_bound_L_Jk": 3.6506033733831145,
+      "sim_error": 0.4872,
+      "iid_bound_violated": false,
+      "passed": true
+     },
+     {
+      "gamma": 0.0922,
+      "J": 40,
+      "k": 20,
+      "bound": 16.8719,
+      "iid_bound_L_Jk": 0.6663452494878087,
+      "sim_error": 0.2513,
+      "iid_bound_violated": false,
+      "passed": true
+     },
+     {
+      "gamma": 0.0922,
+      "J": 80,
+      "k": 20,
+      "bound": 14.233,
+      "iid_bound_L_Jk": 0.022200799575748508,
+      "sim_error": 0.0783,
+      "iid_bound_violated": true,
+      "passed": true
+     },
+     {
+      "gamma": 0.0922,
+      "J": 160,
+      "k": 20,
+      "bound": 10.1289,
+      "iid_bound_L_Jk": 2.4643775090127756e-05,
+      "sim_error": 0.0109,
+      "iid_bound_violated": true,
+      "passed": true
+     },
+     {
+      "gamma": 0.0922,
+      "J": 320,
+      "k": 20,
+      "bound": 5.1298,
+      "iid_bound_L_Jk": 3.036578253464006e-11,
+      "sim_error": 0.0002,
+      "iid_bound_violated": false,
+      "passed": true
+     },
+     {
+      "gamma": 0.0967,
+      "J": 10,
+      "k": 20,
+      "bound": 19.0869,
+      "iid_bound_L_Jk": 7.854536822965835,
+      "sim_error": 0.4997,
+      "iid_bound_violated": false,
+      "passed": true
+     },
+     {
+      "gamma": 0.0967,
+      "J": 20,
+      "k": 20,
+      "bound": 18.2154,
+      "iid_bound_L_Jk": 3.0846874351663116,
+      "sim_error": 0.3312,
+      "iid_bound_violated": false,
+      "passed": true
+     },
+     {
+      "gamma": 0.0967,
+      "J": 40,
+      "k": 20,
+      "bound": 16.5901,
+      "iid_bound_L_Jk": 0.4757648286336459,
+      "sim_error": 0.1841,
+      "iid_bound_violated": false,
+      "passed": true
+     },
+     {
+      "gamma": 0.0967,
+      "J": 80,
+      "k": 20,
+      "bound": 13.7615,
+      "iid_bound_L_Jk": 0.011317608608240121,
+      "sim_error": 0.0619,
+      "iid_bound_violated": true,
+      "passed": true
+     },
+     {
+      "gamma": 0.0967,
+      "J": 160,
+      "k": 20,
+      "bound": 9.469,
+      "iid_bound_L_Jk": 6.404413230465546e-06,
+      "sim_error": 0.0117,
+      "iid_bound_violated": true,
+      "passed": true
+     },
+     {
+      "gamma": 0.0967,
+      "J": 320,
+      "k": 20,
+      "bound": 4.4831,
+      "iid_bound_L_Jk": 2.0508254413281073e-12,
+      "sim_error": 0.0004,
+      "iid_bound_violated": false,
+      "passed": true
+     }
+    ],
+    "iid_bound_violations": 4
+   }
+  },
+  "gammablocks": {
+   "passed": true,
+   "seconds": 0.2,
+   "numbers": {
+    "rows": [
+     {
+      "instance": 0,
+      "gamma_T": 0.0748,
+      "delta": 0.05,
+      "J": 50,
+      "k": 4,
+      "rho": 1.0,
+      "coverage": 1.0,
+      "certified": 0.0,
+      "false_certificates": 0.0,
+      "passed": true
+     },
+     {
+      "instance": 0,
+      "gamma_T": 0.0748,
+      "delta": 0.05,
+      "J": 400,
+      "k": 4,
+      "rho": 1.0,
+      "coverage": 1.0,
+      "certified": 0.0,
+      "false_certificates": 0.0,
+      "passed": true
+     },
+     {
+      "instance": 0,
+      "gamma_T": 0.0748,
+      "delta": 0.05,
+      "J": 3200,
+      "k": 4,
+      "rho": 0.5,
+      "coverage": 1.0,
+      "certified": 0.985,
+      "false_certificates": 0.0,
+      "passed": true
+     },
+     {
+      "instance": 0,
+      "gamma_T": 0.0748,
+      "delta": 0.2,
+      "J": 50,
+      "k": 4,
+      "rho": 1.0,
+      "coverage": 1.0,
+      "certified": 0.0,
+      "false_certificates": 0.0,
+      "passed": true
+     },
+     {
+      "instance": 0,
+      "gamma_T": 0.0748,
+      "delta": 0.2,
+      "J": 400,
+      "k": 4,
+      "rho": 1.0,
+      "coverage": 1.0,
+      "certified": 0.0,
+      "false_certificates": 0.0,
+      "passed": true
+     },
+     {
+      "instance": 0,
+      "gamma_T": 0.0748,
+      "delta": 0.2,
+      "J": 3200,
+      "k": 4,
+      "rho": 0.5,
+      "coverage": 1.0,
+      "certified": 0.9995,
+      "false_certificates": 0.0,
+      "passed": true
+     },
+     {
+      "instance": 1,
+      "gamma_T": 0.1826,
+      "delta": 0.05,
+      "J": 50,
+      "k": 4,
+      "rho": 1.0,
+      "coverage": 1.0,
+      "certified": 0.0,
+      "false_certificates": 0.0,
+      "passed": true
+     },
+     {
+      "instance": 1,
+      "gamma_T": 0.1826,
+      "delta": 0.05,
+      "J": 400,
+      "k": 4,
+      "rho": 1.0,
+      "coverage": 1.0,
+      "certified": 0.6095,
+      "false_certificates": 0.0,
+      "passed": true
+     },
+     {
+      "instance": 1,
+      "gamma_T": 0.1826,
+      "delta": 0.05,
+      "J": 3200,
+      "k": 4,
+      "rho": 0.5,
+      "coverage": 1.0,
+      "certified": 1.0,
+      "false_certificates": 0.0,
+      "passed": true
+     },
+     {
+      "instance": 1,
+      "gamma_T": 0.1826,
+      "delta": 0.2,
+      "J": 50,
+      "k": 4,
+      "rho": 1.0,
+      "coverage": 1.0,
+      "certified": 0.0,
+      "false_certificates": 0.0,
+      "passed": true
+     },
+     {
+      "instance": 1,
+      "gamma_T": 0.1826,
+      "delta": 0.2,
+      "J": 400,
+      "k": 4,
+      "rho": 1.0,
+      "coverage": 1.0,
+      "certified": 0.8515,
+      "false_certificates": 0.0,
+      "passed": true
+     },
+     {
+      "instance": 1,
+      "gamma_T": 0.1826,
+      "delta": 0.2,
+      "J": 3200,
+      "k": 4,
+      "rho": 0.5,
+      "coverage": 1.0,
+      "certified": 1.0,
+      "false_certificates": 0.0,
+      "passed": true
+     },
+     {
+      "instance": 2,
+      "gamma_T": -0.0312,
+      "delta": 0.05,
+      "J": 50,
+      "k": 4,
+      "rho": 1.0,
+      "coverage": 1.0,
+      "certified": 0.0,
+      "false_certificates": 0.0,
+      "passed": true
+     },
+     {
+      "instance": 2,
+      "gamma_T": -0.0312,
+      "delta": 0.05,
+      "J": 400,
+      "k": 4,
+      "rho": 1.0,
+      "coverage": 1.0,
+      "certified": 0.0,
+      "false_certificates": 0.0,
+      "passed": true
+     },
+     {
+      "instance": 2,
+      "gamma_T": -0.0312,
+      "delta": 0.05,
+      "J": 3200,
+      "k": 4,
+      "rho": 0.5,
+      "coverage": 1.0,
+      "certified": 0.0,
+      "false_certificates": 0.0,
+      "passed": true
+     },
+     {
+      "instance": 2,
+      "gamma_T": -0.0312,
+      "delta": 0.2,
+      "J": 50,
+      "k": 4,
+      "rho": 1.0,
+      "coverage": 1.0,
+      "certified": 0.0,
+      "false_certificates": 0.0,
+      "passed": true
+     },
+     {
+      "instance": 2,
+      "gamma_T": -0.0312,
+      "delta": 0.2,
+      "J": 400,
+      "k": 4,
+      "rho": 1.0,
+      "coverage": 1.0,
+      "certified": 0.0,
+      "false_certificates": 0.0,
+      "passed": true
+     },
+     {
+      "instance": 2,
+      "gamma_T": -0.0312,
+      "delta": 0.2,
+      "J": 3200,
+      "k": 4,
+      "rho": 0.5,
+      "coverage": 1.0,
+      "certified": 0.0,
+      "false_certificates": 0.0,
+      "passed": true
+     }
+    ]
+   }
+  },
+  "textillegible": {
+   "passed": true,
+   "seconds": 2.3,
+   "numbers": {
+    "instances": 48,
+    "min_slack_lower": 3.975628472128229e-08,
+    "min_slack_upper": 0.007822782023524141,
+    "sharp_bound_violations": 4.0,
+    "sharp_violations_targeted": 4,
+    "condition_c_instances": 36
+   }
+  },
+  "bediereffect": {
+   "passed": true,
+   "seconds": 0.3,
+   "numbers": {
+    "rows": [
+     {
+      "n": 5,
+      "splits_T": 1,
+      "m_tau": 0.0657,
+      "L": 11,
+      "bound": 0.4738,
+      "P_T_is_a_maximiser": 0.09835,
+      "P_unique": 0.0836,
+      "passed": true
+     },
+     {
+      "n": 5,
+      "splits_T": 1,
+      "m_tau": 0.0657,
+      "L": 34,
+      "bound": 0.0994,
+      "P_T_is_a_maximiser": 0.00095,
+      "P_unique": 0.00085,
+      "passed": true
+     },
+     {
+      "n": 5,
+      "splits_T": 1,
+      "m_tau": 0.0559,
+      "L": 13,
+      "bound": 0.4734,
+      "P_T_is_a_maximiser": 0.0498,
+      "P_unique": 0.02705,
+      "passed": true
+     },
+     {
+      "n": 5,
+      "splits_T": 1,
+      "m_tau": 0.0559,
+      "L": 41,
+      "bound": 0.0946,
+      "P_T_is_a_maximiser": 0.00035,
+      "P_unique": 0.00025,
+      "passed": true
+     },
+     {
+      "n": 5,
+      "splits_T": 1,
+      "m_tau": 0.0622,
+      "L": 11,
+      "bound": 0.4934,
+      "P_T_is_a_maximiser": 0.11435,
+      "P_unique": 0.0759,
+      "passed": true
+     },
+     {
+      "n": 5,
+      "splits_T": 1,
+      "m_tau": 0.0622,
+      "L": 36,
+      "bound": 0.0991,
+      "P_T_is_a_maximiser": 0.0027,
+      "P_unique": 0.0023,
+      "passed": true
+     },
+     {
+      "n": 5,
+      "splits_T": 1,
+      "m_tau": 0.0287,
+      "L": 24,
+      "bound": 0.497,
+      "P_T_is_a_maximiser": 0.09015,
+      "P_unique": 0.05005,
+      "passed": true
+     },
+     {
+      "n": 5,
+      "splits_T": 1,
+      "m_tau": 0.0287,
+      "L": 80,
+      "bound": 0.0973,
+      "P_T_is_a_maximiser": 0.00225,
+      "P_unique": 0.00175,
+      "passed": true
+     },
+     {
+      "n": 6,
+      "splits_T": 1,
+      "m_tau": 0.0128,
+      "L": 54,
+      "bound": 0.4998,
+      "P_T_is_a_maximiser": 0.00725,
+      "P_unique": 0.00495,
+      "passed": true
+     },
+     {
+      "n": 6,
+      "splits_T": 1,
+      "m_tau": 0.0128,
+      "L": 180,
+      "bound": 0.0991,
+      "P_T_is_a_maximiser": 0.0,
+      "P_unique": 0.0,
+      "passed": true
+     },
+     {
+      "n": 6,
+      "splits_T": 2,
+      "m_tau": 0.0118,
+      "L": 59,
+      "bound": 0.496,
+      "P_T_is_a_maximiser": 0.2867,
+      "P_unique": 0.2575,
+      "passed": true
+     },
+     {
+      "n": 6,
+      "splits_T": 2,
+      "m_tau": 0.0118,
+      "L": 194,
+      "bound": 0.0997,
+      "P_T_is_a_maximiser": 0.0231,
+      "P_unique": 0.023,
+      "passed": true
+     }
+    ]
+   }
+  },
+  "bedier": {
+   "passed": true,
+   "seconds": 0.3,
+   "numbers": {
+    "rows": [
+     {
+      "n": 5,
+      "a": 0.0388,
+      "b": 0.1297,
+      "c": 0.0776,
+      "L": 121,
+      "bound": 0.492,
+      "sim_error": 0.0646,
+      "passed": true
+     },
+     {
+      "n": 5,
+      "a": 0.0388,
+      "b": 0.1297,
+      "c": 0.0747,
+      "L": 128,
+      "bound": 0.496,
+      "sim_error": 0.0636,
+      "passed": true
+     },
+     {
+      "n": 5,
+      "a": 0.0478,
+      "b": 0.0541,
+      "c": 0.0509,
+      "L": 13707,
+      "bound": 0.5,
+      "sim_error": 0.09325,
+      "passed": true
+     },
+     {
+      "n": 5,
+      "a": 0.0478,
+      "b": 0.0541,
+      "c": 0.0506,
+      "L": 14001,
+      "bound": 0.5,
+      "sim_error": 0.09385,
+      "passed": true
+     },
+     {
+      "n": 5,
+      "a": 0.0404,
+      "b": 0.1297,
+      "c": 0.0787,
+      "L": 143,
+      "bound": 0.4998,
+      "sim_error": 0.0699,
+      "passed": true
+     },
+     {
+      "n": 5,
+      "a": 0.0404,
+      "b": 0.1297,
+      "c": 0.088,
+      "L": 129,
+      "bound": 0.4997,
+      "sim_error": 0.09855,
+      "passed": true
+     },
+     {
+      "n": 5,
+      "a": 0.0382,
+      "b": 0.0455,
+      "c": 0.0418,
+      "L": 8420,
+      "bound": 0.5,
+      "sim_error": 0.08955,
+      "passed": true
+     },
+     {
+      "n": 5,
+      "a": 0.0382,
+      "b": 0.0455,
+      "c": 0.0409,
+      "L": 9328,
+      "bound": 0.5,
+      "sim_error": 0.1055,
+      "passed": true
+     },
+     {
+      "n": 6,
+      "a": 0.0415,
+      "b": 0.0731,
+      "c": 0.0562,
+      "L": 591,
+      "bound": 0.4999,
+      "sim_error": 0.06305,
+      "passed": true
+     },
+     {
+      "n": 6,
+      "a": 0.0415,
+      "b": 0.0731,
+      "c": 0.0686,
+      "L": 4593,
+      "bound": 0.4999,
+      "sim_error": 0.1233,
+      "passed": true
+     }
+    ],
+    "second_form_holds": true
+   }
+  },
+  "rival": {
+   "passed": true,
+   "seconds": 0.4,
+   "numbers": {
+    "rows": [
+     {
+      "n": 5,
+      "m_sigma": 0.1054,
+      "m_tau": 0.0578,
+      "L": 200,
+      "reps": 40000,
+      "p_value": 0.41915648404099826,
+      "p_value_wrong_law": 0.0,
+      "passed": true
+     },
+     {
+      "n": 5,
+      "m_sigma": 0.1947,
+      "m_tau": 0.0694,
+      "L": 200,
+      "reps": 40000,
+      "p_value": 0.6814791948466561,
+      "p_value_wrong_law": 0.0,
+      "passed": true
+     },
+     {
+      "n": 5,
+      "m_sigma": 0.1618,
+      "m_tau": 0.0421,
+      "L": 200,
+      "reps": 40000,
+      "p_value": 0.9496424252511121,
+      "p_value_wrong_law": 0.0,
+      "passed": true
+     },
+     {
+      "n": 6,
+      "m_sigma": 0.0651,
+      "m_tau": 0.0372,
+      "L": 200,
+      "reps": 40000,
+      "p_value": 0.5359612031123877,
+      "p_value_wrong_law": 0.0,
+      "passed": true
+     }
+    ],
+    "max_prob_unit_proposes_both": 0.0
+   }
+  },
+  "dimfree": {
+   "passed": true,
+   "seconds": 0.4,
+   "numbers": {
+    "trees": 68,
+    "false_splits": 2552,
+    "worst_ratio": 0.9947010107390399,
+    "structural_failures": 0
+   }
+  },
+  "dominance": {
+   "passed": true,
+   "seconds": 0.0,
+   "numbers": {
+    "trees": 60,
+    "false_splits": 1396,
+    "strict": 792,
+    "smallest_slack": 0.0,
+    "outcome_failures": 0.0,
+    "decomposition_max_error": 1.3877787807814457e-17
+   }
+  },
+  "modelglobal": {
+   "passed": true,
+   "seconds": 1.8,
+   "numbers": {
+    "meeting": 185,
+    "not_meeting": 756,
+    "not_meeting_separation_fails": 323,
+    "smallest_margin": 0.006342218685269313,
+    "smallest_gamma_n_le_6": 0.006342218685269313
+   }
+  },
+  "lba": {
+   "passed": true,
+   "seconds": 0.9,
+   "numbers": {
+    "points": 4210,
+    "near_boundary": 1000,
+    "formula_checks": 4510,
+    "mismatches": 0,
+    "consistent": 2505,
+    "lba": 1165,
+    "boundary": 540
+   }
+  }
+ },
+ "failures": [],
+ "passed": true,
+ "seconds": 236.2
+}

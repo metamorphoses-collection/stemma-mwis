@@ -1,0 +1,267 @@
+{
+ "constraints": {
+  "min_spacing_um": 5.0,
+  "conflict_max_over_Rb": 0.9,
+  "compatible_min_over_Rb": 1.25,
+  "R_b_um": 6.717143707075343,
+  "delta_f": 5.654866776461628,
+  "weight_floors": [
+   0.3,
+   0.1
+  ]
+ },
+ "frozen_register": {
+  "geometry": {
+   "min_spacing": 5.837249780651868,
+   "max_conflict": 6.162932036602085,
+   "min_compatible": 9.525600250915842,
+   "conflict_over_Rb": 0.9174929561370717,
+   "compatible_over_Rb": 1.4181027928406946,
+   "V_conflict_min": 15.799912980012312,
+   "V_compatible_max": 1.1588436715438426,
+   "radius": 9.69565270967595
+  },
+  "a0.3": {
+   "ground": "{B+F+Mi+P+R,B+R,B+F+P+R}",
+   "is_mwis": false,
+   "gap": 0.11534357528979555,
+   "next": "{B+F+Mi+P+R,P+R,B+F+P+R}",
+   "mwis": "{B+F+Mi+P+R,B+R,B+F+P+R,B+F+R}"
+  },
+  "a0.1": {
+   "ground": "{B+F+Mi+P+R,B+R,B+F+P+R}",
+   "is_mwis": false,
+   "gap": 0.115343575289792,
+   "next": "{B+F+Mi+P+R,P+R,B+F+P+R}",
+   "mwis": "{B+F+Mi+P+R,B+R,B+F+P+R,B+F+R}"
+  }
+ },
+ "optimised": {
+  "8.0": {
+   "footprint_radius_um": 8.0,
+   "feasible": false
+  },
+  "10.0": {
+   "footprint_radius_um": 10.0,
+   "feasible": false
+  },
+  "12.0": {
+   "footprint_radius_um": 12.0,
+   "min_gap": 1.579241075818862,
+   "positions_um": {
+    "B+F+Mi+P+R": [
+     -1.182,
+     -11.943
+    ],
+    "B+R": [
+     7.785,
+     1.208
+    ],
+    "P+R": [
+     4.437,
+     6.091
+    ],
+    "B+F+P+R": [
+     -10.786,
+     -5.261
+    ],
+    "B+F+R": [
+     -0.253,
+     9.905
+    ]
+   },
+   "geometry": {
+    "min_spacing": 5.920620301869831,
+    "max_conflict": 6.045103727249389,
+    "min_compatible": 11.700273585232278,
+    "conflict_over_Rb": 0.8999515256584317,
+    "compatible_over_Rb": 1.7418525039010366,
+    "V_conflict_min": 17.74011464624324,
+    "V_compatible_max": 0.33744489662696625,
+    "radius": 12.000908161185777
+   },
+   "unweighted": {
+    "ground": "{B+F+Mi+P+R,B+R,B+F+P+R,B+F+R}",
+    "gap": 5.256259687831104
+   },
+   "a0.3": {
+    "ground": "{B+F+Mi+P+R,B+R,B+F+P+R,B+F+R}",
+    "is_mwis": true,
+    "gap": 2.4017671523950987,
+    "next": "{B+F+Mi+P+R,B+R,B+F+R}",
+    "mwis": "{B+F+Mi+P+R,B+R,B+F+P+R,B+F+R}"
+   },
+   "a0.1": {
+    "ground": "{B+F+Mi+P+R,B+R,B+F+P+R,B+F+R}",
+    "is_mwis": true,
+    "gap": 1.579241075818862,
+    "next": "{B+F+Mi+P+R,B+R,B+F+R}",
+    "mwis": "{B+F+Mi+P+R,B+R,B+F+P+R,B+F+R}"
+   }
+  },
+  "15.0": {
+   "footprint_radius_um": 15.0,
+   "min_gap": 1.518109125044516,
+   "positions_um": {
+    "B+F+Mi+P+R": [
+     -13.824,
+     5.823
+    ],
+    "B+R": [
+     -1.819,
+     0.619
+    ],
+    "P+R": [
+     2.752,
+     -3.339
+    ],
+    "B+F+P+R": [
+     8.471,
+     5.967
+    ],
+    "B+F+R": [
+     4.42,
+     -9.07
+    ]
+   },
+   "geometry": {
+    "min_spacing": 5.968856842587238,
+    "max_conflict": 6.0461417815299985,
+    "min_compatible": 10.923118677467773,
+    "conflict_over_Rb": 0.9001060637070246,
+    "compatible_over_Rb": 1.6261552757851774,
+    "V_conflict_min": 17.721847823979683,
+    "V_compatible_max": 0.5096817140144848,
+    "radius": 15.000312490941486
+   },
+   "unweighted": {
+    "ground": "{B+F+Mi+P+R,B+R,B+F+P+R,B+F+R}",
+    "gap": 4.756805556527876
+   },
+   "a0.3": {
+    "ground": "{B+F+Mi+P+R,B+R,B+F+P+R,B+F+R}",
+    "is_mwis": true,
+    "gap": 2.23781944701315,
+    "next": "{B+F+Mi+P+R,B+F+P+R,B+F+R}",
+    "mwis": "{B+F+Mi+P+R,B+R,B+F+P+R,B+F+R}"
+   },
+   "a0.1": {
+    "ground": "{B+F+Mi+P+R,B+R,B+F+P+R,B+F+R}",
+    "is_mwis": true,
+    "gap": 1.518109125044516,
+    "next": "{B+F+Mi+P+R,B+R,B+F+P+R}",
+    "mwis": "{B+F+Mi+P+R,B+R,B+F+P+R,B+F+R}"
+   }
+  },
+  "20.0": {
+   "footprint_radius_um": 20.0,
+   "min_gap": 1.6512830768958153,
+   "positions_um": {
+    "B+F+Mi+P+R": [
+     14.654,
+     -10.648
+    ],
+    "B+R": [
+     -1.544,
+     1.425
+    ],
+    "P+R": [
+     -5.635,
+     -3.026
+    ],
+    "B+F+P+R": [
+     2.067,
+     19.891
+    ],
+    "B+F+R": [
+     -9.541,
+     -7.642
+    ]
+   },
+   "geometry": {
+    "min_spacing": 6.0453507326212055,
+    "max_conflict": 6.0464135675646276,
+    "min_compatible": 12.089233667154186,
+    "conflict_over_Rb": 0.9001465252553376,
+    "compatible_over_Rb": 1.7997580808670626,
+    "V_conflict_min": 17.717068783182405,
+    "V_compatible_max": 0.2773232838534682,
+    "radius": 19.99810295831678
+   },
+   "unweighted": {
+    "ground": "{B+F+Mi+P+R,B+R,B+F+P+R,B+F+R}",
+    "gap": 5.345301126029437
+   },
+   "a0.3": {
+    "ground": "{B+F+Mi+P+R,B+R,B+F+P+R,B+F+R}",
+    "is_mwis": true,
+    "gap": 2.4738091534720557,
+    "next": "{B+F+Mi+P+R,P+R,B+F+P+R}",
+    "mwis": "{B+F+Mi+P+R,B+R,B+F+P+R,B+F+R}"
+   },
+   "a0.1": {
+    "ground": "{B+F+Mi+P+R,B+R,B+F+P+R,B+F+R}",
+    "is_mwis": true,
+    "gap": 1.6512830768958153,
+    "next": "{B+F+Mi+P+R,P+R,B+F+P+R}",
+    "mwis": "{B+F+Mi+P+R,B+R,B+F+P+R,B+F+R}"
+   }
+  }
+ },
+ "gap_upper_bound": {
+  "a0.3": 2.776025508444799,
+  "a0.1": 1.9534994318685623
+ },
+ "priscus_frozen_register": {
+  "geometry": {
+   "min_spacing": 5.1839995819103795,
+   "max_conflict": 5.75980216586733,
+   "min_compatible": 9.364303183087042,
+   "conflict_over_Rb": 0.8574778830175064,
+   "compatible_over_Rb": 1.3940900465213177,
+   "V_conflict_min": 23.710109789046044,
+   "V_compatible_max": 1.283885129561796,
+   "radius": 8.031655069758173
+  },
+  "a0.3": {
+   "ground": "{BMP,MP}",
+   "is_mwis": true,
+   "gap": 1.9981661932164405,
+   "next": "{BMP}",
+   "mwis": "{BMP,MP}"
+  },
+  "a0.1": {
+   "ground": "{BMP,MP}",
+   "is_mwis": true,
+   "gap": 1.0682547677538619,
+   "next": "{BMP}",
+   "mwis": "{BMP,MP}"
+  }
+ },
+ "lai_frozen_register": {
+  "geometry": {
+   "min_spacing": 5.25602779882571,
+   "max_conflict": 5.687944775846046,
+   "min_compatible": 9.43208952931633,
+   "conflict_over_Rb": 0.8467802720752847,
+   "compatible_over_Rb": 1.4041815897702568,
+   "V_conflict_min": 25.56505542805668,
+   "V_compatible_max": 1.2295083406398954,
+   "radius": 9.225512570317973
+  },
+  "a0.3": {
+   "ground": "{CG,DE,AB,DEF}",
+   "is_mwis": true,
+   "gap": 0.03061668454546762,
+   "next": "{CG,DE,DEF}",
+   "mwis": "{CG,DE,AB,DEF}"
+  },
+  "a0.1": {
+   "ground": "{CG,DE,DEF}",
+   "is_mwis": false,
+   "gap": 0.43930492623741113,
+   "next": "{CG,DE,AB}",
+   "mwis": "{CG,DE,AB,DEF}"
+  }
+ }
+}

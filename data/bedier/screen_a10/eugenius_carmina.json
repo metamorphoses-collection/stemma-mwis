@@ -1,0 +1,22 @@
+{
+ "stemma_witnesses": "LFPCRT",
+ "cited": {
+  "L": 66,
+  "F": 124,
+  "P": 115,
+  "C": 47,
+  "R": 51,
+  "T": 50
+ },
+ "analysis_witnesses": "LFPCRT",
+ "units_with_shared_departure": 84,
+ "included": false,
+ "exclusion": [
+  "too thin"
+ ],
+ "editor_top": [
+  "L",
+  "FPCRT"
+ ],
+ "k_E": 2
+}

@@ -1,0 +1,24 @@
+{
+ "stemma_witnesses": "PQGHIKL",
+ "cited": {
+  "P": 268,
+  "Q": 0,
+  "G": 85,
+  "H": 0,
+  "I": 19,
+  "K": 0,
+  "L": 0
+ },
+ "analysis_witnesses": "PG",
+ "units_with_shared_departure": 0,
+ "included": false,
+ "exclusion": [
+  "too few witnesses",
+  "too thin"
+ ],
+ "editor_top": [
+  "P",
+  "G"
+ ],
+ "k_E": 2
+}

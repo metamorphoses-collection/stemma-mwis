@@ -1,0 +1,372 @@
+{
+ "sidonius_epistulae": {
+  "page": 48,
+  "leaf": 126,
+  "printed": 9,
+  "right": 9,
+  "extra": 0,
+  "recall": 1.0,
+  "precision": 1.0,
+  "passes": true,
+  "missed": [],
+  "extras": []
+ },
+ "aldhelm_de_virginitate_prosa": {
+  "page": 280,
+  "leaf": 304,
+  "printed": 13,
+  "right": 4,
+  "extra": 0,
+  "recall": 0.3076923076923077,
+  "precision": 1.0,
+  "passes": false,
+  "missed": [
+   "ABG",
+   "AG",
+   "AG",
+   "AG",
+   "AGLO",
+   "AGLO",
+   "BO",
+   "LO",
+   "LO"
+  ],
+  "extras": []
+ },
+ "paulus_historia_romana": {
+  "page": 95,
+  "leaf": 168,
+  "printed": 0,
+  "right": 0,
+  "extra": 0,
+  "recall": null,
+  "precision": null,
+  "passes": true,
+  "missed": [],
+  "extras": []
+ },
+ "jordanes_romana": {
+  "page": 19,
+  "leaf": 92,
+  "printed": 11,
+  "right": 11,
+  "extra": 0,
+  "recall": 1.0,
+  "precision": 1.0,
+  "passes": true,
+  "missed": [],
+  "extras": []
+ },
+ "claudianus_maior": {
+  "page": 306,
+  "leaf": 539,
+  "printed": 9,
+  "right": 8,
+  "extra": 0,
+  "recall": 0.8888888888888888,
+  "precision": 1.0,
+  "passes": true,
+  "missed": [
+   "AP"
+  ],
+  "extras": []
+ },
+ "cassiodorus_variae": {
+  "page": 28,
+  "leaf": 211,
+  "printed": 10,
+  "right": 5,
+  "extra": 0,
+  "recall": 0.5,
+  "precision": 1.0,
+  "passes": false,
+  "missed": [
+   "DEX",
+   "DFKLPR",
+   "EFKMNX",
+   "EK",
+   "EK"
+  ],
+  "extras": []
+ },
+ "eugenius_dracontiana": {
+  "page": 54,
+  "leaf": 105,
+  "printed": 0,
+  "right": 0,
+  "extra": 0,
+  "recall": null,
+  "precision": null,
+  "passes": true,
+  "missed": [],
+  "extras": []
+ },
+ "sidonius_carmina": {
+  "page": 192,
+  "leaf": 270,
+  "printed": 12,
+  "right": 9,
+  "extra": 0,
+  "recall": 0.75,
+  "precision": 1.0,
+  "passes": true,
+  "missed": [
+   "CF",
+   "CFP",
+   "CFP"
+  ],
+  "extras": []
+ },
+ "eugippius_vita_severini": {
+  "page": 19,
+  "leaf": 38,
+  "printed": 7,
+  "right": 7,
+  "extra": 5,
+  "recall": 1.0,
+  "precision": 0.5833333333333334,
+  "passes": false,
+  "missed": [],
+  "extras": [
+   "DMV",
+   "DMV",
+   "MV",
+   "MV",
+   "MV"
+  ]
+ },
+ "fortunatus_carmina": {
+  "page": 209,
+  "leaf": 237,
+  "printed": 10,
+  "right": 6,
+  "extra": 0,
+  "recall": 0.6,
+  "precision": 1.0,
+  "passes": true,
+  "missed": [
+   "ACDM",
+   "BFL",
+   "BGL",
+   "DG"
+  ],
+  "extras": []
+ },
+ "jordanes_getica": {
+  "page": 127,
+  "leaf": 200,
+  "printed": 46,
+  "right": 41,
+  "extra": 0,
+  "recall": 0.8913043478260869,
+  "precision": 1.0,
+  "passes": true,
+  "missed": [
+   "AB",
+   "ABY",
+   "AHPY",
+   "BOV",
+   "YZ"
+  ],
+  "extras": []
+ },
+ "isidorus_historia_gothorum": {
+  "page": 270,
+  "leaf": 276,
+  "printed": 9,
+  "right": 7,
+  "extra": 0,
+  "recall": 0.7777777777777778,
+  "precision": 1.0,
+  "passes": true,
+  "missed": [
+   "AMO",
+   "MO"
+  ],
+  "extras": []
+ },
+ "acta_synhodorum_romae_499_501_502": {
+  "page": 453,
+  "leaf": 636,
+  "printed": 35,
+  "right": 15,
+  "extra": 0,
+  "recall": 0.42857142857142855,
+  "precision": 1.0,
+  "passes": false,
+  "missed": [
+   "AT",
+   "BCFT",
+   "BF",
+   "BHM",
+   "BT",
+   "CDEH",
+   "CE",
+   "CE",
+   "CE",
+   "CE",
+   "CEHM",
+   "DH",
+   "DM",
+   "DM",
+   "EM",
+   "FH",
+   "FHT",
+   "FT",
+   "HM",
+   "HM"
+  ],
+  "extras": []
+ },
+ "symmachus_epistulae": {
+  "page": 153,
+  "leaf": 364,
+  "printed": 7,
+  "right": 4,
+  "extra": 1,
+  "recall": 0.5714285714285714,
+  "precision": 0.8,
+  "passes": false,
+  "missed": [
+   "FPV",
+   "PV",
+   "PV"
+  ],
+  "extras": [
+   "FV"
+  ]
+ },
+ "victor_vitensis_historia": {
+  "page": 14,
+  "leaf": 23,
+  "printed": 9,
+  "right": 9,
+  "extra": 3,
+  "recall": 1.0,
+  "precision": 0.75,
+  "passes": false,
+  "missed": [],
+  "extras": [
+   "BLRV",
+   "BLRV",
+   "BLRV"
+  ]
+ },
+ "eutropius_breviarium": {
+  "page": 147,
+  "leaf": 220,
+  "printed": 0,
+  "right": 0,
+  "extra": 0,
+  "recall": null,
+  "precision": null,
+  "passes": true,
+  "missed": [],
+  "extras": []
+ },
+ "fortunatus_vita_martini": {
+  "page": 355,
+  "leaf": 383,
+  "printed": 8,
+  "right": 8,
+  "extra": 0,
+  "recall": 1.0,
+  "precision": 1.0,
+  "passes": true,
+  "missed": [],
+  "extras": []
+ },
+ "ennodius_opera": {
+  "page": 61,
+  "leaf": 127,
+  "printed": 1,
+  "right": 0,
+  "extra": 0,
+  "recall": 0.0,
+  "precision": null,
+  "passes": false,
+  "missed": [
+   "BLV"
+  ],
+  "extras": []
+ },
+ "isidorus_chronica_maiora": {
+  "page": 447,
+  "leaf": 453,
+  "printed": 43,
+  "right": 22,
+  "extra": 1,
+  "recall": 0.5116279069767442,
+  "precision": 0.9565217391304348,
+  "passes": false,
+  "missed": [
+   "ADP",
+   "AM",
+   "BCPW",
+   "BEMP",
+   "BP",
+   "BPS",
+   "BPSY",
+   "CDENTXZ",
+   "CEKNZ",
+   "CEKS",
+   "CLM",
+   "CX",
+   "DEKNSX",
+   "DEX",
+   "EX",
+   "EX",
+   "EXZ",
+   "FNT",
+   "KSY",
+   "NT",
+   "XZ"
+  ],
+  "extras": [
+   "BKPSV"
+  ]
+ },
+ "historia_brittonum": {
+  "page": 214,
+  "leaf": 221,
+  "printed": 32,
+  "right": 26,
+  "extra": 1,
+  "recall": 0.8125,
+  "precision": 0.9629629629629629,
+  "passes": true,
+  "missed": [
+   "CDGLP",
+   "CDGP",
+   "DG",
+   "DGLPQ",
+   "DPQ",
+   "PQ"
+  ],
+  "extras": [
+   "CDPQ"
+  ]
+ },
+ "avitus_carmina": {
+  "page": 254,
+  "leaf": 331,
+  "printed": 6,
+  "right": 1,
+  "extra": 3,
+  "recall": 0.16666666666666666,
+  "precision": 0.25,
+  "passes": false,
+  "missed": [
+   "DN",
+   "DR",
+   "LN",
+   "LR",
+   "NR"
+  ],
+  "extras": [
+   "BELR",
+   "DE",
+   "EV"
+  ]
+ }
+}

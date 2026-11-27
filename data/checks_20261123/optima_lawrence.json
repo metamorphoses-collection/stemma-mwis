@@ -1,0 +1,156 @@
+{
+ "matrix": "lawrence_bhl4759.num",
+ "witnesses": 7,
+ "units": 75,
+ "split_types": 20,
+ "total_candidate_weight": 42,
+ "conflicts": 90,
+ "reference": "T",
+ "solver": {
+  "engine": "OR-Tools CP-SAT",
+  "workers": 8,
+  "seed": 0,
+  "time_limit_per_solve_s": 600
+ },
+ "solve": {
+  "obj": 19.0,
+  "relaxation": 19.0,
+  "status": "OPTIMAL",
+  "bound": 19.0,
+  "gap": 0.0,
+  "iterations": 1,
+  "cuts": 0,
+  "seconds": 0.0,
+  "families": 4,
+  "skeleton": null,
+  "family_sets": [
+   [
+    "B",
+    "R"
+   ],
+   [
+    "B",
+    "F",
+    "P",
+    "R"
+   ],
+   [
+    "B",
+    "F",
+    "Mi",
+    "P",
+    "R"
+   ],
+   [
+    "B",
+    "F",
+    "R"
+   ]
+  ]
+ },
+ "treelikeness": {
+  "W_opt": 19.0,
+  "total_candidate_weight": 42,
+  "share": 0.4523809523809524,
+  "informative_units": 36,
+  "consistent_with_tree": 14,
+  "share_consistent": 0.3888888888888889,
+  "consistent_vertexwise": 14
+ },
+ "enumeration": {
+  "optimal_vertex_sets": 1,
+  "complete": true,
+  "stopped": "next best 18.0 (OPTIMAL, bound 18.0)",
+  "seconds": 0.0,
+  "distinct_trees": 1,
+  "tree_scores": null,
+  "vertices_in_all_found": 6,
+  "vertices_per_optimum": [
+   6
+  ],
+  "families_in_all_found_trees": [
+   [
+    "B",
+    "R"
+   ],
+   [
+    "B",
+    "F",
+    "R"
+   ],
+   [
+    "B",
+    "F",
+    "Mi",
+    "P",
+    "R"
+   ],
+   [
+    "B",
+    "F",
+    "P",
+    "R"
+   ]
+  ],
+  "families_per_tree": [
+   4
+  ]
+ },
+ "families_forced": {
+  "forced": 4,
+  "of": 4,
+  "seconds": 0.0,
+  "detail": [
+   {
+    "family": [
+     "B",
+     "R"
+    ],
+    "support": 4,
+    "W_forb": 18.0,
+    "status": "OPTIMAL",
+    "bound": 18.0,
+    "forced": true
+   },
+   {
+    "family": [
+     "B",
+     "F",
+     "P",
+     "R"
+    ],
+    "support": 3,
+    "W_forb": 17.0,
+    "status": "OPTIMAL",
+    "bound": 17.0,
+    "forced": true
+   },
+   {
+    "family": [
+     "B",
+     "F",
+     "Mi",
+     "P",
+     "R"
+    ],
+    "support": 9,
+    "W_forb": 10.0,
+    "status": "OPTIMAL",
+    "bound": 10.0,
+    "forced": true
+   },
+   {
+    "family": [
+     "B",
+     "F",
+     "R"
+    ],
+    "support": 3,
+    "W_forb": 18.0,
+    "status": "OPTIMAL",
+    "bound": 18.0,
+    "forced": true
+   }
+  ]
+ }
+}

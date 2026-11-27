@@ -1,0 +1,56 @@
+{
+ "aldhelm_aenigmata": {
+  "page": 131,
+  "leaf": 155,
+  "printed": 13,
+  "right": 6,
+  "extra": 2,
+  "recall": 0.46153846153846156,
+  "precision": 0.75,
+  "passes": false,
+  "missed": [
+   "ACEP",
+   "ACNV",
+   "CE",
+   "FKN",
+   "FKN",
+   "NP",
+   "NV"
+  ],
+  "extras": [
+   "ELV",
+   "LV"
+  ]
+ },
+ "aldhelm_de_metris_tractatus": {
+  "page": 152,
+  "leaf": 176,
+  "printed": 7,
+  "right": 4,
+  "extra": 0,
+  "recall": 0.5714285714285714,
+  "precision": 1.0,
+  "passes": false,
+  "missed": [
+   "AF",
+   "AF",
+   "AFKN"
+  ],
+  "extras": []
+ },
+ "aldhelm_de_virginitate_carmen": {
+  "page": 361,
+  "leaf": 387,
+  "printed": 3,
+  "right": 1,
+  "extra": 0,
+  "recall": 0.3333333333333333,
+  "precision": 1.0,
+  "passes": false,
+  "missed": [
+   "AMN",
+   "GOW"
+  ],
+  "extras": []
+ }
+}

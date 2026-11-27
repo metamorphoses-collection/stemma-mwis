@@ -1,0 +1,21 @@
+54 witnesses, 1253 units, 1425 split types, 1772 instances, 283206 conflicts, ref Gb
+  iter 1: OPTIMAL obj 587 bound 587 -> ok (4s)
+optimum 587.0 (OPTIMAL, bound 587.0), 43 families, 5.4s
+kappa    n= 4 sup= 44 cross=120 in_opt=True  W_forb=544 W_imp=587 m=-43
+lambda   n= 2 sup=188 cross= 89 in_opt=True  W_forb=399 W_imp=587 m=-188
+phi      n= 5 sup= 26 cross=124 in_opt=True  W_forb=561 W_imp=587 m=-26
+xi       n= 9 sup=  7 cross=301 in_opt=True  W_forb=581 W_imp=587 m=-6
+omicron  n= 3 sup= 18 cross=250 in_opt=True  W_forb=569 W_imp=587 m=-18
+mu       n=13 sup=  8 cross=502 in_opt=True  W_forb=580 W_imp=587 m=-7
+pi       n= 2 sup= 14 cross=149 in_opt=False W_forb=575 W_imp=587 m=-12
+rho      n= 3 sup= 24 cross=269 in_opt=True  W_forb=564 W_imp=587 m=-23
+sigma    n= 3 sup= 16 cross=132 in_opt=True  W_forb=571 W_imp=587 m=-16
+tau      n= 7 sup=  7 cross=439 in_opt=True  W_forb=582 W_imp=587 m=-5
+upsilon  n= 4 sup=  3 cross=176 in_opt=False W_forb=587 W_imp=584 m=+3
+nu       n=29 sup=  0 cross=805 in_opt=False W_forb=587 W_imp=572 m=+15
+impose all_but_nu 584.0
+impose all_but_nu_upsilon 587.0
+impose pi_and_tau 587.0
+editor: {'pairwise_compatible': True, 'sum_of_supports': 355, 'W_opt': 587.0, 'W_imp_all12': 569.0, 'status_all12': 'OPTIMAL', 'loss_all12': 18.0, 'W_imp_subsets': {'all_but_nu': {'families': ['kappa', 'lambda', 'phi', 'xi', 'omicron', 'mu', 'pi', 'rho', 'sigma', 'tau', 'upsilon'], 'W_imp': 584.0, 'status': 'OPTIMAL', 'loss_vs_opt': 3.0}, 'all_but_nu_upsilon': {'families': ['kappa', 'lambda', 'phi', 'xi', 'omicron', 'mu', 'pi', 'rho', 'sigma', 'tau'], 'W_imp': 587.0, 'status': 'OPTIMAL', 'loss_vs_opt': 0.0}, 'pi_and_tau': {'families': ['pi', 'tau'], 'W_imp': 587.0, 'status': 'OPTIMAL', 'loss_vs_opt': 0.0}}, 'weight_of_candidates_compatible_with_all12': 655}
+families of the optimum supported in every optimum: 37 of 43
+tree-likeness: {'units': 1253, 'split_types': 1425, 'total_candidate_weight': 1772, 'W_opt': 587.0, 'share_of_candidate_weight': 0.3312641083521445, 'informative_units': 1205, 'units_consistent_with_tree': 348, 'share_consistent': 0.2887966804979253, 'units_consistent_vertexwise': 348}

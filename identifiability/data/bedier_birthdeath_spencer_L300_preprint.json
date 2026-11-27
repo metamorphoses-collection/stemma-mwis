@@ -1,0 +1,99 @@
+{
+ "alpha=0.6": {
+  "true": {
+   "traditions": 300,
+   "bifid_root": 0.697,
+   "p_deg2": 0.825,
+   "p_deg3": 0.142,
+   "i3": 0.845
+  },
+  "raw": {
+   "traditions": 300,
+   "bifid_root": 0.877,
+   "p_deg2": 0.96,
+   "p_deg3": 0.031,
+   "i3": 0.964
+  },
+  "rival": {
+   "traditions": 300,
+   "bifid_root": 0.173,
+   "p_deg2": 0.537,
+   "p_deg3": 0.149,
+   "i3": 0.301
+  },
+  "k>=2": {
+   "traditions": 300,
+   "bifid_root": 0.753,
+   "p_deg2": 0.894,
+   "p_deg3": 0.066,
+   "i3": 0.894
+  },
+  "k>=3": {
+   "traditions": 300,
+   "bifid_root": 0.63,
+   "p_deg2": 0.839,
+   "p_deg3": 0.089,
+   "i3": 0.818
+  },
+  "k>=5": {
+   "traditions": 300,
+   "bifid_root": 0.467,
+   "p_deg2": 0.741,
+   "p_deg3": 0.118,
+   "i3": 0.655
+  },
+  "recovery": {
+   "raw": {
+    "true_found": 1017,
+    "false_added": 380,
+    "true_total": 1168
+   },
+   "rival": {
+    "true_found": 326,
+    "false_added": 0,
+    "true_total": 1168
+   },
+   "k>=2": {
+    "true_found": 955,
+    "false_added": 249,
+    "true_total": 1168
+   },
+   "k>=3": {
+    "true_found": 870,
+    "false_added": 149,
+    "true_total": 1168
+   },
+   "k>=5": {
+    "true_found": 652,
+    "false_added": 52,
+    "true_total": 1168
+   }
+  },
+  "simulated": 985
+ },
+ "params": {
+  "lam": 0.0085,
+  "mu": 0.0038,
+  "T_active": 1000,
+  "T_decimation": 1000,
+  "L": 300,
+  "e": 0.03,
+  "gamma_shape": 0.38,
+  "traditions_per_alpha": 300,
+  "survivors": "3..30",
+  "camps_table1": {
+   "real": {
+    "bifid": 0.77,
+    "p_deg2": 0.81,
+    "p_deg3": 0.11,
+    "i3": 0.93
+   },
+   "simulated": {
+    "bifid": "0.60-0.64",
+    "p_deg2": "0.71-0.78",
+    "p_deg3": "0.14-0.15",
+    "i3": "0.80-0.85"
+   }
+  }
+ }
+}

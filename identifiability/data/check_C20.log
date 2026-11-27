@@ -1,0 +1,8 @@
+part 1: PASS 538 isolated pairs
+Heinrichi, local legibility guard: {'R': 41, 'C': 37, 'alpha2_hat': 0.9024, 'pairs_with_counts': 32}
+Heinrichi, complete units only: {'units': 0, 'units_all': 1208, 'R': 0, 'C': 0, 'alpha2_hat': None}
+Heinrichi: {'witnesses': 34, 'isolated_pairs': 542, 'R': 286, 'C': 229, 'alpha2_hat': 0.8007}
+Lai, Bedier (root on the DEF edge) {'pairs': ['AC', 'AD', 'AE', 'AF', 'AG', 'BC', 'BD', 'BE', 'BF', 'BG', 'CD', 'CE', 'CF', 'DG', 'EG', 'FG'], 'R': 147, 'C': 50, 'alpha2_hat': 0.3401}
+Lai, AB against the rest {'pairs': ['AC', 'AD', 'AE', 'AF', 'AG', 'BC', 'BD', 'BE', 'BF', 'BG', 'CD', 'CE', 'CF', 'DG', 'EG', 'FG'], 'R': 147, 'C': 50, 'alpha2_hat': 0.3401}
+Lai, Quentin (central vertex) {'pairs': ['AC', 'AD', 'AE', 'AF', 'AG', 'BC', 'BD', 'BE', 'BF', 'BG', 'CD', 'CE', 'CF', 'DG', 'EG', 'FG'], 'R': 147, 'C': 50, 'alpha2_hat': 0.3401}
+Lai: {'isolated_pairs': ['AC', 'AD', 'AE', 'AF', 'AG', 'BC', 'BD', 'BE', 'BF', 'BG', 'CD', 'CE', 'CF', 'DG', 'EG', 'FG'], 'per_pair': {'AC': (3, 1), 'AD': (2, 0), 'AE': (10, 0), 'AF': (5, 0), 'AG': (2, 0), 'BC': (7, 3), 'BD': (6, 3), 'BE': (7, 4), 'BF': (12, 3), 'BG': (2, 1), 'CD': (22, 9), 'CE': (16, 7), 'CF': (17, 5), 'DG': (10, 5), 'EG': (4, 2), 'FG': (22, 7)}, 'R': 147, 'C': 50, 'alpha2_hat': 0.3401}

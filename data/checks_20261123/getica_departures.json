@@ -1,0 +1,672 @@
+{
+ "units": 4611,
+ "edited_reading_identified": 4587,
+ "unidentified": 24,
+ "unidentified_examples": [
+  {
+   "lemma": null,
+   "groups": [
+    "BXY",
+    "A",
+    "HPV",
+    "L"
+   ]
+  },
+  {
+   "lemma": "obtenduntur adsimiles",
+   "groups": [
+    "HPVAXY",
+    "L",
+    "B"
+   ]
+  },
+  {
+   "lemma": null,
+   "groups": [
+    "HPVL",
+    "A",
+    "OBXY"
+   ]
+  },
+  {
+   "lemma": null,
+   "groups": [
+    "HVO",
+    "PAB",
+    "L",
+    "X",
+    "Y"
+   ]
+  },
+  {
+   "lemma": null,
+   "groups": [
+    "YZ",
+    "ABX",
+    "HPVLO"
+   ]
+  },
+  {
+   "lemma": null,
+   "groups": [
+    "HPVO",
+    "LABXY"
+   ]
+  },
+  {
+   "lemma": null,
+   "groups": [
+    "HPVL",
+    "AOBXYZ"
+   ]
+  },
+  {
+   "lemma": "abstmuerunt",
+   "groups": [
+    "HPVLAOXYZ",
+    "B"
+   ]
+  },
+  {
+   "lemma": null,
+   "groups": [
+    "HPVL",
+    "O",
+    "XYZ",
+    "AB"
+   ]
+  },
+  {
+   "lemma": null,
+   "groups": [
+    "HPV",
+    "LO",
+    "XZ",
+    "B",
+    "A",
+    "Y"
+   ]
+  },
+  {
+   "lemma": "eusciam",
+   "groups": [
+    "XYZ",
+    "OB",
+    "HPV",
+    "A",
+    "L"
+   ]
+  },
+  {
+   "lemma": null,
+   "groups": [
+    "AXYZ",
+    "HPV",
+    "L",
+    "O",
+    "B"
+   ]
+  },
+  {
+   "lemma": null,
+   "groups": [
+    "HPVLA",
+    "XYZ",
+    "O",
+    "B"
+   ]
+  },
+  {
+   "lemma": null,
+   "groups": [
+    "XYZ",
+    "HPVLA",
+    "OB"
+   ]
+  },
+  {
+   "lemma": null,
+   "groups": [
+    "HPVLAXYZ",
+    "O",
+    "B"
+   ]
+  },
+  {
+   "lemma": "et thermantiam",
+   "groups": [
+    "HPVLXYZ",
+    "AO",
+    "B"
+   ]
+  },
+  {
+   "lemma": "busento amne",
+   "groups": [
+    "HPVLAXYZ",
+    "OB"
+   ]
+  },
+  {
+   "lemma": null,
+   "groups": [
+    "HPV",
+    "LAOBXY"
+   ]
+  },
+  {
+   "lemma": null,
+   "groups": [
+    "OBXY",
+    "HPVL",
+    "A"
+   ]
+  },
+  {
+   "lemma": null,
+   "groups": [
+    "OXY",
+    "HPVLA"
+   ]
+  },
+  {
+   "lemma": "quia a c.",
+   "groups": [
+    "HPVLABXY",
+    "O"
+   ]
+  },
+  {
+   "lemma": "miceret",
+   "groups": [
+    "HPVLAOXY",
+    "B"
+   ]
+  },
+  {
+   "lemma": null,
+   "groups": [
+    "A",
+    "OBXY",
+    "HPVL"
+   ]
+  },
+  {
+   "lemma": null,
+   "groups": [
+    "HPVLAB",
+    "X",
+    "Y",
+    "O"
+   ]
+  }
+ ],
+ "joint_departure_units": {
+  "II+III": 167,
+  "I+III": 4,
+  "I+II": 2
+ },
+ "departure_groups": {
+  "I+II": {
+   "HPVLO": 1,
+   "HPVLAOB": 1
+  },
+  "I+III": {
+   "HPVLXYZ": 1,
+   "LXYZ": 1,
+   "HPVLX": 1,
+   "HPVLXY": 1
+  },
+  "II+III": {
+   "AOBXY": 71,
+   "OBXY": 50,
+   "ABXY": 13,
+   "BXY": 7,
+   "ASOBXY": 6,
+   "AOBXYZ": 4,
+   "OBX": 2,
+   "OBXYZ": 2,
+   "OXY": 2,
+   "AOXY": 2,
+   "BXYZ": 1,
+   "ASBXY": 1,
+   "ABXYZ": 1,
+   "AOBX": 1,
+   "OBXZ": 1,
+   "SOBXY": 1,
+   "ASOBXYZ": 1,
+   "SBXY": 1
+  }
+ },
+ "II_III_groups": [
+  {
+   "group": "AOBXY",
+   "units": 71,
+   "rooted_weight": 74,
+   "crosses_optimum": [
+    "XYZ",
+    "SOB",
+    "AXYZ"
+   ]
+  },
+  {
+   "group": "OBXY",
+   "units": 50,
+   "rooted_weight": 50,
+   "crosses_optimum": [
+    "XYZ",
+    "SOB",
+    "AXYZ"
+   ]
+  },
+  {
+   "group": "ABXY",
+   "units": 13,
+   "rooted_weight": 78,
+   "crosses_optimum": [
+    "OB",
+    "XYZ",
+    "SOB",
+    "AXYZ"
+   ]
+  },
+  {
+   "group": "BXY",
+   "units": 7,
+   "rooted_weight": 40,
+   "crosses_optimum": [
+    "OB",
+    "XYZ",
+    "SOB",
+    "AXYZ"
+   ]
+  },
+  {
+   "group": "ASOBXY",
+   "units": 6,
+   "rooted_weight": 6,
+   "crosses_optimum": [
+    "XYZ",
+    "AXYZ"
+   ]
+  },
+  {
+   "group": "AOBXYZ",
+   "units": 4,
+   "rooted_weight": 4,
+   "crosses_optimum": [
+    "SOB"
+   ]
+  },
+  {
+   "group": "OBX",
+   "units": 2,
+   "rooted_weight": 8,
+   "crosses_optimum": [
+    "XYZ",
+    "XY",
+    "SOB",
+    "AXYZ"
+   ]
+  },
+  {
+   "group": "OBXYZ",
+   "units": 2,
+   "rooted_weight": 2,
+   "crosses_optimum": [
+    "SOB",
+    "AXYZ"
+   ]
+  },
+  {
+   "group": "OXY",
+   "units": 2,
+   "rooted_weight": 4,
+   "crosses_optimum": [
+    "OB",
+    "XYZ",
+    "SOB",
+    "AXYZ"
+   ]
+  },
+  {
+   "group": "AOXY",
+   "units": 2,
+   "rooted_weight": 6,
+   "crosses_optimum": [
+    "OB",
+    "XYZ",
+    "SOB",
+    "AXYZ"
+   ]
+  },
+  {
+   "group": "BXYZ",
+   "units": 1,
+   "rooted_weight": 3,
+   "crosses_optimum": [
+    "OB",
+    "SOB",
+    "AXYZ"
+   ]
+  },
+  {
+   "group": "ASBXY",
+   "units": 1,
+   "rooted_weight": 1,
+   "crosses_optimum": [
+    "OB",
+    "XYZ",
+    "SOB",
+    "AXYZ"
+   ]
+  },
+  {
+   "group": "ABXYZ",
+   "units": 1,
+   "rooted_weight": 7,
+   "crosses_optimum": [
+    "OB",
+    "SOB"
+   ]
+  },
+  {
+   "group": "AOBX",
+   "units": 1,
+   "rooted_weight": 3,
+   "crosses_optimum": [
+    "XYZ",
+    "XY",
+    "SOB",
+    "AXYZ"
+   ]
+  },
+  {
+   "group": "OBXZ",
+   "units": 1,
+   "rooted_weight": 1,
+   "crosses_optimum": [
+    "XYZ",
+    "XY",
+    "SOB",
+    "AXYZ"
+   ]
+  },
+  {
+   "group": "SOBXY",
+   "units": 1,
+   "rooted_weight": 1,
+   "crosses_optimum": [
+    "XYZ",
+    "AXYZ"
+   ]
+  },
+  {
+   "group": "ASOBXYZ",
+   "units": 1,
+   "rooted_weight": 1,
+   "crosses_optimum": []
+  },
+  {
+   "group": "SBXY",
+   "units": 1,
+   "rooted_weight": 1,
+   "crosses_optimum": [
+    "OB",
+    "XYZ",
+    "SOB",
+    "AXYZ"
+   ]
+  }
+ ],
+ "rooted_lemma_optimum": {
+  "weight": 1056.0,
+  "status": "OPTIMAL",
+  "families": [
+   "HPVL",
+   "XY",
+   "HP",
+   "XYZ",
+   "AXYZ",
+   "HPV",
+   "OB",
+   "SOB"
+  ]
+ },
+ "forcing_a_II_III_family": {
+  "OBXYZ": {
+   "weight": 1010.0,
+   "status": "OPTIMAL",
+   "loss": 46.0,
+   "kept": [
+    "HPVL",
+    "XY",
+    "HPVLA",
+    "HP",
+    "XYZ",
+    "HPV",
+    "OB",
+    "OBXYZ"
+   ]
+  },
+  "SOBXYZ": {
+   "weight": 1044.0,
+   "status": "OPTIMAL",
+   "loss": 12.0,
+   "kept": [
+    "HPVL",
+    "XY",
+    "HPVLA",
+    "HP",
+    "XYZ",
+    "HPV",
+    "OB",
+    "SOB",
+    "SOBXYZ"
+   ]
+  },
+  "OBXY": {
+   "weight": 821.0,
+   "status": "OPTIMAL",
+   "loss": 235.0,
+   "kept": [
+    "HPVL",
+    "XY",
+    "HP",
+    "HPV",
+    "OBXY",
+    "OB",
+    "ASOBXY",
+    "AOBXY"
+   ]
+  },
+  "AOBXY": {
+   "weight": 821.0,
+   "status": "OPTIMAL",
+   "loss": 235.0,
+   "kept": [
+    "HPVL",
+    "XY",
+    "HP",
+    "HPV",
+    "OBXY",
+    "OB",
+    "ASOBXY",
+    "AOBXY"
+   ]
+  },
+  "AOBXYZ": {
+   "weight": 1033.0,
+   "status": "OPTIMAL",
+   "loss": 23.0,
+   "kept": [
+    "HPVL",
+    "XY",
+    "HP",
+    "XYZ",
+    "HPV",
+    "OB",
+    "AOB",
+    "AOBXYZ"
+   ]
+  },
+  "ASOBXYZ": {
+   "weight": 1057.0,
+   "status": "OPTIMAL",
+   "loss": -1.0,
+   "kept": [
+    "HPVL",
+    "XY",
+    "HP",
+    "XYZ",
+    "AXYZ",
+    "HPV",
+    "OB",
+    "SOB",
+    "ASOBXYZ"
+   ]
+  }
+ },
+ "majority_reference": {
+  "units": 4431,
+  "candidate_families": 86,
+  "weight": 1180.0,
+  "status": "OPTIMAL",
+  "families": [
+   [
+    "OB",
+    434,
+    1.0
+   ],
+   [
+    "XYZ",
+    284,
+    1.0
+   ],
+   [
+    "XY",
+    162,
+    1.0
+   ],
+   [
+    "HPV",
+    128,
+    1.0
+   ],
+   [
+    "HPVL",
+    70,
+    1.0
+   ],
+   [
+    "HP",
+    50,
+    1.0
+   ],
+   [
+    "SOB",
+    35,
+    0.85
+   ],
+   [
+    "AXYZ",
+    17,
+    0.85
+   ]
+  ],
+  "stability_ge_0_1": [
+   [
+    "XYZ",
+    284,
+    1.0
+   ],
+   [
+    "HPV",
+    128,
+    1.0
+   ],
+   [
+    "HPVL",
+    70,
+    1.0
+   ],
+   [
+    "HP",
+    50,
+    1.0
+   ],
+   [
+    "OB",
+    434,
+    1.0
+   ],
+   [
+    "XY",
+    162,
+    1.0
+   ],
+   [
+    "AXYZ",
+    17,
+    0.85
+   ],
+   [
+    "SOB",
+    35,
+    0.85
+   ],
+   [
+    "AOB",
+    41,
+    0.15
+   ]
+  ]
+ },
+ "lemma_reference": {
+  "units": 4587,
+  "candidate_families": 111,
+  "weight": 1056.0,
+  "families": [
+   [
+    "OB",
+    436,
+    1.0
+   ],
+   [
+    "XYZ",
+    295,
+    1.0
+   ],
+   [
+    "XY",
+    157,
+    1.0
+   ],
+   [
+    "HPV",
+    37,
+    1.0
+   ],
+   [
+    "SOB",
+    36,
+    0.97
+   ],
+   [
+    "AXYZ",
+    34,
+    0.9
+   ],
+   [
+    "HPVL",
+    34,
+    0.965
+   ],
+   [
+    "HP",
+    27,
+    0.78
+   ]
+  ]
+ }
+}

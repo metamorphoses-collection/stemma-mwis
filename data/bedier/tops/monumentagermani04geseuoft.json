@@ -1,0 +1,1422 @@
+{
+ "volume": "AA 4",
+ "ia_id": "monumentagermani04geseuoft",
+ "texts": [
+  {
+   "volume": "AA 4",
+   "ia_id": "monumentagermani04geseuoft",
+   "text_id": "fortunatus_carmina",
+   "work": "Venantius Fortunatus, Carmina libri XI (with prose epistulae and expositiones inserted)",
+   "editor": "F. Leo",
+   "year": 1881,
+   "text_lines": [
+    1321,
+    23104
+   ],
+   "preface_lines": [
+    80,
+    892
+   ],
+   "sigla": [
+    {
+     "siglum": "Σ",
+     "manuscript": "Parisinus lat. 13048 (olim Corbeiensis), eclogae e carminibus",
+     "date_if_given": "s. VIII-IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "A",
+     "manuscript": "Parisinus lat. 14144",
+     "date_if_given": "s. IX?",
+     "role": "direct"
+    },
+    {
+     "siglum": "C",
+     "manuscript": "Parisinus lat. 8312 (olim Colbertinus)",
+     "date_if_given": null,
+     "role": "direct"
+    },
+    {
+     "siglum": "P",
+     "manuscript": "Petropolitanus F. XIV. 1 (olim Corbeiensis, Sangerm. 598), carmina selecta in disturbed order",
+     "date_if_given": "s. VIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "M",
+     "manuscript": "Ambrosianus C 74 sup.",
+     "date_if_given": null,
+     "role": "direct"
+    },
+    {
+     "siglum": "D",
+     "manuscript": "Parisinus lat. 9347 (olim Remensis)",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "G",
+     "manuscript": "Sangallensis 196",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "V",
+     "manuscript": "Vaticanus lat. 552 (I-VIII,3 only; mostly replaced by Ven.)",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "Ven.",
+     "manuscript": "editio Veneta of Salvator Solanius (stands in for V)",
+     "date_if_given": null,
+     "role": "indirect"
+    },
+    {
+     "siglum": "B",
+     "manuscript": "Parisinus lat. 8090",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "L",
+     "manuscript": "Laudunensis 469",
+     "date_if_given": "s. VIII/IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "R",
+     "manuscript": "Vaticanus Reginae 329",
+     "date_if_given": "s. IX ex.",
+     "role": "direct"
+    },
+    {
+     "siglum": "F",
+     "manuscript": "Barberinus XIV 94 (books I-IV, VII)",
+     "date_if_given": "s. X/XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "C2",
+     "manuscript": "Parisinus 8312 corrector (readings shared with BL)",
+     "date_if_given": null,
+     "role": "corrector_hand"
+    }
+   ],
+   "apparatus": "negative_sigla",
+   "filiation_stated": "verbal",
+   "top_branches": [
+    [
+     "Σ"
+    ],
+    [
+     "A",
+     "C",
+     "P",
+     "M",
+     "D",
+     "G",
+     "V",
+     "B",
+     "L",
+     "R",
+     "F"
+    ]
+   ],
+   "deeper_groups": [
+    [
+     "A",
+     "C",
+     "P"
+    ],
+    [
+     "D",
+     "G",
+     "V"
+    ],
+    [
+     "B",
+     "L"
+    ],
+    [
+     "R",
+     "F"
+    ],
+    [
+     "D",
+     "G",
+     "V",
+     "B",
+     "L",
+     "R",
+     "F"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 682,
+     "page": "p. XVII (page head unclear in OCR)",
+     "quote": "Fortunati codices quotquot extant praeter Σ ad unum exemplar redeunt mutilum et corruptum saeculo ut videtur octavo medio"
+    },
+    {
+     "ocr_line": 801,
+     "page": "p. XX",
+     "quote": "Ergo recensendorum carminum fundamentum est codicum ACP et M consensus. omnium vero quibus utimur optimus est C"
+    },
+    {
+     "ocr_line": 851,
+     "page": "p. XXI",
+     "quote": "Multo latius in BL interpolatio grassata est ... origine autem et adfinitate non propius BL ad ACP accedit quam DG"
+    },
+    {
+     "ocr_line": 876,
+     "page": "p. XXI",
+     "quote": "[stemma diagram, garbled in OCR:] 'X interp.' / 'φ interp. ... λ interp. ... ψ interp.' / D G B L R F (only labels partly legible)"
+    },
+    {
+     "ocr_line": 888,
+     "page": "p. XXI-XXII",
+     "quote": "tantum ACP exemplari pristinae integritatis oriundos, deteriore sed non interpolato M, magis magisque degeneratos teneimus DG, BL, RF"
+    }
+   ],
+   "flags": [
+    "pilot_text",
+    "diagram_garbled_in_ocr",
+    "contamination_at_top"
+   ],
+   "confidence": "medium",
+   "notes": "Top split verbal and explicit: Σ (eclogae codex) independent of the archetype of all others. Σ (and also P) are anthologies; Σ may be judged an excerpt witness (indirect), leaving one branch only. Inside the archetype the printed diagram (p. XXI) is unreadable in OCR: it seems to show an interpolated hyparchetype over DG, BL, RF; check on the dMGH image whether ACP/M hang directly from the archetype. M is said to be copied from a codex corrected toward the deteriores (contamination).",
+   "classification_A3": "explicit"
+  },
+  {
+   "volume": "AA 4",
+   "ia_id": "monumentagermani04geseuoft",
+   "text_id": "fortunatus_vita_martini",
+   "work": "Venantius Fortunatus, Vita S. Martini (libri IV, verse)",
+   "editor": "F. Leo",
+   "year": 1881,
+   "text_lines": [
+    24694,
+    31397
+   ],
+   "preface_lines": [
+    892,
+    980
+   ],
+   "sigla": [
+    {
+     "siglum": "P",
+     "manuscript": "Petropolitanus F. XIV. 1",
+     "date_if_given": "s. VIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "N",
+     "manuscript": "Vaticanus Palatinus 845",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "T",
+     "manuscript": "Parisinus lat. 2204 (praef. and I 1-413 only)",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "F",
+     "manuscript": "Barberinus XIV 94 (I 1-206 only)",
+     "date_if_given": "s. X/XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "B",
+     "manuscript": "Parisinus lat. 8090",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "L",
+     "manuscript": "Laudunensis 469",
+     "date_if_given": "s. VIII/IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "L2",
+     "manuscript": "Laudunensis corrector (corrected from a good exemplar)",
+     "date_if_given": null,
+     "role": "corrector_hand"
+    },
+    {
+     "siglum": "M",
+     "manuscript": "Ambrosianus C 74 sup.",
+     "date_if_given": null,
+     "role": "direct"
+    },
+    {
+     "siglum": "S",
+     "manuscript": "Sangallensis 573",
+     "date_if_given": "s. IX/X",
+     "role": "direct"
+    }
+   ],
+   "apparatus": "negative_sigla",
+   "filiation_stated": "diagram",
+   "top_branches": [
+    [
+     "P",
+     "T",
+     "F"
+    ],
+    [
+     "N",
+     "B",
+     "L",
+     "M",
+     "S"
+    ]
+   ],
+   "deeper_groups": [
+    [
+     "B",
+     "L",
+     "M",
+     "S"
+    ],
+    [
+     "B",
+     "L"
+    ],
+    [
+     "M",
+     "S"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 937,
+     "page": "p. XXII",
+     "quote": "Octo codices ... ita in duas partes discedunt, ut integram lectionem servatam videamus in PNTF, interpolatam deprehendamus in BLMS"
+    },
+    {
+     "ocr_line": 945,
+     "page": "p. XXIII",
+     "quote": "medium inter utramque familiam locum N tenet, non tamen ita ut ex altera correctiones susceperit, sed ut ex codice cum N cognato BLMS fluxerint"
+    },
+    {
+     "ocr_line": 959,
+     "page": "p. XXIII",
+     "quote": "duo paria duobus orta archetypis eisque gemellis communem originem prae se ferunt"
+    },
+    {
+     "ocr_line": 978,
+     "page": "p. XXIII",
+     "quote": "[stemma diagram, garbled in OCR: only 'X interp.' legible]"
+    },
+    {
+     "ocr_line": 978,
+     "page": "p. XXIII",
+     "quote": "[diagram, read on dMGH image mgh_auct_ant_4_1 leaf 22] Fort. -> alpha (P; x -> T, F) and beta (N; gamma interp. -> (B, L correctus ex alpha), (M, S))"
+    }
+   ],
+   "flags": [],
+   "confidence": "high",
+   "notes": "Two readings are possible: the 'families' PNTF (integra) vs BLMS (interpolata), or the tree P | (N + BLMS from a codex akin to N), which the sentence at line 945 implies; recorded the tree reading. T and F (fragmentary) side with PN in true readings but are not placed. Check the printed diagram (p. XXIII) on the dMGH image before use. 'editor_undecided' flag is mine for the T/F placement, not the editor's.",
+   "lead_check": "amended by lead session from the printed stemma (image): T and F belong to alpha with P",
+   "classification_A3": "explicit"
+  },
+  {
+   "volume": "AA 4",
+   "ia_id": "monumentagermani04geseuoft",
+   "text_id": "vita_hilarii",
+   "work": "Vita S. Hilarii et liber de virtutibus S. Hilarii",
+   "editor": "B. Krusch",
+   "year": 1885,
+   "text_lines": [
+    42975,
+    43691
+   ],
+   "preface_lines": [
+    41096,
+    41292
+   ],
+   "sigla": [
+    {
+     "siglum": "G",
+     "manuscript": "Sangallensis 567",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "H",
+     "manuscript": "Sangallensis 577 (copied from G)",
+     "date_if_given": "s. IX/X",
+     "role": "direct"
+    },
+    {
+     "siglum": "B",
+     "manuscript": "Bruxellensis 7668 (copied from H)",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "V",
+     "manuscript": "Vaticanus 1197 (Langobardic, mutilated)",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "A",
+     "manuscript": "Vaticanus 1193",
+     "date_if_given": "s. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "X",
+     "manuscript": "Bruxellensis 7802 (interpolated)",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "Y",
+     "manuscript": "Compendiensis (via Maurists)",
+     "date_if_given": null,
+     "role": "indirect"
+    },
+    {
+     "siglum": "Z",
+     "manuscript": "Ottobonianus, S. Germani, Colbertinus (via Maurists)",
+     "date_if_given": null,
+     "role": "indirect"
+    }
+   ],
+   "apparatus": "negative_sigla",
+   "filiation_stated": "verbal",
+   "top_branches": [
+    [
+     "G",
+     "H",
+     "B"
+    ],
+    [
+     "V",
+     "A"
+    ]
+   ],
+   "deeper_groups": [],
+   "evidence": [
+    {
+     "ocr_line": 41211,
+     "page": "p. VII",
+     "quote": "A Codex Vaticanus nr. 1193, saec. XIII ... praecedenti [V] persimilis sed multo deterior est"
+    },
+    {
+     "ocr_line": 41246,
+     "page": "p. VIII",
+     "quote": "Cum H ex G, B ex H derivatus sit ... codices H et B seposui. Ex VA eas tantum corruptelas adnotavi, in quibus conveniunt. Consentientes libros GV ubique secutus sum"
+    }
+   ],
+   "flags": [],
+   "confidence": "low",
+   "notes": "No explicit statement of the top division; the G-line (G>H>B) and the V/A pair are stated and GV consensus is treated as decisive, implying two branches. The interpolated X Y Z are dismissed ('auctoritatem nullam habent'). Apparatus effectively cites only G V A, so too few witnesses for analysis.",
+   "classification_A3": "implied"
+  },
+  {
+   "volume": "AA 4",
+   "ia_id": "monumentagermani04geseuoft",
+   "text_id": "vita_germani",
+   "work": "Vita S. Germani episcopi Parisiensis",
+   "editor": "B. Krusch",
+   "year": 1885,
+   "text_lines": [
+    43692,
+    44848
+   ],
+   "preface_lines": [
+    41293,
+    41611
+   ],
+   "sigla": [
+    {
+     "siglum": "P",
+     "manuscript": "Petropolitanus F. Otd. I. 12 (olim Corbeiensis)",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "Q",
+     "manuscript": "Parisinus lat. 5365",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "G",
+     "manuscript": "Parisinus lat. S. Germani 507",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "G2",
+     "manuscript": "Parisinus S. Germani 507, corrector",
+     "date_if_given": "s. X/XI",
+     "role": "corrector_hand"
+    },
+    {
+     "siglum": "H",
+     "manuscript": "Parisinus lat. 3801 (copied from emended G)",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "I",
+     "manuscript": "Parisinus lat. 5296",
+     "date_if_given": "s. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "K",
+     "manuscript": "Parisinus lat. 5568",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "L",
+     "manuscript": "Parisinus lat. S. Germani (number illegible in OCR)",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "X",
+     "manuscript": "codex Bonifontis (via Bollandists)",
+     "date_if_given": null,
+     "role": "indirect"
+    }
+   ],
+   "apparatus": "negative_sigla",
+   "filiation_stated": "verbal",
+   "top_branches": [
+    [
+     "P",
+     "Q"
+    ],
+    [
+     "G",
+     "H",
+     "I"
+    ]
+   ],
+   "deeper_groups": [
+    [
+     "K",
+     "L"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 41386,
+     "page": "p. X",
+     "quote": "Primum Q cum P semper convenit ... deinde HI et G2 consentiunt"
+    },
+    {
+     "ocr_line": 41389,
+     "page": "p. X",
+     "quote": "KL ut eiusdem familiae sunt, ita e P et G2 codicibus lectio eorum videtur contaminata esse"
+    },
+    {
+     "ocr_line": 41396,
+     "page": "p. X",
+     "quote": "Restant igitur PG, e quibus P eo praestat, quod quae in G erasa aut emendata sunt, integra servat"
+    }
+   ],
+   "flags": [
+    "contamination_at_top"
+   ],
+   "confidence": "low",
+   "notes": "Branches inferred from 'Q cum P semper convenit' and 'HI from emended G'; KL a family contaminated from both P and G2, unplaced. Editor recensed from PG only, so apparatus has essentially 2 witnesses. Shelfmark of L garbled in OCR.",
+   "classification_A3": "implied"
+  },
+  {
+   "volume": "AA 4",
+   "ia_id": "monumentagermani04geseuoft",
+   "text_id": "vita_albini",
+   "work": "Vita S. Albini",
+   "editor": "B. Krusch",
+   "year": 1885,
+   "text_lines": [
+    44849,
+    45220
+   ],
+   "preface_lines": [
+    41612,
+    41810
+   ],
+   "sigla": [
+    {
+     "siglum": "E",
+     "manuscript": "Escorialensis & III 26 (only complete codex)",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "V",
+     "manuscript": "Vaticanus Reginae 405",
+     "date_if_given": null,
+     "role": "direct"
+    },
+    {
+     "siglum": "P",
+     "manuscript": "Parisini lat. 3788, 5280, 5318, 5324",
+     "date_if_given": null,
+     "role": "direct"
+    },
+    {
+     "siglum": "X",
+     "manuscript": "codex S. Audomari (via Bollandists)",
+     "date_if_given": null,
+     "role": "indirect"
+    },
+    {
+     "siglum": "Y",
+     "manuscript": "codex S. Maximini Treverensis (via Bollandists)",
+     "date_if_given": null,
+     "role": "indirect"
+    }
+   ],
+   "apparatus": "negative_sigla",
+   "filiation_stated": "none",
+   "top_branches": [],
+   "deeper_groups": [],
+   "evidence": [
+    {
+     "ocr_line": 41664,
+     "page": "p. XIII",
+     "quote": "Codex unicus, qui librum integrum continet, est E ... Nos codicem E ducem praestantissimum secuti sumus, collatum cum Surio et Mabillonio"
+    }
+   ],
+   "flags": [],
+   "confidence": "high",
+   "notes": "Edition rests on E alone, collated with printed editions; no filiation.",
+   "classification_A3": "none"
+  },
+  {
+   "volume": "AA 4",
+   "ia_id": "monumentagermani04geseuoft",
+   "text_id": "vita_paterni",
+   "work": "Vita S. Paterni",
+   "editor": "B. Krusch",
+   "year": 1885,
+   "text_lines": [
+    45221,
+    45628
+   ],
+   "preface_lines": [
+    41811,
+    41870
+   ],
+   "sigla": [
+    {
+     "siglum": "P",
+     "manuscript": "Parisinus lat. 5666",
+     "date_if_given": "s. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "R",
+     "manuscript": "Vaticanus Reginae (via Bollandists)",
+     "date_if_given": null,
+     "role": "indirect"
+    },
+    {
+     "siglum": "X",
+     "manuscript": "Divionensis (via Bollandists)",
+     "date_if_given": null,
+     "role": "indirect"
+    },
+    {
+     "siglum": "Y",
+     "manuscript": "Treverensis (via Bollandists)",
+     "date_if_given": null,
+     "role": "indirect"
+    },
+    {
+     "siglum": "V",
+     "manuscript": "Vindocinensis? (via Bollandists)",
+     "date_if_given": null,
+     "role": "indirect"
+    },
+    {
+     "siglum": "Z",
+     "manuscript": "Rotomagensis (via Bollandists)",
+     "date_if_given": null,
+     "role": "indirect"
+    }
+   ],
+   "apparatus": "negative_sigla",
+   "filiation_stated": "none",
+   "top_branches": [],
+   "deeper_groups": [],
+   "evidence": [
+    {
+     "ocr_line": 41866,
+     "page": "p. XVI",
+     "quote": "nos Surium Henscheniumque vix curantes codicem P accurate expressimus, quem cum utraque Mabillonii editione contulimus"
+    }
+   ],
+   "flags": [],
+   "confidence": "high",
+   "notes": "P printed, with Mabillon's two editions; other codices only through Bollandist edition.",
+   "classification_A3": "none"
+  },
+  {
+   "volume": "AA 4",
+   "ia_id": "monumentagermani04geseuoft",
+   "text_id": "vita_radegundis",
+   "work": "Vita S. Radegundis (liber I, Fortunatus)",
+   "editor": "B. Krusch",
+   "year": 1885,
+   "text_lines": [
+    45629,
+    46428
+   ],
+   "preface_lines": [
+    41871,
+    42091
+   ],
+   "sigla": [
+    {
+     "siglum": "P",
+     "manuscript": "Parisinus lat. 5275",
+     "date_if_given": "s. XI in.",
+     "role": "direct"
+    },
+    {
+     "siglum": "P2",
+     "manuscript": "Parisinus 5275, corrector",
+     "date_if_given": null,
+     "role": "corrector_hand"
+    },
+    {
+     "siglum": "M",
+     "manuscript": "Monacensis lat. 3810",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "G",
+     "manuscript": "Parisinus lat. 13761",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "L",
+     "manuscript": "Londiniensis Mus. Brit. Add. 11880",
+     "date_if_given": "s. IX in.",
+     "role": "direct"
+    },
+    {
+     "siglum": "E",
+     "manuscript": "Monacensis lat. 14095",
+     "date_if_given": "s. XI/XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "W",
+     "manuscript": "Monacensis lat. 22242 (Windberg)",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "Q",
+     "manuscript": "Parisinus lat. 9742",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "T",
+     "manuscript": "Trecensis 1248",
+     "date_if_given": "s. X/XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "H",
+     "manuscript": "Londiniensis Mus. Brit. Harleianus (number illegible in OCR)",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "X1",
+     "manuscript": "Parisinus lat. 5351",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "X2",
+     "manuscript": "Parisinus lat. (number illegible in OCR), olim S. Martini de Campis",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "Y1",
+     "manuscript": "Parisinus lat. (number illegible in OCR; de la Mare 384)",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "Y2",
+     "manuscript": "Parisinus lat. 1700? (OCR '17(10.'), olim Fuliensis",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "Z",
+     "manuscript": "Parisinus lat. 5323",
+     "date_if_given": "s. XIII",
+     "role": "direct"
+    }
+   ],
+   "apparatus": "negative_sigla",
+   "filiation_stated": "verbal",
+   "top_branches": [
+    [
+     "P",
+     "M",
+     "G"
+    ],
+    [
+     "L",
+     "E",
+     "W"
+    ],
+    [
+     "T",
+     "H",
+     "X1",
+     "X2",
+     "Y1",
+     "Y2",
+     "Z"
+    ]
+   ],
+   "deeper_groups": [
+    [
+     "P",
+     "M"
+    ],
+    [
+     "T",
+     "H"
+    ],
+    [
+     "X1",
+     "X2",
+     "Y1",
+     "Y2",
+     "Z"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 41982,
+     "page": "p. XVIII",
+     "quote": "Inter tot codices PMG tantum ab interpolatione immunes sunt, duo autem illi tam arte inter se coniuncti, ut pro uno fere exemplari sint"
+    },
+    {
+     "ocr_line": 41987,
+     "page": "p. XVIII",
+     "quote": "Itaque P e codice M simili et exscriptus et emendatus videtur esse. His codex G accedit"
+    },
+    {
+     "ocr_line": 41990,
+     "page": "p. XVIII",
+     "quote": "Interpolatos in tres classes distribui has: LEW — TH — XYZ"
+    },
+    {
+     "ocr_line": 42018,
+     "page": "p. XVIII",
+     "quote": "Libri TH cum LE vinculo nullo coniuncti sunt, sed XY procul dubio e TH fluxerunt"
+    }
+   ],
+   "flags": [],
+   "confidence": "high",
+   "notes": "Whether the three interpolated classes share a common interpolated ancestor is not said; TH and LE are explicitly unconnected, and XY derive from TH, so XYZ were merged with TH. Q (ends like EW) and the X/Y shelfmarks are unclear in OCR. Whether PMG form one branch or G is separate is loosely stated ('his codex G accedit').",
+   "lead_check": "verified on image (mgh_auct_ant_4_2 leaf 17, p. XVIII): 'Libri TH cum LE vinculo nullo coniuncti sunt, sed XY procul dubio e TH fluxerunt'; Z 'cum Y1 convenit': three-branch top as recorded",
+   "classification_A3": "explicit"
+  },
+  {
+   "volume": "AA 4",
+   "ia_id": "monumentagermani04geseuoft",
+   "text_id": "vita_marcelli",
+   "work": "Vita S. Marcelli",
+   "editor": "B. Krusch",
+   "year": 1885,
+   "text_lines": [
+    46429,
+    46814
+   ],
+   "preface_lines": [
+    42092,
+    42192
+   ],
+   "sigla": [
+    {
+     "siglum": "P",
+     "manuscript": "Parisinus lat. 5275",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "F",
+     "manuscript": "Farfensis (Rome, Bibl. Vitt. Eman.)",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "M",
+     "manuscript": "Parisinus lat. 11552 (only initium prologi collated)",
+     "date_if_given": "s. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "Surius",
+     "manuscript": "Surius' edition",
+     "date_if_given": null,
+     "role": "indirect"
+    }
+   ],
+   "apparatus": "negative_sigla",
+   "filiation_stated": "none",
+   "top_branches": [],
+   "deeper_groups": [],
+   "evidence": [
+    {
+     "ocr_line": 42188,
+     "page": "p. XXI",
+     "quote": "Cum codicis F librarius textum ad arbitrium suum totum immutaverit, codici P magis me applicui"
+    }
+   ],
+   "flags": [],
+   "confidence": "high",
+   "notes": "Two effective witnesses; no filiation.",
+   "classification_A3": "none"
+  },
+  {
+   "volume": "AA 4",
+   "ia_id": "monumentagermani04geseuoft",
+   "text_id": "vita_amantii",
+   "work": "Vita S. Amantii (spuria)",
+   "editor": "B. Krusch",
+   "year": 1885,
+   "text_lines": [
+    46815,
+    47452
+   ],
+   "preface_lines": [
+    42193,
+    42250
+   ],
+   "sigla": [
+    {
+     "siglum": "L",
+     "manuscript": "Labbe's edition (1657)",
+     "date_if_given": null,
+     "role": "indirect"
+    },
+    {
+     "siglum": "M",
+     "manuscript": "codex Moyssiacensis, known from Labbe's appendix",
+     "date_if_given": null,
+     "role": "indirect"
+    },
+    {
+     "siglum": "B",
+     "manuscript": "Bruxellensis 9289 (decurtatus)",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "S",
+     "manuscript": "Surius' edition (same text as B)",
+     "date_if_given": null,
+     "role": "indirect"
+    }
+   ],
+   "apparatus": "negative_sigla",
+   "filiation_stated": "none",
+   "top_branches": [],
+   "deeper_groups": [
+    [
+     "B",
+     "S"
+    ],
+    [
+     "L",
+     "M"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 42228,
+     "page": "p. XXII",
+     "quote": "Codex qui sequitur et Suriana editio textum decurtatum continent"
+    }
+   ],
+   "flags": [],
+   "confidence": "medium",
+   "notes": "Only one direct manuscript (B); full vs abridged text forms distinguished but no stemma.",
+   "classification_A3": "none"
+  },
+  {
+   "volume": "AA 4",
+   "ia_id": "monumentagermani04geseuoft",
+   "text_id": "vita_remedii",
+   "work": "Vita S. Remedii (spuria)",
+   "editor": "B. Krusch",
+   "year": 1885,
+   "text_lines": [
+    47453,
+    47691
+   ],
+   "preface_lines": [
+    42251,
+    42435
+   ],
+   "sigla": [
+    {
+     "siglum": "G",
+     "manuscript": "Parisinus lat. 12598 (olim Corbeiensis)",
+     "date_if_given": "s. VIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "D",
+     "manuscript": "codex S. Benigni Divionensis (via Bollandists)",
+     "date_if_given": null,
+     "role": "indirect"
+    },
+    {
+     "siglum": "E",
+     "manuscript": "codex Chiffletianus (via Bollandists)",
+     "date_if_given": null,
+     "role": "indirect"
+    },
+    {
+     "siglum": "C",
+     "manuscript": "Parisinus lat. (number illegible in OCR; olim Colbertinus 5132)",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "C2",
+     "manuscript": "Parisinus (C), later corrector from another exemplar",
+     "date_if_given": null,
+     "role": "corrector_hand"
+    },
+    {
+     "siglum": "B",
+     "manuscript": "Bruxellensis 7882",
+     "date_if_given": "s. XI in.",
+     "role": "direct"
+    },
+    {
+     "siglum": "W",
+     "manuscript": "Wirziburgensis M. p. th. f. (number illegible in OCR; Weissenburg)",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "X",
+     "manuscript": "Bruxellensis 9036-9037",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    }
+   ],
+   "apparatus": "negative_sigla",
+   "filiation_stated": "none",
+   "top_branches": [],
+   "deeper_groups": [
+    [
+     "D",
+     "E"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 42409,
+     "page": "p. XXIV",
+     "quote": "Inter codices cum GC et aetate emineant et nullo vinculo inter se coniungantur, consensu eorum res decisa est ... DE consentientes pessime depravati sunt"
+    }
+   ],
+   "flags": [],
+   "confidence": "medium",
+   "notes": "Only scattered pair relations (DE; C with B in a lacuna, C with W, C2 with E); no division of the tradition stated.",
+   "classification_A3": "none"
+  },
+  {
+   "volume": "AA 4",
+   "ia_id": "monumentagermani04geseuoft",
+   "text_id": "vita_medardi",
+   "work": "Vita S. Medardi (spuria)",
+   "editor": "B. Krusch",
+   "year": 1885,
+   "text_lines": [
+    47692,
+    48280
+   ],
+   "preface_lines": [
+    42436,
+    42642
+   ],
+   "sigla": [
+    {
+     "siglum": "M",
+     "manuscript": "Monacensis lat. 3511 (uncial; OCR reading)",
+     "date_if_given": "s. VII",
+     "role": "direct"
+    },
+    {
+     "siglum": "N",
+     "manuscript": "Namurcensis 53 (copied from M?)",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "Q",
+     "manuscript": "Parisinus lat. 12598",
+     "date_if_given": "s. VIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "B",
+     "manuscript": "Bruxellensis 9637 (OCR '9G37')",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "P",
+     "manuscript": "Parisinus lat. 13345",
+     "date_if_given": "s. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "R",
+     "manuscript": "Parisinus lat. 5301 (readings few, added after P)",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "I",
+     "manuscript": "Illerdensis (fragment)",
+     "date_if_given": "s. XIV",
+     "role": "direct"
+    }
+   ],
+   "apparatus": "negative_sigla",
+   "filiation_stated": "verbal",
+   "top_branches": [
+    [
+     "M",
+     "N",
+     "Q",
+     "B"
+    ],
+    [
+     "P",
+     "R"
+    ]
+   ],
+   "deeper_groups": [
+    [
+     "M",
+     "N"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 42626,
+     "page": "p. XXVIII",
+     "quote": "Codicum duo genera distinguuntur, quorum alteri libros MNQB, alteri PR tribui. N ex ipso M forte exscriptum esse iam supra dixi; item Q et B cum M conveniunt"
+    }
+   ],
+   "flags": [
+    "several_archetypes"
+   ],
+   "confidence": "medium",
+   "notes": "PR transmit a reworked 'textus vulgatus' (different recension), so the two genera may be two text forms rather than branches of one archetype; flagged several_archetypes for that reason. R cited only sparingly (appended to P). I unplaced.",
+   "classification_A3": "explicit"
+  },
+  {
+   "volume": "AA 4",
+   "ia_id": "monumentagermani04geseuoft",
+   "text_id": "vita_leobini",
+   "work": "Vita S. Leobini (spuria)",
+   "editor": "B. Krusch",
+   "year": 1885,
+   "text_lines": [
+    48281,
+    48809
+   ],
+   "preface_lines": [
+    42643,
+    42684
+   ],
+   "sigla": [
+    {
+     "siglum": "P",
+     "manuscript": "Parisinus lat. 5280",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "G",
+     "manuscript": "Parisinus lat. 15137 (mutilus)",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    }
+   ],
+   "apparatus": "negative_sigla",
+   "filiation_stated": "none",
+   "top_branches": [],
+   "deeper_groups": [],
+   "evidence": [
+    {
+     "ocr_line": 42682,
+     "page": "p. XXIX",
+     "quote": "Librum P ut meliorem fere ubique anteposuimus"
+    }
+   ],
+   "flags": [],
+   "confidence": "high",
+   "notes": "Two manuscripts only.",
+   "classification_A3": "none"
+  },
+  {
+   "volume": "AA 4",
+   "ia_id": "monumentagermani04geseuoft",
+   "text_id": "vita_maurilii",
+   "work": "Vita S. Maurilii (Archanaldi recensio; spuria)",
+   "editor": "B. Krusch",
+   "year": 1885,
+   "text_lines": [
+    48810,
+    50030
+   ],
+   "preface_lines": [
+    42685,
+    42806
+   ],
+   "sigla": [
+    {
+     "siglum": "G",
+     "manuscript": "Parisinus lat. 12600",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "P",
+     "manuscript": "Parisinus lat. 13758",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "R",
+     "manuscript": "Vaticanus Reginae 405 (initium et finis collated)",
+     "date_if_given": null,
+     "role": "direct"
+    },
+    {
+     "siglum": "A",
+     "manuscript": "codex Andegavensis (via Delaunoy)",
+     "date_if_given": null,
+     "role": "indirect"
+    },
+    {
+     "siglum": "V",
+     "manuscript": "codex Vindocinensis (via Ruinart)",
+     "date_if_given": null,
+     "role": "indirect"
+    }
+   ],
+   "apparatus": "negative_sigla",
+   "filiation_stated": "none",
+   "top_branches": [],
+   "deeper_groups": [
+    [
+     "G",
+     "P"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 42776,
+     "page": "p. XXX",
+     "quote": "Libri GP iisdem mendis laborant ... sed cum G paulo accuratius quam P scriptus sit, illum anteposui"
+    }
+   ],
+   "flags": [],
+   "confidence": "high",
+   "notes": "Only GP pair stated.",
+   "classification_A3": "none"
+  },
+  {
+   "volume": "AA 4",
+   "ia_id": "monumentagermani04geseuoft",
+   "text_id": "passio_dionysii",
+   "work": "Passio SS. Dionysii, Rustici et Eleutherii (spuria)",
+   "editor": "B. Krusch",
+   "year": 1885,
+   "text_lines": [
+    50031,
+    50282
+   ],
+   "preface_lines": [
+    42807,
+    42852
+   ],
+   "sigla": [
+    {
+     "siglum": "P",
+     "manuscript": "Petropolitanus F. Otd. I. 12",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "Q",
+     "manuscript": "Parisinus lat. 5301 (first and last lines only)",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "M",
+     "manuscript": "Monacensis lat. 4585 (Benedictoburanus)",
+     "date_if_given": "s. IX-XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "N",
+     "manuscript": "Parisinus lat. 5308",
+     "date_if_given": "s. XIII",
+     "role": "direct"
+    }
+   ],
+   "apparatus": "negative_sigla",
+   "filiation_stated": "none",
+   "top_branches": [],
+   "deeper_groups": [
+    [
+     "P",
+     "M"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 42835,
+     "page": "p. XXXI",
+     "quote": "PM iisdem mendis inquinati sunt ... sed P prae M praestat"
+    }
+   ],
+   "flags": [],
+   "confidence": "high",
+   "notes": "Only PM pair stated.",
+   "classification_A3": "none"
+  },
+  {
+   "volume": "AA 4",
+   "ia_id": "monumentagermani04geseuoft",
+   "text_id": "expositio_fidei_catholicae",
+   "work": "Expositio fidei catholicae (spuria)",
+   "editor": "B. Krusch",
+   "year": 1885,
+   "text_lines": [
+    50352,
+    50655
+   ],
+   "preface_lines": [
+    42888,
+    42975
+   ],
+   "sigla": [
+    {
+     "siglum": "A",
+     "manuscript": "Ambrosianus M. 79 sup.",
+     "date_if_given": "s. XI/XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "M",
+     "manuscript": "Monacensis lat. 19417 (Tegernsee), decurtatus",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "F",
+     "manuscript": "Florentinus bibl. Soc. Iesu (via Zaccaria's collation)",
+     "date_if_given": "s. XIV",
+     "role": "indirect"
+    },
+    {
+     "siglum": "Oxon.",
+     "manuscript": "Oxoniensis of F. Junius (via Waterland)",
+     "date_if_given": "s. X",
+     "role": "indirect"
+    }
+   ],
+   "apparatus": "negative_sigla",
+   "filiation_stated": "verbal",
+   "top_branches": [
+    [
+     "A"
+    ],
+    [
+     "M",
+     "F",
+     "Oxon."
+    ]
+   ],
+   "deeper_groups": [],
+   "evidence": [
+    {
+     "ocr_line": 42950,
+     "page": "p. XXXIII",
+     "quote": "Quamquam MF iisdem mendis inquinati sunt eodemque modo hiant, tamen nonnullis locis ita praestant, ut a codice A recedendum mihi esset"
+    },
+    {
+     "ocr_line": 42962,
+     "page": "p. XXXIII",
+     "quote": "Is [Oxoniensis] eiusdem generis ac MF erat"
+    }
+   ],
+   "flags": [],
+   "confidence": "medium",
+   "notes": "Implicit two genera (A vs MF + Oxon.); at most 2 direct witnesses collated.",
+   "classification_A3": "implied"
+  }
+ ],
+ "skipped": [
+  {
+   "text_id": "appendix_carminum",
+   "work": "Leo, Appendix carminum (poems preserved outside the 11-book corpus, mostly in Σ only)",
+   "reason": "single manuscript (Σ) for most pieces; OCR 23105-24693"
+  },
+  {
+   "text_id": "carmen_de_magnerico",
+   "work": "Carmen de Magnerico episcopo",
+   "reason": "no manuscript: taken from Browerus' edition of the Vita Magnerici"
+  },
+  {
+   "text_id": "carminum_spuriorum_appendix",
+   "work": "Carminum spuriorum appendix (incl. In laudem Mariae, hymni)",
+   "reason": "spurious pieces; preface (sect. IV, p. XXIV) gives no filiation; OCR 31398-32790"
+  },
+  {
+   "text_id": "symbolum_athanasianum",
+   "work": "Symbolum Athanasianum",
+   "reason": "single manuscript (Ambrosianus O 212 sup., s. VIII)"
+  },
+  {
+   "text_id": "miracula_albini_initium",
+   "work": "Miracula S. Albini (initium inedited)",
+   "reason": "printed inside Krusch's preface from E only, no apparatus"
+  }
+ ],
+ "reader": "agent",
+ "date": "2026-11-13"
+}

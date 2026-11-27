@@ -1,0 +1,550 @@
+{
+ "per_text": [
+  {
+   "text": "isidorus_chronica_maiora",
+   "editor_top": [
+    "ACDEGLMNTXYZ",
+    "BFKPSVW"
+   ],
+   "n_analysis_witnesses": 19,
+   "candidate_families_weight_ge2": 193,
+   "families_in_optimum": 13,
+   "stable_families": 7,
+   "stable_weight_ge5": 7,
+   "stable_ge5_crossing_a_classified_branch": 0,
+   "crossing": [],
+   "classified_branches": 2,
+   "verdict": {
+    "printed": "partly_silent",
+    "maj_all": "partly_silent",
+    "maj_span": "partly_silent",
+    "nosp_strict": "partly_silent",
+    "nosp_broad": "partly_silent",
+    "nosp_union": "partly_silent"
+   },
+   "majority_branch_over_half": [
+    "ACDEGLMNTXYZ"
+   ]
+  },
+  {
+   "text": "claudianus_raptus_proserpinae",
+   "editor_top": [
+    "FVS",
+    "CABDW"
+   ],
+   "n_analysis_witnesses": 8,
+   "candidate_families_weight_ge2": 79,
+   "families_in_optimum": 5,
+   "stable_families": 1,
+   "stable_weight_ge5": 1,
+   "stable_ge5_crossing_a_classified_branch": 0,
+   "crossing": [],
+   "classified_branches": 2,
+   "verdict": {
+    "printed": "partly_silent",
+    "maj_all": "partly_silent",
+    "maj_span": "partly_silent",
+    "nosp_strict": "partly_silent",
+    "nosp_broad": "partly_silent",
+    "nosp_union": "partly_silent"
+   },
+   "majority_branch_over_half": [
+    "ABCDW"
+   ]
+  },
+  {
+   "text": "prosper_epitoma_chronicon",
+   "editor_top": [
+    "AORV",
+    "MY"
+   ],
+   "n_analysis_witnesses": 14,
+   "candidate_families_weight_ge2": 83,
+   "families_in_optimum": 9,
+   "stable_families": 5,
+   "stable_weight_ge5": 5,
+   "stable_ge5_crossing_a_classified_branch": 2,
+   "crossing": [
+    "AC 108",
+    "ACV 21"
+   ],
+   "classified_branches": 2,
+   "verdict": {
+    "printed": "contradicted",
+    "maj_all": "contradicted",
+    "maj_span": "contradicted",
+    "nosp_strict": "contradicted",
+    "nosp_broad": "contradicted",
+    "nosp_union": "contradicted"
+   },
+   "majority_branch_over_half": []
+  },
+  {
+   "text": "historia_brittonum",
+   "editor_top": [
+    "HKPQDCGL",
+    "ZMN"
+   ],
+   "n_analysis_witnesses": 11,
+   "candidate_families_weight_ge2": 68,
+   "families_in_optimum": 9,
+   "stable_families": 6,
+   "stable_weight_ge5": 6,
+   "stable_ge5_crossing_a_classified_branch": 0,
+   "crossing": [],
+   "classified_branches": 2,
+   "verdict": {
+    "printed": "partly_silent",
+    "maj_all": "contradicted",
+    "maj_span": "contradicted",
+    "nosp_strict": "partly_silent",
+    "nosp_broad": "partly_silent",
+    "nosp_union": "partly_silent"
+   },
+   "majority_branch_over_half": [
+    "CDGHKLPQ"
+   ]
+  },
+  {
+   "text": "isidorus_historia_gothorum",
+   "editor_top": [
+    "P",
+    "BNHOXYRMA"
+   ],
+   "n_analysis_witnesses": 10,
+   "candidate_families_weight_ge2": 51,
+   "families_in_optimum": 6,
+   "stable_families": 2,
+   "stable_weight_ge5": 2,
+   "stable_ge5_crossing_a_classified_branch": 0,
+   "crossing": [],
+   "classified_branches": 1,
+   "verdict": {
+    "printed": "partly_silent",
+    "maj_all": "partly_silent",
+    "maj_span": "partly_silent",
+    "nosp_strict": "partly_silent",
+    "nosp_broad": "partly_silent",
+    "nosp_union": "partly_silent"
+   },
+   "majority_branch_over_half": [
+    "ABHMNORXY"
+   ]
+  },
+  {
+   "text": "fortunatus_vita_martini",
+   "editor_top": [
+    "PTF",
+    "NBLMS"
+   ],
+   "n_analysis_witnesses": 8,
+   "candidate_families_weight_ge2": 53,
+   "families_in_optimum": 5,
+   "stable_families": 4,
+   "stable_weight_ge5": 4,
+   "stable_ge5_crossing_a_classified_branch": 1,
+   "crossing": [
+    "NP 75"
+   ],
+   "classified_branches": 2,
+   "verdict": {
+    "printed": "contradicted",
+    "maj_all": "contradicted",
+    "maj_span": "contradicted",
+    "nosp_strict": "contradicted",
+    "nosp_broad": "contradicted",
+    "nosp_union": "contradicted"
+   },
+   "majority_branch_over_half": [
+    "BLMNS"
+   ]
+  },
+  {
+   "text": "claudianus_maior",
+   "editor_top": [
+    "VPGM",
+    "CBAJR"
+   ],
+   "n_analysis_witnesses": 9,
+   "candidate_families_weight_ge2": 54,
+   "families_in_optimum": 5,
+   "stable_families": 2,
+   "stable_weight_ge5": 2,
+   "stable_ge5_crossing_a_classified_branch": 0,
+   "crossing": [],
+   "classified_branches": 2,
+   "verdict": {
+    "printed": "partly_silent",
+    "maj_all": "partly_silent",
+    "maj_span": "partly_silent",
+    "nosp_strict": "partly_silent",
+    "nosp_broad": "partly_silent",
+    "nosp_union": "partly_silent"
+   },
+   "majority_branch_over_half": [
+    "ABCJR"
+   ]
+  },
+  {
+   "text": "sidonius_carmina",
+   "editor_top": [
+    "M",
+    "TCFP"
+   ],
+   "n_analysis_witnesses": 5,
+   "candidate_families_weight_ge2": 22,
+   "families_in_optimum": 3,
+   "stable_families": 1,
+   "stable_weight_ge5": 1,
+   "stable_ge5_crossing_a_classified_branch": 0,
+   "crossing": [],
+   "classified_branches": 1,
+   "verdict": {
+    "printed": "supported",
+    "maj_all": "partly_silent",
+    "maj_span": "partly_silent",
+    "nosp_strict": "supported",
+    "nosp_broad": "supported",
+    "nosp_union": "supported"
+   },
+   "majority_branch_over_half": [
+    "CFPT"
+   ]
+  },
+  {
+   "text": "ennodius_opera",
+   "editor_top": [
+    "B",
+    "VLTCOP"
+   ],
+   "n_analysis_witnesses": 7,
+   "candidate_families_weight_ge2": 45,
+   "families_in_optimum": 5,
+   "stable_families": 5,
+   "stable_weight_ge5": 4,
+   "stable_ge5_crossing_a_classified_branch": 2,
+   "crossing": [
+    "BLV 211",
+    "BLTV 71"
+   ],
+   "classified_branches": 1,
+   "verdict": {
+    "printed": "contradicted",
+    "maj_all": "contradicted",
+    "maj_span": "contradicted",
+    "nosp_strict": "contradicted",
+    "nosp_broad": "partly_silent",
+    "nosp_union": "contradicted"
+   },
+   "majority_branch_over_half": [
+    "CLOPTV"
+   ]
+  },
+  {
+   "text": "paulus_historia_romana",
+   "editor_top": [
+    "HVBM",
+    "NZ"
+   ],
+   "n_analysis_witnesses": 6,
+   "candidate_families_weight_ge2": 33,
+   "families_in_optimum": 4,
+   "stable_families": 4,
+   "stable_weight_ge5": 4,
+   "stable_ge5_crossing_a_classified_branch": 1,
+   "crossing": [
+    "MNZ 48"
+   ],
+   "classified_branches": 2,
+   "verdict": {
+    "printed": "contradicted",
+    "maj_all": "contradicted",
+    "maj_span": "contradicted",
+    "nosp_strict": "contradicted",
+    "nosp_broad": "contradicted",
+    "nosp_union": "contradicted"
+   },
+   "majority_branch_over_half": [
+    "BHMV"
+   ]
+  },
+  {
+   "text": "victor_vitensis_historia",
+   "editor_top": [
+    "BLV",
+    "R"
+   ],
+   "n_analysis_witnesses": 5,
+   "candidate_families_weight_ge2": 19,
+   "families_in_optimum": 3,
+   "stable_families": 3,
+   "stable_weight_ge5": 3,
+   "stable_ge5_crossing_a_classified_branch": 0,
+   "crossing": [],
+   "classified_branches": 1,
+   "verdict": {
+    "printed": "supported",
+    "maj_all": "partly_silent",
+    "maj_span": "partly_silent",
+    "nosp_strict": "supported",
+    "nosp_broad": "supported",
+    "nosp_union": "supported"
+   },
+   "majority_branch_over_half": [
+    "BLV"
+   ]
+  },
+  {
+   "text": "jordanes_romana",
+   "editor_top": [
+    "HPVL"
+   ],
+   "n_analysis_witnesses": 4,
+   "candidate_families_weight_ge2": 10,
+   "families_in_optimum": 2,
+   "stable_families": 2,
+   "stable_weight_ge5": 2,
+   "stable_ge5_crossing_a_classified_branch": 0,
+   "crossing": [],
+   "classified_branches": 1,
+   "verdict": {
+    "printed": "partly_silent",
+    "maj_all": "partly_silent",
+    "maj_span": "partly_silent",
+    "nosp_strict": "partly_silent",
+    "nosp_broad": "partly_silent",
+    "nosp_union": "partly_silent"
+   },
+   "majority_branch_over_half": [
+    "HLPV"
+   ]
+  },
+  {
+   "text": "eugippius_vita_severini",
+   "editor_top": [
+    "L",
+    "VMD"
+   ],
+   "n_analysis_witnesses": 4,
+   "candidate_families_weight_ge2": 8,
+   "families_in_optimum": 2,
+   "stable_families": 2,
+   "stable_weight_ge5": 2,
+   "stable_ge5_crossing_a_classified_branch": 0,
+   "crossing": [],
+   "classified_branches": 1,
+   "verdict": {
+    "printed": "supported",
+    "maj_all": "partly_silent",
+    "maj_span": "partly_silent",
+    "nosp_strict": "supported",
+    "nosp_broad": "supported",
+    "nosp_union": "supported"
+   },
+   "majority_branch_over_half": [
+    "DMV"
+   ]
+  },
+  {
+   "text": "marcellinus_comes_chronicon",
+   "editor_top": [
+    "S",
+    "TUR"
+   ],
+   "n_analysis_witnesses": 4,
+   "candidate_families_weight_ge2": 9,
+   "families_in_optimum": 2,
+   "stable_families": 2,
+   "stable_weight_ge5": 2,
+   "stable_ge5_crossing_a_classified_branch": 0,
+   "crossing": [],
+   "classified_branches": 1,
+   "verdict": {
+    "printed": "supported",
+    "maj_all": "contradicted",
+    "maj_span": "contradicted",
+    "nosp_strict": "supported",
+    "nosp_broad": "supported",
+    "nosp_union": "supported"
+   },
+   "majority_branch_over_half": [
+    "RTU"
+   ]
+  }
+ ],
+ "pooled_random_null": {
+  "printed": {
+   "score_sum": {
+    "observed": 13,
+    "null_mean": 3.210822940389504,
+    "p_one_sided": 1.36625753542501e-05
+   },
+   "n_supported": {
+    "observed": 4,
+    "null_mean": 0.942901542901543,
+    "p_one_sided": 0.004644736216164788
+   },
+   "n_not_contradicted": {
+    "observed": 9,
+    "null_mean": 2.267921397487961,
+    "p_one_sided": 8.01237328005373e-07
+   },
+   "median_share_random_contradicted": 0.8571428571428571,
+   "n_texts": 13,
+   "editor_counts": {
+    "partly_silent": 6,
+    "contradicted": 4,
+    "supported": 4
+   }
+  },
+  "maj_all": {
+   "score_sum": {
+    "observed": 7,
+    "null_mean": 3.29681472638129,
+    "p_one_sided": 0.0025387976262593046
+   },
+   "n_supported": {
+    "observed": 0,
+    "null_mean": 6.660006660006661e-05,
+    "p_one_sided": 1.0
+   },
+   "n_not_contradicted": {
+    "observed": 7,
+    "null_mean": 3.2967481263146894,
+    "p_one_sided": 0.0025310740339557756
+   },
+   "median_share_random_contradicted": 0.8,
+   "n_texts": 13,
+   "editor_counts": {
+    "partly_silent": 8,
+    "contradicted": 6
+   }
+  },
+  "maj_span": {
+   "score_sum": {
+    "observed": 7,
+    "null_mean": 3.4968147263812903,
+    "p_one_sided": 0.003345530728523467
+   },
+   "n_supported": {
+    "observed": 0,
+    "null_mean": 6.660006660006661e-05,
+    "p_one_sided": 1.0
+   },
+   "n_not_contradicted": {
+    "observed": 7,
+    "null_mean": 3.496748126314691,
+    "p_one_sided": 0.0033361019826993214
+   },
+   "median_share_random_contradicted": 0.8,
+   "n_texts": 13,
+   "editor_counts": {
+    "partly_silent": 8,
+    "contradicted": 6
+   }
+  },
+  "nosp_strict": {
+   "score_sum": {
+    "observed": 13,
+    "null_mean": 3.067965797532361,
+    "p_one_sided": 6.496727706742376e-07
+   },
+   "n_supported": {
+    "observed": 4,
+    "null_mean": 0.8000444000444,
+    "p_one_sided": 0.0012510545010545014
+   },
+   "n_not_contradicted": {
+    "observed": 9,
+    "null_mean": 2.267921397487961,
+    "p_one_sided": 8.01237328005373e-07
+   },
+   "median_share_random_contradicted": 0.8571428571428571,
+   "n_texts": 13,
+   "editor_counts": {
+    "partly_silent": 6,
+    "contradicted": 4,
+    "supported": 4
+   }
+  },
+  "nosp_broad": {
+   "score_sum": {
+    "observed": 14,
+    "null_mean": 3.350981027916013,
+    "p_one_sided": 2.1207974016425678e-08
+   },
+   "n_supported": {
+    "observed": 4,
+    "null_mean": 0.8000444000444,
+    "p_one_sided": 0.0012510545010545016
+   },
+   "n_not_contradicted": {
+    "observed": 10,
+    "null_mean": 2.5509366278716126,
+    "p_one_sided": 2.0492797485582547e-08
+   },
+   "median_share_random_contradicted": 0.8,
+   "n_texts": 13,
+   "editor_counts": {
+    "partly_silent": 7,
+    "contradicted": 3,
+    "supported": 4
+   }
+  },
+  "nosp_union": {
+   "score_sum": {
+    "observed": 13,
+    "null_mean": 2.9224095993445847,
+    "p_one_sided": 4.909703988040636e-08
+   },
+   "n_supported": {
+    "observed": 4,
+    "null_mean": 0.8000444000444,
+    "p_one_sided": 0.0012510545010545016
+   },
+   "n_not_contradicted": {
+    "observed": 9,
+    "null_mean": 2.122365199300184,
+    "p_one_sided": 4.7640768242208405e-08
+   },
+   "median_share_random_contradicted": 0.9,
+   "n_texts": 13,
+   "editor_counts": {
+    "partly_silent": 6,
+    "contradicted": 4,
+    "supported": 4
+   }
+  }
+ },
+ "pooled_compatible_null": {
+  "all": {
+   "texts": 12,
+   "dropped_no_compatible_division": [
+    "paulus_historia_romana"
+   ],
+   "observed_score_sum": 13,
+   "null_mean": 17.014598540145986,
+   "null_min": 17,
+   "p_one_sided": 1.0,
+   "editor_not_compatible": [
+    "prosper_epitoma_chronicon",
+    "fortunatus_vita_martini",
+    "ennodius_opera"
+   ],
+   "median_share_contradicted": 0
+  },
+  "nonmax": {
+   "texts": 13,
+   "dropped_no_compatible_division": [],
+   "observed_score_sum": 13,
+   "null_mean": 7.970983331671121,
+   "null_min": 4,
+   "p_one_sided": 0.008468609838606913,
+   "editor_not_compatible": [
+    "prosper_epitoma_chronicon",
+    "ennodius_opera"
+   ],
+   "median_share_contradicted": 0.7936507936507936
+  }
+ }
+}

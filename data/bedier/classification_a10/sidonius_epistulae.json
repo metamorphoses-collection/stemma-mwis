@@ -1,0 +1,82 @@
+{
+ "stemma_witnesses": "LMTCFP",
+ "cited": {
+  "L": 1754,
+  "M": 2916,
+  "T": 1938,
+  "C": 3710,
+  "F": 3595,
+  "P": 2342
+ },
+ "analysis_witnesses": "LMTCFP",
+ "units_with_shared_departure": 2522,
+ "included": true,
+ "exclusion": [],
+ "editor_top": [
+  "L",
+  "MTCFP"
+ ],
+ "k_E": 2,
+ "status": "OPTIMAL",
+ "weight": 1005.0,
+ "branches": [
+  {
+   "branch": "L",
+   "status": "single_witness"
+  },
+  {
+   "branch": "MTCFP",
+   "status": "supported",
+   "by": "MTCFP"
+  }
+ ],
+ "classification": "supported",
+ "k_D": 2,
+ "k_D_bootstrap": {
+  "2": 1.0
+ },
+ "stable_families": [
+  [
+   "MTCFP",
+   365,
+   1.0
+  ],
+  [
+   "CF",
+   250,
+   1.0
+  ],
+  [
+   "MCFP",
+   232,
+   1.0
+  ],
+  [
+   "MCF",
+   158,
+   1.0
+  ]
+ ],
+ "mwis": [
+  [
+   "MTCFP",
+   365,
+   1.0
+  ],
+  [
+   "CF",
+   250,
+   1.0
+  ],
+  [
+   "MCFP",
+   232,
+   1.0
+  ],
+  [
+   "MCF",
+   158,
+   1.0
+  ]
+ ]
+}

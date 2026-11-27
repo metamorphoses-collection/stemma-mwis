@@ -1,0 +1,1 @@
+contradicted; k_E=2 k_D=2; branches: [{'branch': 'B', 'status': 'single_witness'}, {'branch': 'VLTCOP', 'status': 'contradicted', 'by': ['BVL', 'BVLT']}]

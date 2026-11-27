@@ -1,0 +1,947 @@
+{
+ "volume": "AA 15",
+ "ia_id": "monumentagerman15geseuoft",
+ "texts": [
+  {
+   "volume": "AA 15",
+   "ia_id": "monumentagerman15geseuoft",
+   "text_id": "aldhelm_carmina_ecclesiastica",
+   "work": "Aldhelmus, Carmina ecclesiastica I-V",
+   "editor": "R. Ehwald",
+   "year": 1919,
+   "text_lines": [
+    1734,
+    3440
+   ],
+   "preface_lines": [
+    1242,
+    1731
+   ],
+   "sigla": [
+    {
+     "siglum": "A",
+     "manuscript": "Berolinensis 167 = Phillippicus 1825, olim St. Albini Andegavensis (also centones Andegavenses)",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "P",
+     "manuscript": "Parisinus lat. 8318, fol. 75-80",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "V",
+     "manuscript": "Vaticano-Reginensis 251 (S. Benigni Divionensis)",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "S",
+     "manuscript": "Sangallensis 899",
+     "date_if_given": "s. IX ex.",
+     "role": "direct"
+    },
+    {
+     "siglum": "Quercetanus",
+     "manuscript": "ed. A. Quercetani (Paris 1617) ex codice Bertiniano deperdito",
+     "date_if_given": "1617",
+     "role": "indirect"
+    },
+    {
+     "siglum": "F",
+     "manuscript": "Faricius, Vita Aldhelmi (carm. I only)",
+     "date_if_given": "s. XII in.",
+     "role": "indirect"
+    },
+    {
+     "siglum": "W",
+     "manuscript": "Willelmus Malmesburiensis, Gesta pontificum V 197 (carm. I only)",
+     "date_if_given": "1125",
+     "role": "indirect"
+    }
+   ],
+   "apparatus": "positive_sigla",
+   "filiation_stated": "verbal",
+   "top_branches": [
+    [
+     "A",
+     "P",
+     "V"
+    ],
+    [
+     "S"
+    ]
+   ],
+   "deeper_groups": [
+    [
+     "P",
+     "V"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 1629,
+     "page": "p. 9",
+     "quote": "Cognati ei [A] sunt Parisinus et Vaticanus: confer e.g. IV, VII 8 ... in APV desunt IV 13, 8-10"
+    },
+    {
+     "ocr_line": 1676,
+     "page": "p. 10",
+     "quote": "Ex eodem fonte derivatus est codex Vaticano-Reginensis 251 = V, tam similis Parisino, ut gemellus fere eius sit habendus"
+    },
+    {
+     "ocr_line": 1726,
+     "page": "p. 11",
+     "quote": "Continuit [Bertinianus] II. III. IV. V, in ordine carminum cum Sangallensi conspirans"
+    },
+    {
+     "ocr_line": 1730,
+     "page": "p. 11",
+     "quote": "unus Sangallensis, qui suo stat talo, non est in Francia scriptus"
+    }
+   ],
+   "flags": [],
+   "confidence": "low",
+   "notes": "No explicit archetype-level statement: the division rests on A's stated kinship with P and V (shared omissions) and S standing 'on its own'. The lost Bertinianus (Quercetanus' edition) agrees with S only in poem order, so it is not placed. Carm. I survives only in Faricius/William and A's centones.",
+   "classification_A3": "implied"
+  },
+  {
+   "volume": "AA 15",
+   "ia_id": "monumentagerman15geseuoft",
+   "text_id": "aldhelm_de_metris_tractatus",
+   "work": "Aldhelmus, Epistola ad Acircium: De metris (de septenario) et De pedum regulis (tractatus metricus, without the Aenigmata)",
+   "editor": "R. Ehwald",
+   "year": 1919,
+   "text_lines": [
+    5376,
+    17187
+   ],
+   "preface_lines": [
+    3452,
+    3803
+   ],
+   "sigla": [
+    {
+     "siglum": "K",
+     "manuscript": "Caroliruhensis Aug. LXXXV, olim Augiensis",
+     "date_if_given": "s. VIII/IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "P1",
+     "manuscript": "Parisinus lat. 2339, olim Lemovicensis",
+     "date_if_given": "s. X in.",
+     "role": "direct"
+    },
+    {
+     "siglum": "S",
+     "manuscript": "fragmenta Sangallensia 1394",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "N",
+     "manuscript": "Vaticano-Palatinus 1753, olim Nazarianus (Lorsch)",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "A1",
+     "manuscript": "Valentinianus 378, olim St. Amandinus (first part only)",
+     "date_if_given": "s. IX/X",
+     "role": "direct"
+    },
+    {
+     "siglum": "A",
+     "manuscript": "Valentinianus 376, olim St. Amandinus (De pedum regulis part only)",
+     "date_if_given": "s. IX/X",
+     "role": "direct"
+    },
+    {
+     "siglum": "F",
+     "manuscript": "Bruxellensis 4433-38",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "F1",
+     "manuscript": "Bruxellensis 9581-95, olim Cusanus (OCR F'/F^; probably ex F)",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "b",
+     "manuscript": "Leidensis 490 Perizonii, apographon codicis Bertiniani deperditi",
+     "date_if_given": "s. XVIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "D",
+     "manuscript": "ed. Delrio ex codice Leodiensi deperdito (prologue parts only)",
+     "date_if_given": "1601",
+     "role": "indirect"
+    },
+    {
+     "siglum": "Mai",
+     "manuscript": "ed. A. Mai 1833 (ex N)",
+     "date_if_given": "1833",
+     "role": "indirect"
+    }
+   ],
+   "apparatus": "positive_sigla",
+   "filiation_stated": "verbal",
+   "top_branches": [
+    [
+     "K",
+     "P1",
+     "S"
+    ],
+    [
+     "N",
+     "A1",
+     "A",
+     "F",
+     "F1",
+     "b"
+    ]
+   ],
+   "deeper_groups": [
+    [
+     "K",
+     "P1"
+    ],
+    [
+     "N",
+     "A1",
+     "F",
+     "F1",
+     "b"
+    ],
+    [
+     "F",
+     "F1",
+     "b"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 3455,
+     "page": "p. 35",
+     "quote": "Quotquot Aldhelmi prodiderunt tractatum metricum codices, eos omnes ad communem unum redire fontem, qui non ab Aldhelmo ipso sit patefactus, probari potest certissime"
+    },
+    {
+     "ocr_line": 3488,
+     "page": "p. 35",
+     "quote": "Duae igitur constituuntur codicum classes, quarum altera Augiensem et Lemovicensem complectitur, ad alteram reliqui codices sunt relegandi"
+    },
+    {
+     "ocr_line": 3565,
+     "page": "p. 37",
+     "quote": "[S] ita cum Augiensi et Lemovicensi, ut eum ex eodem fonte atque illos derivatum esse videatur constare"
+    },
+    {
+     "ocr_line": 3643,
+     "page": "p. 38",
+     "quote": "qui tres codices Nazarianum et St. Amandinum 378 et Bruxellensem 4433 ex eodem codice derivatos esse arbitrabitur"
+    },
+    {
+     "ocr_line": 3694,
+     "page": "p. 39",
+     "quote": "[A] sed longe plura sunt, in quibus cum totius alterius classis textu consentit"
+    }
+   ],
+   "flags": [
+    "multiple_sections_different_witnesses"
+   ],
+   "confidence": "medium",
+   "notes": "Separated from the Aenigmata because the editor states a different division for them. A1 has only the first part, A only De pedum regulis, S is fragmentary; F1 probably descriptus ex F (editor: 'credo'), b an 18th-c. apograph of a lost Bertinianus close to F.",
+   "classification_A3": "explicit"
+  },
+  {
+   "volume": "AA 15",
+   "ia_id": "monumentagerman15geseuoft",
+   "text_id": "aldhelm_aenigmata",
+   "work": "Aldhelmus, Aenigmata (with metrical praefatio)",
+   "editor": "R. Ehwald",
+   "year": 1919,
+   "text_lines": [
+    8545,
+    12600
+   ],
+   "preface_lines": [
+    3806,
+    4590
+   ],
+   "sigla": [
+    {
+     "siglum": "A",
+     "manuscript": "Petropolitanus Q I 15, olim Corbeiensis",
+     "date_if_given": "s. VIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "R",
+     "manuscript": "Petropolitanus F XIV 1, olim Corbeiensis (OCR 'B'/'It')",
+     "date_if_given": "s. VIII/IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "K",
+     "manuscript": "Caroliruhensis Aug. LXXXV",
+     "date_if_given": "s. VIII/IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "N",
+     "manuscript": "Vaticano-Palatinus 1753 (Nazarianus)",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "B1",
+     "manuscript": "Britannicus Regius 15 A XVI, olim Cantuariensis",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "B2",
+     "manuscript": "Britannicus Regius 12 C XXIII",
+     "date_if_given": "s. X in.",
+     "role": "direct"
+    },
+    {
+     "siglum": "S",
+     "manuscript": "fragmenta Sangallensia 1394",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "S1",
+     "manuscript": "Sangallensis 242",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "P",
+     "manuscript": "Parisinus lat. 16700",
+     "date_if_given": "s. IX/X",
+     "role": "direct"
+    },
+    {
+     "siglum": "O",
+     "manuscript": "Lipsiensis 74 (siglum uncertain in OCR: '0')",
+     "date_if_given": "s. IX/X",
+     "role": "direct"
+    },
+    {
+     "siglum": "E",
+     "manuscript": "Oxoniensis Rawlinson C 697, olim Bury St. Edmunds",
+     "date_if_given": "s. IX/X",
+     "role": "direct"
+    },
+    {
+     "siglum": "P1",
+     "manuscript": "Parisinus lat. 2339, olim Lemovicensis",
+     "date_if_given": "s. X in.",
+     "role": "direct"
+    },
+    {
+     "siglum": "L",
+     "manuscript": "Vossianus lat. 8° 15, olim Lemovicensis (ex P1 descriptus)",
+     "date_if_given": "s. X/XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "S2",
+     "manuscript": "Bremensis 32, olim Sangallensis",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "V",
+     "manuscript": "Vaticano-Reginensis 2078",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "P2",
+     "manuscript": "Parisinus lat. 7540",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "P4",
+     "manuscript": "Parisinus lat. 8440 (superscript number uncertain in OCR)",
+     "date_if_given": "s. X/XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "e",
+     "manuscript": "Einsidlensis 302",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "C",
+     "manuscript": "Cantabrigiensis Gg V 35, olim Cantuariensis",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "P3",
+     "manuscript": "Parisinus lat. 2773 (superscript number uncertain in OCR)",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "F",
+     "manuscript": "Bruxellensis 4433-38",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "F1",
+     "manuscript": "Bruxellensis 10615-729, olim Cusanus",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "F2",
+     "manuscript": "Bruxellensis 9799-809, olim Cusanus (ex F1 descriptus)",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "G",
+     "manuscript": "Gudianus 331",
+     "date_if_given": "s. X/XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "D",
+     "manuscript": "ed. Delrio 1601 ex codice Leodiensi deperdito (et corrector eius)",
+     "date_if_given": "1601",
+     "role": "indirect"
+    }
+   ],
+   "apparatus": "positive_sigla",
+   "filiation_stated": "verbal",
+   "top_branches": [
+    [
+     "A",
+     "F1",
+     "F2"
+    ],
+    [
+     "R",
+     "K",
+     "N",
+     "B1",
+     "B2",
+     "S",
+     "S1",
+     "P",
+     "O",
+     "E",
+     "P1",
+     "L",
+     "S2",
+     "V",
+     "P2",
+     "P4",
+     "e",
+     "C",
+     "P3",
+     "F",
+     "G",
+     "D"
+    ]
+   ],
+   "deeper_groups": [
+    [
+     "N",
+     "F"
+    ],
+    [
+     "P1",
+     "L"
+    ],
+    [
+     "B1",
+     "C"
+    ],
+    [
+     "P2",
+     "V"
+    ],
+    [
+     "K",
+     "S"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 3916,
+     "page": "p. 43",
+     "quote": "textus, quem exhibent, forma non unam eandemque demonstrat originem. Nimirum etiam in aenigmatibus duae discernendae sunt recensiones"
+    },
+    {
+     "ocr_line": 3919,
+     "page": "p. 43",
+     "quote": "alteram recensionem prae se ferunt Petropolitanus Q I 15 olim Corbeiensis (A) et Bruxellensis 10615 olim Cusanus (F1) et qui eius apographon est, Bruxellensis 9799 (F2), alteram ceteri omnes"
+    },
+    {
+     "ocr_line": 4034,
+     "page": "p. 45",
+     "quote": "Cum autem ad eundem codicem archetypum redeant A et F1"
+    },
+    {
+     "ocr_line": 4062,
+     "page": "p. 45",
+     "quote": "Inter eos autem aenigmatum codices, qui ab A et F1 discedunt, quamquam nonnulli artiore quadam familiaritate inter se attingunt, nullus est, qui omnes huius classis ita superet"
+    },
+    {
+     "ocr_line": 3962,
+     "page": "p. 44",
+     "quote": "Aldhelmi autem ipsius manum ostendere ea, quae in AF1F2 leguntur, non modo elocutio Aldhelmiana docet"
+    },
+    {
+     "ocr_line": 4455,
+     "page": "p. 52",
+     "quote": "[E] primam ex fonte, in quem duae recensiones confluxerunt, sua hausisse"
+    }
+   ],
+   "flags": [
+    "several_archetypes",
+    "contamination_at_top"
+   ],
+   "confidence": "medium",
+   "notes": "The top division is between two recensions, A-F1-F2 judged authorial (Aldhelm's own text) and the rest a revised text, so it may be two archetypes rather than one split; E draws on both recensions. R (Petrop. F XIV 1) is not explicitly placed and is put with 'ceteri' by default. Several superscript sigla (P2/P3/P4, O, B2) are uncertain in the OCR: check the conspectus on p. 58.",
+   "classification_A3": "explicit"
+  },
+  {
+   "volume": "AA 15",
+   "ia_id": "monumentagerman15geseuoft",
+   "text_id": "aldhelm_de_virginitate_prosa",
+   "work": "Aldhelmus, De virginitate (prosa)",
+   "editor": "R. Ehwald",
+   "year": 1919,
+   "text_lines": [
+    18346,
+    25700
+   ],
+   "preface_lines": [
+    17300,
+    18335
+   ],
+   "sigla": [
+    {
+     "siglum": "A",
+     "manuscript": "Wirceburgensis M. th. f. 21 (scr. pro Gozbaldo episc.)",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "G",
+     "manuscript": "Guelferbytanus Helmstedt. 365 (ex A descriptus)",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "A1",
+     "manuscript": "fragmenta Cantabrigiensia (Jenkinson)",
+     "date_if_given": "s. VIII/IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "Oxon",
+     "manuscript": "fragmentum Oxoniense Ms. lat. th. f. 4",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "P",
+     "manuscript": "Phillippicus, nunc Cheltenham 8071 (+ fragmenta Cantabrigiensia Add. 3330)",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "B",
+     "manuscript": "Bruxellensis 1650, in Anglia scriptus (Brux. 4164-66, s. XVII, ex hoc descriptus)",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "O",
+     "manuscript": "Bodleianus Digby 146, olim Abendoniensis",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "C1",
+     "manuscript": "Bodleianus 97, olim Cantuariensis",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "L",
+     "manuscript": "Lambethanus 200, olim Walthamiensis",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "H",
+     "manuscript": "Herefordensis P I 17, olim Cirencestrensis",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "R1",
+     "manuscript": "Britannicus Regius 5 F III (siglum uncertain in OCR)",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "C2",
+     "manuscript": "Cantabrigiensis Corporis Christi 326, olim Cantuariensis",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "S",
+     "manuscript": "Sarisberiensis",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "R2",
+     "manuscript": "Britannicus Regius 7 D XXIV",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "R3",
+     "manuscript": "Britannicus Regius 6 A VI",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "R4",
+     "manuscript": "Britannicus Regius 5 E XI",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "R5",
+     "manuscript": "Britannicus Regius 6 B VII",
+     "date_if_given": "s. XII in.",
+     "role": "direct"
+    }
+   ],
+   "apparatus": "positive_sigla",
+   "filiation_stated": "verbal",
+   "top_branches": [
+    [
+     "A",
+     "G",
+     "A1",
+     "Oxon",
+     "P",
+     "B"
+    ],
+    [
+     "L",
+     "H",
+     "R1",
+     "O",
+     "C1",
+     "C2",
+     "S",
+     "R2",
+     "R3",
+     "R4",
+     "R5"
+    ]
+   ],
+   "deeper_groups": [
+    [
+     "A",
+     "G",
+     "A1"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 17639,
+     "page": "p. 216",
+     "quote": "Ei, quos hucusque enumeravi, codices omnes inter se eo coniuncti sunt, quod et soli liberi sunt ab ea interpolatione, quae ceteros initio capituli XXX obsedit, nec capitulorum ... divisionem nec capitulorum tabulam ... habent"
+    },
+    {
+     "ocr_line": 17386,
+     "page": "p. 212",
+     "quote": "hic codex Germanicus cum eis Anglicis consentiat, qui eiusdem classis testes cum illo priorem et sinceriorem textus formam servarint"
+    },
+    {
+     "ocr_line": 17503,
+     "page": "p. 214",
+     "quote": "Necnon ad eam, quam Wirceburgensis exhibet, textus formam referendum est fragmentum Oxoniense"
+    },
+    {
+     "ocr_line": 17473,
+     "page": "p. 213",
+     "quote": "Artissime vero cum ipso fonte Wirceburgensis coniuncta sunt fragmenta ... Cantabrigiensia (A1)"
+    }
+   ],
+   "flags": [],
+   "confidence": "medium",
+   "notes": "Second class is a later (10th-c., Canterbury/Dunstan-era) reworked form with capitulation; two late MSS (Harley 3013 s. XII, Cambridge Gonville & Caius s. XIV) carry no sigla and are not placed. The R1-R5 superscripts and the C1/C2 assignment come from a garbled conspectus (p. 225): verify.",
+   "classification_A3": "explicit"
+  },
+  {
+   "volume": "AA 15",
+   "ia_id": "monumentagerman15geseuoft",
+   "text_id": "aldhelm_de_virginitate_carmen",
+   "work": "Aldhelmus, Carmen de virginitate (with De octo vitiis principalibus)",
+   "editor": "R. Ehwald",
+   "year": 1919,
+   "text_lines": [
+    27263,
+    37529
+   ],
+   "preface_lines": [
+    25760,
+    27260
+   ],
+   "sigla": [
+    {
+     "siglum": "A",
+     "manuscript": "Gothanus I 75, olim Murbacensis",
+     "date_if_given": "s. VIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "R",
+     "manuscript": "Petropolitanus F XIV 1, olim Corbeiensis (excerpta)",
+     "date_if_given": "s. VIII/IX",
+     "role": "indirect"
+    },
+    {
+     "siglum": "B",
+     "manuscript": "Bruxellensis 4433",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "N",
+     "manuscript": "Parisinus lat. 16668, olim Nazarianus",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "P1",
+     "manuscript": "Parisinus lat. 2339, olim Lemovicensis",
+     "date_if_given": "s. IX/X",
+     "role": "direct"
+    },
+    {
+     "siglum": "P",
+     "manuscript": "Parisinus lat. 16700",
+     "date_if_given": "s. IX/X",
+     "role": "direct"
+    },
+    {
+     "siglum": "S",
+     "manuscript": "Turicensis C 59/274, olim Sangallensis",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "S1",
+     "manuscript": "Sangallensis 242",
+     "date_if_given": "s. IX/X",
+     "role": "direct"
+    },
+    {
+     "siglum": "S2",
+     "manuscript": "Sangallensis 263",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "W",
+     "manuscript": "Bodleianus 49, olim Wintonensis",
+     "date_if_given": "s. X ex.",
+     "role": "direct"
+    },
+    {
+     "siglum": "O",
+     "manuscript": "Bodleianus 577",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "E",
+     "manuscript": "Rawlinson C 697, olim Bury St. Edmunds",
+     "date_if_given": "s. IX/X",
+     "role": "direct"
+    },
+    {
+     "siglum": "C1",
+     "manuscript": "Cantabrigiensis Corporis Christi 285",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "C",
+     "manuscript": "Cantabrigiensis Gg V 35, olim Cantuariensis",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "M",
+     "manuscript": "Monacensis 23486 (fragmenta)",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "V",
+     "manuscript": "Vindobonensis 969 (OCR '989'), olim Moguntinus",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "G",
+     "manuscript": "Gandensis 264",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "p",
+     "manuscript": "Pommersfeldensis 2883",
+     "date_if_given": "a. 1494",
+     "role": "direct"
+    },
+    {
+     "siglum": "b",
+     "manuscript": "excerpta Bambergensia B II 10 (Alcuin)",
+     "date_if_given": "s. X",
+     "role": "indirect"
+    },
+    {
+     "siglum": "Werth.",
+     "manuscript": "fragmentum Wertheimense olim Grunachiense (siglum illegible in OCR)",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "Faber",
+     "manuscript": "ed. princeps J. Faber, Deventer 1513 (ex codice Coloniensi deperdito)",
+     "date_if_given": "1513",
+     "role": "indirect"
+    }
+   ],
+   "apparatus": "positive_sigla",
+   "filiation_stated": "verbal",
+   "top_branches": [
+    [
+     "A",
+     "S",
+     "S1",
+     "S2",
+     "N",
+     "P1",
+     "P",
+     "B",
+     "p",
+     "V",
+     "M",
+     "Werth."
+    ],
+    [
+     "W",
+     "O",
+     "C1",
+     "G",
+     "Faber"
+    ]
+   ],
+   "deeper_groups": [
+    [
+     "A",
+     "S",
+     "S1",
+     "S2"
+    ],
+    [
+     "P",
+     "B",
+     "p"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 26142,
+     "page": "p. 332",
+     "quote": "facile constabit, in duas codices discedere classes, quarum alteram Gothanus, alteram Oxonienses duo (Bodleianus 49 olim Wintonensis saec. X = W et Bodleianus 577 saec. XI = O) ducunt"
+    },
+    {
+     "ocr_line": 26184,
+     "page": "p. 333",
+     "quote": "unus codex, qui certe olim fuit Cantuariensis = C saec. XI cum classe priore in gravissimis nonnullis consentit ...: etiam clarius duarum classium recensionem coniunxit codex Rawlinson 697 = E"
+    },
+    {
+     "ocr_line": 26510,
+     "page": "p. 337",
+     "quote": "vides in archetypo, quem Gothano et Sangallensibus unum fuisse vel hic locus unus satis demonstrat"
+    },
+    {
+     "ocr_line": 26721,
+     "page": "p. 341",
+     "quote": "Textum Nasariani e codice eiusdem classis desumptum esse atque Gothanum probant"
+    },
+    {
+     "ocr_line": 26725,
+     "page": "p. 341",
+     "quote": "Sequuntur codices tres ... certo cognationis indicio inter se coniuncti: codex Parisinus 16700 (P), codex Bruxellensis 4433 (B), codex Pommersfeldensis (p)"
+    },
+    {
+     "ocr_line": 26818,
+     "page": "p. 342",
+     "quote": "Eidem classi adnumeranda sunt fragmenta et Wertheimensia et Monacensia"
+    },
+    {
+     "ocr_line": 27036,
+     "page": "p. 346",
+     "quote": "[Gandensis] In textu consentit cum W"
+    }
+   ],
+   "flags": [
+    "contamination_at_top"
+   ],
+   "confidence": "medium",
+   "notes": "C and E mix the two classes and are left out of both branches. The second (Oxford) class is described as a later stylistic revision of the text. S2 is said to come from an exemplar contaminated from the Gothanus archetype and another N-like source; P1 belongs to the same recension but was corrected from the B-P-p family. Placement of V (with S2) and M is in the first class.",
+   "classification_A3": "explicit"
+  }
+ ],
+ "skipped": [
+  {
+   "piece": "Aldhelmus, Epitome tractatus metrici (pp. 205-207)",
+   "reason": "single manuscript (Vossianus 8° 15) plus William of Malmesbury's citation"
+  },
+  {
+   "piece": "Aldhelmi et ad Aldhelmum epistulae 1-13",
+   "reason": "short letters, each in one or two codices or in William of Malmesbury; no preface, no stated filiation"
+  },
+  {
+   "piece": "Chartae Aldhelmianae",
+   "reason": "charters (cartulary copies), no stemma or sigla apparatus"
+  },
+  {
+   "piece": "Carmina rhythmica I-V",
+   "reason": "single manuscript (Vindobonensis 751)"
+  }
+ ],
+ "reader": "agent",
+ "date": "2026-11-13"
+}

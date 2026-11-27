@@ -1,0 +1,123 @@
+{
+ "full_mwis_families": 8,
+ "B": 200,
+ "thetas": {
+  "0.5": {
+   "backbone": 8,
+   "backbone_score": null,
+   "families": 8,
+   "score": null,
+   "backbone_broken": 0
+  },
+  "0.7": {
+   "backbone": 8,
+   "backbone_score": null,
+   "families": 8,
+   "score": null,
+   "backbone_broken": 0
+  },
+  "0.9": {
+   "backbone": 8,
+   "backbone_score": null,
+   "families": 8,
+   "score": null,
+   "backbone_broken": 0
+  }
+ },
+ "mwis_full_score": null,
+ "parsimony_plain": {
+  "families": 8,
+  "score": null
+ },
+ "stability": [
+  [
+   [
+    "A",
+    "B",
+    "L",
+    "O",
+    "S",
+    "X",
+    "Y",
+    "Z"
+   ],
+   1.0,
+   true
+  ],
+  [
+   [
+    "A",
+    "B",
+    "L",
+    "O",
+    "S",
+    "V",
+    "X",
+    "Y",
+    "Z"
+   ],
+   1.0,
+   true
+  ],
+  [
+   [
+    "A",
+    "B",
+    "O",
+    "S",
+    "X",
+    "Y",
+    "Z"
+   ],
+   1.0,
+   true
+  ],
+  [
+   [
+    "O",
+    "S"
+   ],
+   1.0,
+   true
+  ],
+  [
+   [
+    "B",
+    "O",
+    "S"
+   ],
+   1.0,
+   true
+  ],
+  [
+   [
+    "X",
+    "Y",
+    "Z"
+   ],
+   1.0,
+   true
+  ],
+  [
+   [
+    "Y",
+    "Z"
+   ],
+   0.99,
+   true
+  ],
+  [
+   [
+    "B",
+    "O",
+    "S",
+    "X",
+    "Y",
+    "Z"
+   ],
+   0.96,
+   true
+  ]
+ ],
+ "full_unstable": []
+}

@@ -1,0 +1,28 @@
+{
+ "stemma_witnesses": "ABCDFHMOPRVXYZ",
+ "cited": {
+  "A": 908,
+  "B": 148,
+  "C": 1187,
+  "D": 41,
+  "F": 242,
+  "H": 402,
+  "M": 856,
+  "O": 356,
+  "P": 293,
+  "R": 281,
+  "V": 1140,
+  "X": 235,
+  "Y": 303,
+  "Z": 289
+ },
+ "analysis_witnesses": "ABCDFHMOPRVXYZ",
+ "units_with_shared_departure": 808,
+ "included": true,
+ "exclusion": [],
+ "editor_top": [
+  "AORV",
+  "MY"
+ ],
+ "k_E": 2
+}

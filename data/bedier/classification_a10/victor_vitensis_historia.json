@@ -1,0 +1,71 @@
+{
+ "stemma_witnesses": "ABLRV",
+ "cited": {
+  "A": 156,
+  "B": 779,
+  "L": 834,
+  "R": 956,
+  "V": 870
+ },
+ "analysis_witnesses": "ABLRV",
+ "units_with_shared_departure": 713,
+ "included": true,
+ "exclusion": [],
+ "editor_top": [
+  "BLV",
+  "R"
+ ],
+ "k_E": 2,
+ "status": "OPTIMAL",
+ "weight": 471.0,
+ "branches": [
+  {
+   "branch": "BLV",
+   "status": "supported",
+   "by": "BLV"
+  },
+  {
+   "branch": "R",
+   "status": "single_witness"
+  }
+ ],
+ "classification": "supported",
+ "k_D": 2,
+ "k_D_bootstrap": {
+  "2": 1.0
+ },
+ "stable_families": [
+  [
+   "BV",
+   264,
+   1.0
+  ],
+  [
+   "BLV",
+   149,
+   1.0
+  ],
+  [
+   "BLRV",
+   58,
+   1.0
+  ]
+ ],
+ "mwis": [
+  [
+   "BV",
+   264,
+   1.0
+  ],
+  [
+   "BLV",
+   149,
+   1.0
+  ],
+  [
+   "BLRV",
+   58,
+   1.0
+  ]
+ ]
+}

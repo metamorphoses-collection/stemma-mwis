@@ -1,0 +1,19 @@
+{
+ "stemma_witnesses": "TMS",
+ "cited": {
+  "T": 529,
+  "M": 763,
+  "S": 17
+ },
+ "analysis_witnesses": "TM",
+ "units_with_shared_departure": 0,
+ "included": false,
+ "exclusion": [
+  "too few witnesses",
+  "too thin"
+ ],
+ "editor_top": [
+  "TM"
+ ],
+ "k_E": 1
+}

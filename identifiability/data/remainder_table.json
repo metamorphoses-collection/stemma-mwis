@@ -1,0 +1,281 @@
+{
+ "Heinrichi": {
+  "witnesses": 34,
+  "units": 1208,
+  "edges": 54,
+  "isolated_pairs_full_tree": 542,
+  "pairs_with_eligible_units": 540,
+  "eligible_pair_units": 419334,
+  "R": 270,
+  "C": 222,
+  "C_over_R": 0.8222,
+  "C_over_R_minus_C": 4.625,
+  "pairs_with_events": 146,
+  "sum_R_rates": 0.36408,
+  "s_cond": 2.2183,
+  "V_hat": 0.8645,
+  "s_uncond": 1.9177,
+  "s3_over_6": 1.17538,
+  "P3_uncond": 0.2997,
+  "P3_cond_plugin": 0.3467,
+  "share_units_3plus_readings": 0.554,
+  "share_units_3plus_departing": 0.387,
+  "rel_bound_plugin": 514.18,
+  "rel_bound_empirical": 574.61,
+  "sim_alpha2": 0.8222,
+  "sim_ratio": 0.846,
+  "sim_bias": 0.0238,
+  "R_events_at_3plus_departing": 176,
+  "f3_empirical_lower": 0.6519,
+  "sim_f3_R_events_with_3plus_innovations": 0.138,
+  "sim_share_3plus_departing_given_variation": 0.013,
+  "top_pairs": [
+   [
+    "Cc-Ce",
+    24,
+    24,
+    745
+   ],
+   [
+    "Cd-Ce",
+    18,
+    18,
+    932
+   ],
+   [
+    "Cc-Cd",
+    9,
+    8,
+    694
+   ],
+   [
+    "A-B",
+    8,
+    8,
+    864
+   ],
+   [
+    "Cb-Ce",
+    6,
+    3,
+    873
+   ],
+   [
+    "G-H",
+    6,
+    6,
+    1005
+   ],
+   [
+    "B-K",
+    5,
+    5,
+    856
+   ],
+   [
+    "Bd-F",
+    5,
+    5,
+    665
+   ],
+   [
+    "Cb-T",
+    5,
+    2,
+    876
+   ],
+   [
+    "Ba-V",
+    4,
+    4,
+    601
+   ]
+  ]
+ },
+ "Donatus": {
+  "witnesses": 54,
+  "units": 1253,
+  "edges": 66,
+  "isolated_pairs_full_tree": 1420,
+  "pairs_with_eligible_units": 1420,
+  "eligible_pair_units": 1512569,
+  "R": 364,
+  "C": 274,
+  "C_over_R": 0.7527,
+  "C_over_R_minus_C": 3.0444,
+  "pairs_with_events": 244,
+  "sum_R_rates": 0.37424,
+  "s_cond": 0.9385,
+  "V_hat": null,
+  "s_uncond": 0.9385,
+  "s3_over_6": 0.13777,
+  "P3_uncond": 0.0652,
+  "P3_cond_plugin": 0.1057,
+  "share_units_3plus_readings": 0.406,
+  "share_units_3plus_departing": 0.117,
+  "rel_bound_plugin": 400.93,
+  "rel_bound_empirical": 445.15,
+  "sim_alpha2": 0.7527,
+  "sim_ratio": 0.7725,
+  "sim_bias": 0.0198,
+  "R_events_at_3plus_departing": 45,
+  "f3_empirical_lower": 0.1236,
+  "sim_f3_R_events_with_3plus_innovations": 0.0909,
+  "sim_share_3plus_departing_given_variation": 0.006,
+  "top_pairs": [
+   [
+    "P-U1",
+    18,
+    16,
+    1105
+   ],
+   [
+    "C1-C2",
+    14,
+    12,
+    1253
+   ],
+   [
+    "Mi-T2",
+    12,
+    11,
+    1131
+   ],
+   [
+    "F14-V3",
+    10,
+    10,
+    1061
+   ],
+   [
+    "L6-F14",
+    6,
+    6,
+    1253
+   ],
+   [
+    "L1-V3",
+    4,
+    3,
+    759
+   ],
+   [
+    "H-Li",
+    4,
+    2,
+    1241
+   ],
+   [
+    "H-Me",
+    3,
+    3,
+    1241
+   ],
+   [
+    "F16-F15",
+    3,
+    1,
+    1205
+   ],
+   [
+    "Au-M1",
+    3,
+    3,
+    1252
+   ]
+  ]
+ },
+ "Lai (AB-edge root)": {
+  "witnesses": 7,
+  "units": 843,
+  "edges": 12,
+  "isolated_pairs_full_tree": 16,
+  "pairs_with_eligible_units": 16,
+  "eligible_pair_units": 13488,
+  "R": 147,
+  "C": 50,
+  "C_over_R": 0.3401,
+  "C_over_R_minus_C": 0.5155,
+  "pairs_with_events": 16,
+  "sum_R_rates": 0.17438,
+  "s_cond": 1.9573,
+  "V_hat": 0.8547,
+  "s_uncond": 1.6729,
+  "s3_over_6": 0.78035,
+  "P3_uncond": 0.21874,
+  "P3_cond_plugin": 0.2559,
+  "share_units_3plus_readings": 0.651,
+  "share_units_3plus_departing": 0.307,
+  "rel_bound_plugin": 23.48,
+  "rel_bound_empirical": 28.19,
+  "sim_alpha2": 0.3401,
+  "sim_ratio": 0.4868,
+  "sim_bias": 0.1467,
+  "R_events_at_3plus_departing": 33,
+  "f3_empirical_lower": 0.2245,
+  "sim_f3_R_events_with_3plus_innovations": 0.2922,
+  "sim_share_3plus_departing_given_variation": 0.108,
+  "top_pairs": [
+   [
+    "C-D",
+    22,
+    9,
+    843
+   ],
+   [
+    "F-G",
+    22,
+    7,
+    843
+   ],
+   [
+    "C-F",
+    17,
+    5,
+    843
+   ],
+   [
+    "C-E",
+    16,
+    7,
+    843
+   ],
+   [
+    "B-F",
+    12,
+    3,
+    843
+   ],
+   [
+    "A-E",
+    10,
+    0,
+    843
+   ],
+   [
+    "D-G",
+    10,
+    5,
+    843
+   ],
+   [
+    "B-C",
+    7,
+    3,
+    843
+   ],
+   [
+    "B-E",
+    7,
+    4,
+    843
+   ],
+   [
+    "B-D",
+    6,
+    3,
+    843
+   ]
+  ]
+ }
+}

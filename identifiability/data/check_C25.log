@@ -1,0 +1,4 @@
+(a) equivalence: True 33
+(c) bound holds: True min slack 0.0723701400738153
+(b) regression: T unique maximum with an unobserved split: True
+{'regression_finding11': True, 'equivalence_pass': True, 'equivalence_tests': 33, 'bound_pass': True, 'bound_instances': 30, 'true_max_M': 29, 'true_max_m': 29}

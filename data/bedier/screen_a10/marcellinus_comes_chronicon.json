@@ -1,0 +1,18 @@
+{
+ "stemma_witnesses": "STUR",
+ "cited": {
+  "S": 719,
+  "T": 333,
+  "U": 169,
+  "R": 341
+ },
+ "analysis_witnesses": "STUR",
+ "units_with_shared_departure": 219,
+ "included": true,
+ "exclusion": [],
+ "editor_top": [
+  "S",
+  "TUR"
+ ],
+ "k_E": 2
+}

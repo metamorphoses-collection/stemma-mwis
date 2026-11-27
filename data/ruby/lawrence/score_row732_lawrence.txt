@@ -1,0 +1,65 @@
+{
+ "files": {
+  "ruby/results/ruby_diag_job_732.json": 1000
+ },
+ "shots": 1000,
+ "copy_samples": 7000,
+ "P_valid": 0.9494285714285714,
+ "P_valid_wilson_lo": 0.9440443199985087,
+ "H1_valid_lo_ge_0_80": true,
+ "P_E": 0.31157142857142855,
+ "P_E_wilson_lo": 0.3008276254998205,
+ "H2_E_above_random_and_ge_0_07": true,
+ "P_R": 0.08385714285714285,
+ "diff_E_minus_R": 0.2277142857142857,
+ "diff_lo": 0.21398279501589465,
+ "H3_E_more_than_R": true,
+ "share": 0.7879335260115607,
+ "share_ci": [
+  0.7723114089223022,
+  0.8027575271958369
+ ],
+ "S_sampler": "match",
+ "bootstrap": 0.795,
+ "band": [
+  0.745,
+  0.845
+ ],
+ "emulated": {
+  "noiseless": {
+   "P_valid": 0.99975,
+   "P_E": 0.685,
+   "P_R": 0.032,
+   "share": 0.956
+  },
+  "noisy": {
+   "P_valid": 0.95175,
+   "P_E": 0.14,
+   "P_R": 0.071,
+   "share": 0.664
+  }
+ },
+ "per_copy_P_E": {
+  "c0": 0.378,
+  "c1": 0.309,
+  "c2": 0.27,
+  "c3": 0.319,
+  "c4": 0.337,
+  "c5": 0.227,
+  "c6": 0.341
+ },
+ "top_outcomes": {
+  "{B+F+Mi+P+R,B+R,B+F+P+R,B+F+R}": 0.31157142857142855,
+  "{B+F+Mi+P+R,B+R,B+F+P+R}": 0.12242857142857143,
+  "{B+F+Mi+P+R,P+R,B+F+P+R}": 0.08385714285714285,
+  "{B+F+Mi+P+R,B+R,B+F+R}": 0.08242857142857143,
+  "{B+R,B+F+P+R,B+F+R}": 0.079,
+  "{B+F+Mi+P+R,B+F+P+R,B+F+R}": 0.06685714285714285,
+  "{B+F+Mi+P+R,B+F+P+R}": 0.039285714285714285,
+  "{B+R,B+F+P+R}": 0.023571428571428573,
+  "{B+F+Mi+P+R,B+R}": 0.023142857142857142,
+  "{B+R,B+F+R}": 0.021857142857142856
+ }
+}
+
+VERDICT (frozen rules): H1 PASS | H2 PASS | H3 PASS | S match (share 0.788, CI 0.772-0.803; bootstrap 0.795)

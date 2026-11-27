@@ -1,0 +1,189 @@
+{
+ "priscus": {
+  "vertices": 5,
+  "edges": 6,
+  "edge_list": [
+   [
+    "BMP",
+    "EB"
+   ],
+   [
+    "BMP",
+    "EP"
+   ],
+   [
+    "BMP",
+    "EMP"
+   ],
+   [
+    "MP",
+    "EP"
+   ],
+   [
+    "EB",
+    "EP"
+   ],
+   [
+    "EB",
+    "EMP"
+   ]
+  ],
+  "n_independent_sets": 10,
+  "mis_size": 2,
+  "n_maximum_sets": 4,
+  "maximum_sets": [
+   "{BMP,MP}",
+   "{MP,EB}",
+   "{MP,EMP}",
+   "{EP,EMP}"
+  ],
+  "maximal_sets": [
+   "{BMP,MP}",
+   "{MP,EB}",
+   "{MP,EMP}",
+   "{EP,EMP}"
+  ],
+  "maximal_sizes": [
+   2,
+   2,
+   2,
+   2
+  ],
+  "greedy_P_maximum": 1.0,
+  "greedy_dist": {
+   "{EP,EMP}": 0.3,
+   "{BMP,MP}": 0.26666666666666666,
+   "{MP,EB}": 0.26666666666666666,
+   "{MP,EMP}": 0.16666666666666666
+  },
+  "uniform_IS_P_maximum": 0.4,
+  "uniform_maximal_P_maximum": 1.0,
+  "random_config_P_maximum": 0.125,
+  "equal_shots": {
+   "N_copy_samples": 31500,
+   "greedy_MC": 1.0,
+   "greedy_binom_se": 0.0,
+   "uniform_IS_MC": 0.3981904761904762,
+   "uniform_IS_binom_se": 0.002760262237369417
+  },
+  "hardware_reported": 0.62,
+  "noisy_emulation_reported": 0.51
+ },
+ "lai": {
+  "vertices": 7,
+  "edges": 6,
+  "edge_list": [
+   [
+    "DE",
+    "EF"
+   ],
+   [
+    "DE",
+    "CEG"
+   ],
+   [
+    "DE",
+    "DF"
+   ],
+   [
+    "DEF",
+    "CEG"
+   ],
+   [
+    "EF",
+    "CEG"
+   ],
+   [
+    "EF",
+    "DF"
+   ]
+  ],
+  "n_independent_sets": 40,
+  "mis_size": 4,
+  "n_maximum_sets": 4,
+  "maximum_sets": [
+   "{CG,DE,AB,DEF}",
+   "{CG,AB,DEF,EF}",
+   "{CG,AB,DEF,DF}",
+   "{CG,AB,CEG,DF}"
+  ],
+  "maximal_sets": [
+   "{CG,DE,AB,DEF}",
+   "{CG,AB,DEF,EF}",
+   "{CG,AB,DEF,DF}",
+   "{CG,AB,CEG,DF}"
+  ],
+  "maximal_sizes": [
+   4,
+   4,
+   4,
+   4
+  ],
+  "greedy_P_maximum": 1.0,
+  "greedy_dist": {
+   "{CG,AB,CEG,DF}": 0.3,
+   "{CG,DE,AB,DEF}": 0.26666666666666666,
+   "{CG,AB,DEF,EF}": 0.26666666666666666,
+   "{CG,AB,DEF,DF}": 0.16666666666666666
+  },
+  "uniform_IS_P_maximum": 0.1,
+  "uniform_maximal_P_maximum": 1.0,
+  "random_config_P_maximum": 0.03125,
+  "equal_shots": {
+   "N_copy_samples": 8000,
+   "greedy_MC": 1.0,
+   "greedy_binom_se": 0.0,
+   "uniform_IS_MC": 0.10575,
+   "uniform_IS_binom_se": 0.003354101966249685
+  },
+  "hardware_reported": 0.33,
+  "noisy_emulation_reported": 0.21
+ },
+ "lawrence": {
+  "vertices": 5,
+  "edges": 2,
+  "edge_list": [
+   [
+    "P+R",
+    "B+R"
+   ],
+   [
+    "P+R",
+    "B+F+R"
+   ]
+  ],
+  "n_independent_sets": 20,
+  "mis_size": 4,
+  "n_maximum_sets": 1,
+  "maximum_sets": [
+   "{B+F+Mi+P+R,B+R,B+F+P+R,B+F+R}"
+  ],
+  "maximal_sets": [
+   "{B+F+Mi+P+R,P+R,B+F+P+R}",
+   "{B+F+Mi+P+R,B+R,B+F+P+R,B+F+R}"
+  ],
+  "maximal_sizes": [
+   3,
+   4
+  ],
+  "greedy_P_maximum": 0.6666666666666666,
+  "greedy_dist": {
+   "{B+F+Mi+P+R,B+R,B+F+P+R,B+F+R}": 0.6666666666666666,
+   "{B+F+Mi+P+R,P+R,B+F+P+R}": 0.3333333333333333
+  },
+  "uniform_IS_P_maximum": 0.05,
+  "uniform_maximal_P_maximum": 0.5,
+  "random_config_P_maximum": 0.03125,
+  "equal_shots": {
+   "N_copy_samples": 7000,
+   "greedy_MC": 0.6678571428571428,
+   "greedy_binom_se": 0.005634361698190111,
+   "uniform_IS_MC": 0.045714285714285714,
+   "uniform_IS_binom_se": 0.0026049403612586385
+  },
+  "hardware_reported": 0.31,
+  "noisy_emulation_reported": 0.14,
+  "greedy_E_over_E_plus_R": 0.6666666666666666,
+  "uniform_IS_E_over_E_plus_R": 0.5
+ }
+}

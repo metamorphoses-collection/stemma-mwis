@@ -1,0 +1,287 @@
+{
+ "volume": "AA 3",
+ "ia_id": "monumentagerman03geseuoft",
+ "file_contents": "This OCR file holds BOTH parts of AA 3: pars prior (Victor Vitensis, Historia persecutionis, ed. C. Halm, 1879; lines 1-10520) and pars posterior (Corippus, ed. I. Partsch, 1879; lines 10522-35594).",
+ "texts": [
+  {
+   "volume": "AA 3",
+   "ia_id": "monumentagerman03geseuoft",
+   "text_id": "victor_vitensis_historia",
+   "work": "Victor Vitensis, Historia persecutionis Africanae provinciae",
+   "editor": "Carolus Halm",
+   "year": 1879,
+   "text_lines": [
+    316,
+    4891
+   ],
+   "preface_lines": [
+    62,
+    300
+   ],
+   "sigla": [
+    {
+     "siglum": "A",
+     "manuscript": "Laudunensis 113 (only lib. II 56-101, the Liber fidei catholicae, plus the Notitia)",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "B",
+     "manuscript": "Bambergensis E.III.4",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "L",
+     "manuscript": "Berolinensis lat. quart. 1",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "R",
+     "manuscript": "Bruxellensis 1794",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "V",
+     "manuscript": "Vindobonensis 583 (antea Univ. 239)",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "Bern.",
+     "manuscript": "Bernensis 48 (cited only for its own readings)",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "p",
+     "manuscript": "editio princeps Parisina (Jehan Petit)",
+     "date_if_given": "s. XVI in.",
+     "role": "indirect"
+    },
+    {
+     "siglum": "Lor.",
+     "manuscript": "editio Coloniensis (R. Lorichius), reprinted from p",
+     "date_if_given": "1537",
+     "role": "indirect"
+    }
+   ],
+   "apparatus": "mixed_sigla",
+   "filiation_stated": "verbal",
+   "top_branches": [
+    [
+     "B",
+     "L",
+     "V"
+    ],
+    [
+     "R",
+     "Bern.",
+     "p",
+     "Lor."
+    ]
+   ],
+   "deeper_groups": [
+    [
+     "R",
+     "Bern."
+    ],
+    [
+     "p",
+     "Lor."
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 62,
+     "page": "p. V",
+     "quote": "Librorum manu scriptorum, qui Victoris Vitensis historiam continent, genera sunt duo, lectionum diversitate multum inter se distantia."
+    },
+    {
+     "ocr_line": 112,
+     "page": "p. VI",
+     "quote": "in hac codicum familia librarii neglegentia, qui archetypum exaraverat, haud pauca vocabula omissa sunt, quae in altera codicum familia, cuius longe optimus Bruxellensis est, integra inveniuntur; velut ... desunt in BLV"
+    },
+    {
+     "ocr_line": 147,
+     "page": "p. VII",
+     "quote": "Etiam maiores lacunae in altera codicum familia (Rp) deprehenduntur"
+    },
+    {
+     "ocr_line": 87,
+     "page": "p. V",
+     "quote": "Bern. = codex Bernensis n. 48 saec. XI. Is cum plerumque cum R conspiret, sed eo multo deterior sit"
+    },
+    {
+     "ocr_line": 264,
+     "page": "p. IX",
+     "quote": "editionis quoque Parisinae lectionibus, quamquam multo deterior est codice Bruxellensi ex eodem fonte originem ducente"
+    },
+    {
+     "ocr_line": 252,
+     "page": "p. IX",
+     "quote": "codicis Laudunensis omnium longe optimi testimonio comprobatur, cuius bonae lectiones modo in BV, modo in R inveniuntur"
+    }
+   ],
+   "flags": [],
+   "confidence": "medium",
+   "notes": "Two families (BLV vs R-Bern.-p) are explicit. A is NOT assigned to either family: Halm says its good readings sit now with BV, now with R, so A may be a third independent branch, but he never says so; recorded outside top_branches. A covers only II 56-101. Within BLV Halm calls B and V the best of their family (often cited as BV against L), but states no BV subgroup.",
+   "classification_A3": "explicit"
+  },
+  {
+   "volume": "AA 3",
+   "ia_id": "monumentagerman03geseuoft",
+   "text_id": "corippus_in_laudem_iustini",
+   "work": "Corippus, In laudem Iustini Augusti minoris libri IV",
+   "editor": "Iosephus Partsch",
+   "year": 1879,
+   "text_lines": [
+    23506,
+    27403
+   ],
+   "preface_lines": [
+    13606,
+    14386
+   ],
+   "sigla": [
+    {
+     "siglum": "M",
+     "manuscript": "Matritensis Cajon 14 Num. 22 (olim Ovetensis, Ruiz's codex)",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "M 2 m.",
+     "manuscript": "later hands in M (three 'manus recentiores')",
+     "date_if_given": null,
+     "role": "corrector_hand"
+    },
+    {
+     "siglum": "O",
+     "manuscript": "Fragmentum Ovetense (lost; known only from Ruiz's margin), III 271-407 only",
+     "date_if_given": null,
+     "role": "indirect"
+    },
+    {
+     "siglum": "S",
+     "manuscript": "Codex Santonensis (lost; via Vinetus 1552), 'Epistola regis Avarum' = III 271-288 only",
+     "date_if_given": null,
+     "role": "indirect"
+    },
+    {
+     "siglum": "L",
+     "manuscript": "Laurentianus plut. 45, 26 fol. 115 (in Sidonius MS), III 271-288 only",
+     "date_if_given": "s. XII",
+     "role": "indirect"
+    },
+    {
+     "siglum": "Ruiz",
+     "manuscript": "editio princeps Antverpiae (M. Ruizius)",
+     "date_if_given": "1581",
+     "role": "indirect"
+    }
+   ],
+   "apparatus": "positive_sigla",
+   "filiation_stated": "diagram",
+   "top_branches": [
+    [
+     "M"
+    ],
+    [
+     "O",
+     "S",
+     "L"
+    ]
+   ],
+   "deeper_groups": [
+    [
+     "S",
+     "L"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 14370,
+     "page": "p. LIX",
+     "quote": "Stemma librorum hoc fere fuisse arbitror. [diagram: X -> Matritensis, Y; Y -> fragmentum Ovetense -> Z -> Santonensis, Laurentianus]"
+    },
+    {
+     "ocr_line": 14331,
+     "page": "p. LVIII",
+     "quote": "librum Ovetensem, ut hominum cognationis nominibus utar, Matritensis nec filium nec fratrem, sed fratris forsitan filium fuisse suspicor."
+    },
+    {
+     "ocr_line": 14369,
+     "page": "pp. LVIII-LIX",
+     "quote": "interpolatos libros aut ex Ovetensi ipso, aut e codice eiusdem familiae originem ducere statuerim."
+    },
+    {
+     "ocr_line": 13606,
+     "page": "p. L",
+     "quote": "Panegyrici quoque in laudem Iustini minoris editio, si paucissimos locos exceperis, in uno codice nititur"
+    }
+   ],
+   "flags": [
+    "diagram_garbled_in_ocr",
+    "multiple_sections_different_witnesses"
+   ],
+   "confidence": "high",
+   "notes": "The diagram is printed (OCR keeps only the labels X, Matritensis, Y, fragmentum Ovetense, Z, Santonensis, Laurentianus; I reconstructed the edges from the text, check against the image). The stemma only concerns III 271-407 (O) and III 271-288 (S, L): the rest rests on M alone, so the text is in practice single-manuscript and will fail the witness rule. O, S, L are excerpt traditions, hence 'indirect'. The apparatus mostly records M readings positively ('pulcerrima M').",
+   "classification_A3": "explicit"
+  }
+ ],
+ "skipped": [
+  {
+   "work": "Victor Vitensis, Passio beatissimorum martyrum (VII monachorum)",
+   "lines": [
+    4892,
+    5135
+   ],
+   "reason": "short appendix (c. 4 pp.) carried with the Historia in the same manuscripts (BLRV, p); no separate filiation, so covered by the Historia record and could be merged into it"
+  },
+  {
+   "work": "Notitia provinciarum et civitatum Africae",
+   "lines": [
+    5136,
+    6386
+   ],
+   "reason": "single manuscript (A, Laudunensis 113)"
+  },
+  {
+   "work": "Corippus, Iohannis libri VIII",
+   "lines": [
+    14501,
+    23505
+   ],
+   "reason": "single manuscript (T, Trivultianus s. XIV) plus a few lines in the Florilegium Veronense (V, indirect); no filiation"
+  },
+  {
+   "work": "Corippus, Panegyricum in laudem Anastasii",
+   "lines": [
+    24009,
+    24045
+   ],
+   "reason": "single manuscript (M); fragment of 1 page"
+  },
+  {
+   "work": "Indices (Victor and Corippus)",
+   "lines": [
+    6387,
+    10520
+   ],
+   "reason": "not an edition (indices)"
+  },
+  {
+   "work": "Indices Corippus",
+   "lines": [
+    27404,
+    35594
+   ],
+   "reason": "not an edition (indices)"
+  }
+ ],
+ "reader": "agent",
+ "date": "2026-11-13"
+}

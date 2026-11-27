@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper and this archive."
+title: "stemma-mwis: code and data for 'Testing stemmata against the evidence'"
+type: software
+authors:
+  - name: "Metamorphoses of Civilization Collection"
+    city: Dallas
+    region: TX
+    country: US
+version: "1.6"
+date-released: 2026-11-26
+doi: "10.5281/zenodo.24405387"
+license: MIT
+repository-code: "https://github.com/metamorphoses-collection/stemma-mwis"
+keywords:
+  - stemmatology
+  - textual criticism
+  - maximum-weight independent set
+  - critical editions
+  - Monumenta Germaniae Historica
+  - neutral-atom quantum computing
+preferred-citation:
+  type: article
+  title: "Testing stemmata against the evidence: Exact optimisation, evidence maps and Bédier's question"
+  authors:
+    - family-names: Jurczak
+      given-names: Christophe
+      orcid: "https://orcid.org/0009-0001-8204-7333"
+  year: 2026

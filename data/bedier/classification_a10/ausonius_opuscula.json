@@ -1,0 +1,94 @@
+{
+ "stemma_witnesses": "TMCVPQGBWRZ",
+ "cited": {
+  "T": 1173,
+  "M": 601,
+  "C": 114,
+  "V": 2355,
+  "P": 1312,
+  "Q": 105,
+  "G": 264,
+  "B": 269,
+  "W": 67,
+  "R": 79,
+  "Z": 190
+ },
+ "analysis_witnesses": "TMCVPQGBWRZ",
+ "units_with_shared_departure": 397,
+ "included": true,
+ "exclusion": [],
+ "editor_top": [
+  "TMC",
+  "VPQGBWR"
+ ],
+ "k_E": 2,
+ "status": "OPTIMAL",
+ "weight": 198.0,
+ "branches": [
+  {
+   "branch": "TMC",
+   "status": "silent",
+   "by": null
+  },
+  {
+   "branch": "VPQGBWR",
+   "status": "contradicted",
+   "by": [
+    "BZ"
+   ]
+  }
+ ],
+ "classification": "contradicted",
+ "k_D": 7,
+ "k_D_bootstrap": {
+  "4": 0.07,
+  "5": 0.365,
+  "6": 0.305,
+  "7": 0.23,
+  "8": 0.03
+ },
+ "stable_families": [
+  [
+   "TM",
+   86,
+   1.0
+  ],
+  [
+   "VP",
+   79,
+   1.0
+  ],
+  [
+   "BZ",
+   29,
+   0.97
+  ],
+  [
+   "GBZ",
+   4,
+   0.905
+  ]
+ ],
+ "mwis": [
+  [
+   "TM",
+   86,
+   1.0
+  ],
+  [
+   "VP",
+   79,
+   1.0
+  ],
+  [
+   "BZ",
+   29,
+   0.97
+  ],
+  [
+   "GBZ",
+   4,
+   0.905
+  ]
+ ]
+}

@@ -1,0 +1,321 @@
+entry,volume,image_leaf,text_line,lemma,reading,witnesses,apparatus_line
+1,mgh_auct_ant_9,545,19,,om.,B,om. B 73
+2,mgh_auct_ant_9,545,19,,"Regionibus sic praescribitur: in italia xui et sic deinceps, ut infra editur,",P,"in italia xui et sic deinceps, ut infra editur, P"
+3,mgh_auct_ant_9,545,19,,de prouintiis galliae: decem et septem prouintiae sunt in gallia et sic deinceps,V,ceps (Italia inscr. caret) V
+4,mgh_auct_ant_9,545,19,,prouinciae itaque italiae sunt sedecim — prouinciae galliarum sunt x et uii,B,"B et sic deinceps, item, his omissis, ab Africa inde O"
+5,mgh_auct_ant_9,545,19,,"et sic deinceps, item, his omissis, ab Africa inde",O,"B et sic deinceps, item, his omissis, ab Africa inde O"
+6,mgh_auct_ant_9,546,72,,om.,OV,"xui] PB 68, xuii 9. 72. 73. 74. 75 et 18. 79 (hi duo connumerantes omissis intermediis ex dioe-"
+7,mgh_auct_ant_9,546,72,,capud,P,prima] prouincia 74 camphania 75 capud P
+8,mgh_auct_ant_9,546,72,,thustia,P,thustia P umbra 75
+9,mgh_auct_ant_9,546,96,,quarta,BV,"quarta BV, quinta 72. 73. 74. 75 flaminia] VB 68, flamminia PO 9. 10, flammina 72. 73. 74,"
+10,mgh_auct_ant_9,546,96,,flamminia,PO,"quarta BV, quinta 72. 73. 74. 75 flaminia] VB 68, flamminia PO 9. 10, flammina 72. 73. 74,"
+11,mgh_auct_ant_9,546,96,rauenna,r. civitas,BO,"flamina 75, flaminie 18, flamminiae 79 qua] que 18 rauenna] r. civitas BO"
+12,mgh_auct_ant_9,547,110,,est om.,P,quo 79 est om. P mediolanus] PB
+13,mgh_auct_ant_9,547,110,,mediolanum,OV,"9. 10, mediolanum OV 72. 73. 74. 75. 79,"
+14,mgh_auct_ant_9,547,118,,istria,V,istria V qua] quibus 72. 74. 75 est om. 72 aquilegia 10. 73. 74. 75
+15,mgh_auct_ant_9,547,122,,coczie,O,"18, cociae 68, coczie O, coczias B, scotticam V, cottice 73. 74, cotticae 72, coitice 75"
+15,mgh_auct_ant_9,547,122,,coczias,B,"18, cociae 68, coczie O, coczias B, scotticam V, cottice 73. 74, cotticae 72, coitice 75"
+15,mgh_auct_ant_9,547,122,,scotticam,V,"18, cociae 68, coczie O, coczias B, scotticam V, cottice 73. 74, cotticae 72, coitice 75"
+16,mgh_auct_ant_9,547,122,,8a Alpes Appenninae,BOV,8a Alpes Appenninae BOV 72. 73. 74. 75
+17,mgh_auct_ant_9,547,122,,alpes pinnicas,V,"alpes pinnicas V, et alpes appenninas (sic"
+17,mgh_auct_ant_9,547,122,,et alpes appenninas,BO,"alpes pinnicas V, et alpes appenninas (sic"
+18,mgh_auct_ant_9,547,149,,tarantus,O,"est] qua 73. 74. 75, quibus 72 tarentus] V 9. 10. 68. 79, arentus 18, tarentum B2, tarantus O,"
+19,mgh_auct_ant_9,547,149,,trant,B,"tarantum 72. 73. 74. 75, trant B1, om. P"
+19,mgh_auct_ant_9,547,149,,om.,P,"tarantum 72. 73. 74. 75, trant B1, om. P"
+20,mgh_auct_ant_9,547,157,,bricia,BV,"bricia BV 73. 74. 75, brictia O, bructia 79, bruttia 10 con 18 om. 9"
+21,mgh_auct_ant_9,547,157,,brictia,O,"bricia BV 73. 74. 75, brictia O, bructia 79, bruttia 10 con 18 om. 9"
+22,mgh_auct_ant_9,548,163,,recia,B,"tertia decima 72. 73. 74. 75 (vide supra) ritia 68, ricia 18, recia B 73. 75, tratia V, om. P"
+23,mgh_auct_ant_9,548,163,,tratia,V,"tertia decima 72. 73. 74. 75 (vide supra) ritia 68, ricia 18, recia B 73. 75, tratia V, om. P"
+23,mgh_auct_ant_9,548,163,,om.,P,"tertia decima 72. 73. 74. 75 (vide supra) ritia 68, ricia 18, recia B 73. 75, tratia V, om. P"
+24,mgh_auct_ant_9,548,170,,insula om.,V,"quinta decima 72. 73. 74. 75 (vide supra) insula om. V in om. 75 mare B tirreno B,"
+25,mgh_auct_ant_9,548,170,,mare,B,"quinta decima 72. 73. 74. 75 (vide supra) insula om. V in om. 75 mare B tirreno B,"
+26,mgh_auct_ant_9,548,170,,tirreno,B,"quinta decima 72. 73. 74. 75 (vide supra) insula om. V in om. 75 mare B tirreno B,"
+26,mgh_auct_ant_9,548,170,,cicilia,PV,"quinta decima 72. 73. 74. 75 (vide supra) insula om. V in om. 75 mare B tirreno B,"
+27,mgh_auct_ant_9,548,170,,tireno,O,"cicilia PV, siciliae 72, siciliam 75 tireno O, tyrreno 73. 74, thirreno 75, terreno V"
+28,mgh_auct_ant_9,548,170,,terreno,V,"cicilia PV, siciliae 72, siciliam 75 tireno O, tyrreno 73. 74, thirreno 75, terreno V"
+29,mgh_auct_ant_9,548,170,,Sardinia in mari Tyrrheno,BOV,15 Sardinia in mari Tyrrheno BOV 72. 73. 74. 75
+30,mgh_auct_ant_9,548,170,,mare,B,"sexta decima 72. 73. 74. 75 (vide supra) mare B tirreno B, tyrreno 73, tyreno O,"
+31,mgh_auct_ant_9,548,170,,tirreno,B,"sexta decima 72. 73. 74. 75 (vide supra) mare B tirreno B, tyrreno 73, tyreno O,"
+32,mgh_auct_ant_9,548,170,,tyreno,O,"sexta decima 72. 73. 74. 75 (vide supra) mare B tirreno B, tyrreno 73, tyreno O,"
+33,mgh_auct_ant_9,548,170,,terreno,V,"post 16 B thirreno 75, terreno V"
+34,mgh_auct_ant_9,548,170,,Cursica in mari Tyrrheno,BO,16 Cursica in mari Tyrrheno BO 72. 73. 74. 75
+35,mgh_auct_ant_9,548,170,,mare,B,"septima decima 72. 73. 74. 75 (vide supra) mare B tyrreno B 73. 74, tyreno O, thir-"
+36,mgh_auct_ant_9,548,170,,tyrreno,B,"septima decima 72. 73. 74. 75 (vide supra) mare B tyrreno B 73. 74, tyreno O, thir-"
+37,mgh_auct_ant_9,548,170,,tyreno,O,"septima decima 72. 73. 74. 75 (vide supra) mare B tyrreno B 73. 74, tyreno O, thir-"
+37,mgh_auct_ant_9,548,170,,thircursia,B,"septima decima 72. 73. 74. 75 (vide supra) mare B tyrreno B 73. 74, tyreno O, thir-"
+38,mgh_auct_ant_9,548,170,,om.,V,79 om. V
+39,mgh_auct_ant_9,548,170,,Viennensis uiennenses,P,"uiennenses P, uenensis VB"
+39,mgh_auct_ant_9,548,170,,uenensis,VB,"uiennenses P, uenensis VB"
+40,mgh_auct_ant_9,548,170,,Narbonensis prima narbonenses,P,narbonenses P 2 Narbonensis BOV 72. 73. 74. 75
+41,mgh_auct_ant_9,548,170,,Narbonensis,BOV,narbonenses P 2 Narbonensis BOV 72. 73. 74. 75
+42,mgh_auct_ant_9,548,170,,equitania,V,equitania V
+43,mgh_auct_ant_9,548,170,,equitania,V,"aquitanica] P 9. 10, aquitania plerique, aquitanea 75, equitania V"
+44,mgh_auct_ant_9,548,170,,nouapolana,B,"nouempolana 72. 73, nouempollona 75, nouapolana B, nouembolanam V, nouerpolana O"
+44,mgh_auct_ant_9,548,170,,nouembolanam,V,"nouempolana 72. 73, nouempollona 75, nouapolana B, nouembolanam V, nouerpolana O"
+44,mgh_auct_ant_9,548,170,,nouerpolana,O,"nouempolana 72. 73, nouempollona 75, nouapolana B, nouembolanam V, nouerpolana O"
+45,mgh_auct_ant_9,548,170,,Alpes maritimae alpis,V,"alpis V 9 maritimarum 72. 73. 74. 75, maritima V"
+46,mgh_auct_ant_9,548,170,,maritima,V,"alpis V 9 maritimarum 72. 73. 74. 75, maritima V"
+47,mgh_auct_ant_9,548,170,,"Belgica prima, in qua est Treverus Gallia Belgica prima, in qua est Treverus",BO,"8 Belgica prima, in qua est Treverus Gallia Belgica prima, in qua est Treverus BO"
+48,mgh_auct_ant_9,548,170,,belgeca,V,"bellica 102, belgeca V1 treferus P, treuerus 18, treueris Bb O 9. 10. 72. 73. 74. 75, treueri V Ba"
+49,mgh_auct_ant_9,548,170,,treferus,P,"bellica 102, belgeca V1 treferus P, treuerus 18, treueris Bb O 9. 10. 72. 73. 74. 75, treueri V Ba"
+50,mgh_auct_ant_9,548,170,,treueri,V,"bellica 102, belgeca V1 treferus P, treuerus 18, treueris Bb O 9. 10. 72. 73. 74. 75, treueri V Ba"
+51,mgh_auct_ant_9,548,170,,"Belgica secunda, de qua transitur ad Gallia Belgica secunda, de qua transitus Brittaniam est Brittanniae",BO,Brittaniam est Brittanniae BO
+52,mgh_auct_ant_9,548,170,,uelgica,V,"bellica 102, uelgica V de] in 75 transitur a brittania 9, transitus britanorum (brittannorum 72,"
+53,mgh_auct_ant_9,548,170,,transitus est britaniae,BV,"bellica 102, uelgica V de] in 75 transitur a brittania 9, transitus britanorum (brittannorum 72,"
+53,mgh_auct_ant_9,548,170,,est transitus britannie,O,"bellica 102, uelgica V de] in 75 transitur a brittania 9, transitus britanorum (brittannorum 72,"
+54,mgh_auct_ant_9,548,170,,Germania prima super Rhenum germanica,P,germanica P super renum (sic libri) om. 101
+55,mgh_auct_ant_9,548,170,,Germania secunda ut supra Germania secunda versus Britanniam,BOV,11 Germania secunda ut supra Germania secunda versus Britanniam BOV
+56,mgh_auct_ant_9,548,170,,germanica,P,germanica P 72. 73. 74. 75
+57,mgh_auct_ant_9,549,214,,lugdonensis,V,"lugdonensis V, lucdunensis B, lucdonensis 9"
+57,mgh_auct_ant_9,549,214,,lucdunensis,B,"lugdonensis V, lucdunensis B, lucdonensis 9"
+58,mgh_auct_ant_9,549,214,,Lugdunensis secunda super oceanum | addunt in aquilonari mare,BOV,13 Lugdunensis secunda super oceanum | addunt in aquilonari mare BOV
+59,mgh_auct_ant_9,549,214,,lugdonensis,V,"lugdonensis V, lucdonensis 9 secunda om. | aquilono mare (om. in) V"
+60,mgh_auct_ant_9,549,214,,secunda om. | aquilono mare,V,"lugdonensis V, lucdonensis 9 secunda om. | aquilono mare (om. in) V"
+61,mgh_auct_ant_9,549,214,,ocianum,P,V 72. 73. 74. 75 supra 72. 73. 74. 75 ocianum P
+62,mgh_auct_ant_9,549,214,,Lugdunensis tertia ut supra | Lugdunensis ut supra versus Britanniam lugdonensis,V,"lugdonensis V, lucdonensis 9 | BOV 72. 73. 74. 75"
+63,mgh_auct_ant_9,549,214,,|,BOV,"lugdonensis V, lucdonensis 9 | BOV 72. 73. 74. 75"
+64,mgh_auct_ant_9,549,214,,| ut om.,B,| ut om. B
+65,mgh_auct_ant_9,549,214,,Senonia | Senonia Gallia,BO,15 Senonia | Senonia Gallia BO
+66,mgh_auct_ant_9,549,214,,sennonia,V,sennonia V
+67,mgh_auct_ant_9,549,214,,Maxima } | enaxima,V,| enaxima V } BOV 72. 73. 74. 75
+68,mgh_auct_ant_9,549,214,,},BOV,| enaxima V } BOV 72. 73. 74. 75
+69,mgh_auct_ant_9,549,214,,Alpes Graiae alpis,V,"alpis V 9. 18 grage O, graciae P, gratiae 18. 79"
+70,mgh_auct_ant_9,549,214,,grage,O,"alpis V 9. 18 grage O, graciae P, gratiae 18. 79"
+70,mgh_auct_ant_9,549,214,,graciae,P,"alpis V 9. 18 grage O, graciae P, gratiae 18. 79"
+71,mgh_auct_ant_9,549,236,,bizatium,V,"bizacium 10, bizatium V, bigacium 9, uizaceum O, uizacenum B, bizaci ut supra P, bizantium 18."
+72,mgh_auct_ant_9,549,236,,uizaceum,O,"bizacium 10, bizatium V, bigacium 9, uizaceum O, uizacenum B, bizaci ut supra P, bizantium 18."
+72,mgh_auct_ant_9,549,236,,uizacenum,B,"bizacium 10, bizatium V, bigacium 9, uizaceum O, uizacenum B, bizaci ut supra P, bizantium 18."
+72,mgh_auct_ant_9,549,236,,bizaci ut supra,P,"bizacium 10, bizatium V, bigacium 9, uizaceum O, uizacenum B, bizaci ut supra P, bizantium 18."
+73,mgh_auct_ant_9,549,236,,Tripolis tripoles,P,"tripoles P, tripulis 10. 18b, tribulis 18a, tripholis 9, tropolis V"
+74,mgh_auct_ant_9,549,236,,tropolis,V,"tripoles P, tripulis 10. 18b, tribulis 18a, tripholis 9, tropolis V"
+75,mgh_auct_ant_9,549,236,,scitiphensis,O,"mauretania 9, mauretanea 18, mauritania reliqui sitifessis 18, scitiphensis O, sitifiensis V post"
+75,mgh_auct_ant_9,549,236,,sitifiensis,V,"mauretania 9, mauretanea 18, mauritania reliqui sitifessis 18, scitiphensis O, sitifiensis V post"
+76,mgh_auct_ant_9,549,236,,post sequentem,BOV,sequentem BOV 72. 73. 74. 75
+77,mgh_auct_ant_9,549,236,,Mauretania Caesariensis mauritania libri cesarienses,P,mauritania libri cesarienses P om. 9. 10. 18. 79
+78,mgh_auct_ant_9,549,236,,IN HISPANIA VII. spaniae,V,spaniae V uiii BOV 72. 73. 74. 75
+79,mgh_auct_ant_9,549,236,,uiii,BOV,spaniae V uiii BOV 72. 73. 74. 75
+80,mgh_auct_ant_9,549,236,,Tarraconensis | in qua est civitas eiusdem nominis,BO,1 Tarraconensis | in qua est civitas eiusdem nominis BO
+81,mgh_auct_ant_9,549,236,,terraconensis,BOV,"terraconensis BOV 18. 72. 73. 74. 75, terragonensis 9"
+82,mgh_auct_ant_9,549,236,,Carthaginensis | in qua est civitas eiusdem nominis,BO,2 Carthaginensis | in qua est civitas eiusdem nominis BO
+83,mgh_auct_ant_9,549,236,,carthaginenses,P,"carthaginenses P, cartaginensis BV 68. 79, cartagenensis 9, cartagensis 18 post Baeticam 79"
+83,mgh_auct_ant_9,549,236,,cartaginensis,BV,"carthaginenses P, cartaginensis BV 68. 79, cartagenensis 9, cartagensis 18 post Baeticam 79"
+84,mgh_auct_ant_9,549,236,,"Baetica betica plerique, uetica",O,"betica plerique, uetica O, petita 79, uettica B, betoca 68, beatica V"
+85,mgh_auct_ant_9,549,236,,uettica,B,"betica plerique, uetica O, petita 79, uettica B, betoca 68, beatica V"
+86,mgh_auct_ant_9,549,236,,beatica,V,"betica plerique, uetica O, petita 79, uettica B, betoca 68, beatica V"
+87,mgh_auct_ant_9,549,236,,"Lusitania, in qua est Emerita nusitania",O,"nusitania O temerita P, temerata 18"
+88,mgh_auct_ant_9,549,236,,temerita,P,"nusitania O temerita P, temerata 18"
+89,mgh_auct_ant_9,549,236,,Gallaecia gallicia,P,"gallicia P 9. 10. 79, galliciae 68, galatia BOV 73, galacia 72. 74. 75, om. 18"
+90,mgh_auct_ant_9,549,236,,galatia,BOV,"gallicia P 9. 10. 79, galliciae 68, galatia BOV 73, galacia 72. 74. 75, om. 18"
+91,mgh_auct_ant_9,549,236,,insulae Baleares insol e,P,"insol(a)e P 9. 18 balearis V 10. 18, ualeares B"
+92,mgh_auct_ant_9,549,236,,balearis,V,"insol(a)e P 9. 18 balearis V 10. 18, ualeares B"
+93,mgh_auct_ant_9,549,236,,ualeares,B,"insol(a)e P 9. 18 balearis V 10. 18, ualeares B"
+94,mgh_auct_ant_9,550,265,,tungitania,B,"tingetanea 18, tungitania B, tinguitania O, tingitania 79, tingicana V uiii ante trans fr. ins. B"
+94,mgh_auct_ant_9,550,265,,tinguitania,O,"tingetanea 18, tungitania B, tinguitania O, tingitania 79, tingicana V uiii ante trans fr. ins. B"
+95,mgh_auct_ant_9,550,265,,tingicana,V,"tingetanea 18, tungitania B, tinguitania O, tingitania 79, tingicana V uiii ante trans fr. ins. B"
+96,mgh_auct_ant_9,550,265,,uiii ante trans fr. ins.,BOV,"tingetanea 18, tungitania B, tinguitania O, tingitania 79, tingicana V uiii ante trans fr. ins. B"
+97,mgh_auct_ant_9,550,265,,ocianum,P,"OV 72. 73. 74. 75 quod] quo 75 ocianum P, oceanum 68 infuso 18 terras intrat] t. intret"
+98,mgh_auct_ant_9,550,265,,calpe,P,"79, transmittitur 72. 73. 74. 75 inter om. 79 calpe P, calpen O uel] PB 9. 10. 18. 79, et O 68"
+98,mgh_auct_ant_9,550,265,,calpen,O,"79, transmittitur 72. 73. 74. 75 inter om. 79 calpe P, calpen O uel] PB 9. 10. 18. 79, et O 68"
+99,mgh_auct_ant_9,550,265,,et,O,"79, transmittitur 72. 73. 74. 75 inter om. 79 calpe P, calpen O uel] PB 9. 10. 18. 79, et O 68"
+100,mgh_auct_ant_9,550,265,,abinam,P,"72. 73. 74. 75 abinnam] 10. 18, abinam P, abennam 68, abiennam BV, auiennam O, auie-"
+101,mgh_auct_ant_9,550,265,,abiennam,BV,"72. 73. 74. 75 abinnam] 10. 18, abinam P, abennam 68, abiennam BV, auiennam O, auie-"
+101,mgh_auct_ant_9,550,265,,auiennam,O,"72. 73. 74. 75 abinnam] 10. 18, abinam P, abennam 68, abiennam BV, auiennam O, auie-"
+102,mgh_auct_ant_9,550,265,,IN ILLYRICO XVIIII. illirico,P,"illirico P 9, illiricum 79, iliricum 18, yllirici B, illirici VO, illiricae 72. 73. 74. 75 xuiii 72. 73. 74. 75"
+103,mgh_auct_ant_9,550,265,,yllirici,B,"illirico P 9, illiricum 79, iliricum 18, yllirici B, illirici VO, illiricae 72. 73. 74. 75 xuiii 72. 73. 74. 75"
+103,mgh_auct_ant_9,550,265,,illirici,VO,"illirico P 9, illiricum 79, iliricum 18, yllirici B, illirici VO, illiricae 72. 73. 74. 75 xuiii 72. 73. 74. 75"
+104,mgh_auct_ant_9,550,265,,super mare om.,BOV,supra 9. 10. 18. 79 super mare om. BOV 72. 73. 74. 75
+105,mgh_auct_ant_9,550,265,,"Pannonia prima, in qua est Sirmium in q. est sirm. om.",BOV,"in q. est sirm. om. BOV 72. 73. 74. 75 sermium P 18, syrmium 9"
+106,mgh_auct_ant_9,550,265,,sermium,P,"in q. est sirm. om. BOV 72. 73. 74. 75 sermium P 18, syrmium 9"
+107,mgh_auct_ant_9,550,279,,uiridia,BOV,"uiridia BOV 72. 73. 74. 75, om. 68"
+108,mgh_auct_ant_9,550,279,,siriualis,OV,"preuales 79, siribalis 72. 73. 74, siriualis OV, syriualis B, siribasis 75 om. 68"
+108,mgh_auct_ant_9,550,279,,syriualis,B,"preuales 79, siribalis 72. 73. 74, siriualis OV, syriualis B, siribasis 75 om. 68"
+109,mgh_auct_ant_9,550,279,,"Mysia superior misia reliqui, musi",V,"misia reliqui, musi V superior] inferior BOV 72. 73. 74. 75"
+110,mgh_auct_ant_9,550,279,superior,inferior,BOV,"misia reliqui, musi V superior] inferior BOV 72. 73. 74. 75"
+111,mgh_auct_ant_9,550,279,,Epirus vetus ephirus,P,"ephirus P, epyrus B 9. 10. 74. 79, epulis 18, epirius V, om. 68 uentus P, suetus 68"
+111,mgh_auct_ant_9,550,279,,epyrus,B,"ephirus P, epyrus B 9. 10. 74. 79, epulis 18, epirius V, om. 68 uentus P, suetus 68"
+112,mgh_auct_ant_9,550,279,,epirius,V,"ephirus P, epyrus B 9. 10. 74. 79, epulis 18, epirius V, om. 68 uentus P, suetus 68"
+113,mgh_auct_ant_9,550,279,,uentus,P,"ephirus P, epyrus B 9. 10. 74. 79, epulis 18, epirius V, om. 68 uentus P, suetus 68"
+114,mgh_auct_ant_9,550,279,,epirius,V,"epyrus 9. 10. 68. 74. 79, epulis 18, epirius V"
+115,mgh_auct_ant_9,550,279,,nostricus,V,"noricum 71, norico 18a, nuricus 68, nostricus V supra libri danuuium] 9, danubium reliqui"
+116,mgh_auct_ant_9,550,279,,danubium reliqui rip. sup. dan. om.,BOV,rip. sup. dan. om. BOV 72. 73. 74. 75
+117,mgh_auct_ant_9,550,279,,om.,BOV,"noricus] nuricus 68, om. BOV 72. 73. 74. 75"
+118,mgh_auct_ant_9,550,303,,scithia,P,"scithia P 10, scitia 18. 79, scicia 9, scotta 72. 73. 74. 75, scoccia B, scothia O, ascocta V, om. 68"
+119,mgh_auct_ant_9,550,303,,scoccia,B,"scithia P 10, scitia 18. 79, scicia 9, scotta 72. 73. 74. 75, scoccia B, scothia O, ascocta V, om. 68"
+119,mgh_auct_ant_9,550,303,,scothia,O,"scithia P 10, scitia 18. 79, scicia 9, scotta 72. 73. 74. 75, scoccia B, scothia O, ascocta V, om. 68"
+119,mgh_auct_ant_9,550,303,,ascocta,V,"scithia P 10, scitia 18. 79, scicia 9, scotta 72. 73. 74. 75, scoccia B, scothia O, ascocta V, om. 68"
+120,mgh_auct_ant_9,550,307,,hagia,V,"acaia 9. 18, hagia V, achia 75 om. 68"
+121,mgh_auct_ant_9,550,311,,thessalonica,BO,"tessalia 79, thersalia 18, thessalonica BO, thesalonica V, thessalonicensis 72. 73. 74. 75, tesalonica 68"
+121,mgh_auct_ant_9,550,311,,thesalonica,V,"tessalia 79, thersalia 18, thessalonica BO, thesalonica V, thessalonicensis 72. 73. 74. 75, tesalonica 68"
+122,mgh_auct_ant_9,551,317,,trachiis,P,"traciis 68, trachiis P, thraciae 72. 73, thracie 74, tracie BO 75, tratiae V, tracia 9. 10. 18, tracta 79"
+123,mgh_auct_ant_9,551,317,,tracie,BO,"traciis 68, trachiis P, thraciae 72. 73, thracie 74, tracie BO 75, tratiae V, tracia 9. 10. 18, tracta 79"
+124,mgh_auct_ant_9,551,317,,tratiae,V,"traciis 68, trachiis P, thraciae 72. 73, thracie 74, tracie BO 75, tratiae V, tracia 9. 10. 18, tracta 79"
+125,mgh_auct_ant_9,551,317,,Thracia prima | Thracia,BOV,1 Thracia prima | Thracia BOV 72. 73. 74. 75
+126,mgh_auct_ant_9,551,317,,tracia,PBO,"tracia PBO 9. 10. 18. 74. 79, tratia V 68, thratia 72. 73"
+127,mgh_auct_ant_9,551,317,,tratia,V,"tracia PBO 9. 10. 18. 74. 79, tratia V 68, thratia 72. 73"
+128,mgh_auct_ant_9,551,317,,Thracia secunda | item Thracia,BOV,2 Thracia secunda | item Thracia BOV 72. 73. 74. 75
+129,mgh_auct_ant_9,551,317,,tracha,P,"tracha P, tracia BO 9. 10. 18. 68. 74. 75. 79, thratia 72. 73, tratia V secunda bis 18a"
+129,mgh_auct_ant_9,551,317,,tracia,BO,"tracha P, tracia BO 9. 10. 18. 68. 74. 75. 79, thratia 72. 73, tratia V secunda bis 18a"
+130,mgh_auct_ant_9,551,317,,tratia,V,"tracha P, tracia BO 9. 10. 18. 68. 74. 75. 79, thratia 72. 73, tratia V secunda bis 18a"
+131,mgh_auct_ant_9,551,317,,"misia plerique, enisia",BO,"mysia] 10, misia plerique, enisia BO, uenisia V inferior] superior 72. 73. 74. 75 quinto loco"
+131,mgh_auct_ant_9,551,317,,uenisia,V,"mysia] 10, misia plerique, enisia BO, uenisia V inferior] superior 72. 73. 74. 75 quinto loco"
+132,mgh_auct_ant_9,551,317,,quinto loco,OV,"OV 72. 73. 74. 75, sexto B"
+133,mgh_auct_ant_9,551,317,,sexto,B,"OV 72. 73. 74. 75, sexto B"
+134,mgh_auct_ant_9,551,317,,scithia,PV,"scythia] 10. 72, scithia PV 73. 74, scycia 68, scitia 9. 18, cithia O, sitia 79, scitha 75 superior"
+135,mgh_auct_ant_9,551,317,,cithia,O,"scythia] 10. 72, scithia PV 73. 74, scycia 68, scitia 9. 18, cithia O, sitia 79, scitha 75 superior"
+136,mgh_auct_ant_9,551,317,,superior,BOV,"BOV 72. 73. 74. 75 sexto loco O 72. 73. 74. 75. V (sed hic praescr. quinta), septimo B"
+137,mgh_auct_ant_9,551,317,,sexto loco,O,"BOV 72. 73. 74. 75 sexto loco O 72. 73. 74. 75. V (sed hic praescr. quinta), septimo B"
+138,mgh_auct_ant_9,551,317,,", septimo",B,"BOV 72. 73. 74. 75 sexto loco O 72. 73. 74. 75. V (sed hic praescr. quinta), septimo B"
+139,mgh_auct_ant_9,551,317,,in qua in margine,P,"eurupa 68, eorupa 18, euruppa 79 in qua in margine P constantinopolim V prius licos"
+140,mgh_auct_ant_9,551,317,,constantinopolim,V,"eurupa 68, eorupa 18, euruppa 79 in qua in margine P constantinopolim V prius licos"
+141,mgh_auct_ant_9,551,317,,prius dicta licus siue,V,"(ligus V) siue V 72. 73. 74. 75, que prius liqus (corr. in liquus) dicta est 68, facta dicta ligus siue O,"
+142,mgh_auct_ant_9,551,317,,facta dicta ligus siue,O,"(ligus V) siue V 72. 73. 74. 75, que prius liqus (corr. in liquus) dicta est 68, facta dicta ligus siue O,"
+142,mgh_auct_ant_9,551,317,,facta iiii et dicta ligus siue,VB,"(ligus V) siue V 72. 73. 74. 75, que prius liqus (corr. in liquus) dicta est 68, facta dicta ligus siue O,"
+143,mgh_auct_ant_9,551,317,,bizantium,V,"V 10. 73. 74. 79, bizancium PO 9. 75, uizancium B, bicantium 18, deinde begantia tertio ut"
+144,mgh_auct_ant_9,551,317,,bizancium,PO,"V 10. 73. 74. 79, bizancium PO 9. 75, uizancium B, bicantium 18, deinde begantia tertio ut"
+145,mgh_auct_ant_9,551,317,,uizancium,B,"V 10. 73. 74. 79, bizancium PO 9. 75, uizancium B, bicantium 18, deinde begantia tertio ut"
+146,mgh_auct_ant_9,551,317,,tertio loco,OV,"supra 68 tertio loco OV 72. 73. 74. 75, tertio et quarto (vide supra) B"
+147,mgh_auct_ant_9,551,317,,tertio et quarto,B,"supra 68 tertio loco OV 72. 73. 74. 75, tertio et quarto (vide supra) B"
+148,mgh_auct_ant_9,551,317,,Rhodopa rodopa,BV,"rodopa BV 9. 10. 68. 72. 73. 74. 75, rodope O, rodoui P, rudopa 79 quarto loco OV 72. 73."
+149,mgh_auct_ant_9,551,317,,rodope,O,"rodopa BV 9. 10. 68. 72. 73. 74. 75, rodope O, rodoui P, rudopa 79 quarto loco OV 72. 73."
+149,mgh_auct_ant_9,551,317,,rodoui,P,"rodopa BV 9. 10. 68. 72. 73. 74. 75, rodope O, rodoui P, rudopa 79 quarto loco OV 72. 73."
+150,mgh_auct_ant_9,551,317,,quarto loco,OV,"rodopa BV 9. 10. 68. 72. 73. 74. 75, rodope O, rodoui P, rudopa 79 quarto loco OV 72. 73."
+151,mgh_auct_ant_9,551,317,,quinto,B,"74. 75, quinto B om. 18"
+152,mgh_auct_ant_9,551,317,,"Asia ipsa, in qua est Ilium | id est Troia",BO,"1 Asia ipsa, in qua est Ilium | id est Troia BO 18. 79 (add. supra v.)"
+153,mgh_auct_ant_9,551,317,,ipsa om.,BOV,"ipsa om. BOV 68. 72. 73. 74 75 est om. 72. 73. 74. 75. 79a illum 79, hilium 68, lium 18"
+154,mgh_auct_ant_9,551,317,,Lycia licia,BOV,"licia BOV 9. 10. 18. 68. 73. 74. 75. 79, licium P"
+155,mgh_auct_ant_9,551,317,,licium,P,"licia BOV 9. 10. 18. 68. 73. 74. 75. 79, licium P"
+156,mgh_auct_ant_9,551,317,,lidia,P,"lydia] 10, lidia P 9. 68. 79, liga BO, lyca 72, lica 73. 74. 75, licha V, item licia 18"
+157,mgh_auct_ant_9,551,317,,liga,BO,"lydia] 10, lidia P 9. 68. 79, liga BO, lyca 72, lica 73. 74. 75, licha V, item licia 18"
+158,mgh_auct_ant_9,551,317,,licha,V,"lydia] 10, lidia P 9. 68. 79, liga BO, lyca 72, lica 73. 74. 75, licha V, item licia 18"
+159,mgh_auct_ant_9,551,317,,Hellespontus ellespontus,O,"ellespontus O, hillispontus 18. 79, elispontus 68, hellespontis V"
+160,mgh_auct_ant_9,551,317,,hellespontis,V,"ellespontus O, hillispontus 18. 79, elispontus 68, hellespontis V"
+161,mgh_auct_ant_9,551,356,,frigia,PBOV,"frigia PBOV 9. 10. 18, phrigia 68b. 73. 74. 75. 79, phrygia 72, phigia 68a prima om. BOV"
+162,mgh_auct_ant_9,551,356,,phigia 68a prima om.,BOV,"frigia PBOV 9. 10. 18, phrigia 68b. 73. 74. 75. 79, phrygia 72, phigia 68a prima om. BOV"
+163,mgh_auct_ant_9,551,356,,Frygia salutaris frigia,P,"frigia P 9. 10, phrigia 18. 68b. 79, phigia 68a, om. BOV 72. 73. 74. 75 salutaris] secunda P"
+164,mgh_auct_ant_9,551,356,,"phigia 68a, om.",BOV,"frigia P 9. 10, phrigia 18. 68b. 79, phigia 68a, om. BOV 72. 73. 74. 75 salutaris] secunda P"
+165,mgh_auct_ant_9,551,356,salutaris,secunda,P,"frigia P 9. 10, phrigia 18. 68b. 79, phigia 68a, om. BOV 72. 73. 74. 75 salutaris] secunda P"
+166,mgh_auct_ant_9,551,356,,licaonia,P,"lycaonia] 68. 72, licaonia P 9. 73. 74. 75, lyconia 10, liconia 18. 79, lichonia BO, liachaonia V"
+167,mgh_auct_ant_9,551,356,,lichonia,BO,"lycaonia] 68. 72, licaonia P 9. 73. 74. 75, lyconia 10, liconia 18. 79, lichonia BO, liachaonia V"
+167,mgh_auct_ant_9,551,356,,liachaonia,V,"lycaonia] 68. 72, licaonia P 9. 73. 74. 75, lyconia 10, liconia 18. 79, lichonia BO, liachaonia V"
+168,mgh_auct_ant_9,551,356,,ciclades,BOV,"cyclades] 10. 72. 75, ciclades BOV 9. 74. 79, clades P, ciclatis 18, elclades 73, cichades 68"
+169,mgh_auct_ant_9,551,356,,clades,P,"cyclades] 10. 72. 75, ciclades BOV 9. 74. 79, clades P, ciclatis 18, elclades 73, cichades 68"
+170,mgh_auct_ant_9,552,368,in or.,orientalium,BOV,"in or.] orientalium BOV, orientales 73. 74. 75"
+171,mgh_auct_ant_9,552,368,,"siria plerique, sira",O,"syria] B 10, siria plerique, sira O coele] 74. 75, cole 73, caele 72, cile PBOV 9. 10, ciliae 18,"
+172,mgh_auct_ant_9,552,368,,cile,PBOV,"syria] B 10, siria plerique, sira O coele] 74. 75, cole 73, caele 72, cile PBOV 9. 10, ciliae 18,"
+173,mgh_auct_ant_9,552,368,,est ant. ciuitas,BO,"cilicia 79, melle 68 est anthiocia 18, est antiocia 9, est ant. (ant. est B) ciuitas BO"
+174,mgh_auct_ant_9,552,368,,Syria Palaestina siria,P,"siria P 9. 18. 79, om. BOV 72. 73. 74. 75 palestina PV aliique"
+175,mgh_auct_ant_9,552,368,,om.,BOV,"siria P 9. 18. 79, om. BOV 72. 73. 74. 75 palestina PV aliique"
+176,mgh_auct_ant_9,552,368,,palestina,PV,"siria P 9. 18. 79, om. BOV 72. 73. 74. 75 palestina PV aliique"
+177,mgh_auct_ant_9,552,368,,siria,P,"syria] O 10. 74, siria P 68. 72. 73. 75, sina BV, om. 9. 10. 18. 79 fenice 10, finice P 9. 10."
+178,mgh_auct_ant_9,552,368,,sina,BV,"syria] O 10. 74, siria P 68. 72. 73. 75, sina BV, om. 9. 10. 18. 79 fenice 10, finice P 9. 10."
+179,mgh_auct_ant_9,552,368,,finice,P,"syria] O 10. 74, siria P 68. 72. 73. 75, sina BV, om. 9. 10. 18. 79 fenice 10, finice P 9. 10."
+180,mgh_auct_ant_9,552,368,,phenicis,BOV,"phaenicis 72, phenicis BOV 73. 74, finecis 18, fenices 79, finices 68, phennis 75"
+181,mgh_auct_ant_9,552,368,,Isauria ysauria,PV,"ysauria PV, ysuria B, usuria O, insauria 18"
+181,mgh_auct_ant_9,552,368,,ysuria,B,"ysauria PV, ysuria B, usuria O, insauria 18"
+181,mgh_auct_ant_9,552,368,,usuria,O,"ysauria PV, ysuria B, usuria O, insauria 18"
+182,mgh_auct_ant_9,552,383,,cipros,P,"cypros] 9. 10. 68, cipros P, cyprus BV 18. 72. 74. 79, ciprus O 75, om. 73"
+182,mgh_auct_ant_9,552,383,,cyprus,BV,"cypros] 9. 10. 68, cipros P, cyprus BV 18. 72. 74. 79, ciprus O 75, om. 73"
+183,mgh_auct_ant_9,552,383,,ciprus,O,"cypros] 9. 10. 68, cipros P, cyprus BV 18. 72. 74. 79, ciprus O 75, om. 73"
+184,mgh_auct_ant_9,552,383,,Mesopotamia inter Tigrem vel Eufraten mesopomitamia,P,"mesopomitamia P, mesopotamiam V inter tegrem bis 18a tigrem] V 73. 79, tigremi P, tygrem"
+184,mgh_auct_ant_9,552,383,,mesopotamiam,V,"mesopomitamia P, mesopotamiam V inter tegrem bis 18a tigrem] V 73. 79, tigremi P, tygrem"
+185,mgh_auct_ant_9,552,383,,tigremi,P,"mesopomitamia P, mesopotamiam V inter tegrem bis 18a tigrem] V 73. 79, tigremi P, tygrem"
+186,mgh_auct_ant_9,552,383,,tigrim,BO,"72. 74, tigrim BO 9, tegrem 10. 18. 68 vel eufraten] 9. 10, uel eufrate P, et eofratim 18,"
+187,mgh_auct_ant_9,552,383,,uel eufrate,P,"72. 74, tigrim BO 9, tegrem 10. 18. 68 vel eufraten] 9. 10, uel eufrate P, et eofratim 18,"
+188,mgh_auct_ant_9,552,383,,et eufraten,VO,"et eufratem 68, et eufraten VO 74. 75. 79, et euphraten B 72, om. hoc loco 73"
+189,mgh_auct_ant_9,552,383,,et euphraten,B,"et eufratem 68, et eufraten VO 74. 75. 79, et euphraten B 72, om. hoc loco 73"
+190,mgh_auct_ant_9,552,383,,eufragia,BOV,"eufratesiam 10, eufratisia 79, eofratisia 18, eufragia BOV 72. 73. 74. 75 decimo loco BOV 72. 73. 74. 75"
+191,mgh_auct_ant_9,552,383,,decimo loco,BOV,"eufratesiam 10, eufratisia 79, eofratisia 18, eufragia BOV 72. 73. 74. 75 decimo loco BOV 72. 73. 74. 75"
+192,mgh_auct_ant_9,552,383,,hotronae,BV,"hosdroene] P 10. 72. 74. 75, hodroene 9, hosdrenae 68, hosdrone 18. 73, hotronae BV, othrone"
+192,mgh_auct_ant_9,552,383,,othrone,O,"hosdroene] P 10. 72. 74. 75, hodroene 9, hosdrenae 68, hosdrone 18. 73, hotronae BV, othrone"
+193,mgh_auct_ant_9,552,383,,octavo loco,BO,"O, hostidene 79 octavo loco BO 72. 73. 74. 75"
+194,mgh_auct_ant_9,552,383,,sappanenae,B,"sophanene] P, sofanene 68, sofaneae 9. 10, supannenae 72. 73. 74. 75, sappanenae B, subpannene"
+194,mgh_auct_ant_9,552,383,,subpannene,O,"sophanene] P, sofanene 68, sofaneae 9. 10, supannenae 72. 73. 74. 75, sappanenae B, subpannene"
+194,mgh_auct_ant_9,552,383,,suppanent,V,"sophanene] P, sofanene 68, sofaneae 9. 10, supannenae 72. 73. 74. 75, sappanenae B, subpannene"
+195,mgh_auct_ant_9,552,383,,nono loco,BO,"O, suppanent V, sufanis 18. 79 nono loco BO 72. 73. 74. 75"
+196,mgh_auct_ant_9,552,399,,", polimachus",BOV,"ex emendatione ducta ex Eutropio 7, 14 (cf. XI, 6), polimachus BOV, polimitus 79"
+197,mgh_auct_ant_9,552,399,,finit,V,"in VIIII, 1 finit V"
+198,mgh_auct_ant_9,552,399,,samaria,P,"pontos 9 amasia] 9. 10. 68, amassia plerique, amassiae 79, samaria P"
+199,mgh_auct_ant_9,552,407,,bithinia,BO,"bithynia] 9, bithinia BO 10. 18. 68. 73. 74. 75. 79, bythinia 72, bithelia P"
+200,mgh_auct_ant_9,552,407,,bithelia,P,"bithynia] 9, bithinia BO 10. 18. 68. 73. 74. 75. 79, bythinia 72, bithelia P"
+201,mgh_auct_ant_9,552,407,,paflogonia,O,"paflagonia] B 9. 73. 74. 75, paphlagonia 72, paflogonia O, aflaconia 10. 18. 79, pamplaonia 68,"
+202,mgh_auct_ant_9,552,407,,pamflagonia,P,pamflagonia P
+203,mgh_auct_ant_9,552,407,,post sequentem,BO,"arminia 9. 18. 79, armoenia 10 minior 18 post sequentem BO 72. 73. 74, om. 68"
+204,mgh_auct_ant_9,553,424,,egyptus,B,"aegyptus] 72, aegiptus 68. 73, egyptus B 9. 18. 74, egiptus PO 75 ipsa om. BO 72. 73. 74. 75"
+205,mgh_auct_ant_9,553,424,,egiptus,PO,"aegyptus] 72, aegiptus 68. 73, egyptus B 9. 18. 74, egiptus PO 75 ipsa om. BO 72. 73. 74. 75"
+206,mgh_auct_ant_9,553,424,,ipsa om.,BO,"aegyptus] 72, aegiptus 68. 73, egyptus B 9. 18. 74, egiptus PO 75 ipsa om. BO 72. 73. 74. 75"
+207,mgh_auct_ant_9,553,424,,augustamnes,P,"augustamnis] 10, augustamnes P, agustamnis 9. 68, augustannis 79, agustannis 18, tamnis O,"
+208,mgh_auct_ant_9,553,424,,tamnis,O,"augustamnis] 10, augustamnes P, agustamnis 9. 68, augustannis 79, agustannis 18, tamnis O,"
+208,mgh_auct_ant_9,553,424,,iamnis,B,"augustamnis] 10, augustamnes P, agustamnis 9. 68, augustannis 79, agustannis 18, tamnis O,"
+209,mgh_auct_ant_9,553,424,,Thebaida thelbaida,BO,thelbaida BO
+210,mgh_auct_ant_9,553,424,,Libya sicca libia,BO,"libia BO 18. 73. 74. 79, lybia 10. 72, libea P 9. 68, libicia 75"
+211,mgh_auct_ant_9,553,424,,libea,P,"libia BO 18. 73. 74. 79, lybia 10. 72, libea P 9. 68, libicia 75"
+212,mgh_auct_ant_9,553,424,,Libya pentapolis libia,BO,"libia BO 10. 18. 73. 74. 75. 79, lybia 72, libea P 9. 68 pentabolis 18. 79, pentapolim BO, pen-"
+213,mgh_auct_ant_9,553,424,,libea,P,"libia BO 10. 18. 73. 74. 75. 79, lybia 72, libea P 9. 68 pentabolis 18. 79, pentapolim BO, pen-"
+214,mgh_auct_ant_9,553,424,,pentapolim,BO,"libia BO 10. 18. 73. 74. 75. 79, lybia 72, libea P 9. 68 pentabolis 18. 79, pentapolim BO, pen-"
+215,mgh_auct_ant_9,553,424,,archaida,P,"arcadia] 9, archadia 10. 18. 68. 72. 73. 74. 75. 79, archaida P om. BO"
+216,mgh_auct_ant_9,553,424,,om.,BO,"arcadia] 9, archadia 10. 18. 68. 72. 73. 74. 75. 79, archaida P om. BO"
+217,mgh_auct_ant_9,553,424,,IN,BV,"11. IN BRITTANIA V PROVINCIAE OCCIDENTALIVM VI BO 72,"
+218,mgh_auct_ant_9,553,424,in,item in,P,"in] item in P britaniis 68 occidentalium] BO, occidentales 73. 74. 75,"
+219,mgh_auct_ant_9,553,424,,britannia,O,"brittania] PB 9. 10. 18. 79, brittannia 72. 74, britannia O 73, britania 68. 75 prima ante br."
+220,mgh_auct_ant_9,553,424,,prima ante br.,BO,"BO, om. 72. 73. 74. 75"
+221,mgh_auct_ant_9,553,424,,item secunda br.,BO,"item secunda br. BO brittania] PB 9. 10. 18. 79, britannia O 73. 74, britania 68. 75, brittannia 72"
+222,mgh_auct_ant_9,553,424,,britannia,O,"item secunda br. BO brittania] PB 9. 10. 18. 79, britannia O 73. 74, britania 68. 75, brittannia 72"
+223,mgh_auct_ant_9,553,424,,flaia,BO,"flauia] P 9. 68. 79, flabia 18, flagia 73. 75, phlagia 72, flagitia 74, flaia BO"
+224,mgh_auct_ant_9,553,424,,Maxima maxima ualentiana,BO,maxima ualentiana (sic) BO
+225,mgh_auct_ant_9,553,424,,ualentiana,B,"ualentiniana] P 72. 73. 74. 75, ualentiana B 10, ualenciana O, ualentina 9. 18. 68. 79"
+226,mgh_auct_ant_9,553,424,,ualenciana,O,"ualentiniana] P 72. 73. 74. 75, ualentiana B 10, ualenciana O, ualentina 9. 18. 68. 79"
+227,mgh_auct_ant_9,553,424,,Orcades,BO,6 Orcades BO 72. 73. 74. 75
+228,mgh_auct_ant_9,553,424,,om.,BO,"fiunt simul numero cxii 79, in suma prouincia numr cxi 68, om. BO 72. 73. 74. 75"
+229,mgh_auct_ant_9,558,652,omni Asiae,omnia si,P,Uncis inclusa veniunt ex auctoribus in margine indicatis 2 omni Asiae] omnia si P asirios P
+230,mgh_auct_ant_9,558,652,,asirios,P,Uncis inclusa veniunt ex auctoribus in margine indicatis 2 omni Asiae] omnia si P asirios P
+231,mgh_auct_ant_9,558,652,,dinasciam,P,3 dinasciam P egipcii P 4 xoroastris P solmis P europisicionis regis P 5 primus] pnsim (sic) P
+232,mgh_auct_ant_9,558,652,,egipcii,P,3 dinasciam P egipcii P 4 xoroastris P solmis P europisicionis regis P 5 primus] pnsim (sic) P
+233,mgh_auct_ant_9,558,652,,xoroastris,P,3 dinasciam P egipcii P 4 xoroastris P solmis P europisicionis regis P 5 primus] pnsim (sic) P
+234,mgh_auct_ant_9,558,652,,solmis,P,3 dinasciam P egipcii P 4 xoroastris P solmis P europisicionis regis P 5 primus] pnsim (sic) P
+235,mgh_auct_ant_9,558,652,,europisicionis regis,P,3 dinasciam P egipcii P 4 xoroastris P solmis P europisicionis regis P 5 primus] pnsim (sic) P
+236,mgh_auct_ant_9,558,652,primus,pnsim,P,3 dinasciam P egipcii P 4 xoroastris P solmis P europisicionis regis P 5 primus] pnsim (sic) P
+237,mgh_auct_ant_9,558,652,,archis,P,archis P coecrops P 7 micinei P 8 ceperunt P 9 correnti P ceperunt P 11 macedonis inperavit
+238,mgh_auct_ant_9,558,652,,coecrops,P,archis P coecrops P 7 micinei P 8 ceperunt P 9 correnti P ceperunt P 11 macedonis inperavit
+239,mgh_auct_ant_9,558,652,,micinei,P,archis P coecrops P 7 micinei P 8 ceperunt P 9 correnti P ceperunt P 11 macedonis inperavit
+240,mgh_auct_ant_9,558,652,,ceperunt,P,archis P coecrops P 7 micinei P 8 ceperunt P 9 correnti P ceperunt P 11 macedonis inperavit
+241,mgh_auct_ant_9,558,652,,correnti,P,archis P coecrops P 7 micinei P 8 ceperunt P 9 correnti P ceperunt P 11 macedonis inperavit
+242,mgh_auct_ant_9,558,652,,ceperunt,P,archis P coecrops P 7 micinei P 8 ceperunt P 9 correnti P ceperunt P 11 macedonis inperavit
+243,mgh_auct_ant_9,558,652,,macedonis inperavit perant finito finito,P,perant finito finito (sic) P asiriorum P 13 lidi P 14 cepit P 15 quem] quam P 18 post Priscus
+244,mgh_auct_ant_9,558,652,,asiriorum,P,perant finito finito (sic) P asiriorum P 13 lidi P 14 cepit P 15 quem] quam P 18 post Priscus
+245,mgh_auct_ant_9,558,652,,lidi,P,perant finito finito (sic) P asiriorum P 13 lidi P 14 cepit P 15 quem] quam P 18 post Priscus
+246,mgh_auct_ant_9,558,652,,cepit,P,perant finito finito (sic) P asiriorum P 13 lidi P 14 cepit P 15 quem] quam P 18 post Priscus
+247,mgh_auct_ant_9,558,652,quem,quam,P,perant finito finito (sic) P asiriorum P 13 lidi P 14 cepit P 15 quem] quam P 18 post Priscus
+248,mgh_auct_ant_9,558,652,,girum,P,excidit Servius 19 girum P 22 conlatini P duo om. Pa 23 prius potestates P 24 ei] et P obsisterit P
+249,mgh_auct_ant_9,558,652,,conlatini,P,excidit Servius 19 girum P 22 conlatini P duo om. Pa 23 prius potestates P 24 ei] et P obsisterit P
+250,mgh_auct_ant_9,558,652,,prius potestates,P,excidit Servius 19 girum P 22 conlatini P duo om. Pa 23 prius potestates P 24 ei] et P obsisterit P
+251,mgh_auct_ant_9,558,652,ei,et,P,excidit Servius 19 girum P 22 conlatini P duo om. Pa 23 prius potestates P 24 ei] et P obsisterit P
+252,mgh_auct_ant_9,558,652,,obsisterit,P,excidit Servius 19 girum P 22 conlatini P duo om. Pa 23 prius potestates P 24 ei] et P obsisterit P
+253,mgh_auct_ant_9,558,652,,urbis,P,"25 uii] et uii Pb urbis P nomina sunt dioecesium decem eadem, quae supra in provinciarum laterculo reperiuntur,"
+254,mgh_auct_ant_9,558,652,,illiricus tracie,P,27 illiricus tracie P 28 interdum] inter Pa dictores P sue uicisse creati P 29 successore P se om. Pa
+255,mgh_auct_ant_9,558,652,,dictores,P,27 illiricus tracie P 28 interdum] inter Pa dictores P sue uicisse creati P 29 successore P se om. Pa
+256,mgh_auct_ant_9,558,652,,sue uicisse creati,P,27 illiricus tracie P 28 interdum] inter Pa dictores P sue uicisse creati P 29 successore P se om. Pa
+257,mgh_auct_ant_9,558,652,,successore,P,27 illiricus tracie P 28 interdum] inter Pa dictores P sue uicisse creati P 29 successore P se om. Pa
+258,mgh_auct_ant_9,558,652,quo,quod,P,quo] quod P 30 kl.] scr. id. auctoris P 31 augusto P exin] eis P ceperunt P 32 reguntur
+259,mgh_auct_ant_9,558,652,kl.,scr. id. auctoris,P,quo] quod P 30 kl.] scr. id. auctoris P 31 augusto P exin] eis P ceperunt P 32 reguntur
+260,mgh_auct_ant_9,558,652,,augusto,P,quo] quod P 30 kl.] scr. id. auctoris P 31 augusto P exin] eis P ceperunt P 32 reguntur
+261,mgh_auct_ant_9,558,652,exin,eis,P,quo] quod P 30 kl.] scr. id. auctoris P 31 augusto P exin] eis P ceperunt P 32 reguntur
+262,mgh_auct_ant_9,558,652,,ceperunt,P,quo] quod P 30 kl.] scr. id. auctoris P 31 augusto P exin] eis P ceperunt P 32 reguntur
+263,mgh_auct_ant_9,558,652,reguntur cuncta,reiciuntur cugta,P,cuncta] reiciuntur cugta (cugta in marg. add.) P 33 clamidem blateam P; videtur significari quod narrat
+264,mgh_auct_ant_9,558,652,,clamidem blateam,P,cuncta] reiciuntur cugta (cugta in marg. add.) P 33 clamidem blateam P; videtur significari quod narrat
+265,mgh_auct_ant_9,558,652,,Domitiano permissum esse ut in senatum veniret indutus veste triumphali. dioclisianus gemma,P,"Dio 67, 4 Domitiano permissum esse ut in senatum veniret indutus veste triumphali. dioclisianus gemma P"
+266,mgh_auct_ant_9,558,652,,14: caput exornans perpetuo diademate; reliqua quae narrat Silvius solus tradit comminuit,P,tradit comminuit P 36 cognomenti] cognomen P constringeretur P qui] cuis P 38 asterio] scr. Asturio
+267,mgh_auct_ant_9,558,652,cognomenti,cognomen,P,tradit comminuit P 36 cognomenti] cognomen P constringeretur P qui] cuis P 38 asterio] scr. Asturio
+268,mgh_auct_ant_9,558,652,,constringeretur,P,tradit comminuit P 36 cognomenti] cognomen P constringeretur P qui] cuis P 38 asterio] scr. Asturio
+269,mgh_auct_ant_9,558,652,qui,cuis,P,tradit comminuit P 36 cognomenti] cognomen P constringeretur P qui] cuis P 38 asterio] scr. Asturio
+270,mgh_auct_ant_9,560,705,,ceatus,V,ceatus VI
+271,mgh_auct_ant_9,560,711,,cignus,V,cignus VI
+272,mgh_auct_ant_9,561,726,,choclearea,V,choclearea VI
+273,mgh_auct_ant_9,624,4229,,inscr. nominibus,V,"inscr. nominibus V, uerbis 9. 10. 11, urbis 93, urbibus 91 inscr. om. 44 1 lugdonum 9, lug-"
+274,mgh_auct_ant_9,624,4229,,lugduno,V,"duno V, luddunum 93 desiderato monte V dunum enim montem solus V; antea excidisse videri primae"
+275,mgh_auct_ant_9,624,4229,,desiderato monte,V,"duno V, luddunum 93 desiderato monte V dunum enim montem solus V; antea excidisse videri primae"
+276,mgh_auct_ant_9,624,4229,,dunum enim montem solus,V,"duno V, luddunum 93 desiderato monte V dunum enim montem solus V; antea excidisse videri primae"
+277,mgh_auct_ant_9,624,4229,,ante mare reliqui quia solus,V,"(more 11) reliqui quia solus V more mare] V, more (mure 11) dicit mare reliqui morici marini] V,"
+278,mgh_auct_ant_9,624,4229,,areuernus,V,"et (om. 11) ideo morini (murini 11, morimi 93) marini (mari 9. 44. 91. 93) reliqui 3 areuernus V, areuerni"
+279,mgh_auct_ant_9,624,4229,,sic,V,"(aruerni 11, auerni 10) reliqui obsta libri omnes 4 sic V, rhodanum (rodhanum 11. 44) uiolentum nam"
+280,mgh_auct_ant_9,624,4229,,"prenne, non renne",V,"finientes; cf. Eucherius instruct. l. 2 c. 1: dun iudicium aut iudicem 16 prenne, non renne V 17 treide,"
+281,mgh_auct_ant_9,624,4229,,"treide, non treicle",VO,non treicle V

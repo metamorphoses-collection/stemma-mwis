@@ -1,0 +1,7 @@
+37 witnesses, 1208 units, 1933 split types, 2195 instances, 709595 conflicts, ref O
+  iter 1: OPTIMAL obj 537 bound 537 -> core 3 (18s)
+  iter 2: OPTIMAL obj 536 bound 536 -> ok (36s)
+solve: {'obj': 536.0, 'relaxation': 537.0, 'status': 'OPTIMAL', 'bound': 536.0, 'gap': 0.0, 'iterations': 2, 'cuts': 1, 'seconds': 39.8, 'families': 32, 'skeleton': 82.29}
+treelikeness: {'W_opt': 536.0, 'total_candidate_weight': 2195, 'share': 0.24419134396355352, 'informative_units': 888, 'consistent_with_tree': 75, 'share_consistent': 0.08445945945945946, 'consistent_vertexwise': 75}
+  optima found 10 (235s)
+enumeration: {'optimal_vertex_sets': 12, 'complete': True, 'stopped': 'next best 535.0 (OPTIMAL, bound 535.0)', 'seconds': 304.6, 'distinct_trees': 12, 'tree_scores': [82.29, 80.68, 80.23, 79.92, 79.4, 81.65, 79.33, 81.23, 81.48, 80.94, 79.1, 80.62], 'vertices_in_all_found': 308, 'vertices_per_optimum': [314], 'families_per_tree': [32, 33, 34]}

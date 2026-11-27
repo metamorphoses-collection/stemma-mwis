@@ -1,0 +1,26 @@
+{
+ "stemma_witnesses": "ABNPSWOECMVG",
+ "cited": {
+  "A": 850,
+  "B": 492,
+  "N": 181,
+  "P": 620,
+  "S": 875,
+  "W": 183,
+  "O": 167,
+  "E": 259,
+  "C": 628,
+  "M": 302,
+  "V": 605,
+  "G": 462
+ },
+ "analysis_witnesses": "ABNPSWOECMVG",
+ "units_with_shared_departure": 414,
+ "included": true,
+ "exclusion": [],
+ "editor_top": [
+  "ABNPSMV",
+  "WOG"
+ ],
+ "k_E": 2
+}

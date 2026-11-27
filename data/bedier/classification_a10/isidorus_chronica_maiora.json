@@ -1,0 +1,159 @@
+{
+ "stemma_witnesses": "ABCDEFGKLMNPSTVWXYZ",
+ "cited": {
+  "A": 166,
+  "B": 505,
+  "C": 602,
+  "D": 411,
+  "E": 576,
+  "F": 522,
+  "G": 393,
+  "K": 354,
+  "L": 512,
+  "M": 569,
+  "N": 346,
+  "P": 608,
+  "S": 555,
+  "T": 271,
+  "V": 368,
+  "W": 320,
+  "X": 710,
+  "Y": 305,
+  "Z": 455
+ },
+ "analysis_witnesses": "ABCDEFGKLMNPSTVWXYZ",
+ "units_with_shared_departure": 1228,
+ "included": true,
+ "exclusion": [],
+ "editor_top": [
+  "ACDEGLMNTXYZ",
+  "BFKPSVW"
+ ],
+ "k_E": 2,
+ "status": "OPTIMAL",
+ "weight": 284.0,
+ "branches": [
+  {
+   "branch": "ACDEGLMNTXYZ",
+   "status": "silent",
+   "by": null
+  },
+  {
+   "branch": "BFKPSVW",
+   "status": "silent",
+   "by": null
+  }
+ ],
+ "classification": "partly_silent",
+ "k_D": 11,
+ "k_D_bootstrap": {
+  "3": 0.01,
+  "4": 0.21,
+  "5": 0.52,
+  "6": 0.26
+ },
+ "stable_families": [
+  [
+   "CZ",
+   50,
+   1.0
+  ],
+  [
+   "NT",
+   42,
+   1.0
+  ],
+  [
+   "BFPS",
+   33,
+   0.99
+  ],
+  [
+   "BPS",
+   32,
+   1.0
+  ],
+  [
+   "KV",
+   19,
+   0.95
+  ],
+  [
+   "NTY",
+   17,
+   0.96
+  ],
+  [
+   "BFPSW",
+   16,
+   0.995
+  ]
+ ],
+ "mwis": [
+  [
+   "CZ",
+   50,
+   1.0
+  ],
+  [
+   "NT",
+   42,
+   1.0
+  ],
+  [
+   "BFPS",
+   33,
+   0.99
+  ],
+  [
+   "BPS",
+   32,
+   1.0
+  ],
+  [
+   "DX",
+   23,
+   0.755
+  ],
+  [
+   "PS",
+   20,
+   0.555
+  ],
+  [
+   "KV",
+   19,
+   0.95
+  ],
+  [
+   "NTY",
+   17,
+   0.96
+  ],
+  [
+   "BFPSW",
+   16,
+   0.995
+  ],
+  [
+   "CDXZ",
+   13,
+   0.75
+  ],
+  [
+   "CDEXZ",
+   8,
+   0.835
+  ],
+  [
+   "AM",
+   6,
+   0.48
+  ],
+  [
+   "GL",
+   5,
+   0.44
+  ]
+ ]
+}

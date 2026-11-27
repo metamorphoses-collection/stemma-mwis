@@ -1,0 +1,14 @@
+DP = CP-SAT: True
+clean {'L': 1600, 'reps': 40, 'coverage': 1.0, 'certified': 0.0, 'certified_and_true': 0.0}
+clean {'L': 6400, 'reps': 40, 'coverage': 1.0, 'certified': 0.55, 'certified_and_true': 0.55}
+clean {'L': 25600, 'reps': 40, 'coverage': 1.0, 'certified': 1.0, 'certified_and_true': 1.0}
+clean {'L': 102400, 'reps': 40, 'coverage': 1.0, 'certified': 1.0, 'certified_and_true': 1.0}
+clean {'L': 409600, 'reps': 40, 'coverage': 1.0, 'certified': 1.0, 'certified_and_true': 1.0}
+noisy {'L': 1600, 'reps': 40, 'coverage': 1.0, 'certified': 0.0, 'certified_and_true': 0.0}
+noisy {'L': 6400, 'reps': 40, 'coverage': 1.0, 'certified': 0.0, 'certified_and_true': 0.0}
+noisy {'L': 25600, 'reps': 40, 'coverage': 1.0, 'certified': 0.0, 'certified_and_true': 0.0}
+noisy {'L': 102400, 'reps': 40, 'coverage': 1.0, 'certified': 0.0, 'certified_and_true': 0.0}
+noisy {'L': 409600, 'reps': 40, 'coverage': 1.0, 'certified': 1.0, 'certified_and_true': 1.0}
+Lai {'L': 843, 'T': ['DE', 'CDEFG', 'DEF', 'CG'], 'T_is_optimum': True, 'gamma_hat': 0.016607344150543213, 'gamma_lo': -0.023613452911376953, 'supports': {'DE': 41, 'CDEFG': 38, 'DEF': 24, 'CG': 176}, 'bounds': {'DE': [0.02756, 0.07816], 'CDEFG': [0.0249, 0.07378], 'DEF': [0.01311, 0.05273], 'CG': [0.1645, 0.25844]}, 'units_needed_per_split': 7.7142311448490855}
+Lai scaled {1: -0.023613452911376953, 1.5: -0.014258742332458496, 2: -0.01004326343536377, 3: -0.004146695137023926, 4: -0.0006631016731262207, 6: 0.0034400224685668945, 8: 0.005301952362060547}
+C22 ALL PASS

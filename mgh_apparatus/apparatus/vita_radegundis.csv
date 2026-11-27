@@ -1,0 +1,560 @@
+entry,volume,image_leaf,text_line,lemma,reading,witnesses,apparatus_line
+1,mgh_auct_ant_4_2,73,37,,persecutiones,LE,1 persecutiones LE iam — 3 manibus] sed iam tunc tenerae aetatis adhuc (adhuc aetatis H)
+2,mgh_auct_ant_4_2,73,37,manibus,"sed iam tunc tenerae aetatis adhuc adulta, id agere studii habebat, ut quicquid sibi remansisset edulii, collectis paruulis eorumque capitibus mundatis",TH,1 persecutiones LE iam — 3 manibus] sed iam tunc tenerae aetatis adhuc (adhuc aetatis H)
+3,mgh_auct_ant_4_2,73,37,paruulis,aliis paruulis,LE,rumque capitibus (singulorum add. H) mundatis TH 2 paruulis] aliis paruulis LE capita post
+4,mgh_auct_ant_4_2,73,37,,capita post remansisset,M,"remansisset M 3 ipse P1, cibos add. M2(G) ipse P1, ipso M1 4 samuhele] PT paruo"
+5,mgh_auct_ant_4_2,73,37,,paruo,PM,"PM regebat M, om. LE facta cruce lignea M praecedentem] MLE 5 subsequentes"
+6,mgh_auct_ant_4_2,73,37,,regebat,M,"PM regebat M, om. LE facta cruce lignea M praecedentem] MLE 5 subsequentes"
+6,mgh_auct_ant_4_2,73,37,,om.,LE,"PM regebat M, om. LE facta cruce lignea M praecedentem] MLE 5 subsequentes"
+7,mgh_auct_ant_4_2,73,37,,facta cruce lignea,M,"PM regebat M, om. LE facta cruce lignea M praecedentem] MLE 5 subsequentes"
+8,mgh_auct_ant_4_2,73,37,cum,om.,T,P2 cum] om. T 6 et] om. LET nitidans pauimentum] pauimentum nitidans (incidens L)
+9,mgh_auct_ant_4_2,73,37,et,om.,LET,P2 cum] om. T 6 et] om. LET nitidans pauimentum] pauimentum nitidans (incidens L)
+10,mgh_auct_ant_4_2,73,37,nitidans pauimentum,pauimentum nitidans,LET,P2 cum] om. T 6 et] om. LET nitidans pauimentum] pauimentum nitidans (incidens L)
+11,mgh_auct_ant_4_2,73,37,,foras,LET,"LET 7 foras LET 8 uictoriacon] scripsi, cf. Greg. Hist. Fr. IV, 51: ad uillam cui nomen est"
+12,mgh_auct_ant_4_2,73,37,,"IV, 51: ad uillam cui nomen est uicturiacon, uictoria***",P,"uicturiacon, uictoria*** P, uictoriac** M1, uictoriae G, uictoriacum L, uicturiaco T uoluisset] eam"
+12,mgh_auct_ant_4_2,73,37,,uictoriae,G,"uicturiacon, uictoria*** P, uictoriac** M1, uictoriae G, uictoriacum L, uicturiaco T uoluisset] eam"
+12,mgh_auct_ant_4_2,73,37,,uictoriacum,L,"uicturiacon, uictoria*** P, uictoriac** M1, uictoriae G, uictoriacum L, uicturiaco T uoluisset] eam"
+12,mgh_auct_ant_4_2,73,37,,uicturiaco,T,"uicturiacon, uictoria*** P, uictoriac** M1, uictoriae G, uictoriacum L, uicturiaco T uoluisset] eam"
+13,mgh_auct_ant_4_2,73,37,uoluisset,eam add.,LE,"uicturiacon, uictoria*** P, uictoriac** M1, uictoriae G, uictoriacum L, uicturiaco T uoluisset] eam"
+14,mgh_auct_ant_4_2,73,37,adteias,adtegias,M,"add. LE 9 adteias] P, adtegias M, ad atteias L, ab attegias E, ad ateias T noctu PM"
+14,mgh_auct_ant_4_2,73,37,adteias,ad atteias,L,"add. LE 9 adteias] P, adtegias M, ad atteias L, ab attegias E, ad ateias T noctu PM"
+14,mgh_auct_ant_4_2,73,37,adteias,ab attegias,E,"add. LE 9 adteias] P, adtegias M, ad atteias L, ab attegias E, ad ateias T noctu PM"
+14,mgh_auct_ant_4_2,73,37,adteias,ad ateias,T,"add. LE 9 adteias] P, adtegias M, ad atteias L, ab attegias E, ad ateias T noctu PM"
+15,mgh_auct_ant_4_2,73,37,,noctu,PM,"add. LE 9 adteias] P, adtegias M, ad atteias L, ab attegias E, ad ateias T noctu PM"
+16,mgh_auct_ant_4_2,73,37,erigeret,fugit,L,"10 erigeret] fugit L (ubi regnum?), eligeret E euitans] illa euitabat T 11 debetur etiam T"
+17,mgh_auct_ant_4_2,73,37,,", eligeret",E,"10 erigeret] fugit L (ubi regnum?), eligeret E euitans] illa euitabat T 11 debetur etiam T"
+18,mgh_auct_ant_4_2,73,37,euitans,illa euitabat,T,"10 erigeret] fugit L (ubi regnum?), eligeret E euitans] illa euitabat T 11 debetur etiam T"
+19,mgh_auct_ant_4_2,73,37,,debetur etiam,T,"10 erigeret] fugit L (ubi regnum?), eligeret E euitans] illa euitabat T 11 debetur etiam T"
+20,mgh_auct_ant_4_2,73,37,,nubet,L,"12 nubet L, nupsit ET principe PM 13 secularis dignitas plus se inclinauit uoluntas quam per-"
+20,mgh_auct_ant_4_2,73,37,,nupsit,ET,"12 nubet L, nupsit ET principe PM 13 secularis dignitas plus se inclinauit uoluntas quam per-"
+21,mgh_auct_ant_4_2,73,37,,principe,PM,"12 nubet L, nupsit ET principe PM 13 secularis dignitas plus se inclinauit uoluntas quam per-"
+22,mgh_auct_ant_4_2,73,37,,secularis dignitas plus se inclinauit uoluntas quam permitteret dignitas,T,"mitteret dignitas T praemitteret PM sed P1M 15 sub tem| desinit E, ubi 4 folia perierunt"
+23,mgh_auct_ant_4_2,73,37,,praemitteret,PM,"mitteret dignitas T praemitteret PM sed P1M 15 sub tem| desinit E, ubi 4 folia perierunt"
+24,mgh_auct_ant_4_2,73,37,,sub tem| desinit,E,"mitteret dignitas T praemitteret PM sed P1M 15 sub tem| desinit E, ubi 4 folia perierunt"
+25,mgh_auct_ant_4_2,73,37,,folia perierunt gessit,T,"gessit T 16 igitur] MLT, ideo (PG) principe L grato L 17 cum sua T 18 de-"
+26,mgh_auct_ant_4_2,73,37,,ideo principe,L,"gessit T 16 igitur] MLT, ideo (PG) principe L grato L 17 cum sua T 18 de-"
+27,mgh_auct_ant_4_2,73,37,,grato,L,"gessit T 16 igitur] MLT, ideo (PG) principe L grato L 17 cum sua T 18 de-"
+28,mgh_auct_ant_4_2,73,37,,cum sua,T,"gessit T 16 igitur] MLT, ideo (PG) principe L grato L 17 cum sua T 18 de-"
+29,mgh_auct_ant_4_2,73,37,,decimas dedit,L,"cimas dedit L 19 misso LT 20 ad cuius munificentiam L sic] et sicuti P2(GT), sicque L"
+30,mgh_auct_ant_4_2,73,37,,misso,LT,"cimas dedit L 19 misso LT 20 ad cuius munificentiam L sic] et sicuti P2(GT), sicque L"
+31,mgh_auct_ant_4_2,73,37,,ad cuius munificentiam,L,"cimas dedit L 19 misso LT 20 ad cuius munificentiam L sic] et sicuti P2(GT), sicque L"
+32,mgh_auct_ant_4_2,73,37,,", sicque",L,"cimas dedit L 19 misso LT 20 ad cuius munificentiam L sic] et sicuti P2(GT), sicque L"
+33,mgh_auct_ant_4_2,73,37,nec egeni uox,egeni uox non,G,21 nec egeni uox] egeni uox non G 22 eam] om. L 23 prodere L quod] quicquid (LT)
+34,mgh_auct_ant_4_2,73,37,eam,om.,L,21 nec egeni uox] egeni uox non G 22 eam] om. L 23 prodere L quod] quicquid (LT)
+35,mgh_auct_ant_4_2,73,37,,prodere,L,21 nec egeni uox] egeni uox non G 22 eam] om. L 23 prodere L quod] quicquid (LT)
+36,mgh_auct_ant_4_2,73,37,,animo,L,"24 animo L ateias T inheseruit L quo] LT, ubi PMG 25 electis M congregans"
+37,mgh_auct_ant_4_2,73,37,,ateias,T,"24 animo L ateias T inheseruit L quo] LT, ubi PMG 25 electis M congregans"
+38,mgh_auct_ant_4_2,73,37,,inheseruit,L,"24 animo L ateias T inheseruit L quo] LT, ubi PMG 25 electis M congregans"
+39,mgh_auct_ant_4_2,73,37,quo,ubi,PMG,"24 animo L ateias T inheseruit L quo] LT, ubi PMG 25 electis M congregans"
+40,mgh_auct_ant_4_2,73,37,,electis,M,"24 animo L ateias T inheseruit L quo] LT, ubi PMG 25 electis M congregans"
+41,mgh_auct_ant_4_2,73,37,,congregans egenas feminas,L,"egenas feminas L eas] et G, om. LT 26 que om. LT curabat T uiuorum L"
+42,mgh_auct_ant_4_2,73,37,eas,et,G,"egenas feminas L eas] et G, om. LT 26 que om. LT curabat T uiuorum L"
+42,mgh_auct_ant_4_2,73,37,eas,om.,LT,"egenas feminas L eas] et G, om. LT 26 que om. LT curabat T uiuorum L"
+43,mgh_auct_ant_4_2,73,37,,que om.,LT,"egenas feminas L eas] et G, om. LT 26 que om. LT curabat T uiuorum L"
+44,mgh_auct_ant_4_2,73,37,,curabat,T,"egenas feminas L eas] et G, om. LT 26 que om. LT curabat T uiuorum L"
+45,mgh_auct_ant_4_2,73,37,,uiuorum,L,"egenas feminas L eas] et G, om. LT 26 que om. LT curabat T uiuorum L"
+46,mgh_auct_ant_4_2,73,37,,lauerat,T,"27 lauaret P1M, lauerat T recentaret] PMLT, recrearet G2 29 subocculto M, occulte L, sua oc-"
+47,mgh_auct_ant_4_2,73,37,,subocculto,M,"27 lauaret P1M, lauerat T recentaret] PMLT, recrearet G2 29 subocculto M, occulte L, sua oc-"
+47,mgh_auct_ant_4_2,73,37,,occulte,L,"27 lauaret P1M, lauerat T recentaret] PMLT, recrearet G2 29 subocculto M, occulte L, sua oc-"
+47,mgh_auct_ant_4_2,73,37,,sua occulte,T,"27 lauaret P1M, lauerat T recentaret] PMLT, recrearet G2 29 subocculto M, occulte L, sua oc-"
+48,mgh_auct_ant_4_2,73,37,forte,om.,L,"culte T forte] om. L cognoscetur M se] om. M 30 faba P2M2T, fabae uel lenticulae L"
+49,mgh_auct_ant_4_2,73,37,,cognoscetur,M,"culte T forte] om. L cognoscetur M se] om. M 30 faba P2M2T, fabae uel lenticulae L"
+50,mgh_auct_ant_4_2,73,37,se,om.,M,"culte T forte] om. L cognoscetur M se] om. M 30 faba P2M2T, fabae uel lenticulae L"
+51,mgh_auct_ant_4_2,73,37,,fabae uel lenticulae,L,"culte T forte] om. L cognoscetur M se] om. M 30 faba P2M2T, fabae uel lenticulae L"
+52,mgh_auct_ant_4_2,74,92,,occursu,M,1 occursu M excusans regi aliquo casu] om. T 2 conuiuio subducebat L egressa] ut
+53,mgh_auct_ant_4_2,74,92,excusans regi aliquo casu,om.,T,1 occursu M excusans regi aliquo casu] om. T 2 conuiuio subducebat L egressa] ut
+54,mgh_auct_ant_4_2,74,92,,conuiuio subducebat,L,1 occursu M excusans regi aliquo casu] om. T 2 conuiuio subducebat L egressa] ut
+55,mgh_auct_ant_4_2,74,92,egressa,ut add.,MT,1 occursu M excusans regi aliquo casu] om. T 2 conuiuio subducebat L egressa] ut
+56,mgh_auct_ant_4_2,74,92,,requireret,L,add. MT 3 psalleret] et add. P2L requireret L 4 idem PMT rogat L 5 et
+57,mgh_auct_ant_4_2,74,92,,idem,PMT,add. MT 3 psalleret] et add. P2L requireret L 4 idem PMT rogat L 5 et
+58,mgh_auct_ant_4_2,74,92,,rogat,L,add. MT 3 psalleret] et add. P2L requireret L 4 idem PMT rogat L 5 et
+59,mgh_auct_ant_4_2,74,92,,et leuans,LT,leuans LT cubiculum L ante secretum orationi] secreta oratione L 6 spiritu M 7 tor-
+60,mgh_auct_ant_4_2,74,92,,cubiculum,L,leuans LT cubiculum L ante secretum orationi] secreta oratione L 6 spiritu M 7 tor-
+61,mgh_auct_ant_4_2,74,92,ante secretum orationi,secreta oratione,L,leuans LT cubiculum L ante secretum orationi] secreta oratione L 6 spiritu M 7 tor-
+62,mgh_auct_ant_4_2,74,92,,spiritu,M,leuans LT cubiculum L ante secretum orationi] secreta oratione L 6 spiritu M 7 tor-
+63,mgh_auct_ant_4_2,74,92,tormenta,om.,G,leuans LT cubiculum L ante secretum orationi] secreta oratione L 6 spiritu M 7 tor-
+63,mgh_auct_ant_4_2,74,92,tormenta,tormentum,L,leuans LT cubiculum L ante secretum orationi] secreta oratione L 6 spiritu M 7 tor-
+64,mgh_auct_ant_4_2,74,92,,reputabat leuissimum quid,T,"menta] om. G, tormentum L reputabat leuissimum quid T 8 ne*, ras. c M cubiculo T"
+65,mgh_auct_ant_4_2,74,92,,"ne*, ras. c",M,"menta] om. G, tormentum L reputabat leuissimum quid T 8 ne*, ras. c M cubiculo T"
+66,mgh_auct_ant_4_2,74,92,,cubiculo,T,"menta] om. G, tormentum L reputabat leuissimum quid T 8 ne*, ras. c M cubiculo T"
+67,mgh_auct_ant_4_2,74,92,uix,uel,L,"uix] uel L 9 regem L potius se L, se magis T 10 inritatus] in tantis G1, tantis G2"
+68,mgh_auct_ant_4_2,74,92,,regem,L,"uix] uel L 9 regem L potius se L, se magis T 10 inritatus] in tantis G1, tantis G2"
+69,mgh_auct_ant_4_2,74,92,,potius se,L,"uix] uel L 9 regem L potius se L, se magis T 10 inritatus] in tantis G1, tantis G2"
+69,mgh_auct_ant_4_2,74,92,,se magis,T,"uix] uel L 9 regem L potius se L, se magis T 10 inritatus] in tantis G1, tantis G2"
+70,mgh_auct_ant_4_2,74,92,inlatas,om.,L,"pro — 11 inlatas] om. L 11 coniuge] rege PM 12 retexit P2(T), redegit L 13 poeniten-"
+71,mgh_auct_ant_4_2,74,92,coniuge,rege,PM,"pro — 11 inlatas] om. L 11 coniuge] rege PM 12 retexit P2(T), redegit L 13 poeniten-"
+72,mgh_auct_ant_4_2,74,92,,", redegit",L,"pro — 11 inlatas] om. L 11 coniuge] rege PM 12 retexit P2(T), redegit L 13 poeniten-"
+73,mgh_auct_ant_4_2,74,92,,poenitentem,L,tem L ieiunii tempore] om. L mittens] mittebat post piam T 14 monacham nomine piam
+74,mgh_auct_ant_4_2,74,92,ieiunii tempore,om.,L,tem L ieiunii tempore] om. L mittens] mittebat post piam T 14 monacham nomine piam
+75,mgh_auct_ant_4_2,74,92,mittens,mittebat post piam,T,tem L ieiunii tempore] om. L mittens] mittebat post piam T 14 monacham nomine piam
+76,mgh_auct_ant_4_2,74,92,,monacham nomine piam,LT,LT cui] in G2 15 cilicium in linteo sigillatum L 16 ueste regia MG portauit L
+77,mgh_auct_ant_4_2,74,92,,cilicium in linteo sigillatum,L,LT cui] in G2 15 cilicium in linteo sigillatum L 16 ueste regia MG portauit L
+78,mgh_auct_ant_4_2,74,92,,ueste regia,MG,LT cui] in G2 15 cilicium in linteo sigillatum L 16 ueste regia MG portauit L
+79,mgh_auct_ant_4_2,74,92,,portauit,L,LT cui] in G2 15 cilicium in linteo sigillatum L 16 ueste regia MG portauit L
+80,mgh_auct_ant_4_2,74,92,transactis,autem add.,LT,"transactis] autem add. LT 17 si L 18 defunderet] P1MG1, diffunderet (LT) et] om. L"
+81,mgh_auct_ant_4_2,74,92,,si,L,"transactis] autem add. LT 17 si L 18 defunderet] P1MG1, diffunderet (LT) et] om. L"
+82,mgh_auct_ant_4_2,74,92,diffunderet et,om.,L,"transactis] autem add. LT 17 si L 18 defunderet] P1MG1, diffunderet (LT) et] om. L"
+83,mgh_auct_ant_4_2,74,92,,satiaret,G,19 satiaret G dispectu L 20 christus] christi illi L in christo] om. PM 21 quod
+84,mgh_auct_ant_4_2,74,92,,dispectu,L,19 satiaret G dispectu L 20 christus] christi illi L in christo] om. PM 21 quod
+85,mgh_auct_ant_4_2,74,92,christus,christi illi,L,19 satiaret G dispectu L 20 christus] christi illi L in christo] om. PM 21 quod
+86,mgh_auct_ant_4_2,74,92,in christo,om.,PM,19 satiaret G dispectu L 20 christus] christi illi L in christo] om. PM 21 quod
+87,mgh_auct_ant_4_2,74,92,,perageret sollicite,L,P1M perageret sollicite L ut quae per] circumiens PM 22 tota] ut tota PM ministra-
+88,mgh_auct_ant_4_2,74,92,ut quae per,circumiens,PM,P1M perageret sollicite L ut quae per] circumiens PM 22 tota] ut tota PM ministra-
+89,mgh_auct_ant_4_2,74,92,tota,ut tota,PM,P1M perageret sollicite L ut quae per] circumiens PM 22 tota] ut tota PM ministra-
+90,mgh_auct_ant_4_2,74,92,,ministraret. pro quarum morti serotina,L,"ret. pro quarum morti serotina L 23 quod se ad mansam (?) rex requireret L, rex quod ad mensam T"
+91,mgh_auct_ant_4_2,74,92,,quod se ad mansam rex requireret,L,"ret. pro quarum morti serotina L 23 quod se ad mansam (?) rex requireret L, rex quod ad mensam T"
+91,mgh_auct_ant_4_2,74,92,,rex quod ad mensam,T,"ret. pro quarum morti serotina L 23 quod se ad mansam (?) rex requireret L, rex quod ad mensam T"
+92,mgh_auct_ant_4_2,74,92,,satagit,L,24 satagit L a] cum PM uicibus] cf. V. Paterni c. 9 pro munere L 25 ei per]
+93,mgh_auct_ant_4_2,74,92,a,cum,PM,24 satagit L a] cum PM uicibus] cf. V. Paterni c. 9 pro munere L 25 ei per]
+94,mgh_auct_ant_4_2,74,92,,pro munere,L,24 satagit L a] cum PM uicibus] cf. V. Paterni c. 9 pro munere L 25 ei per]
+95,mgh_auct_ant_4_2,74,92,ei per,om.,L,24 satagit L a] cum PM uicibus] cf. V. Paterni c. 9 pro munere L 25 ei per]
+95,mgh_auct_ant_4_2,74,92,ei per,per,T,24 satagit L a] cum PM uicibus] cf. V. Paterni c. 9 pro munere L 25 ei per]
+96,mgh_auct_ant_4_2,74,92,,dei uel per se uel uocatus uisus fuisset occurrere,T,"om. L, per T 26 dei uel per se uel uocatus uisus fuisset occurrere T pro PM1(G) prouocatus"
+97,mgh_auct_ant_4_2,74,92,,prouocatus,G,"G, euocatus L 27 occurreret M2 uideres illam LT se putabat] om. LT decursa L"
+97,mgh_auct_ant_4_2,74,92,,euocatus,L,"G, euocatus L 27 occurreret M2 uideres illam LT se putabat] om. LT decursa L"
+98,mgh_auct_ant_4_2,74,92,,uideres illam,LT,"G, euocatus L 27 occurreret M2 uideres illam LT se putabat] om. LT decursa L"
+99,mgh_auct_ant_4_2,74,92,se putabat,om.,LT,"G, euocatus L 27 occurreret M2 uideres illam LT se putabat] om. LT decursa L"
+100,mgh_auct_ant_4_2,74,92,,decursa,L,"G, euocatus L 27 occurreret M2 uideres illam LT se putabat] om. LT decursa L"
+101,mgh_auct_ant_4_2,74,92,,pace,M,"28 pace M intimis] thermis in mg. add. M2, inrmis T 29 et propinabat in patera] propinabat"
+102,mgh_auct_ant_4_2,74,92,intimis,inrmis,T,"28 pace M intimis] thermis in mg. add. M2, inrmis T 29 et propinabat in patera] propinabat"
+103,mgh_auct_ant_4_2,74,92,et propinabat in patera,propinabat ei pateram,T,"28 pace M intimis] thermis in mg. add. M2, inrmis T 29 et propinabat in patera] propinabat"
+104,mgh_auct_ant_4_2,74,92,,tota,PG,"ei pateram T 30 tota PG, om. M 31 adipiscendi] P1MG1, instituta circa dispicienda mundi L,"
+104,mgh_auct_ant_4_2,74,92,,om.,M,"ei pateram T 30 tota PG, om. M 31 adipiscendi] P1MG1, instituta circa dispicienda mundi L,"
+105,mgh_auct_ant_4_2,74,92,adipiscendi,instituta circa dispicienda mundi,L,"ei pateram T 30 tota PG, om. M 31 adipiscendi] P1MG1, instituta circa dispicienda mundi L,"
+106,mgh_auct_ant_4_2,74,92,uenisset,presbyter aut add.,L,adipiscenda (T) 32 uenisset] presbyter aut add. L in aspectu — 33 relaxabat] quos uir deus
+107,mgh_auct_ant_4_2,74,92,relaxabat,quos uir deus letificata remunerare laxabat,L,adipiscenda (T) 32 uenisset] presbyter aut add. L in aspectu — 33 relaxabat] quos uir deus
+108,mgh_auct_ant_4_2,75,148,,mauorte lineo sauano nouo auro,T,2 mauorte lineo sauano nouo auro T : cf. Du Cange Gloss. ed. Henschel tom. VI p. 1 ornato
+109,mgh_auct_ant_4_2,75,148,,ornato,T,"T uestiuit barbaro et a L, uestiebatur barbaro T 3 pueris, superscr. uel puellis T 4 tali]"
+110,mgh_auct_ant_4_2,75,148,,uestiuit barbaro et a,L,"T uestiuit barbaro et a L, uestiebatur barbaro T 3 pueris, superscr. uel puellis T 4 tali]"
+110,mgh_auct_ant_4_2,75,148,,uestiebatur barbaro,T,"T uestiuit barbaro et a L, uestiebatur barbaro T 3 pueris, superscr. uel puellis T 4 tali]"
+111,mgh_auct_ant_4_2,75,148,,"pueris, superscr. uel puellis",T,"T uestiuit barbaro et a L, uestiebatur barbaro T 3 pueris, superscr. uel puellis T 4 tali]"
+112,mgh_auct_ant_4_2,75,148,tali,om.,L,"T uestiuit barbaro et a L, uestiebatur barbaro T 3 pueris, superscr. uel puellis T 4 tali]"
+113,mgh_auct_ant_4_2,75,148,,indumento,L,"om. L indumento L sancto loco M, loco sancto dirigebat L 5 pro] om. L super"
+114,mgh_auct_ant_4_2,75,148,,sancto loco,M,"om. L indumento L sancto loco M, loco sancto dirigebat L 5 pro] om. L super"
+114,mgh_auct_ant_4_2,75,148,,loco sancto dirigebat,L,"om. L indumento L sancto loco M, loco sancto dirigebat L 5 pro] om. L super"
+115,mgh_auct_ant_4_2,75,148,pro,om.,L,"om. L indumento L sancto loco M, loco sancto dirigebat L 5 pro] om. L super"
+116,mgh_auct_ant_4_2,75,148,,super altario diuino,L,altario diuino L 7 reus gladio moreretur L 8 quorum] cuius L 9 in] om. T pro-
+117,mgh_auct_ant_4_2,75,148,,reus gladio moreretur,L,altario diuino L 7 reus gladio moreretur L 8 quorum] cuius L 9 in] om. T pro-
+118,mgh_auct_ant_4_2,75,148,quorum,cuius,L,altario diuino L 7 reus gladio moreretur L 8 quorum] cuius L 9 in] om. T pro-
+119,mgh_auct_ant_4_2,75,148,in,om.,T,altario diuino L 7 reus gladio moreretur L 8 quorum] cuius L 9 in] om. T pro-
+120,mgh_auct_ant_4_2,75,148,,processit,M,"cessit M 12 laicam L declararent L pro ea] PMG, om. L, per eam (T) denique dum"
+121,mgh_auct_ant_4_2,75,148,,laicam,L,"cessit M 12 laicam L declararent L pro ea] PMG, om. L, per eam (T) denique dum"
+122,mgh_auct_ant_4_2,75,148,,declararent,L,"cessit M 12 laicam L declararent L pro ea] PMG, om. L, per eam (T) denique dum"
+123,mgh_auct_ant_4_2,75,148,pro ea,om.,L,"cessit M 12 laicam L declararent L pro ea] PMG, om. L, per eam (T) denique dum"
+124,mgh_auct_ant_4_2,75,148,,prandium ambularet,L,"in — 13 prandium ambularet L 13 perrunna M, berrona L pro orto scisma L retrusi] et"
+125,mgh_auct_ant_4_2,75,148,,perrunna,M,"in — 13 prandium ambularet L 13 perrunna M, berrona L pro orto scisma L retrusi] et"
+125,mgh_auct_ant_4_2,75,148,,berrona,L,"in — 13 prandium ambularet L 13 perrunna M, berrona L pro orto scisma L retrusi] et"
+126,mgh_auct_ant_4_2,75,148,,pro orto scisma,L,"in — 13 prandium ambularet L 13 perrunna M, berrona L pro orto scisma L retrusi] et"
+127,mgh_auct_ant_4_2,75,148,retrusi,et rusi,L,"in — 13 prandium ambularet L 13 perrunna M, berrona L pro orto scisma L retrusi] et"
+127,mgh_auct_ant_4_2,75,148,retrusi,trusi,T,"in — 13 prandium ambularet L 13 perrunna M, berrona L pro orto scisma L retrusi] et"
+128,mgh_auct_ant_4_2,75,148,ipsa,autem add.,T,"rusi L, trusi T 14 ipsa] autem add. T 15 interrogabat M turba mendicorum L"
+129,mgh_auct_ant_4_2,75,148,,interrogabat,M,"rusi L, trusi T 14 ipsa] autem add. T 15 interrogabat M turba mendicorum L"
+130,mgh_auct_ant_4_2,75,148,,turba mendicorum,L,"rusi L, trusi T 14 ipsa] autem add. T 15 interrogabat M turba mendicorum L"
+131,mgh_auct_ant_4_2,75,148,,occurrunt soluti,L,"16 quod] PMT, quo (L) 18 occurrunt soluti L, sanctae occurrunt T 19 dumque L 21 re-"
+131,mgh_auct_ant_4_2,75,148,,sanctae occurrunt,T,"16 quod] PMT, quo (L) 18 occurrunt soluti L, sanctae occurrunt T 19 dumque L 21 re-"
+132,mgh_auct_ant_4_2,75,148,,dumque,L,"16 quod] PMT, quo (L) 18 occurrunt soluti L, sanctae occurrunt T 19 dumque L 21 re-"
+133,mgh_auct_ant_4_2,75,148,,religiosus,L,"ligiosus L interficitur] cf. carm. de excidio Thoringiae v. 124 et Greg. Hist. Fr. III, 7 innocen-"
+134,mgh_auct_ant_4_2,75,148,,innocentis. igitur directa,L,"tis. igitur directa L 22 nouomago] PM1G1, nouiomagum L ipse PM 23 consecrarit P1,"
+135,mgh_auct_ant_4_2,75,148,nouomago,nouiomagum,L,"tis. igitur directa L 22 nouomago] PM1G1, nouiomagum L ipse PM 23 consecrarit P1,"
+136,mgh_auct_ant_4_2,75,148,,ipse,PM,"tis. igitur directa L 22 nouomago] PM1G1, nouiomagum L ipse PM 23 consecrarit P1,"
+137,mgh_auct_ant_4_2,75,148,,apostoli dicentis,LT,"corr. P2 apostoli dicentis LT quae L coniuge L 24 uestem P1 adhoc M2T,"
+138,mgh_auct_ant_4_2,75,148,,quae,L,"corr. P2 apostoli dicentis LT quae L coniuge L 24 uestem P1 adhoc M2T,"
+139,mgh_auct_ant_4_2,75,148,,coniuge,L,"corr. P2 apostoli dicentis LT quae L coniuge L 24 uestem P1 adhoc M2T,"
+140,mgh_auct_ant_4_2,75,148,,etiam add.,T,"etiam add. T 25 proturbabant M ad altare M1, ab altario L, ab altare grauiter T 27 non"
+141,mgh_auct_ant_4_2,75,148,,proturbabant,M,"etiam add. T 25 proturbabant M ad altare M1, ab altario L, ab altare grauiter T 27 non"
+142,mgh_auct_ant_4_2,75,148,,ab altario,L,"etiam add. T 25 proturbabant M ad altare M1, ab altario L, ab altare grauiter T 27 non"
+142,mgh_auct_ant_4_2,75,148,,ab altare grauiter,T,"etiam add. T 25 proturbabant M ad altare M1, ab altario L, ab altare grauiter T 27 non"
+143,mgh_auct_ant_4_2,75,148,,non publi|,L,"publi| L secretario L 28 monachica] e corr. ca P, monachi*ica G, monachi| L induitur]"
+144,mgh_auct_ant_4_2,75,148,,secretario,L,"publi| L secretario L 28 monachica] e corr. ca P, monachi*ica G, monachi| L induitur]"
+145,mgh_auct_ant_4_2,75,148,monachica,e corr. ca,P,"publi| L secretario L 28 monachica] e corr. ca P, monachi*ica G, monachi| L induitur]"
+145,mgh_auct_ant_4_2,75,148,monachica,monachi*ica,G,"publi| L secretario L 28 monachica] e corr. ca P, monachi*ica G, monachi| L induitur]"
+145,mgh_auct_ant_4_2,75,148,monachica,monachi|,L,"publi| L secretario L 28 monachica] e corr. ca P, monachi*ica G, monachi| L induitur]"
+146,mgh_auct_ant_4_2,75,148,induitur,et add.,L,"publi| L secretario L 28 monachica] e corr. ca P, monachi*ica G, monachi| L induitur]"
+147,mgh_auct_ant_4_2,75,148,altare,et add.,T,et add. L altare] et add. T 30 pastor] a pastore P2(T) qua T 31 tonitruo] om. T
+148,mgh_auct_ant_4_2,75,148,,qua,T,et add. L altare] et add. T 30 pastor] a pastore P2(T) qua T 31 tonitruo] om. T
+149,mgh_auct_ant_4_2,75,148,tonitruo,om.,T,et add. L altare] et add. T 30 pastor] a pastore P2(T) qua T 31 tonitruo] om. T
+150,mgh_auct_ant_4_2,75,148,blattis,ablatis,M,"33 blattis] P1GLT, ablatis M, oblatis P2 mensam] eam (?) ense L"
+151,mgh_auct_ant_4_2,76,200,,pro honore,L,1 pro honore L auro LT 2 pauperes L humeris L 3 barbaro] om. L sta-
+152,mgh_auct_ant_4_2,76,200,,auro,LT,1 pro honore L auro LT 2 pauperes L humeris L 3 barbaro] om. L sta-
+153,mgh_auct_ant_4_2,76,200,,pauperes,L,1 pro honore L auro LT 2 pauperes L humeris L 3 barbaro] om. L sta-
+154,mgh_auct_ant_4_2,76,200,,humeris,L,1 pro honore L auro LT 2 pauperes L humeris L 3 barbaro] om. L sta-
+155,mgh_auct_ant_4_2,76,200,barbaro,om.,L,1 pro honore L auro LT 2 pauperes L humeris L 3 barbaro] om. L sta-
+156,mgh_auct_ant_4_2,76,200,,stabionem,L,"bionem L, cf. Graff, Ahd. Sprachschatz tom. VI, p. 655 camisas] MPG 4 cofias] cf. Forcellini tom. II,"
+157,mgh_auct_ant_4_2,76,200,,redit,E,"p. 256, redit E 5 tradidit T altari GT dadonis T quo LE 6 induere LE 7 factis"
+158,mgh_auct_ant_4_2,76,200,,tradidit,T,"p. 256, redit E 5 tradidit T altari GT dadonis T quo LE 6 induere LE 7 factis"
+159,mgh_auct_ant_4_2,76,200,,altari,GT,"p. 256, redit E 5 tradidit T altari GT dadonis T quo LE 6 induere LE 7 factis"
+160,mgh_auct_ant_4_2,76,200,,dadonis,T,"p. 256, redit E 5 tradidit T altari GT dadonis T quo LE 6 induere LE 7 factis"
+161,mgh_auct_ant_4_2,76,200,,quo,LE,"p. 256, redit E 5 tradidit T altari GT dadonis T quo LE 6 induere LE 7 factis"
+162,mgh_auct_ant_4_2,76,200,,induere,LE,"p. 256, redit E 5 tradidit T altari GT dadonis T quo LE 6 induere LE 7 factis"
+163,mgh_auct_ant_4_2,76,200,,factis tamitis,L,"tamitis L, facti mitis E 8 synergium] cf. Du Cange Gloss. tom. VI, p. 472 10 ociosam M"
+163,mgh_auct_ant_4_2,76,200,,facti mitis,E,"tamitis L, facti mitis E 8 synergium] cf. Du Cange Gloss. tom. VI, p. 472 10 ociosam M"
+164,mgh_auct_ant_4_2,76,200,,ociosam,M,"tamitis L, facti mitis E 8 synergium] cf. Du Cange Gloss. tom. VI, p. 472 10 ociosam M"
+165,mgh_auct_ant_4_2,76,200,quantumque,quam,LE,quantumque] quam LE quod M 12 ferre] ornare in T sacro conponit altari (altario LE)]
+166,mgh_auct_ant_4_2,76,200,,quod,M,quantumque] quam LE quod M 12 ferre] ornare in T sacro conponit altari (altario LE)]
+167,mgh_auct_ant_4_2,76,200,ferre,ornare in,T,quantumque] quam LE quod M 12 ferre] ornare in T sacro conponit altari (altario LE)]
+168,mgh_auct_ant_4_2,76,200,,condotense,E,"PMG1LE 13 conditum P1M, condatum P2, condotense E, condatensem (T): cf. Greg. Hist. Fr. X, 31"
+169,mgh_auct_ant_4_2,76,200,de,a,M,"obiit apud condatensem uicum urbis suae quo] LE, ubi rell. 14 de] a M 16 suaedas GT"
+170,mgh_auct_ant_4_2,76,200,,suaedas,GT,"obiit apud condatensem uicum urbis suae quo] LE, ubi rell. 14 de] a M 16 suaedas GT"
+171,mgh_auct_ant_4_2,76,200,,pectauo,L,"pectauo L, pictauio E 17 qualiter (PG), quale L enumerat G 18 fladone] cf. Forcellini"
+171,mgh_auct_ant_4_2,76,200,,pictauio,E,"pectauo L, pictauio E 17 qualiter (PG), quale L enumerat G 18 fladone] cf. Forcellini"
+172,mgh_auct_ant_4_2,76,200,,"qualiter , quale",L,"pectauo L, pictauio E 17 qualiter (PG), quale L enumerat G 18 fladone] cf. Forcellini"
+173,mgh_auct_ant_4_2,76,200,,enumerat,G,"pectauo L, pictauio E 17 qualiter (PG), quale L enumerat G 18 fladone] cf. Forcellini"
+174,mgh_auct_ant_4_2,76,200,sigilatium,segalatium,G,"tom. III, p. 92 sigilatium] PMT, segalatium G, selacio L, sic allato E, cf. infra p. 44, 11 pa-"
+174,mgh_auct_ant_4_2,76,200,sigilatium,selacio,L,"tom. III, p. 92 sigilatium] PMT, segalatium G, selacio L, sic allato E, cf. infra p. 44, 11 pa-"
+174,mgh_auct_ant_4_2,76,200,sigilatium,sic allato,E,"tom. III, p. 92 sigilatium] PMT, segalatium G, selacio L, sic allato E, cf. infra p. 44, 11 pa-"
+175,mgh_auct_ant_4_2,76,200,,panem absconsum ante sigilatium,M,"nem absconsum ante sigilatium M, pane absconso LE uel] et (PG) ordeacio L, ordeaceo E"
+175,mgh_auct_ant_4_2,76,200,,pane absconso,LE,"nem absconsum ante sigilatium M, pane absconso LE uel] et (PG) ordeacio L, ordeaceo E"
+176,mgh_auct_ant_4_2,76,200,uel,et ordeacio,L,"nem absconsum ante sigilatium M, pane absconso LE uel] et (PG) ordeacio L, ordeaceo E"
+176,mgh_auct_ant_4_2,76,200,uel,ordeaceo,E,"nem absconsum ante sigilatium M, pane absconso LE uel] et (PG) ordeacio L, ordeaceo E"
+177,mgh_auct_ant_4_2,76,200,uero praeter,om.,L,"manducauit P1M 20 legumen — 21 uero praeter] om. L (non E) et] suppl. P2, om. M"
+178,mgh_auct_ant_4_2,76,200,et,om.,M,"manducauit P1M 20 legumen — 21 uero praeter] om. L (non E) et] suppl. P2, om. M"
+179,mgh_auct_ant_4_2,76,200,non,om.,M,"non] om. M 21 nec] ne M quid] om. T edidit G1, esui habuit T uero] om. LE"
+180,mgh_auct_ant_4_2,76,200,nec,ne,M,"non] om. M 21 nec] ne M quid] om. T edidit G1, esui habuit T uero] om. LE"
+181,mgh_auct_ant_4_2,76,200,quid,om.,T,"non] om. M 21 nec] ne M quid] om. T edidit G1, esui habuit T uero] om. LE"
+182,mgh_auct_ant_4_2,76,200,,esui habuit,T,"non] om. M 21 nec] ne M quid] om. T edidit G1, esui habuit T uero] om. LE"
+183,mgh_auct_ant_4_2,76,200,uero,om.,LE,"non] om. M 21 nec] ne M quid] om. T edidit G1, esui habuit T uero] om. LE"
+184,mgh_auct_ant_4_2,76,200,aut,atque,M,"piratium] cf. Forcellini tom. VI, p. 681 22 aut] atque M medus PG, medis M1, medonis M2"
+185,mgh_auct_ant_4_2,76,200,,medus,PG,"piratium] cf. Forcellini tom. VI, p. 681 22 aut] atque M medus PG, medis M1, medonis M2"
+186,mgh_auct_ant_4_2,76,200,codd. non contigit,om.,L,"ceruisaeque] codd. non contigit] om. L, non bibit E 23 tumore M 24 tota quadragesima"
+186,mgh_auct_ant_4_2,76,200,codd. non contigit,non bibit,E,"ceruisaeque] codd. non contigit] om. L, non bibit E 23 tumore M 24 tota quadragesima"
+187,mgh_auct_ant_4_2,76,200,,tumore,M,"ceruisaeque] codd. non contigit] om. L, non bibit E 23 tumore M 24 tota quadragesima"
+188,mgh_auct_ant_4_2,76,200,postulauit,sua manu conmoluit add.,L,"(MT) quatriduanam G1 postulauit] sua manu conmoluit add. L, commuluit add. E 25 in-"
+188,mgh_auct_ant_4_2,76,200,postulauit,commuluit add.,E,"(MT) quatriduanam G1 postulauit] sua manu conmoluit add. L, commuluit add. E 25 in-"
+189,mgh_auct_ant_4_2,76,200,,incessanter,LET,"cessanter LET 26 nec] ne M, ut nec (ET) 27 donaretur (GT) 28 tot thesauri T"
+190,mgh_auct_ant_4_2,76,200,nec,ne,M,"cessanter LET 26 nec] ne M, ut nec (ET) 27 donaretur (GT) 28 tot thesauri T"
+191,mgh_auct_ant_4_2,76,200,,tot thesauri,T,"cessanter LET 26 nec] ne M, ut nec (ET) 27 donaretur (GT) 28 tot thesauri T"
+192,mgh_auct_ant_4_2,76,200,,unde *** peregrinae tot diuitiae,T,"unde *** (ras. tot) peregrinae tot diuitiae T 31 quintum et sabbato P1M, diebus quinta scilicet feria"
+193,mgh_auct_ant_4_2,76,200,,diebus quinta scilicet feria et sabbato,T,"et sabbato T de] om. T 32 sauano] v. supra p. 41, l. 2 crustae T"
+194,mgh_auct_ant_4_2,76,200,de,om.,T,"et sabbato T de] om. T 32 sauano] v. supra p. 41, l. 2 crustae T"
+195,mgh_auct_ant_4_2,76,200,,crustae,T,"et sabbato T de] om. T 32 sauano] v. supra p. 41, l. 2 crustae T"
+196,mgh_auct_ant_4_2,77,257,,pectinabat,LE,1 pectinabat LE 4 ad] deest G inueterata T 5 reddebat T 8 conuiuiis P1M
+197,mgh_auct_ant_4_2,77,257,ad,deest,G,1 pectinabat LE 4 ad] deest G inueterata T 5 reddebat T 8 conuiuiis P1M
+198,mgh_auct_ant_4_2,77,257,,inueterata,T,1 pectinabat LE 4 ad] deest G inueterata T 5 reddebat T 8 conuiuiis P1M
+199,mgh_auct_ant_4_2,77,257,,reddebat,T,1 pectinabat LE 4 ad] deest G inueterata T 5 reddebat T 8 conuiuiis P1M
+200,mgh_auct_ant_4_2,77,257,,cocleariis,L,"10 cocleariis L, coclea E sola se PM 11 marta PM fierent] feruerent LE 13 assurgere"
+200,mgh_auct_ant_4_2,77,257,,coclea,E,"10 cocleariis L, coclea E sola se PM 11 marta PM fierent] feruerent LE 13 assurgere"
+201,mgh_auct_ant_4_2,77,257,,sola se,PM,"10 cocleariis L, coclea E sola se PM 11 marta PM fierent] feruerent LE 13 assurgere"
+202,mgh_auct_ant_4_2,77,257,,marta,PM,"10 cocleariis L, coclea E sola se PM 11 marta PM fierent] feruerent LE 13 assurgere"
+203,mgh_auct_ant_4_2,77,257,fierent,feruerent,LE,"10 cocleariis L, coclea E sola se PM 11 marta PM fierent] feruerent LE 13 assurgere"
+204,mgh_auct_ant_4_2,77,257,,assurgere uellent,T,"uellent T 14 omni] om. M uel aestate] aestate T 15 primum LE 16 omnes G,"
+205,mgh_auct_ant_4_2,77,257,omni,om.,M,"uellent T 14 omni] om. M uel aestate] aestate T 15 primum LE 16 omnes G,"
+206,mgh_auct_ant_4_2,77,257,uel aestate,aestate,T,"uellent T 14 omni] om. M uel aestate] aestate T 15 primum LE 16 omnes G,"
+207,mgh_auct_ant_4_2,77,257,,primum,LE,"uellent T 14 omni] om. M uel aestate] aestate T 15 primum LE 16 omnes G,"
+208,mgh_auct_ant_4_2,77,257,,omnes,G,"uellent T 14 omni] om. M uel aestate] aestate T 15 primum LE 16 omnes G,"
+208,mgh_auct_ant_4_2,77,257,,om.,M,"uellent T 14 omni] om. M uel aestate] aestate T 15 primum LE 16 omnes G,"
+209,mgh_auct_ant_4_2,77,257,orationi occurrere,orationi incurrere,M,"om. M orationi occurrere] orationi incurrere M, ad orationem recurrere L, orationi incumbere E"
+209,mgh_auct_ant_4_2,77,257,orationi occurrere,ad orationem recurrere,L,"om. M orationi occurrere] orationi incurrere M, ad orationem recurrere L, orationi incumbere E"
+209,mgh_auct_ant_4_2,77,257,orationi occurrere,orationi incumbere,E,"om. M orationi occurrere] orationi incurrere M, ad orationem recurrere L, orationi incumbere E"
+210,mgh_auct_ant_4_2,77,257,et cursum,ad cursum,M,"17 et cursum] corr. P2, ad cursum M occurrit L 18 relaxaret T 19 dulcedinem P1"
+211,mgh_auct_ant_4_2,77,257,,occurrit,L,"17 et cursum] corr. P2, ad cursum M occurrit L 18 relaxaret T 19 dulcedinem P1"
+212,mgh_auct_ant_4_2,77,257,,relaxaret,T,"17 et cursum] corr. P2, ad cursum M occurrit L 18 relaxaret T 19 dulcedinem P1"
+213,mgh_auct_ant_4_2,77,257,,intromittebantur,LE,"22 cannas] v. Du Cange Gloss. tom. II, p. 97 intromittebantur LE, intromittebat T 23 lepra"
+213,mgh_auct_ant_4_2,77,257,,intromittebat,T,"22 cannas] v. Du Cange Gloss. tom. II, p. 97 intromittebantur LE, intromittebat T 23 lepra"
+214,mgh_auct_ant_4_2,77,257,maculis,perfusas maculis,T,"P1 maculis] perfusas maculis T 24 uultus LE, osculabatur in deoeas toto T 26 uesti-"
+215,mgh_auct_ant_4_2,77,257,,uultus,LE,"P1 maculis] perfusas maculis T 24 uultus LE, osculabatur in deoeas toto T 26 uesti-"
+215,mgh_auct_ant_4_2,77,257,,osculabatur in deoeas toto,T,"P1 maculis] perfusas maculis T 24 uultus LE, osculabatur in deoeas toto T 26 uesti-"
+216,mgh_auct_ant_4_2,77,257,uestimenti,solatium add.,T,"P1 maculis] perfusas maculis T 24 uultus LE, osculabatur in deoeas toto T 26 uesti-"
+217,mgh_auct_ant_4_2,77,257,,munifica,GT,"menti] solatium add. T munifica GT 27 et] PMG, et si L, om. E, eam (T) appel-"
+218,mgh_auct_ant_4_2,77,257,et,et si,L,"menti] solatium add. T munifica GT 27 et] PMG, et si L, om. E, eam (T) appel-"
+218,mgh_auct_ant_4_2,77,257,et,om.,E,"menti] solatium add. T munifica GT 27 et] PMG, et si L, om. E, eam (T) appel-"
+219,mgh_auct_ant_4_2,77,257,,beneuolo,L,"lari P1 28 beneuolo L, om. E uere si me] uenire L, uerum si me E 29 osculas M1,"
+219,mgh_auct_ant_4_2,77,257,,om.,E,"lari P1 28 beneuolo L, om. E uere si me] uenire L, uerum si me E 29 osculas M1,"
+220,mgh_auct_ant_4_2,77,257,uere si me,uenire,L,"lari P1 28 beneuolo L, om. E uere si me] uenire L, uerum si me E 29 osculas M1,"
+220,mgh_auct_ant_4_2,77,257,uere si me,uerum si me,E,"lari P1 28 beneuolo L, om. E uere si me] uenire L, uerum si me E 29 osculas M1,"
+221,mgh_auct_ant_4_2,77,257,cura nec ulla,cura nulla,M,"oscularis M2 cura nec ulla] cura nulla M, nulla cura T 30 fulgit M1 31 auferebat PM,"
+221,mgh_auct_ant_4_2,77,257,cura nec ulla,nulla cura,T,"oscularis M2 cura nec ulla] cura nulla M, nulla cura T 30 fulgit M1 31 auferebat PM,"
+222,mgh_auct_ant_4_2,77,257,,auferebat,PM,"oscularis M2 cura nec ulla] cura nulla M, nulla cura T 30 fulgit M1 31 auferebat PM,"
+223,mgh_auct_ant_4_2,77,257,,esse hoc,M,"ut infra pampani] PMG 32 esse hoc M si P1G, sicque (T) obtento uix T super-"
+224,mgh_auct_ant_4_2,77,257,,sicque obtento uix,T,"ut infra pampani] PMG 32 esse hoc M si P1G, sicque (T) obtento uix T super-"
+225,mgh_auct_ant_4_2,77,257,,superpositum,T,"positum T 33 item] E, idem MG2LT, id est P1G1, et P2 frigoraticus MP1 34 sanctae"
+226,mgh_auct_ant_4_2,77,257,,sanctae feminae,T,feminae T offerebat T 35 accensa (L)(T) morbidus] autem add. M
+227,mgh_auct_ant_4_2,77,257,,offerebat,T,feminae T offerebat T 35 accensa (L)(T) morbidus] autem add. M
+228,mgh_auct_ant_4_2,77,257,accensa morbidus,autem add.,M,feminae T offerebat T 35 accensa (L)(T) morbidus] autem add. M
+229,mgh_auct_ant_4_2,78,308,cum,om.,LET,"1 cum] om. LET 2 et] ad M1, uel P1 calido P2LET 3 quid] om. T cibariae L,"
+230,mgh_auct_ant_4_2,78,308,quid,om.,T,"1 cum] om. LET 2 et] ad M1, uel P1 calido P2LET 3 quid] om. T cibariae L,"
+231,mgh_auct_ant_4_2,78,308,,cibariae,L,"1 cum] om. LET 2 et] ad M1, uel P1 calido P2LET 3 quid] om. T cibariae L,"
+231,mgh_auct_ant_4_2,78,308,,cibi,E,"1 cum] om. LET 2 et] ad M1, uel P1 calido P2LET 3 quid] om. T cibariae L,"
+232,mgh_auct_ant_4_2,78,308,fabulam,v. Fortun. V.,M,"cibi E languidis P2M 4 fabulam PET: v. Fortun. V. M. II, 391 iam quoque martini quae fabula"
+233,mgh_auct_ant_4_2,78,308,popularis,om.,M,"fluxerit ore 5 popularis] om. M 7 frequenter T 9 praeter ergo uenerabilem diem L,"
+234,mgh_auct_ant_4_2,78,308,,frequenter,T,"fluxerit ore 5 popularis] om. M 7 frequenter T 9 praeter ergo uenerabilem diem L,"
+235,mgh_auct_ant_4_2,78,308,,praeter ergo uenerabilem diem,L,"fluxerit ore 5 popularis] om. M 7 frequenter T 9 praeter ergo uenerabilem diem L,"
+235,mgh_auct_ant_4_2,78,308,,ergo praeter uenerabilem diem,E,"fluxerit ore 5 popularis] om. M 7 frequenter T 9 praeter ergo uenerabilem diem L,"
+236,mgh_auct_ant_4_2,78,308,,omnibus diebus ieiunii,T,ergo praeter uenerabilem diem E omnibus diebus ieiunii T 10 ieiuna] om. M auem] om.
+237,mgh_auct_ant_4_2,78,308,ieiuna,om.,M,ergo praeter uenerabilem diem E omnibus diebus ieiunii T 10 ieiuna] om. M auem] om.
+238,mgh_auct_ant_4_2,78,308,auem,om.,T,ergo praeter uenerabilem diem E omnibus diebus ieiunii T 10 ieiuna] om. M auem] om.
+238,mgh_auct_ant_4_2,78,308,auem,non add.,L,ergo praeter uenerabilem diem E omnibus diebus ieiunii T 10 ieiuna] om. M auem] om.
+238,mgh_auct_ant_4_2,78,308,auem,uel add.,E,ergo praeter uenerabilem diem E omnibus diebus ieiunii T 10 ieiuna] om. M auem] om.
+239,mgh_auct_ant_4_2,78,308,,edulio,T,"T, non add. L, uel add. E 11 edulio T sigilatium] P1M2, sigilatius P2T, segilatium M1,"
+240,mgh_auct_ant_4_2,78,308,sigilatium,segalatium,G,"T, non add. L, uel add. E 11 edulio T sigilatium] P1M2, sigilatius P2T, segilatium M1,"
+240,mgh_auct_ant_4_2,78,308,sigilatium,secale,L,"T, non add. L, uel add. E 11 edulio T sigilatium] P1M2, sigilatius P2T, segilatium M1,"
+240,mgh_auct_ant_4_2,78,308,sigilatium,sigale,E,"T, non add. L, uel add. E 11 edulio T sigilatium] P1M2, sigilatius P2T, segilatium M1,"
+241,mgh_auct_ant_4_2,78,308,ordeatium,ordeum,L,"segalatium G, secale L, sigale E, cf. supra p. 42, l. 18 ordeatium] M, ordeacium P1, ordeatius P2,"
+241,mgh_auct_ant_4_2,78,308,ordeatium,hordeum,E,"segalatium G, secale L, sigale E, cf. supra p. 42, l. 18 ordeatium] M, ordeacium P1, ordeatius P2,"
+241,mgh_auct_ant_4_2,78,308,ordeatium,ordeaceus,T,"segalatium G, secale L, sigale E, cf. supra p. 42, l. 18 ordeatium] M, ordeacium P1, ordeatius P2,"
+242,mgh_auct_ant_4_2,78,308,,quam,G,"ordeum L, hordeum E, ordeaceus T quam G absconso L, absconse E 12 etiam] eius"
+243,mgh_auct_ant_4_2,78,308,,absconso,L,"ordeum L, hordeum E, ordeaceus T quam G absconso L, absconse E 12 etiam] eius"
+243,mgh_auct_ant_4_2,78,308,,absconse,E,"ordeum L, hordeum E, ordeaceus T quam G absconso L, absconse E 12 etiam] eius"
+244,mgh_auct_ant_4_2,78,308,etiam,eius add.,T,"ordeum L, hordeum E, ordeaceus T quam G absconso L, absconse E 12 etiam] eius"
+245,mgh_auct_ant_4_2,78,308,,libata ac sitibunda,T,"add. T 13 libata ac sitibunda T 14 quoque] om. T 16 malua LE aquae (T),"
+246,mgh_auct_ant_4_2,78,308,quoque,om.,T,"add. T 13 libata ac sitibunda T 14 quoque] om. T 16 malua LE aquae (T),"
+247,mgh_auct_ant_4_2,78,308,,malua,LE,"add. T 13 libata ac sitibunda T 14 quoque] om. T 16 malua LE aquae (T),"
+248,mgh_auct_ant_4_2,78,308,,"aquae , aquam",E,aquam E duo sextaria sumens T 17 duo] nisi duo LE hinc] om. T 18 cilium T
+249,mgh_auct_ant_4_2,78,308,,duo sextaria sumens,T,aquam E duo sextaria sumens T 17 duo] nisi duo LE hinc] om. T 18 cilium T
+250,mgh_auct_ant_4_2,78,308,duo,nisi duo,LE,aquam E duo sextaria sumens T 17 duo] nisi duo LE hinc] om. T 18 cilium T
+251,mgh_auct_ant_4_2,78,308,hinc,om.,T,aquam E duo sextaria sumens T 17 duo] nisi duo LE hinc] om. T 18 cilium T
+252,mgh_auct_ant_4_2,78,308,,cilium,T,aquam E duo sextaria sumens T 17 duo] nisi duo LE hinc] om. T 18 cilium T
+253,mgh_auct_ant_4_2,78,308,linteo,ac add.,T,"linteo] ac add. T 19 cinerem seruatum L, cinere strato E 21 soporantis G1 22 relaxans T"
+254,mgh_auct_ant_4_2,78,308,,cinerem seruatum,L,"linteo] ac add. T 19 cinerem seruatum L, cinere strato E 21 soporantis G1 22 relaxans T"
+254,mgh_auct_ant_4_2,78,308,,cinere strato,E,"linteo] ac add. T 19 cinerem seruatum L, cinere strato E 21 soporantis G1 22 relaxans T"
+255,mgh_auct_ant_4_2,78,308,,relaxans,T,"linteo] ac add. T 19 cinerem seruatum L, cinere strato E 21 soporantis G1 22 relaxans T"
+256,mgh_auct_ant_4_2,78,308,deinde,et,M,"23 deinde] et M dominica] MGT, die dominica P, die dominico LE 24 cinerem et cilicium]"
+257,mgh_auct_ant_4_2,78,308,dominica,die dominica,P,"23 deinde] et M dominica] MGT, die dominica P, die dominico LE 24 cinerem et cilicium]"
+257,mgh_auct_ant_4_2,78,308,dominica,die dominico,LE,"23 deinde] et M dominica] MGT, die dominica P, die dominico LE 24 cinerem et cilicium]"
+258,mgh_auct_ant_4_2,78,308,si bonum post alteram,om.,L,"P1M1G1 26 si bonum post alteram] PM1, om. L, faceret add. M2, ageret add. G, si ponebatur post al-"
+258,mgh_auct_ant_4_2,78,308,si bonum post alteram,ageret add.,G,"P1M1G1 26 si bonum post alteram] PM1, om. L, faceret add. M2, ageret add. G, si ponebatur post al-"
+258,mgh_auct_ant_4_2,78,308,si bonum post alteram,si ponebatur post alteram,E,"P1M1G1 26 si bonum post alteram] PM1, om. L, faceret add. M2, ageret add. G, si ponebatur post al-"
+258,mgh_auct_ant_4_2,78,308,si bonum post alteram,si bonum fecisset post alteram,T,"P1M1G1 26 si bonum post alteram] PM1, om. L, faceret add. M2, ageret add. G, si ponebatur post al-"
+259,mgh_auct_ant_4_2,78,308,simul et,uel,T,"teram E, si bonum fecisset post alteram T, verbum desideratur, cf. carm. VIII, 16, 1 27 simul et] uel T"
+260,mgh_auct_ant_4_2,78,308,ante sarcinans,ante sarcinas,PG,"28 ante sarcinans] L, ante sarcinas PG, om. M, sarcinas E(T) quod aliis horret (orret PM)] PMG,"
+260,mgh_auct_ant_4_2,78,308,ante sarcinans,om.,M,"28 ante sarcinans] L, ante sarcinas PG, om. M, sarcinas E(T) quod aliis horret (orret PM)] PMG,"
+260,mgh_auct_ant_4_2,78,308,ante sarcinans,sarcinas,E,"28 ante sarcinans] L, ante sarcinas PG, om. M, sarcinas E(T) quod aliis horret (orret PM)] PMG,"
+261,mgh_auct_ant_4_2,78,308,quod aliis horret ,quicquid alius horrebat,L,"28 ante sarcinans] L, ante sarcinas PG, om. M, sarcinas E(T) quod aliis horret (orret PM)] PMG,"
+261,mgh_auct_ant_4_2,78,308,quod aliis horret ,aliis quod horret,E,"28 ante sarcinans] L, ante sarcinas PG, om. M, sarcinas E(T) quod aliis horret (orret PM)] PMG,"
+261,mgh_auct_ant_4_2,78,308,quod aliis horret ,quas alii horrebant,T,"28 ante sarcinans] L, ante sarcinas PG, om. M, sarcinas E(T) quod aliis horret (orret PM)] PMG,"
+262,mgh_auct_ant_4_2,78,308,,opus purgare,T,"quicquid alius horrebat L, aliis quod horret E, quas alii horrebant T 29 opus purgare T occu-"
+263,mgh_auct_ant_4_2,78,308,occupans ferens,scopans ferebat,T,pans ferens] scopans ferebat T 30 seruitii uilitate T 31 superportans P2E flatibus] et add.
+264,mgh_auct_ant_4_2,78,308,,seruitii uilitate,T,pans ferens] scopans ferebat T 30 seruitii uilitate T 31 superportans P2E flatibus] et add.
+265,mgh_auct_ant_4_2,78,308,flatibus,et add.,T,pans ferens] scopans ferebat T 30 seruitii uilitate T 31 superportans P2E flatibus] et add.
+265,mgh_auct_ant_4_2,78,308,flatibus,excitans add.,E,pans ferens] scopans ferebat T 30 seruitii uilitate T 31 superportans P2E flatibus] et add.
+266,mgh_auct_ant_4_2,78,308,,retrahebat,T,"T, excitans add. E calens (G) ne P1M1 32 retrahebat T 34 cellam PM1, ad cellam M2T"
+267,mgh_auct_ant_4_2,79,362,feruore,seruitio est,L,"1 feruore] seruitio est L, seruicio E excita T 2 nullam P1M nisi] ipsa add. (T)"
+267,mgh_auct_ant_4_2,79,362,feruore,seruicio,E,"1 feruore] seruitio est L, seruicio E excita T 2 nullam P1M nisi] ipsa add. (T)"
+268,mgh_auct_ant_4_2,79,362,,excita,T,"1 feruore] seruitio est L, seruicio E excita T 2 nullam P1M nisi] ipsa add. (T)"
+269,mgh_auct_ant_4_2,79,362,,focum flatu,T,"de postio P2, nisi depositio fieret superscr. M2 4 focum flatu T 5 leuans] lauans M, om. L"
+270,mgh_auct_ant_4_2,79,362,leuans,lauans,M,"de postio P2, nisi depositio fieret superscr. M2 4 focum flatu T 5 leuans] lauans M, om. L"
+270,mgh_auct_ant_4_2,79,362,leuans,om.,L,"de postio P2, nisi depositio fieret superscr. M2 4 focum flatu T 5 leuans] lauans M, om. L"
+271,mgh_auct_ant_4_2,79,362,,lauans discos,L,"lauans discos L, discos leuans E 6 coquina PMLE 7 ima purgamina] foras in locum designatum"
+271,mgh_auct_ant_4_2,79,362,,discos leuans,E,"lauans discos L, discos leuans E 6 coquina PMLE 7 ima purgamina] foras in locum designatum"
+272,mgh_auct_ant_4_2,79,362,,coquina,PMLE,"lauans discos L, discos leuans E 6 coquina PMLE 7 ima purgamina] foras in locum designatum"
+273,mgh_auct_ant_4_2,79,362,necessaria add. vulg. non tepida,intrepida,E,"vulg. inferens] necessaria add. vulg. non tepida] intrepida E, intepida T 8 ilaretense re-"
+273,mgh_auct_ant_4_2,79,362,necessaria add. vulg. non tepida,intepida,T,"vulg. inferens] necessaria add. vulg. non tepida] intrepida E, intepida T 8 ilaretense re-"
+274,mgh_auct_ant_4_2,79,362,,ilaretense regula,M,gula M ebdomada] sub add. PG 9 calidam (aquam add. PM) faciebat humilitate] faciebat huma-
+275,mgh_auct_ant_4_2,79,362,ebdomada,sub add.,PG,gula M ebdomada] sub add. PG 9 calidam (aquam add. PM) faciebat humilitate] faciebat huma-
+276,mgh_auct_ant_4_2,79,362,calidam faciebat humilitate,faciebat humanitatem,T,gula M ebdomada] sub add. PG 9 calidam (aquam add. PM) faciebat humilitate] faciebat huma-
+277,mgh_auct_ant_4_2,79,362,omnes,ante add.,LE,"nitatem T omnes] ante add. LE, ac omnibus T 10 pro commissa neglegentia LT 11 in-"
+277,mgh_auct_ant_4_2,79,362,omnes,ac omnibus,T,"nitatem T omnes] ante add. LE, ac omnibus T 10 pro commissa neglegentia LT 11 in-"
+278,mgh_auct_ant_4_2,79,362,,pro commissa neglegentia,LT,"nitatem T omnes] ante add. LE, ac omnibus T 10 pro commissa neglegentia LT 11 in-"
+279,mgh_auct_ant_4_2,79,362,,ipsa quae,G,"tulerat P2G ipsa quae G, intulerit ipsa qui T 12 dum] om. T latos tres] inlatos tres"
+279,mgh_auct_ant_4_2,79,362,,intulerit ipsa qui,T,"tulerat P2G ipsa quae G, intulerit ipsa qui T 12 dum] om. T latos tres] inlatos tres"
+280,mgh_auct_ant_4_2,79,362,dum,om.,T,"tulerat P2G ipsa quae G, intulerit ipsa qui T 12 dum] om. T latos tres] inlatos tres"
+281,mgh_auct_ant_4_2,79,362,latos tres,inlatos tres,L,"tulerat P2G ipsa quae G, intulerit ipsa qui T 12 dum] om. T latos tres] inlatos tres"
+281,mgh_auct_ant_4_2,79,362,latos tres,inlatas tres,E,"tulerat P2G ipsa quae G, intulerit ipsa qui T 12 dum] om. T latos tres] inlatos tres"
+281,mgh_auct_ant_4_2,79,362,latos tres,tres latos,T,"tulerat P2G ipsa quae G, intulerit ipsa qui T 12 dum] om. T latos tres] inlatos tres"
+282,mgh_auct_ant_4_2,79,362,,abstricte,M,"L, inlatas tres E, tres latos T 14 abstricte M, adstrictius L, astrictius E 18 sub] om. T"
+282,mgh_auct_ant_4_2,79,362,,adstrictius,L,"L, inlatas tres E, tres latos T 14 abstricte M, adstrictius L, astrictius E 18 sub] om. T"
+282,mgh_auct_ant_4_2,79,362,,astrictius,E,"L, inlatas tres E, tres latos T 14 abstricte M, adstrictius L, astrictius E 18 sub] om. T"
+283,mgh_auct_ant_4_2,79,362,sub,om.,T,"L, inlatas tres E, tres latos T 14 abstricte M, adstrictius L, astrictius E 18 sub] om. T"
+284,mgh_auct_ant_4_2,79,362,,auricalcam,L,"auricalcam L, aurichalcam E, laminam de auricalco in signo christi T 19 cella PM, cellulam T"
+284,mgh_auct_ant_4_2,79,362,,aurichalcam,E,"auricalcam L, aurichalcam E, laminam de auricalco in signo christi T 19 cella PM, cellulam T"
+284,mgh_auct_ant_4_2,79,362,,laminam de auricalco in signo christi,T,"auricalcam L, aurichalcam E, laminam de auricalco in signo christi T 19 cella PM, cellulam T"
+285,mgh_auct_ant_4_2,79,362,,cella,PM,"auricalcam L, aurichalcam E, laminam de auricalco in signo christi T 19 cella PM, cellulam T"
+285,mgh_auct_ant_4_2,79,362,,cellulam,T,"auricalcam L, aurichalcam E, laminam de auricalco in signo christi T 19 cella PM, cellulam T"
+286,mgh_auct_ant_4_2,79,362,adhuc lima,ad ima,L,"22 adhuc lima] ad ima L, adhuc ad ima E dissipantem LE 23 aquamanile] manile T, cf. Forcel-"
+286,mgh_auct_ant_4_2,79,362,adhuc lima,adhuc ad ima,E,"22 adhuc lima] ad ima L, adhuc ad ima E dissipantem LE 23 aquamanile] manile T, cf. Forcel-"
+287,mgh_auct_ant_4_2,79,362,,dissipantem,LE,"22 adhuc lima] ad ima L, adhuc ad ima E dissipantem LE 23 aquamanile] manile T, cf. Forcel-"
+288,mgh_auct_ant_4_2,79,362,aquamanile,manile,T,"22 adhuc lima] ad ima L, adhuc ad ima E dissipantem LE 23 aquamanile] manile T, cf. Forcel-"
+289,mgh_auct_ant_4_2,79,362,,plenum ardentibus,T,"lini I, p. 318 plenum ardentibus T huic M1 25 a se] om. ET martyr G(T) fer-"
+290,mgh_auct_ant_4_2,79,362,a se,om.,ET,"lini I, p. 318 plenum ardentibus T huic M1 25 a se] om. ET martyr G(T) fer-"
+291,mgh_auct_ant_4_2,79,362,,martyr,G,"lini I, p. 318 plenum ardentibus T huic M1 25 a se] om. ET martyr G(T) fer-"
+292,mgh_auct_ant_4_2,79,362,,feruenter,PG,"uenter PG 26 crementia] PM, rhythmo firmatum 27 et] om. T conputrescens sanguis]"
+293,mgh_auct_ant_4_2,79,362,et,om.,T,"uenter PG 26 crementia] PM, rhythmo firmatum 27 et] om. T conputrescens sanguis]"
+294,mgh_auct_ant_4_2,79,362,conputrescens sanguis,conputrescentibus sanguis,L,"uenter PG 26 crementia] PM, rhythmo firmatum 27 et] om. T conputrescens sanguis]"
+294,mgh_auct_ant_4_2,79,362,conputrescens sanguis,conputrescente riuus sanguinis,E,"uenter PG 26 crementia] PM, rhythmo firmatum 27 et] om. T conputrescens sanguis]"
+295,mgh_auct_ant_4_2,79,362,manifestabat,om.,L,"conputrescentibus sanguis L, conputrescente riuus sanguinis E 28 manifestabat] om. L, prodidit E"
+295,mgh_auct_ant_4_2,79,362,manifestabat,prodidit,E,"conputrescentibus sanguis L, conputrescente riuus sanguinis E 28 manifestabat] om. L, prodidit E"
+296,mgh_auct_ant_4_2,79,362,,addiderit,PMLE,"29 est] ut add. G2(LET) addiderit PMLE 31 gislodi T proceriris M 32 deuotae L,"
+297,mgh_auct_ant_4_2,79,362,,gislodi,T,"29 est] ut add. G2(LET) addiderit PMLE 31 gislodi T proceriris M 32 deuotae L,"
+298,mgh_auct_ant_4_2,79,362,,proceriris,M,"29 est] ut add. G2(LET) addiderit PMLE 31 gislodi T proceriris M 32 deuotae L,"
+299,mgh_auct_ant_4_2,79,362,,deuotae,L,"29 est] ut add. G2(LET) addiderit PMLE 31 gislodi T proceriris M 32 deuotae L,"
+299,mgh_auct_ant_4_2,79,362,,deuota,E,"29 est] ut add. G2(LET) addiderit PMLE 31 gislodi T proceriris M 32 deuotae L,"
+300,mgh_auct_ant_4_2,79,362,,exoratam,PE,deuota E 33 exoratam PE occurri] adduci T ad cuius genua prostrata uix impetrat ut
+301,mgh_auct_ant_4_2,79,362,occurri,adduci,T,deuota E 33 exoratam PE occurri] adduci T ad cuius genua prostrata uix impetrat ut
+302,mgh_auct_ant_4_2,79,362,,ad cuius genua prostrata uix impetrat ut dignaretur oculos eius tangere,T,dignaretur oculos eius tangere (superscr. ł signare) T 34 mox] ut add. M2G
+303,mgh_auct_ant_4_2,80,417,ut tracta,in tracta,M,"1 fulgit P1 2 ut tracta] in tracta M 3 frailindis L, friafledis E tam] om. T"
+304,mgh_auct_ant_4_2,80,417,,frailindis,L,"1 fulgit P1 2 ut tracta] in tracta M 3 frailindis L, friafledis E tam] om. T"
+304,mgh_auct_ant_4_2,80,417,,friafledis,E,"1 fulgit P1 2 ut tracta] in tracta M 3 frailindis L, friafledis E tam] om. T"
+305,mgh_auct_ant_4_2,80,417,tam,om.,T,"1 fulgit P1 2 ut tracta] in tracta M 3 frailindis L, friafledis E tam] om. T"
+306,mgh_auct_ant_4_2,80,417,suedas,suaedas,PG,"suedas] ML, suaedas PG, om. ET, cf. supra p. 42, 16 5 feminam P1 letibilo M1, leubilo PG,"
+306,mgh_auct_ant_4_2,80,417,suedas,om.,ET,"suedas] ML, suaedas PG, om. ET, cf. supra p. 42, 16 5 feminam P1 letibilo M1, leubilo PG,"
+307,mgh_auct_ant_4_2,80,417,,leubilo,PG,"suedas] ML, suaedas PG, om. ET, cf. supra p. 42, 16 5 feminam P1 letibilo M1, leubilo PG,"
+307,mgh_auct_ant_4_2,80,417,,leobila,L,"suedas] ML, suaedas PG, om. ET, cf. supra p. 42, 16 5 feminam P1 letibilo M1, leubilo PG,"
+308,mgh_auct_ant_4_2,80,417,,in ru*re,P,"leobila L in ru*re P, irrue M1, irruente M2 6 ab aduersario] aduersatio M1, aduersario M2"
+309,mgh_auct_ant_4_2,80,417,,liberatam,MG,"8 liberatam MG 9 profertur LE in populum, superscr. ł in puplicum P, in publicum M a mo-"
+310,mgh_auct_ant_4_2,80,417,,profertur,LE,"8 liberatam MG 9 profertur LE in populum, superscr. ł in puplicum P, in publicum M a mo-"
+311,mgh_auct_ant_4_2,80,417,,"in populum, superscr. ł in puplicum",P,"8 liberatam MG 9 profertur LE in populum, superscr. ł in puplicum P, in publicum M a mo-"
+311,mgh_auct_ant_4_2,80,417,,in publicum,M,"8 liberatam MG 9 profertur LE in populum, superscr. ł in puplicum P, in publicum M a mo-"
+312,mgh_auct_ant_4_2,80,417,,a monacha caput incipit,LE,"nacha caput incipit LE 12 ipsam aegrotam] et egram ipsam T fecit LET cellam PM, cellula (G)"
+313,mgh_auct_ant_4_2,80,417,ipsam aegrotam,et egram ipsam,T,"nacha caput incipit LE 12 ipsam aegrotam] et egram ipsam T fecit LET cellam PM, cellula (G)"
+314,mgh_auct_ant_4_2,80,417,,fecit,LET,"nacha caput incipit LE 12 ipsam aegrotam] et egram ipsam T fecit LET cellam PM, cellula (G)"
+315,mgh_auct_ant_4_2,80,417,,cellam,PM,"nacha caput incipit LE 12 ipsam aegrotam] et egram ipsam T fecit LET cellam PM, cellula (G)"
+316,mgh_auct_ant_4_2,80,417,,tapete,LE,"13 tapete LE, tepida aqua T sola] om. T 14 forma corporis M 15 ad] om. G plan-"
+316,mgh_auct_ant_4_2,80,417,,tepida aqua,T,"13 tapete LE, tepida aqua T sola] om. T 14 forma corporis M 15 ad] om. G plan-"
+317,mgh_auct_ant_4_2,80,417,sola,om.,T,"13 tapete LE, tepida aqua T sola] om. T 14 forma corporis M 15 ad] om. G plan-"
+318,mgh_auct_ant_4_2,80,417,,forma corporis,M,"13 tapete LE, tepida aqua T sola] om. T 14 forma corporis M 15 ad] om. G plan-"
+319,mgh_auct_ant_4_2,80,417,ad,om.,G,"13 tapete LE, tepida aqua T sola] om. T 14 forma corporis M 15 ad] om. G plan-"
+320,mgh_auct_ant_4_2,80,417,,plantas infirmae,LE,"tas infirmae LE deinde cum M, dein quo T 16 dolor] om. M et] om. LE duae]"
+321,mgh_auct_ant_4_2,80,417,,deinde cum,M,"tas infirmae LE deinde cum M, dein quo T 16 dolor] om. M et] om. LE duae]"
+321,mgh_auct_ant_4_2,80,417,,dein quo,T,"tas infirmae LE deinde cum M, dein quo T 16 dolor] om. M et] om. LE duae]"
+322,mgh_auct_ant_4_2,80,417,dolor,om.,M,"tas infirmae LE deinde cum M, dein quo T 16 dolor] om. M et] om. LE duae]"
+323,mgh_auct_ant_4_2,80,417,et,om.,LE,"tas infirmae LE deinde cum M, dein quo T 16 dolor] om. M et] om. LE duae]"
+324,mgh_auct_ant_4_2,80,417,duae,diu,M,"tas infirmae LE deinde cum M, dein quo T 16 dolor] om. M et] om. LE duae]"
+325,mgh_auct_ant_4_2,80,417,de tepida,om.,L,"diu M de tepida] om. L, de tapete E 17 refecta est] refecit L, reficit E 18 speraret G,"
+325,mgh_auct_ant_4_2,80,417,de tepida,de tapete,E,"diu M de tepida] om. L, de tapete E 17 refecta est] refecit L, reficit E 18 speraret G,"
+326,mgh_auct_ant_4_2,80,417,refecta est,refecit,L,"diu M de tepida] om. L, de tapete E 17 refecta est] refecit L, reficit E 18 speraret G,"
+326,mgh_auct_ant_4_2,80,417,refecta est,reficit,E,"diu M de tepida] om. L, de tapete E 17 refecta est] refecit L, reficit E 18 speraret G,"
+327,mgh_auct_ant_4_2,80,417,,speraret,G,"diu M de tepida] om. L, de tapete E 17 refecta est] refecit L, reficit E 18 speraret G,"
+327,mgh_auct_ant_4_2,80,417,,spectaretur,LE,"diu M de tepida] om. L, de tapete E 17 refecta est] refecit L, reficit E 18 speraret G,"
+328,mgh_auct_ant_4_2,80,417,,sana,T,spectaretur LE sana T 19 deperit de merito T 20 rebellem hostem T 21 se] om. M
+329,mgh_auct_ant_4_2,80,417,,deperit de merito,T,spectaretur LE sana T 19 deperit de merito T 20 rebellem hostem T 21 se] om. M
+330,mgh_auct_ant_4_2,80,417,,rebellem hostem,T,spectaretur LE sana T 19 deperit de merito T 20 rebellem hostem T 21 se] om. M
+331,mgh_auct_ant_4_2,80,417,se,om.,M,spectaretur LE sana T 19 deperit de merito T 20 rebellem hostem T 21 se] om. M
+332,mgh_auct_ant_4_2,80,417,cum,om.,M,"cum] om. M tumore LE 22 terram (GT) 23 ceruicem PE est et] et LT, extitit E"
+333,mgh_auct_ant_4_2,80,417,,tumore,LE,"cum] om. M tumore LE 22 terram (GT) 23 ceruicem PE est et] et LT, extitit E"
+334,mgh_auct_ant_4_2,80,417,,ceruicem,PE,"cum] om. M tumore LE 22 terram (GT) 23 ceruicem PE est et] et LT, extitit E"
+335,mgh_auct_ant_4_2,80,417,est et,et,LT,"cum] om. M tumore LE 22 terram (GT) 23 ceruicem PE est et] et LT, extitit E"
+335,mgh_auct_ant_4_2,80,417,est et,extitit,E,"cum] om. M tumore LE 22 terram (GT) 23 ceruicem PE est et] et LT, extitit E"
+336,mgh_auct_ant_4_2,80,417,magna,est add.,T,"magna] est add. T 24 dum] PGET globus LE, cf. supra p. 9, l. 10 penderet P2LE"
+337,mgh_auct_ant_4_2,80,417,,globus,LE,"magna] est add. T 24 dum] PGET globus LE, cf. supra p. 9, l. 10 penderet P2LE"
+338,mgh_auct_ant_4_2,80,417,sorix,surix,M,"25 sorix] PGE, surix M, surrexit L, sorex (T) pependit in morsu T 27 miracula P1M1, om. E"
+338,mgh_auct_ant_4_2,80,417,sorix,surrexit,L,"25 sorix] PGE, surix M, surrexit L, sorex (T) pependit in morsu T 27 miracula P1M1, om. E"
+338,mgh_auct_ant_4_2,80,417,sorix,sorex pependit in morsu,T,"25 sorix] PGE, surix M, surrexit L, sorex (T) pependit in morsu T 27 miracula P1M1, om. E"
+339,mgh_auct_ant_4_2,80,417,,om.,E,"25 sorix] PGE, surix M, surrexit L, sorex (T) pependit in morsu T 27 miracula P1M1, om. E"
+340,mgh_auct_ant_4_2,80,417,,foreius,M,"foreius M quidam] qui dicitur PM nomine] om. T 28 aborta uentorum turbidine P1M1,"
+341,mgh_auct_ant_4_2,80,417,quidam,qui dicitur,PM,"foreius M quidam] qui dicitur PM nomine] om. T 28 aborta uentorum turbidine P1M1,"
+342,mgh_auct_ant_4_2,80,417,nomine,om.,T,"foreius M quidam] qui dicitur PM nomine] om. T 28 aborta uentorum turbidine P1M1,"
+343,mgh_auct_ant_4_2,80,417,,aborto,LE,"aborto LE 29 sentinante] se inante M1, se inaniente M2, sentinam L, sent E 31 subdamur T"
+344,mgh_auct_ant_4_2,80,417,sentinante,sentinam,L,"aborto LE 29 sentinante] se inante M1, se inaniente M2, sentinam L, sent E 31 subdamur T"
+344,mgh_auct_ant_4_2,80,417,sentinante,sent,E,"aborto LE 29 sentinante] se inante M1, se inaniente M2, sentinam L, sent E 31 subdamur T"
+345,mgh_auct_ant_4_2,80,417,,subdamur,T,"aborto LE 29 sentinante] se inante M1, se inaniente M2, sentinam L, sent E 31 subdamur T"
+346,mgh_auct_ant_4_2,80,417,,staturae suae,L,"32 redita M1 cadentem P1 35 staturae suae L, suae naturae E feminae] om. M"
+346,mgh_auct_ant_4_2,80,417,,suae naturae,E,"32 redita M1 cadentem P1 35 staturae suae L, suae naturae E feminae] om. M"
+347,mgh_auct_ant_4_2,80,417,feminae,om.,M,"32 redita M1 cadentem P1 35 staturae suae L, suae naturae E feminae] om. M"
+348,mgh_auct_ant_4_2,81,472,plus peccamus,om.,M,1 figurata P1 3 plus peccamus] om. M 4 reliquis uelociter T dilato G plurimis]
+349,mgh_auct_ant_4_2,81,472,,reliquis uelociter,T,1 figurata P1 3 plus peccamus] om. M 4 reliquis uelociter T dilato G plurimis]
+350,mgh_auct_ant_4_2,81,472,,dilato,G,1 figurata P1 3 plus peccamus] om. M 4 reliquis uelociter T dilato G plurimis]
+351,mgh_auct_ant_4_2,81,472,plurimis,in plurimis,P,1 figurata P1 3 plus peccamus] om. M 4 reliquis uelociter T dilato G plurimis]
+352,mgh_auct_ant_4_2,81,472,inergumine,inergumino,G,"in plurimis P 5 inergumine] PM1, inergumino G, in energumino T torqueretur] spiritu add. T"
+352,mgh_auct_ant_4_2,81,472,inergumine,in energumino,T,"in plurimis P 5 inergumine] PM1, inergumino G, in energumino T torqueretur] spiritu add. T"
+353,mgh_auct_ant_4_2,81,472,torqueretur,spiritu add.,T,"in plurimis P 5 inergumine] PM1, inergumino G, in energumino T torqueretur] spiritu add. T"
+354,mgh_auct_ant_4_2,81,472,,sancta,LE,"7 sancta LE penitere T 8 quod GL2, sed ne moremur dicere quid T sancta] om. M"
+355,mgh_auct_ant_4_2,81,472,,penitere,T,"7 sancta LE penitere T 8 quod GL2, sed ne moremur dicere quid T sancta] om. M"
+356,mgh_auct_ant_4_2,81,472,,sed ne moremur dicere quid,T,"7 sancta LE penitere T 8 quod GL2, sed ne moremur dicere quid T sancta] om. M"
+357,mgh_auct_ant_4_2,81,472,sancta,om.,M,"7 sancta LE penitere T 8 quod GL2, sed ne moremur dicere quid T sancta] om. M"
+358,mgh_auct_ant_4_2,81,472,,egressus,T,"9 egressus T deseruit et mulier T marito] P1GLET, merito P2M hospitium redit L,"
+359,mgh_auct_ant_4_2,81,472,,deseruit et mulier,T,"9 egressus T deseruit et mulier T marito] P1GLET, merito P2M hospitium redit L,"
+360,mgh_auct_ant_4_2,81,472,,hospitium redit,L,"9 egressus T deseruit et mulier T marito] P1GLET, merito P2M hospitium redit L,"
+360,mgh_auct_ant_4_2,81,472,,redit in hospicio,E,"9 egressus T deseruit et mulier T marito] P1GLET, merito P2M hospitium redit L,"
+360,mgh_auct_ant_4_2,81,472,,reuisit hospitium,T,"9 egressus T deseruit et mulier T marito] P1GLET, merito P2M hospitium redit L,"
+361,mgh_auct_ant_4_2,81,472,,similium,G,"redit in hospicio E, reuisit hospitium T 10 similium G 11 cellam PM 12 toto G"
+362,mgh_auct_ant_4_2,81,472,,cellam,PM,"redit in hospicio E, reuisit hospitium T 10 similium G 11 cellam PM 12 toto G"
+363,mgh_auct_ant_4_2,81,472,,toto,G,"redit in hospicio E, reuisit hospitium T 10 similium G 11 cellam PM 12 toto G"
+364,mgh_auct_ant_4_2,81,472,nisi,quod nisi,T,"13 nisi] quod nisi T de] a T 14 ramis] et add. T 16 familior M 17 absinthii] ET,"
+365,mgh_auct_ant_4_2,81,472,de,a,T,"13 nisi] quod nisi T de] a T 14 ramis] et add. T 16 familior M 17 absinthii] ET,"
+366,mgh_auct_ant_4_2,81,472,ramis,et add.,T,"13 nisi] quod nisi T de] a T 14 ramis] et add. T 16 familior M 17 absinthii] ET,"
+367,mgh_auct_ant_4_2,81,472,,familior,M,"13 nisi] quod nisi T de] a T 14 ramis] et add. T 16 familior M 17 absinthii] ET,"
+368,mgh_auct_ant_4_2,81,472,absinthii,absentii,PGL,"13 nisi] quod nisi T de] a T 14 ramis] et add. T 16 familior M 17 absinthii] ET,"
+368,mgh_auct_ant_4_2,81,472,absinthii,absenthii,M,"13 nisi] quod nisi T de] a T 14 ramis] et add. T 16 familior M 17 absinthii] ET,"
+369,mgh_auct_ant_4_2,81,472,,cf. Fortun. V.,M,"absentii PGL, absenthii M, cf. Fortun. V. M. IV, 546 refrigeraretur T 18 effugiit G1 19 me-"
+370,mgh_auct_ant_4_2,81,472,,refrigeraretur,T,"absentii PGL, absenthii M, cf. Fortun. V. M. IV, 546 refrigeraretur T 18 effugiit G1 19 me-"
+371,mgh_auct_ant_4_2,81,472,,memoria,G,moria G tacite LE 20 mox] et add. PM 22 iactent G1 qui] ut add. (T) mox]
+372,mgh_auct_ant_4_2,81,472,,tacite,LE,moria G tacite LE 20 mox] et add. PM 22 iactent G1 qui] ut add. (T) mox]
+373,mgh_auct_ant_4_2,81,472,mox,et add.,PM,moria G tacite LE 20 mox] et add. PM 22 iactent G1 qui] ut add. (T) mox]
+374,mgh_auct_ant_4_2,81,472,ut add. mox,om.,T,moria G tacite LE 20 mox] et add. PM 22 iactent G1 qui] ut add. (T) mox]
+375,mgh_auct_ant_4_2,81,472,redit,om.,T,om. T 23 redit] om. T leuat — tumulum] pallor uicinus tumulo leuat de pallio T uicinis
+376,mgh_auct_ant_4_2,81,472,leuat — tumulum,pallor uicinus tumulo leuat de pallio,T,om. T 23 redit] om. T leuat — tumulum] pallor uicinus tumulo leuat de pallio T uicinis
+377,mgh_auct_ant_4_2,81,472,,"exaltarent, exp. n",L,"M1 26 tantum (GT) 27 exaltarent, exp. n L uisum T 28 cum] quod cum T"
+378,mgh_auct_ant_4_2,81,472,,uisum,T,"M1 26 tantum (GT) 27 exaltarent, exp. n L uisum T 28 cum] quod cum T"
+379,mgh_auct_ant_4_2,81,472,cum,quod cum,T,"M1 26 tantum (GT) 27 exaltarent, exp. n L uisum T 28 cum] quod cum T"
+380,mgh_auct_ant_4_2,81,472,,iuberet,PM,29 iuberet PM manus T beata PM super caput aegrotae oleum est T 30 ministerio
+381,mgh_auct_ant_4_2,81,472,,manus,T,29 iuberet PM manus T beata PM super caput aegrotae oleum est T 30 ministerio
+382,mgh_auct_ant_4_2,81,472,,beata,PM,29 iuberet PM manus T beata PM super caput aegrotae oleum est T 30 ministerio
+383,mgh_auct_ant_4_2,81,472,,super caput aegrotae oleum est,T,29 iuberet PM manus T beata PM super caput aegrotae oleum est T 30 ministerio
+384,mgh_auct_ant_4_2,81,472,,ministerio,T,"T euigilante PM, uigilante G nil de morbo in ea apparuit T 31 aquam P1 32 sub]"
+385,mgh_auct_ant_4_2,81,472,,euigilante,PM,"T euigilante PM, uigilante G nil de morbo in ea apparuit T 31 aquam P1 32 sub]"
+385,mgh_auct_ant_4_2,81,472,,uigilante,G,"T euigilante PM, uigilante G nil de morbo in ea apparuit T 31 aquam P1 32 sub]"
+386,mgh_auct_ant_4_2,81,472,,nil de morbo in ea apparuit,T,"T euigilante PM, uigilante G nil de morbo in ea apparuit T 31 aquam P1 32 sub]"
+387,mgh_auct_ant_4_2,81,472,sub,om.,T,"T euigilante PM, uigilante G nil de morbo in ea apparuit T 31 aquam P1 32 sub]"
+388,mgh_auct_ant_4_2,81,472,nec morbus,nec morbi,G,"om. T nec morbus] PM, nec morbi G, nec mors nec morbi (morbus E) LE, morbus nec T 33 de"
+388,mgh_auct_ant_4_2,81,472,nec morbus,nec mors nec morbi,LE,"om. T nec morbus] PM, nec morbi G, nec mors nec morbi (morbus E) LE, morbus nec T 33 de"
+388,mgh_auct_ant_4_2,81,472,nec morbus,morbus nec,T,"om. T nec morbus] PM, nec morbi G, nec mors nec morbi (morbus E) LE, morbus nec T 33 de"
+389,mgh_auct_ant_4_2,81,472,,de lectulo adcursum,T,"lectulo adcursum T testimonio LE, olei odor inesset capiti ad testimonium T 34 nulla] foret"
+390,mgh_auct_ant_4_2,81,472,,testimonio,LE,"lectulo adcursum T testimonio LE, olei odor inesset capiti ad testimonium T 34 nulla] foret"
+390,mgh_auct_ant_4_2,81,472,,olei odor inesset capiti ad testimonium,T,"lectulo adcursum T testimonio LE, olei odor inesset capiti ad testimonium T 34 nulla] foret"
+391,mgh_auct_ant_4_2,81,472,nulla,foret add.,T,"lectulo adcursum T testimonio LE, olei odor inesset capiti ad testimonium T 34 nulla] foret"
+392,mgh_auct_ant_4_2,81,472,quo,tota add.,T,add. T 35 quo] tota add. T religio LE
+393,mgh_auct_ant_4_2,81,472,,religio,LE,add. T 35 quo] tota add. T religio LE
+394,mgh_auct_ant_4_2,82,525,sancta,cum add.,T,"1 corollas PMG2LT, carollas G1: coraulis carm. III, 6, 47 carca P1 2 sancta] cum add. T"
+395,mgh_auct_ant_4_2,82,525,,unum,T,"3 ioculari] seculari? M1 unum T 4 coniuncta G, coniunctae T 5 duo et tria P2T"
+396,mgh_auct_ant_4_2,82,525,,coniuncta,G,"3 ioculari] seculari? M1 unum T 4 coniuncta G, coniunctae T 5 duo et tria P2T"
+396,mgh_auct_ant_4_2,82,525,,coniunctae,T,"3 ioculari] seculari? M1 unum T 4 coniuncta G, coniunctae T 5 duo et tria P2T"
+397,mgh_auct_ant_4_2,82,525,,cantica audiui que retinui,T,"de meis canticis audiui quae P2, cantica audiui que retinui T 6 testor T nihil] fateor add. P2"
+398,mgh_auct_ant_4_2,82,525,,testor,T,"de meis canticis audiui quae P2, cantica audiui que retinui T 6 testor T nihil] fateor add. P2"
+399,mgh_auct_ant_4_2,82,525,,de saeculare cantico,T,"de saeculare cantico T 7 ut] quod T saeculo] M2, secundo M1 mente] quod add. PE"
+400,mgh_auct_ant_4_2,82,525,ut,quod,T,"de saeculare cantico T 7 ut] quod T saeculo] M2, secundo M1 mente] quod add. PE"
+401,mgh_auct_ant_4_2,82,525,mente,quod add.,PE,"de saeculare cantico T 7 ut] quod T saeculo] M2, secundo M1 mente] quod add. PE"
+402,mgh_auct_ant_4_2,82,525,signo tacto,signi tactu,PG,"11 signo tacto] MLT, signi tactu PG, signo tactu E illud] om. T 12 frigidam (T) quo]"
+402,mgh_auct_ant_4_2,82,525,signo tacto,signo tactu,E,"11 signo tacto] MLT, signi tactu PG, signo tactu E illud] om. T 12 frigidam (T) quo]"
+403,mgh_auct_ant_4_2,82,525,illud,om.,T,"11 signo tacto] MLT, signi tactu PG, signo tactu E illud] om. T 12 frigidam (T) quo]"
+404,mgh_auct_ant_4_2,82,525,,deferretur,M,MLE 13 deferretur M in] ad T 14 portato M excepiens T1 reclusa] et
+405,mgh_auct_ant_4_2,82,525,in,ad,T,MLE 13 deferretur M in] ad T 14 portato M excepiens T1 reclusa] et
+406,mgh_auct_ant_4_2,82,525,,portato,M,MLE 13 deferretur M in] ad T 14 portato M excepiens T1 reclusa] et
+407,mgh_auct_ant_4_2,82,525,reclusa,et clausa,T,MLE 13 deferretur M in] ad T 14 portato M excepiens T1 reclusa] et
+408,mgh_auct_ant_4_2,82,525,,iubet longe eas discedere,T,clausa T iubet longe eas discedere T discere P 15 celari (GT) interea dum T
+409,mgh_auct_ant_4_2,82,525,,discere,P,clausa T iubet longe eas discedere T discere P 15 celari (GT) interea dum T
+410,mgh_auct_ant_4_2,82,525,,celari interea dum,T,clausa T iubet longe eas discedere T discere P 15 celari (GT) interea dum T
+411,mgh_auct_ant_4_2,82,525,,praepararentur,P,"16 praepararentur P, praeparantur (GL), pararentur T mortuum LE 18 surgit illa M, illa re-"
+411,mgh_auct_ant_4_2,82,525,,"praeparantur , pararentur",T,"16 praepararentur P, praeparantur (GL), pararentur T mortuum LE 18 surgit illa M, illa re-"
+412,mgh_auct_ant_4_2,82,525,,mortuum,LE,"16 praepararentur P, praeparantur (GL), pararentur T mortuum LE 18 surgit illa M, illa re-"
+413,mgh_auct_ant_4_2,82,525,,surgit illa,M,"16 praepararentur P, praeparantur (GL), pararentur T mortuum LE 18 surgit illa M, illa re-"
+413,mgh_auct_ant_4_2,82,525,,illa resurgit,T,"16 praepararentur P, praeparantur (GL), pararentur T mortuum LE 18 surgit illa M, illa re-"
+414,mgh_auct_ant_4_2,82,525,,uico,LE,grauit] cf. Greg. gl. conf. c. 104 23 ipse P1MG1 uico LE 24 percurrit T 25 ad]
+415,mgh_auct_ant_4_2,82,525,,percurrit,T,grauit] cf. Greg. gl. conf. c. 104 23 ipse P1MG1 uico LE 24 percurrit T 25 ad]
+416,mgh_auct_ant_4_2,82,525,eum,om.,M,"add. P2 eum] om. M illic] om. L, ibi E 26 construerent L, conderetur E locum P1"
+417,mgh_auct_ant_4_2,82,525,illic,om.,L,"add. P2 eum] om. M illic] om. L, ibi E 26 construerent L, conderetur E locum P1"
+417,mgh_auct_ant_4_2,82,525,illic,ibi,E,"add. P2 eum] om. M illic] om. L, ibi E 26 construerent L, conderetur E locum P1"
+418,mgh_auct_ant_4_2,82,525,,construerent,L,"add. P2 eum] om. M illic] om. L, ibi E 26 construerent L, conderetur E locum P1"
+418,mgh_auct_ant_4_2,82,525,,conderetur,E,"add. P2 eum] om. M illic] om. L, ibi E 26 construerent L, conderetur E locum P1"
+419,mgh_auct_ant_4_2,82,525,,o quale,T,"28 o quale T mysterium] in quantum sancta designauit, postea tantum add. LE quod PM"
+420,mgh_auct_ant_4_2,82,525,mysterium,"in quantum sancta designauit, postea tantum add.",LE,"28 o quale T mysterium] in quantum sancta designauit, postea tantum add. LE quod PM"
+421,mgh_auct_ant_4_2,82,525,,quod,PM,"28 o quale T mysterium] in quantum sancta designauit, postea tantum add. LE quod PM"
+422,mgh_auct_ant_4_2,82,525,,trahens,T,29 trahens T 30 et uidebatur] et om. T 31 rogari PG1E propter me] om. T relaxas
+423,mgh_auct_ant_4_2,82,525,et uidebatur,et om.,T,29 trahens T 30 et uidebatur] et om. T 31 rogari PG1E propter me] om. T relaxas
+424,mgh_auct_ant_4_2,82,525,propter me,om.,T,29 trahens T 30 et uidebatur] et om. T 31 rogari PG1E propter me] om. T relaxas
+425,mgh_auct_ant_4_2,82,525,,hora hac,PM,P1 32 hora hac PM 33 ut] u G 34 quo T ibi] om. M
+426,mgh_auct_ant_4_2,82,525,ut,u,G,P1 32 hora hac PM 33 ut] u G 34 quo T ibi] om. M
+427,mgh_auct_ant_4_2,82,525,,quo,T,P1 32 hora hac PM 33 ut] u G 34 quo T ibi] om. M
+428,mgh_auct_ant_4_2,82,525,ibi,om.,M,P1 32 hora hac PM 33 ut] u G 34 quo T ibi] om. M
+429,mgh_auct_ant_4_2,83,571,,misso,T,1 misso T iustam migrasse T relaxato tribuno sano] uacuato tribuno sanitati T 4 in]
+430,mgh_auct_ant_4_2,83,571,,iustam migrasse,T,1 misso T iustam migrasse T relaxato tribuno sano] uacuato tribuno sanitati T 4 in]
+431,mgh_auct_ant_4_2,83,571,relaxato tribuno sano,uacuato tribuno sanitati,T,1 misso T iustam migrasse T relaxato tribuno sano] uacuato tribuno sanitati T 4 in]
+432,mgh_auct_ant_4_2,83,571,in,om.,LE,1 misso T iustam migrasse T relaxato tribuno sano] uacuato tribuno sanitati T 4 in]
+433,mgh_auct_ant_4_2,83,571,,quae,LE,"om. LE quae LE 5 sic] om. T adhuc] LE, et ad PM, et (GT) 6 prosequantur] EXP."
+434,mgh_auct_ant_4_2,83,571,sic,om.,T,"om. LE quae LE 5 sic] om. T adhuc] LE, et ad PM, et (GT) 6 prosequantur] EXP."
+435,mgh_auct_ant_4_2,83,571,adhuc,et ad,PM,"om. LE quae LE 5 sic] om. T adhuc] LE, et ad PM, et (GT) 6 prosequantur] EXP."
+436,mgh_auct_ant_4_2,83,571,,VITA BEATAE RADEGVNDIS add.,L,"LIB. I add. P, EXPLICIT VITA BEATAE RADEGVNDIS add. L, adiuuante dn̄o qui uiuit et regnat in saecula sae-"
+436,mgh_auct_ant_4_2,83,571,,adiuuante dn̄o qui uiuit et regnat in saecula saeculorum amen add.,E,"LIB. I add. P, EXPLICIT VITA BEATAE RADEGVNDIS add. L, adiuuante dn̄o qui uiuit et regnat in saecula sae-"
+437,mgh_auct_ant_4_2,83,571,,VITA,TE,"PLICIT VITA SANCTAE RADEGVNDIS EDITA A FORTVNATO EPISCOPO add. T, humanae eloquentiae modus admi-"
+438,mgh_auct_ant_4_2,83,571,,add.,T,"PLICIT VITA SANCTAE RADEGVNDIS EDITA A FORTVNATO EPISCOPO add. T, humanae eloquentiae modus admi-"
+439,mgh_auct_ant_4_2,83,571,,PRIMVSVITAE,TE,cula saeculorum. amen. EXPLICIT LIBER PRIMVS VITAE SANCTE RADEGVNDIS REGINAE (EXPLICIT VITA SANCTAE
+440,mgh_auct_ant_4_2,83,571,,add. XY sequitur Vita S. Radegundis a Baudonivia composita,PMGT,cula saeculorum. amen. EXPLICIT LIBER PRIMVS VITAE SANCTE RADEGVNDIS REGINAE (EXPLICIT VITA SANCTAE
+441,mgh_auct_ant_4_2,83,571,,prologus . . . . fortunat | uita sc̄i marcelli p | siorum ep̄i atramento in mg. scr.,M,"7 prologus . . . . fortunat | uita sc̄i marcelli p | siorum ep̄i atramento in mg. scr. M, in facundissima"
+441,mgh_auct_ant_4_2,83,571,,in facundissima incipit,P,"7 prologus . . . . fortunat | uita sc̄i marcelli p | siorum ep̄i atramento in mg. scr. M, in facundissima"
+442,mgh_auct_ant_4_2,83,571,patri,om.,M,"incipit P, prologum om. F 9 patri] om. M 10 oratorum] P, uirorum M 11 eloquiis M"
+443,mgh_auct_ant_4_2,83,571,oratorum,uirorum,M,"incipit P, prologum om. F 9 patri] om. M 10 oratorum] P, uirorum M 11 eloquiis M"
+444,mgh_auct_ant_4_2,83,571,,eloquiis,M,"incipit P, prologum om. F 9 patri] om. M 10 oratorum] P, uirorum M 11 eloquiis M"
+445,mgh_auct_ant_4_2,83,571,se,om.,M,13 se] om. M 14 unde **** (ē. qđquic in litura P2) | quid illis P copiosus M 16 aliquos
+446,mgh_auct_ant_4_2,83,571,,unde **** | quid illis,P,13 se] om. M 14 unde **** (ē. qđquic in litura P2) | quid illis P copiosus M 16 aliquos
+447,mgh_auct_ant_4_2,83,571,,copiosus,M,13 se] om. M 14 unde **** (ē. qđquic in litura P2) | quid illis P copiosus M 16 aliquos
+448,mgh_auct_ant_4_2,83,571,aliquos uel suae,suae,M,"(M) uel suae] suae M possim M 17 aliqua non] aliqua P 19 sit Surius, cf. supra"
+449,mgh_auct_ant_4_2,83,571,,possim,M,"(M) uel suae] suae M possim M 17 aliqua non] aliqua P 19 sit Surius, cf. supra"
+450,mgh_auct_ant_4_2,83,571,aliqua non,aliqua,P,"(M) uel suae] suae M possim M 17 aliqua non] aliqua P 19 sit Surius, cf. supra"

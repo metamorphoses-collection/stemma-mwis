@@ -1,0 +1,12 @@
+nu       n=29  stability=<0.1  in_full_MWIS=?
+mu       n=13  stability=0.91  in_full_MWIS=True
+xi       n= 9  stability=0.92  in_full_MWIS=True
+tau      n= 7  stability=0.43  in_full_MWIS=True
+phi      n= 5  stability=1.0  in_full_MWIS=True
+kappa    n= 4  stability=1.0  in_full_MWIS=True
+upsilon  n= 4  stability=0.2  in_full_MWIS=False
+omicron  n= 3  stability=1.0  in_full_MWIS=True
+rho      n= 3  stability=0.94  in_full_MWIS=True
+sigma    n= 3  stability=1.0  in_full_MWIS=True
+lambda   n= 2  stability=1.0  in_full_MWIS=True
+pi       n= 2  stability=0.54  in_full_MWIS=False

@@ -1,0 +1,30 @@
+37 witnesses, 1208 units, 1933 split types, 2195 instances, 709595 conflicts, ref O
+  iter 1: OPTIMAL obj 537 bound 537 -> core 3 (14s)
+  iter 2: OPTIMAL obj 537 bound 537 -> core 3 (32s)
+  iter 3: OPTIMAL obj 536 bound 536 -> ok (57s)
+solve: {'obj': 536.0, 'relaxation': 537.0, 'status': 'OPTIMAL', 'bound': 536.0, 'gap': 0.0, 'iterations': 3, 'cuts': 2, 'seconds': 60.1, 'families': 32, 'skeleton': 81.65}
+treelikeness: {'W_opt': 536.0, 'total_candidate_weight': 2195, 'share': 0.24419134396355352, 'informative_units': 888, 'consistent_with_tree': 74, 'share_consistent': 0.08333333333333333, 'consistent_vertexwise': 75}
+  optima found 10 (198s)
+enumeration: {'optimal_vertex_sets': 12, 'complete': True, 'stopped': 'next best 535.0 (OPTIMAL, bound 535.0)', 'seconds': 268.2, 'distinct_trees': 12, 'tree_scores': [81.65, 79.92, 82.29, 79.33, 81.48, 79.4, 81.23, 80.23, 79.1, 80.94, 80.68, 80.62], 'vertices_in_all_found': 308, 'vertices_per_optimum': [314], 'families_per_tree': [32, 33, 34]}
+  DaIJ                                     sup 189 W_forb 349.0 OPTIMAL -> FORCED
+  CcCe                                     sup  20 W_forb 518.0 OPTIMAL -> FORCED
+  BbBdBe                                   sup  35 W_forb 501.0 OPTIMAL -> FORCED
+  BbBd                                     sup  55 W_forb 486.0 OPTIMAL -> FORCED
+  AeSTW                                    sup   6 W_forb 531.0 OPTIMAL -> FORCED
+  KL                                       sup  23 W_forb 516.0 OPTIMAL -> FORCED
+  CE                                       sup  25 W_forb 530.0 OPTIMAL -> FORCED
+  ST                                       sup   9 W_forb 533.0 OPTIMAL -> FORCED
+  CCdE                                     sup  88 W_forb 470.0 OPTIMAL -> FORCED
+  AdAeBaBbBdBeCCaCbCcCdCeDaEFHIJNOPRSTVWXZ sup   3 W_forb 535.0 OPTIMAL -> FORCED
+  BaDaIJ                                   sup  19 W_forb 523.0 OPTIMAL -> FORCED
+  AbAcAdAeBaBbBdBeCCaCbCcCdCeCfDaEFGHIJKLM sup   8 W_forb 531.0 OPTIMAL -> FORCED
+  OP                                       sup   1 W_forb 535.0 OPTIMAL -> FORCED
+  BaDaIJOP                                 sup  10 W_forb 526.0 OPTIMAL -> FORCED
+  BbBdBeCaF                                sup   4 W_forb 533.0 OPTIMAL -> FORCED
+  CbR                                      sup   1 W_forb 536.0 OPTIMAL -> optional
+  AbAdAeBaBbBdBeCCaCbCcCdCeDaEFGHIJNOPRSTV sup   9 W_forb 530.0 OPTIMAL -> FORCED
+  AeST                                     sup   3 W_forb 535.0 OPTIMAL -> FORCED
+  AbAcAdAeBaBbBdBeCCaCbCcCdCeCfDaEFGHIJMNO sup   7 W_forb 531.0 OPTIMAL -> FORCED
+  AeBaBbBdBeCCaCdDaEFHIJNOPSTVWX           sup   9 W_forb 528.0 OPTIMAL -> FORCED
+  AbAcAdAeBaBbBdBeCCaCbCcCdCeCfDaEFGHIJNOP sup   9 W_forb 532.0 OPTIMAL -> FORCED
+  AbAdAeBaBbBdBeCCaCbCcCdCeCfDaEFGHIJNOPRS sup   7 W_forb 530.0 OPTIMAL -> FORCED

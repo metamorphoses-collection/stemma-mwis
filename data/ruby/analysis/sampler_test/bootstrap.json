@@ -1,0 +1,167 @@
+{
+ "priscus": {
+  "units": 65,
+  "B": 20000,
+  "seed": 1,
+  "full_weights": {
+   "BMP": 45,
+   "MP": 8,
+   "EB": 4,
+   "EP": 3,
+   "EMP": 3
+  },
+  "maximal": {
+   "{BMP,MP}": {
+    "size": 2,
+    "weight": 53,
+    "bootstrap_share": 1.0
+   },
+   "{MP,EB}": {
+    "size": 2,
+    "weight": 12,
+    "bootstrap_share": 0.0
+   },
+   "{MP,EMP}": {
+    "size": 2,
+    "weight": 11,
+    "bootstrap_share": 0.0
+   },
+   "{EP,EMP}": {
+    "size": 2,
+    "weight": 6,
+    "bootstrap_share": 0.0
+   }
+  }
+ },
+ "priscus_sensitivity_N177": {
+  "units": 177,
+  "B": 20000,
+  "seed": 1,
+  "full_weights": {
+   "BMP": 45,
+   "MP": 8,
+   "EB": 4,
+   "EP": 3,
+   "EMP": 3
+  },
+  "maximal": {
+   "{BMP,MP}": {
+    "size": 2,
+    "weight": 53,
+    "bootstrap_share": 1.0
+   },
+   "{MP,EB}": {
+    "size": 2,
+    "weight": 12,
+    "bootstrap_share": 0.0
+   },
+   "{MP,EMP}": {
+    "size": 2,
+    "weight": 11,
+    "bootstrap_share": 0.0
+   },
+   "{EP,EMP}": {
+    "size": 2,
+    "weight": 6,
+    "bootstrap_share": 0.0
+   }
+  }
+ },
+ "lai_v1_register": {
+  "units": 814,
+  "B": 20000,
+  "seed": 20261123,
+  "full_weights": {
+   "CG": 176,
+   "DE": 43,
+   "AB": 38,
+   "DEF": 24,
+   "EF": 23,
+   "CEG": 13,
+   "DF": 13
+  },
+  "maximal": {
+   "{CG,DE,AB,DEF}": {
+    "size": 4,
+    "weight": 281,
+    "bootstrap_share": 0.993875
+   },
+   "{CG,AB,DEF,EF}": {
+    "size": 4,
+    "weight": 261,
+    "bootstrap_share": 0.006125
+   },
+   "{CG,AB,DEF,DF}": {
+    "size": 4,
+    "weight": 251,
+    "bootstrap_share": 0.0
+   },
+   "{CG,AB,CEG,DF}": {
+    "size": 4,
+    "weight": 240,
+    "bootstrap_share": 0.0
+   }
+  }
+ },
+ "lai_v2_current": {
+  "units": 843,
+  "B": 20000,
+  "seed": 20261123,
+  "full_weights": {
+   "CG": 176,
+   "DE": 41,
+   "AB": 38,
+   "DEF": 24,
+   "EF": 23,
+   "CEG": 13,
+   "DF": 13
+  },
+  "maximal": {
+   "{CG,DE,AB,DEF}": {
+    "size": 4,
+    "weight": 279,
+    "bootstrap_share": 0.9888
+   },
+   "{CG,AB,DEF,EF}": {
+    "size": 4,
+    "weight": 261,
+    "bootstrap_share": 0.0112
+   },
+   "{CG,AB,DEF,DF}": {
+    "size": 4,
+    "weight": 251,
+    "bootstrap_share": 0.0
+   },
+   "{CG,AB,CEG,DF}": {
+    "size": 4,
+    "weight": 240,
+    "bootstrap_share": 0.0
+   }
+  }
+ },
+ "lawrence": {
+  "units": 75,
+  "B": 20000,
+  "seed": 1,
+  "full_weights": {
+   "B+F+Mi+P+R": 11,
+   "B+R": 4,
+   "P+R": 4,
+   "B+F+P+R": 3,
+   "B+F+R": 3
+  },
+  "maximal": {
+   "{B+F+Mi+P+R,P+R,B+F+P+R}": {
+    "size": 3,
+    "weight": 18,
+    "bootstrap_share": 0.203925
+   },
+   "{B+F+Mi+P+R,B+R,B+F+P+R,B+F+R}": {
+    "size": 4,
+    "weight": 21,
+    "bootstrap_share": 0.796075
+   }
+  },
+  "reference_original_script": "data/lawrence_native_graph_s3_bootstrap.json: E 0.7955 (python random, seed 1, B 20000)"
+ }
+}

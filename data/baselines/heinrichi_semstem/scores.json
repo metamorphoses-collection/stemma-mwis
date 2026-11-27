@@ -1,0 +1,17 @@
+{
+ "semstem_seed1": {
+  "families_in_tree": 18,
+  "skeleton": 83.87,
+  "qscore": "{'qscore': np.float64(17930.65462715895)}"
+ },
+ "semstem_seed2": {
+  "families_in_tree": 17,
+  "skeleton": 83.42,
+  "qscore": "{'qscore': np.float64(18415.351048653207)}"
+ },
+ "semstem_seed3": {
+  "families_in_tree": 19,
+  "skeleton": 81.07,
+  "qscore": "{'qscore': np.float64(18024.198919000937)}"
+ }
+}

@@ -1,0 +1,221 @@
+{
+ "ok": true,
+ "trials": [
+  {
+   "n": 6,
+   "k": 3,
+   "A": 0.233,
+   "two_innovation_max_diff": 5.551115123125783e-17,
+   "transfer_excess": 0.0,
+   "dominance": true,
+   "ok": true
+  },
+  {
+   "n": 5,
+   "k": 2,
+   "A": 0.2294,
+   "two_innovation_max_diff": 6.938893903907228e-17,
+   "transfer_excess": 0.0,
+   "dominance": true,
+   "ok": true
+  },
+  {
+   "n": 5,
+   "k": 3,
+   "A": 0.1316,
+   "two_innovation_max_diff": 1.6653345369377348e-16,
+   "transfer_excess": 0.0,
+   "dominance": true,
+   "ok": true
+  },
+  {
+   "n": 6,
+   "k": 3,
+   "A": 0.2724,
+   "two_innovation_max_diff": 1.942890293094024e-16,
+   "transfer_excess": 0.0,
+   "dominance": true,
+   "ok": true
+  },
+  {
+   "n": 5,
+   "k": 2,
+   "A": 0.0974,
+   "two_innovation_max_diff": 8.326672684688674e-17,
+   "transfer_excess": 0.0,
+   "dominance": true,
+   "ok": true
+  },
+  {
+   "n": 6,
+   "k": 3,
+   "A": 0.2873,
+   "two_innovation_max_diff": 1.1102230246251565e-16,
+   "transfer_excess": 0.0,
+   "dominance": true,
+   "ok": true
+  },
+  {
+   "n": 5,
+   "k": 3,
+   "A": 0.2302,
+   "two_innovation_max_diff": 1.942890293094024e-16,
+   "transfer_excess": 0.0,
+   "dominance": true,
+   "ok": true
+  },
+  {
+   "n": 5,
+   "k": 3,
+   "A": 0.4878,
+   "two_innovation_max_diff": 5.551115123125783e-17,
+   "transfer_excess": 0.0,
+   "dominance": true,
+   "ok": true
+  },
+  {
+   "n": 6,
+   "k": 2,
+   "A": 0.2954,
+   "two_innovation_max_diff": 1.1102230246251565e-16,
+   "transfer_excess": 0.0,
+   "dominance": true,
+   "ok": true
+  },
+  {
+   "n": 5,
+   "k": 2,
+   "A": 0.0196,
+   "two_innovation_max_diff": 2.7755575615628914e-16,
+   "transfer_excess": 0.0,
+   "dominance": true,
+   "ok": true
+  },
+  {
+   "n": 5,
+   "k": 2,
+   "A": 0.249,
+   "two_innovation_max_diff": 2.0816681711721685e-17,
+   "transfer_excess": 0.0,
+   "dominance": true,
+   "ok": true
+  },
+  {
+   "n": 5,
+   "k": 3,
+   "A": 0.2142,
+   "two_innovation_max_diff": 8.326672684688674e-17,
+   "transfer_excess": 0.0,
+   "dominance": true,
+   "ok": true
+  },
+  {
+   "n": 5,
+   "k": 3,
+   "A": 0.2222,
+   "two_innovation_max_diff": 4.163336342344337e-17,
+   "transfer_excess": 0.0,
+   "dominance": true,
+   "ok": true
+  },
+  {
+   "n": 5,
+   "k": 3,
+   "A": 0.2231,
+   "two_innovation_max_diff": 1.3877787807814457e-16,
+   "transfer_excess": 0.0,
+   "dominance": true,
+   "ok": true
+  },
+  {
+   "n": 6,
+   "k": 3,
+   "A": 0.1834,
+   "two_innovation_max_diff": 1.1102230246251565e-16,
+   "transfer_excess": 0.0,
+   "dominance": true,
+   "ok": true
+  },
+  {
+   "n": 5,
+   "k": 3,
+   "A": 0.2248,
+   "two_innovation_max_diff": 1.3877787807814457e-16,
+   "transfer_excess": 0.0,
+   "dominance": true,
+   "ok": true
+  },
+  {
+   "n": 5,
+   "k": 3,
+   "A": 0.1888,
+   "two_innovation_max_diff": 1.3877787807814457e-16,
+   "transfer_excess": 0.0,
+   "dominance": true,
+   "ok": true
+  },
+  {
+   "n": 6,
+   "k": 2,
+   "A": 0.2334,
+   "two_innovation_max_diff": 2.7755575615628914e-17,
+   "transfer_excess": 0.0,
+   "dominance": true,
+   "ok": true
+  },
+  {
+   "n": 5,
+   "k": 3,
+   "A": 0.3559,
+   "two_innovation_max_diff": 6.938893903907228e-17,
+   "transfer_excess": 0.0,
+   "dominance": true,
+   "ok": true
+  },
+  {
+   "n": 6,
+   "k": 2,
+   "A": 0.4164,
+   "two_innovation_max_diff": 2.7755575615628914e-17,
+   "transfer_excess": 0.0,
+   "dominance": true,
+   "ok": true
+  },
+  {
+   "n": 5,
+   "k": 2,
+   "A": 0.2675,
+   "two_innovation_max_diff": 9.71445146547012e-17,
+   "transfer_excess": 0.0,
+   "dominance": true,
+   "ok": true
+  },
+  {
+   "n": 5,
+   "k": 3,
+   "A": 0.1641,
+   "two_innovation_max_diff": 1.6653345369377348e-16,
+   "transfer_excess": 0.0,
+   "dominance": true,
+   "ok": true
+  },
+  {
+   "n": 5,
+   "k": 2,
+   "A": 0.2027,
+   "two_innovation_max_diff": 1.3877787807814457e-17,
+   "transfer_excess": 0.0,
+   "dominance": true,
+   "ok": true
+  },
+  {
+   "n": 5,
+   "k": 2,
+   "A": 0.4815,
+   "two_innovation_max_diff": 1.1102230246251565e-16,
+   "transfer_excess": 0.0,
+   "dominance": true,
+   "ok": true
+  }
+ ]
+}

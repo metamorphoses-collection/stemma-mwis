@@ -1,0 +1,12 @@
+{
+ "witnesses": 37,
+ "candidates": 1933,
+ "max_count": 1923,
+ "median_count": 1181.0,
+ "share_fully_compatible": 0.0010346611484738748,
+ "pairs_never_coobserved": 4,
+ "fm": {
+  "weighted_ss": "6.12559199160527",
+  "nni_rounds": "9"
+ }
+}

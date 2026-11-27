@@ -1,0 +1,85 @@
+{
+ "stemma_witnesses": "HVBNZM",
+ "cited": {
+  "H": 365,
+  "V": 556,
+  "B": 441,
+  "N": 802,
+  "Z": 614,
+  "M": 454
+ },
+ "analysis_witnesses": "HVBNZM",
+ "units_with_shared_departure": 689,
+ "included": true,
+ "exclusion": [],
+ "editor_top": [
+  "HVBM",
+  "NZ"
+ ],
+ "k_E": 2,
+ "status": "OPTIMAL",
+ "weight": 500.0,
+ "branches": [
+  {
+   "branch": "HVBM",
+   "status": "contradicted",
+   "by": [
+    "NZM"
+   ]
+  },
+  {
+   "branch": "NZ",
+   "status": "supported",
+   "by": "NZ"
+  }
+ ],
+ "classification": "contradicted",
+ "k_D": 2,
+ "k_D_bootstrap": {
+  "2": 1.0
+ },
+ "stable_families": [
+  [
+   "NZ",
+   348,
+   1.0
+  ],
+  [
+   "HV",
+   86,
+   1.0
+  ],
+  [
+   "NZM",
+   48,
+   1.0
+  ],
+  [
+   "HVB",
+   18,
+   0.99
+  ]
+ ],
+ "mwis": [
+  [
+   "NZ",
+   348,
+   1.0
+  ],
+  [
+   "HV",
+   86,
+   1.0
+  ],
+  [
+   "NZM",
+   48,
+   1.0
+  ],
+  [
+   "HVB",
+   18,
+   0.99
+  ]
+ ]
+}

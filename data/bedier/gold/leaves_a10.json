@@ -1,0 +1,38 @@
+{
+ "cassiodorus_variae": {
+  "vol": "mgh_auct_ant_12",
+  "leaf": 469
+ },
+ "acta_synhodorum_romae_499_501_502": {
+  "vol": "mgh_auct_ant_12",
+  "leaf": 627
+ },
+ "aldhelm_de_virginitate_prosa": {
+  "vol": "mgh_auct_ant_15",
+  "leaf": 259
+ },
+ "isidorus_chronica_maiora": {
+  "vol": "mgh_auct_ant_11",
+  "leaf": 481
+ },
+ "eugippius_vita_severini": {
+  "vol": "mgh_auct_ant_1_2",
+  "leaf": 26
+ },
+ "victor_vitensis_historia": {
+  "vol": "mgh_auct_ant_3_1",
+  "leaf": 54
+ },
+ "symmachus_epistulae": {
+  "vol": "mgh_auct_ant_6_1",
+  "leaf": 266
+ },
+ "ennodius_opera": {
+  "vol": "mgh_auct_ant_7",
+  "leaf": 337
+ },
+ "avitus_carmina": {
+  "vol": "mgh_auct_ant_6_2",
+  "leaf": 320
+ }
+}

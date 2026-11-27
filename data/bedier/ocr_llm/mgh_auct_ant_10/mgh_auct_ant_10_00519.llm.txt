@@ -1,0 +1,13 @@
+CONSPECTVS NOTARVM.
+G: codex Sangallensis n. 429, membr. saec. IX, non pertinens nisi ad Gigantomachiam.
+R: codex Veronensis 163, membr. saec. IX.
+E: codex Mediceus plut. 33 cod. 9, chartac. saec. XV.
+ε: excerpta Gyraldina in margine Aldinae exemplaris Lugdunensis 757 G 2.
+V: cod. Vaticanus n. 2809, membr. saec. XI.
+P: cod. Parisinus lat. 18, 552, membr. saec. XIII.
+J: codex Cantabrigiensis coll. Trinitatis, O, 3, 22, membr. saec. XIII.
+A: Ambrosianus S 66 sup., membr. saec. XV.
+M: Ambrosianus M 9 sup., membr. saec. XIII, rarius adhibitus.
+ω: codicum memoratorum praeter εM consensus.
+φ: codices reliqui praeter eos quorum propria nota adscripta est exemptisque etiam εM.
+ς: codices deteriores.

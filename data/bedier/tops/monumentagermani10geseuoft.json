@@ -1,0 +1,417 @@
+{
+ "volume": "AA 10",
+ "ia_id": "monumentagermani10geseuoft",
+ "texts": [
+  {
+   "volume": "AA 10",
+   "ia_id": "monumentagermani10geseuoft",
+   "text_id": "claudianus_maior",
+   "work": "Claudius Claudianus, carmina maiora et publica cum carminum minorum corpusculo ('Claudianus maior')",
+   "editor": "Theodor Birt",
+   "year": 1892,
+   "text_lines": [
+    17406,
+    44254
+   ],
+   "preface_lines": [
+    4716,
+    9467
+   ],
+   "sigla": [
+    {
+     "siglum": "V",
+     "manuscript": "Vaticanus lat. 2809",
+     "date_if_given": "saec. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "P",
+     "manuscript": "Parisinus lat. 18552",
+     "date_if_given": "saec. XIII (init. vel XII)",
+     "role": "direct"
+    },
+    {
+     "siglum": "C",
+     "manuscript": "Bruxellensis 5380-5384 (conspectus: 5381)",
+     "date_if_given": "saec. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "Π",
+     "manuscript": "Parisinus lat. 8082 (conspectus OCR: 8083)",
+     "date_if_given": "saec. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "B",
+     "manuscript": "Neapolitanus (Farnesianus) IV E 47",
+     "date_if_given": "saec. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "A",
+     "manuscript": "Ambrosianus S 66 sup. (printed 'J' in the OCR of the carmina maiora conspectus)",
+     "date_if_given": "saec. XV",
+     "role": "direct"
+    },
+    {
+     "siglum": "J",
+     "manuscript": "Cantabrigiensis coll. Trinitatis O.3.22 (carmina minora only, where A deficit)",
+     "date_if_given": "saec. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "R",
+     "manuscript": "Veronensis 163 (carmina minora only; OCR often 'U'/'B')",
+     "date_if_given": "saec. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "E (carm. min.)",
+     "manuscript": "Mediceus (Laurentianus) plut. 33 cod. 9",
+     "date_if_given": "saec. XV",
+     "role": "direct"
+    },
+    {
+     "siglum": "G",
+     "manuscript": "Sangallensis 429 (Gigantomachia only); also Reginensis 123 (De Nilo only) is signed G",
+     "date_if_given": "saec. IX / a. 1056",
+     "role": "direct"
+    },
+    {
+     "siglum": "M",
+     "manuscript": "Ambrosianus M 9 sup. (raro adhibitus)",
+     "date_if_given": "saec. XIII (maiora conspectus: XII)",
+     "role": "direct"
+    },
+    {
+     "siglum": "Em",
+     "manuscript": "excerpta Florentina in margine editionis Vicentinae (1482), Florence BN A 1, 56",
+     "date_if_given": "saec. XV hand",
+     "role": "indirect"
+    },
+    {
+     "siglum": "E (carm. mai.)",
+     "manuscript": "correcturae eiusdem manus in eodem Vicentinae exemplari",
+     "date_if_given": "saec. XV hand",
+     "role": "indirect"
+    },
+    {
+     "siglum": "A (script, editio Vicentina)",
+     "manuscript": "editio princeps Vicentina 1482 (with hands A1 A2 A3)",
+     "date_if_given": "1482",
+     "role": "indirect"
+    },
+    {
+     "siglum": "e/f",
+     "manuscript": "excerpta Gyraldina in margine Aldinae, Lugdunensis 757 G 2",
+     "date_if_given": null,
+     "role": "indirect"
+    }
+   ],
+   "apparatus": "mixed_sigla",
+   "filiation_stated": "diagram",
+   "top_branches": [
+    [
+     "V",
+     "P",
+     "G",
+     "M"
+    ],
+    [
+     "C",
+     "R",
+     "E (carm. min.)",
+     "Π",
+     "B",
+     "A",
+     "J"
+    ]
+   ],
+   "deeper_groups": [
+    [
+     "R",
+     "E (carm. min.)",
+     "C"
+    ],
+    [
+     "A",
+     "B",
+     "J"
+    ],
+    [
+     "A",
+     "B"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 6134,
+     "page": "p. XCVII",
+     "quote": "Ex archetypo enim perantiquo (Ω) apographa ante saeculum nonum facta esse statuamus duo, x et y, ex y rursus duo, z et w. Omnia haec apographa passa iam sunt manus interpolatorum"
+    },
+    {
+     "ocr_line": 6158,
+     "page": "p. XCVIII",
+     "quote": "Et primum quidem ad x referimus libros V et P quam maxime affines."
+    },
+    {
+     "ocr_line": 6600,
+     "page": "p. CIII",
+     "quote": "[stemma diagram printed here; OCR keeps only fragments 'GM' and 'A B'] Ex quibus codices Ω x y z w α quos supponimus periisse dictum est."
+    },
+    {
+     "ocr_line": 6611,
+     "page": "p. CIII",
+     "quote": "Ex w autem et z multi et Π pendet, ita tamen, ut etiam ex x non pauca assumpserit ... et magis etiam interpolatus α cum filiis A et B. Porro P multa ex x habet"
+    },
+    {
+     "ocr_line": 6997,
+     "page": "p. CIX",
+     "quote": "Exempli z tria apographa adhibui, R, E, C."
+    },
+    {
+     "ocr_line": 9330,
+     "page": "p. CXLIV",
+     "quote": "Stirpes autem duae ex archetypo Ω germinaverant, x et y; ex y rursus duae, z et w; ad x et z et w accedebant libri duplicis naturae ... quales sunt P et Π."
+    }
+   ],
+   "flags": [
+    "contamination_at_top",
+    "diagram_garbled_in_ocr",
+    "multiple_sections_different_witnesses"
+   ],
+   "confidence": "medium",
+   "notes": "Birt prints a stemma (p. CIII; Ω > x, y; y > z, w; w > α > A, B) but calls it a 'magis umbratilem adumbrationem' and says P (x + w) and Π (w + z, some x) are mixed; P is placed under x, Π under y here. One stemma covers carmina maiora and the minora corpusculum, whose witnesses differ (R, G, M, J, E only in the minora). Check the sigla in the dMGH images: the OCR conspectus gives the Ambrosianus as J and the Vicentina as A, and E means different things in the two sections.",
+   "lead_check": "verified on image (mgh_auct_ant_10 leaf 106, p. CIII): Ω -> x (G1, V, P) and y1 -> y (z -> C, E, R; w -> α (A, B), Π) and liber Isengrinii; P also from w (dotted); footnote 1: 'Utrumque librorum quos G signavi'. Two-way top as recorded; M kept with G per agent, to recheck in conspectus",
+   "classification_A3": "explicit"
+  },
+  {
+   "volume": "AA 10",
+   "ia_id": "monumentagermani10geseuoft",
+   "text_id": "claudianus_raptus_proserpinae",
+   "work": "Claudius Claudianus, De raptu Proserpinae ('Claudianus minor')",
+   "editor": "Theodor Birt",
+   "year": 1892,
+   "text_lines": [
+    44255,
+    48100
+   ],
+   "preface_lines": [
+    9468,
+    10307
+   ],
+   "sigla": [
+    {
+     "siglum": "F",
+     "manuscript": "Florentinus bibl. S. Crucis pl. XXIV sin. 12",
+     "date_if_given": "saec. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "V",
+     "manuscript": "Antverpiensis N 71 (non ubique adhibitus)",
+     "date_if_given": "saec. XIII (conspectus: XIV)",
+     "role": "direct"
+    },
+    {
+     "siglum": "S",
+     "manuscript": "Parisinus lat. 15005",
+     "date_if_given": "saec. XIII vel XIV",
+     "role": "direct"
+    },
+    {
+     "siglum": "C",
+     "manuscript": "Cantabrigiensis coll. Corporis Christi 228",
+     "date_if_given": "saec. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "A",
+     "manuscript": "Oxoniensis Bodleianus Auct. F.2.16 ('A meus'; conspectus OCR prints 'J: ... Auct. J.2.16')",
+     "date_if_given": "saec. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "B",
+     "manuscript": "Oxoniensis Bodleianus Auct. F.1.15 pars tertia (so the preface; OCR conspectus reads 'eiusdem codicis pars tertia')",
+     "date_if_given": "saec. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "D",
+     "manuscript": "Musei Britannici 6042",
+     "date_if_given": "saec. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "W",
+     "manuscript": "Antverpiensis III 59",
+     "date_if_given": "saec. XII-XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "e/f",
+     "manuscript": "excerpta Gyraldina in margine Aldinae, Lugdunensis 757 G 2",
+     "date_if_given": null,
+     "role": "indirect"
+    }
+   ],
+   "apparatus": "negative_sigla",
+   "filiation_stated": "verbal",
+   "top_branches": [
+    [
+     "F",
+     "V",
+     "S"
+    ],
+    [
+     "C",
+     "A",
+     "B",
+     "D",
+     "W"
+    ]
+   ],
+   "deeper_groups": [
+    [
+     "C",
+     "A",
+     "B"
+    ],
+    [
+     "D",
+     "W"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 9527,
+     "page": "p. CXLVIII",
+     "quote": "Priore autem tempore id acciderat ut duae maxime carminis sive recensiones sive conformationes existerent, plenior altera, altera decurtata."
+    },
+    {
+     "ocr_line": 9586,
+     "page": "p. CXLIX",
+     "quote": "Sed ad has duas classis etiam media in paucis tantum libris servata accedit ... quibus omnibus indiciis huius mediae classis cum altera nexum artissimum esse evincitur"
+    },
+    {
+     "ocr_line": 9782,
+     "page": "p. CLI",
+     "quote": "Cum his libris classis secundae libri tertiae classis pauci arte cohaerent qui quidem sunt hi: III: Musei Britannici 6042 (D). Antverpiensis III 59 (W)"
+    },
+    {
+     "ocr_line": 10086,
+     "page": "p. CLV (footnote)",
+     "quote": "I 216 S et W et AC Curarum secreta tibi cytharea, contra recte et [sigla garbled] ...: Curarum citarea tibi secreta: ita miscentur familiae!"
+    }
+   ],
+   "flags": [
+    "contamination_at_top"
+   ],
+   "confidence": "medium",
+   "notes": "Three classes: I (Ia/Ib: F, V, S), II (C, A, B), III ('media': D, W). Birt names two ancient forms, the full one (I) and the shortened one (II), and ties class III closely to II, so the top is read as I vs II+III. It could also be read as three coordinate classes. He documents agreements of single codices across all three classes ('ita miscentur familiae'). The A/B shelfmarks are inconsistent between the OCR conspectus and the preface, so check them on the page images.",
+   "classification_A3": "explicit"
+  },
+  {
+   "volume": "AA 10",
+   "ia_id": "monumentagermani10geseuoft",
+   "text_id": "claudianus_paneg_probino_olybrio",
+   "work": "Claudius Claudianus, Panegyricus dictus Probino et Olybrio consulibus",
+   "editor": "Theodor Birt",
+   "year": 1892,
+   "text_lines": [
+    16440,
+    17403
+   ],
+   "preface_lines": [
+    10308,
+    10736
+   ],
+   "sigla": [
+    {
+     "siglum": "R",
+     "manuscript": "Atrebatensis (Arras) lat. 438 (from v. 61); OCR 'li'",
+     "date_if_given": "saec. XII-XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "W",
+     "manuscript": "Antverpiensis III 59",
+     "date_if_given": "saec. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "B",
+     "manuscript": "Neapolitanus IV E 47",
+     "date_if_given": "saec. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "L",
+     "manuscript": "Laurentianus pl. 33 cod. 4",
+     "date_if_given": "saec. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "F",
+     "manuscript": "Florentinus bibl. nat. VII 144",
+     "date_if_given": "saec. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "P",
+     "manuscript": "Parmensis bibl. regiae 2504 (olim 516)",
+     "date_if_given": "saec. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "T",
+     "manuscript": "Turicensis Carolinus (via Orelli's edition)",
+     "date_if_given": "saec. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "E",
+     "manuscript": "excerptoris Florentini in ed. Vicentina correcturae (only to v. 25)",
+     "date_if_given": null,
+     "role": "indirect"
+    },
+    {
+     "siglum": "e",
+     "manuscript": "excerpta Gyraldina in margine Aldinae Lugdunensis 757 G 2",
+     "date_if_given": null,
+     "role": "indirect"
+    }
+   ],
+   "apparatus": "negative_sigla",
+   "filiation_stated": "none",
+   "top_branches": [],
+   "deeper_groups": [],
+   "evidence": [
+    {
+     "ocr_line": 10400,
+     "page": "p. CLX",
+     "quote": "Qui libri ut solitam interpolationis libidinem passi sunt omnes, libros tamen BRW paullo meliores atque tales esse demonstrabo, ut in iis propemodum editor et emendator carminis acquiescere possit"
+    },
+    {
+     "ocr_line": 10411,
+     "page": "p. CLXI",
+     "quote": "Et primum libri L F P T Vo et l, cum unusquisque suos errores multifarios commiserint, nullam paene veram et genuinam lectionem tradidere quae non in illis quoque ... scripta sit"
+    }
+   ],
+   "flags": [],
+   "confidence": "low",
+   "notes": "Birt ranks the witnesses as BRW better and LFPT (plus Vo, l) worse, and lists BRW agreements, but he states no derivation, class or archetype. The pairing BRW vs LFPT could be read as a two-group division, so check whether that counts as a stated filiation. Witnesses also agree across the two groups ('concinant vel succinant').",
+   "classification_A3": "none"
+  }
+ ],
+ "skipped": [
+  {
+   "piece": "Carminum minorum appendix vel spuria vel suspecta continens (text lines 48104-49744; preface 10737-11476)",
+   "reason": "Heterogeneous spurious poems, each with 1-3 witnesses (R, V, M, Peiresc schedae β, H) and early editions. No filiation is stated for the collection, and Birt cannot decide whether H descends from β."
+  }
+ ],
+ "reader": "agent",
+ "date": "2026-11-13"
+}

@@ -1,0 +1,1742 @@
+{
+ "full_mwis_families": 4,
+ "B": 200,
+ "certified_replicates": 200,
+ "thetas": {
+  "0.5": {
+   "backbone": 2,
+   "backbone_score": null,
+   "families": 4,
+   "score": null,
+   "backbone_broken": 0
+  },
+  "0.7": {
+   "backbone": 2,
+   "backbone_score": null,
+   "families": 4,
+   "score": null,
+   "backbone_broken": 0
+  },
+  "0.9": {
+   "backbone": 1,
+   "backbone_score": null,
+   "families": 4,
+   "score": null,
+   "backbone_broken": 0
+  }
+ },
+ "mwis_full_score": null,
+ "parsimony_plain": {
+  "families": 4,
+  "score": null
+ },
+ "stability": [
+  [
+   [
+    "B",
+    "F",
+    "Mi",
+    "P",
+    "R"
+   ],
+   0.98,
+   true
+  ],
+  [
+   [
+    "B",
+    "F",
+    "P",
+    "R"
+   ],
+   0.85,
+   true
+  ],
+  [
+   [
+    "B",
+    "F",
+    "R"
+   ],
+   0.49,
+   true
+  ],
+  [
+   [
+    "P",
+    "R"
+   ],
+   0.45,
+   false
+  ],
+  [
+   [
+    "B",
+    "R"
+   ],
+   0.42,
+   true
+  ],
+  [
+   [
+    "B",
+    "F"
+   ],
+   0.25,
+   false
+  ],
+  [
+   [
+    "F",
+    "P",
+    "R"
+   ],
+   0.17,
+   false
+  ],
+  [
+   [
+    "Mi",
+    "P",
+    "R"
+   ],
+   0.12,
+   false
+  ],
+  [
+   [
+    "F",
+    "R"
+   ],
+   0.1,
+   false
+  ]
+ ],
+ "full_unstable": [
+  [
+   [
+    "B",
+    "R"
+   ],
+   0.42
+  ],
+  [
+   [
+    "B",
+    "F",
+    "R"
+   ],
+   0.49
+  ]
+ ],
+ "replicates": [
+  {
+   "tag": "full",
+   "status": "OPTIMAL",
+   "obj": 19.0,
+   "bound": 19.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep0",
+   "status": "OPTIMAL",
+   "obj": 20.0,
+   "bound": 20.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep1",
+   "status": "OPTIMAL",
+   "obj": 20.0,
+   "bound": 20.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep2",
+   "status": "OPTIMAL",
+   "obj": 24.0,
+   "bound": 24.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep3",
+   "status": "OPTIMAL",
+   "obj": 25.0,
+   "bound": 25.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep4",
+   "status": "OPTIMAL",
+   "obj": 30.0,
+   "bound": 30.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep5",
+   "status": "OPTIMAL",
+   "obj": 22.0,
+   "bound": 22.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep6",
+   "status": "OPTIMAL",
+   "obj": 21.0,
+   "bound": 21.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep7",
+   "status": "OPTIMAL",
+   "obj": 20.0,
+   "bound": 20.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep8",
+   "status": "OPTIMAL",
+   "obj": 27.0,
+   "bound": 27.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep9",
+   "status": "OPTIMAL",
+   "obj": 19.0,
+   "bound": 19.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep10",
+   "status": "OPTIMAL",
+   "obj": 15.0,
+   "bound": 15.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep11",
+   "status": "OPTIMAL",
+   "obj": 27.0,
+   "bound": 27.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep12",
+   "status": "OPTIMAL",
+   "obj": 24.0,
+   "bound": 24.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep13",
+   "status": "OPTIMAL",
+   "obj": 19.0,
+   "bound": 19.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep14",
+   "status": "OPTIMAL",
+   "obj": 27.0,
+   "bound": 27.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep15",
+   "status": "OPTIMAL",
+   "obj": 24.0,
+   "bound": 24.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep16",
+   "status": "OPTIMAL",
+   "obj": 21.0,
+   "bound": 21.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep17",
+   "status": "OPTIMAL",
+   "obj": 18.0,
+   "bound": 18.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep18",
+   "status": "OPTIMAL",
+   "obj": 17.0,
+   "bound": 17.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep19",
+   "status": "OPTIMAL",
+   "obj": 21.0,
+   "bound": 21.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep20",
+   "status": "OPTIMAL",
+   "obj": 20.0,
+   "bound": 20.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep21",
+   "status": "OPTIMAL",
+   "obj": 18.0,
+   "bound": 18.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep22",
+   "status": "OPTIMAL",
+   "obj": 20.0,
+   "bound": 20.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep23",
+   "status": "OPTIMAL",
+   "obj": 22.0,
+   "bound": 22.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep24",
+   "status": "OPTIMAL",
+   "obj": 24.0,
+   "bound": 24.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep25",
+   "status": "OPTIMAL",
+   "obj": 20.0,
+   "bound": 20.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep26",
+   "status": "OPTIMAL",
+   "obj": 14.0,
+   "bound": 14.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep27",
+   "status": "OPTIMAL",
+   "obj": 29.0,
+   "bound": 29.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep28",
+   "status": "OPTIMAL",
+   "obj": 17.0,
+   "bound": 17.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep29",
+   "status": "OPTIMAL",
+   "obj": 22.0,
+   "bound": 22.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep30",
+   "status": "OPTIMAL",
+   "obj": 16.0,
+   "bound": 16.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep31",
+   "status": "OPTIMAL",
+   "obj": 25.0,
+   "bound": 25.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep32",
+   "status": "OPTIMAL",
+   "obj": 24.0,
+   "bound": 24.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep33",
+   "status": "OPTIMAL",
+   "obj": 22.0,
+   "bound": 22.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep34",
+   "status": "OPTIMAL",
+   "obj": 18.0,
+   "bound": 18.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep35",
+   "status": "OPTIMAL",
+   "obj": 21.0,
+   "bound": 21.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep36",
+   "status": "OPTIMAL",
+   "obj": 16.0,
+   "bound": 16.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep37",
+   "status": "OPTIMAL",
+   "obj": 20.0,
+   "bound": 20.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep38",
+   "status": "OPTIMAL",
+   "obj": 19.0,
+   "bound": 19.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep39",
+   "status": "OPTIMAL",
+   "obj": 18.0,
+   "bound": 18.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep40",
+   "status": "OPTIMAL",
+   "obj": 21.0,
+   "bound": 21.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep41",
+   "status": "OPTIMAL",
+   "obj": 18.0,
+   "bound": 18.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep42",
+   "status": "OPTIMAL",
+   "obj": 20.0,
+   "bound": 20.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep43",
+   "status": "OPTIMAL",
+   "obj": 17.0,
+   "bound": 17.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep44",
+   "status": "OPTIMAL",
+   "obj": 23.0,
+   "bound": 23.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep45",
+   "status": "OPTIMAL",
+   "obj": 18.0,
+   "bound": 18.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep46",
+   "status": "OPTIMAL",
+   "obj": 24.0,
+   "bound": 24.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep47",
+   "status": "OPTIMAL",
+   "obj": 25.0,
+   "bound": 25.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep48",
+   "status": "OPTIMAL",
+   "obj": 18.0,
+   "bound": 18.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep49",
+   "status": "OPTIMAL",
+   "obj": 26.0,
+   "bound": 26.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep50",
+   "status": "OPTIMAL",
+   "obj": 22.0,
+   "bound": 22.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep51",
+   "status": "OPTIMAL",
+   "obj": 19.0,
+   "bound": 19.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep52",
+   "status": "OPTIMAL",
+   "obj": 16.0,
+   "bound": 16.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep53",
+   "status": "OPTIMAL",
+   "obj": 22.0,
+   "bound": 22.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep54",
+   "status": "OPTIMAL",
+   "obj": 17.0,
+   "bound": 17.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep55",
+   "status": "OPTIMAL",
+   "obj": 17.0,
+   "bound": 17.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep56",
+   "status": "OPTIMAL",
+   "obj": 18.0,
+   "bound": 18.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep57",
+   "status": "OPTIMAL",
+   "obj": 23.0,
+   "bound": 23.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep58",
+   "status": "OPTIMAL",
+   "obj": 21.0,
+   "bound": 21.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep59",
+   "status": "OPTIMAL",
+   "obj": 20.0,
+   "bound": 20.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep60",
+   "status": "OPTIMAL",
+   "obj": 28.0,
+   "bound": 28.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep61",
+   "status": "OPTIMAL",
+   "obj": 20.0,
+   "bound": 20.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep62",
+   "status": "OPTIMAL",
+   "obj": 17.0,
+   "bound": 17.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep63",
+   "status": "OPTIMAL",
+   "obj": 17.0,
+   "bound": 17.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep64",
+   "status": "OPTIMAL",
+   "obj": 22.0,
+   "bound": 22.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep65",
+   "status": "OPTIMAL",
+   "obj": 25.0,
+   "bound": 25.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep66",
+   "status": "OPTIMAL",
+   "obj": 24.0,
+   "bound": 24.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep67",
+   "status": "OPTIMAL",
+   "obj": 27.0,
+   "bound": 27.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep68",
+   "status": "OPTIMAL",
+   "obj": 22.0,
+   "bound": 22.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep69",
+   "status": "OPTIMAL",
+   "obj": 23.0,
+   "bound": 23.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep70",
+   "status": "OPTIMAL",
+   "obj": 16.0,
+   "bound": 16.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep71",
+   "status": "OPTIMAL",
+   "obj": 21.0,
+   "bound": 21.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep72",
+   "status": "OPTIMAL",
+   "obj": 23.0,
+   "bound": 23.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep73",
+   "status": "OPTIMAL",
+   "obj": 16.0,
+   "bound": 16.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep74",
+   "status": "OPTIMAL",
+   "obj": 21.0,
+   "bound": 21.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep75",
+   "status": "OPTIMAL",
+   "obj": 17.0,
+   "bound": 17.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep76",
+   "status": "OPTIMAL",
+   "obj": 23.0,
+   "bound": 23.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep77",
+   "status": "OPTIMAL",
+   "obj": 29.0,
+   "bound": 29.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep78",
+   "status": "OPTIMAL",
+   "obj": 18.0,
+   "bound": 18.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep79",
+   "status": "OPTIMAL",
+   "obj": 18.0,
+   "bound": 18.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep80",
+   "status": "OPTIMAL",
+   "obj": 21.0,
+   "bound": 21.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep81",
+   "status": "OPTIMAL",
+   "obj": 15.0,
+   "bound": 15.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep82",
+   "status": "OPTIMAL",
+   "obj": 16.0,
+   "bound": 16.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep83",
+   "status": "OPTIMAL",
+   "obj": 20.0,
+   "bound": 20.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep84",
+   "status": "OPTIMAL",
+   "obj": 16.0,
+   "bound": 16.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep85",
+   "status": "OPTIMAL",
+   "obj": 23.0,
+   "bound": 23.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep86",
+   "status": "OPTIMAL",
+   "obj": 24.0,
+   "bound": 24.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep87",
+   "status": "OPTIMAL",
+   "obj": 18.0,
+   "bound": 18.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep88",
+   "status": "OPTIMAL",
+   "obj": 18.0,
+   "bound": 18.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep89",
+   "status": "OPTIMAL",
+   "obj": 16.0,
+   "bound": 16.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep90",
+   "status": "OPTIMAL",
+   "obj": 22.0,
+   "bound": 22.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep91",
+   "status": "OPTIMAL",
+   "obj": 17.0,
+   "bound": 17.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep92",
+   "status": "OPTIMAL",
+   "obj": 17.0,
+   "bound": 17.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep93",
+   "status": "OPTIMAL",
+   "obj": 15.0,
+   "bound": 15.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep94",
+   "status": "OPTIMAL",
+   "obj": 23.0,
+   "bound": 23.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep95",
+   "status": "OPTIMAL",
+   "obj": 21.0,
+   "bound": 21.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep96",
+   "status": "OPTIMAL",
+   "obj": 18.0,
+   "bound": 18.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep97",
+   "status": "OPTIMAL",
+   "obj": 18.0,
+   "bound": 18.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep98",
+   "status": "OPTIMAL",
+   "obj": 18.0,
+   "bound": 18.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep99",
+   "status": "OPTIMAL",
+   "obj": 26.0,
+   "bound": 26.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep100",
+   "status": "OPTIMAL",
+   "obj": 14.0,
+   "bound": 14.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep101",
+   "status": "OPTIMAL",
+   "obj": 25.0,
+   "bound": 25.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep102",
+   "status": "OPTIMAL",
+   "obj": 20.0,
+   "bound": 20.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep103",
+   "status": "OPTIMAL",
+   "obj": 27.0,
+   "bound": 27.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep104",
+   "status": "OPTIMAL",
+   "obj": 14.0,
+   "bound": 14.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep105",
+   "status": "OPTIMAL",
+   "obj": 22.0,
+   "bound": 22.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep106",
+   "status": "OPTIMAL",
+   "obj": 24.0,
+   "bound": 24.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep107",
+   "status": "OPTIMAL",
+   "obj": 23.0,
+   "bound": 23.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep108",
+   "status": "OPTIMAL",
+   "obj": 19.0,
+   "bound": 19.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep109",
+   "status": "OPTIMAL",
+   "obj": 22.0,
+   "bound": 22.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep110",
+   "status": "OPTIMAL",
+   "obj": 19.0,
+   "bound": 19.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep111",
+   "status": "OPTIMAL",
+   "obj": 20.0,
+   "bound": 20.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep112",
+   "status": "OPTIMAL",
+   "obj": 25.0,
+   "bound": 25.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep113",
+   "status": "OPTIMAL",
+   "obj": 16.0,
+   "bound": 16.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep114",
+   "status": "OPTIMAL",
+   "obj": 23.0,
+   "bound": 23.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep115",
+   "status": "OPTIMAL",
+   "obj": 17.0,
+   "bound": 17.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep116",
+   "status": "OPTIMAL",
+   "obj": 22.0,
+   "bound": 22.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep117",
+   "status": "OPTIMAL",
+   "obj": 18.0,
+   "bound": 18.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep118",
+   "status": "OPTIMAL",
+   "obj": 28.0,
+   "bound": 28.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep119",
+   "status": "OPTIMAL",
+   "obj": 27.0,
+   "bound": 27.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep120",
+   "status": "OPTIMAL",
+   "obj": 24.0,
+   "bound": 24.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep121",
+   "status": "OPTIMAL",
+   "obj": 16.0,
+   "bound": 16.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep122",
+   "status": "OPTIMAL",
+   "obj": 19.0,
+   "bound": 19.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep123",
+   "status": "OPTIMAL",
+   "obj": 20.0,
+   "bound": 20.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep124",
+   "status": "OPTIMAL",
+   "obj": 19.0,
+   "bound": 19.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep125",
+   "status": "OPTIMAL",
+   "obj": 13.0,
+   "bound": 13.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep126",
+   "status": "OPTIMAL",
+   "obj": 18.0,
+   "bound": 18.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep127",
+   "status": "OPTIMAL",
+   "obj": 23.0,
+   "bound": 23.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep128",
+   "status": "OPTIMAL",
+   "obj": 17.0,
+   "bound": 17.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep129",
+   "status": "OPTIMAL",
+   "obj": 16.0,
+   "bound": 16.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep130",
+   "status": "OPTIMAL",
+   "obj": 21.0,
+   "bound": 21.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep131",
+   "status": "OPTIMAL",
+   "obj": 27.0,
+   "bound": 27.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep132",
+   "status": "OPTIMAL",
+   "obj": 20.0,
+   "bound": 20.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep133",
+   "status": "OPTIMAL",
+   "obj": 20.0,
+   "bound": 20.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep134",
+   "status": "OPTIMAL",
+   "obj": 17.0,
+   "bound": 17.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep135",
+   "status": "OPTIMAL",
+   "obj": 18.0,
+   "bound": 18.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep136",
+   "status": "OPTIMAL",
+   "obj": 28.0,
+   "bound": 28.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep137",
+   "status": "OPTIMAL",
+   "obj": 22.0,
+   "bound": 22.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep138",
+   "status": "OPTIMAL",
+   "obj": 22.0,
+   "bound": 22.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep139",
+   "status": "OPTIMAL",
+   "obj": 19.0,
+   "bound": 19.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep140",
+   "status": "OPTIMAL",
+   "obj": 12.0,
+   "bound": 12.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep141",
+   "status": "OPTIMAL",
+   "obj": 20.0,
+   "bound": 20.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep142",
+   "status": "OPTIMAL",
+   "obj": 22.0,
+   "bound": 22.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep143",
+   "status": "OPTIMAL",
+   "obj": 18.0,
+   "bound": 18.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep144",
+   "status": "OPTIMAL",
+   "obj": 13.0,
+   "bound": 13.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep145",
+   "status": "OPTIMAL",
+   "obj": 22.0,
+   "bound": 22.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep146",
+   "status": "OPTIMAL",
+   "obj": 18.0,
+   "bound": 18.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep147",
+   "status": "OPTIMAL",
+   "obj": 20.0,
+   "bound": 20.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep148",
+   "status": "OPTIMAL",
+   "obj": 19.0,
+   "bound": 19.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep149",
+   "status": "OPTIMAL",
+   "obj": 19.0,
+   "bound": 19.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep150",
+   "status": "OPTIMAL",
+   "obj": 16.0,
+   "bound": 16.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep151",
+   "status": "OPTIMAL",
+   "obj": 24.0,
+   "bound": 24.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep152",
+   "status": "OPTIMAL",
+   "obj": 20.0,
+   "bound": 20.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep153",
+   "status": "OPTIMAL",
+   "obj": 27.0,
+   "bound": 27.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep154",
+   "status": "OPTIMAL",
+   "obj": 15.0,
+   "bound": 15.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep155",
+   "status": "OPTIMAL",
+   "obj": 13.0,
+   "bound": 13.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep156",
+   "status": "OPTIMAL",
+   "obj": 24.0,
+   "bound": 24.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep157",
+   "status": "OPTIMAL",
+   "obj": 23.0,
+   "bound": 23.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep158",
+   "status": "OPTIMAL",
+   "obj": 20.0,
+   "bound": 20.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep159",
+   "status": "OPTIMAL",
+   "obj": 17.0,
+   "bound": 17.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep160",
+   "status": "OPTIMAL",
+   "obj": 19.0,
+   "bound": 19.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep161",
+   "status": "OPTIMAL",
+   "obj": 25.0,
+   "bound": 25.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep162",
+   "status": "OPTIMAL",
+   "obj": 19.0,
+   "bound": 19.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep163",
+   "status": "OPTIMAL",
+   "obj": 25.0,
+   "bound": 25.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep164",
+   "status": "OPTIMAL",
+   "obj": 21.0,
+   "bound": 21.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep165",
+   "status": "OPTIMAL",
+   "obj": 16.0,
+   "bound": 16.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep166",
+   "status": "OPTIMAL",
+   "obj": 18.0,
+   "bound": 18.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep167",
+   "status": "OPTIMAL",
+   "obj": 20.0,
+   "bound": 20.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep168",
+   "status": "OPTIMAL",
+   "obj": 20.0,
+   "bound": 20.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep169",
+   "status": "OPTIMAL",
+   "obj": 23.0,
+   "bound": 23.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep170",
+   "status": "OPTIMAL",
+   "obj": 23.0,
+   "bound": 23.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep171",
+   "status": "OPTIMAL",
+   "obj": 20.0,
+   "bound": 20.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep172",
+   "status": "OPTIMAL",
+   "obj": 18.0,
+   "bound": 18.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep173",
+   "status": "OPTIMAL",
+   "obj": 18.0,
+   "bound": 18.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep174",
+   "status": "OPTIMAL",
+   "obj": 18.0,
+   "bound": 18.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep175",
+   "status": "OPTIMAL",
+   "obj": 22.0,
+   "bound": 22.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep176",
+   "status": "OPTIMAL",
+   "obj": 25.0,
+   "bound": 25.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep177",
+   "status": "OPTIMAL",
+   "obj": 29.0,
+   "bound": 29.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep178",
+   "status": "OPTIMAL",
+   "obj": 24.0,
+   "bound": 24.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep179",
+   "status": "OPTIMAL",
+   "obj": 22.0,
+   "bound": 22.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep180",
+   "status": "OPTIMAL",
+   "obj": 23.0,
+   "bound": 23.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep181",
+   "status": "OPTIMAL",
+   "obj": 23.0,
+   "bound": 23.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep182",
+   "status": "OPTIMAL",
+   "obj": 25.0,
+   "bound": 25.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep183",
+   "status": "OPTIMAL",
+   "obj": 20.0,
+   "bound": 20.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep184",
+   "status": "OPTIMAL",
+   "obj": 21.0,
+   "bound": 21.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep185",
+   "status": "OPTIMAL",
+   "obj": 20.0,
+   "bound": 20.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep186",
+   "status": "OPTIMAL",
+   "obj": 18.0,
+   "bound": 18.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep187",
+   "status": "OPTIMAL",
+   "obj": 20.0,
+   "bound": 20.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep188",
+   "status": "OPTIMAL",
+   "obj": 21.0,
+   "bound": 21.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep189",
+   "status": "OPTIMAL",
+   "obj": 21.0,
+   "bound": 21.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep190",
+   "status": "OPTIMAL",
+   "obj": 19.0,
+   "bound": 19.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep191",
+   "status": "OPTIMAL",
+   "obj": 17.0,
+   "bound": 17.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep192",
+   "status": "OPTIMAL",
+   "obj": 18.0,
+   "bound": 18.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep193",
+   "status": "OPTIMAL",
+   "obj": 21.0,
+   "bound": 21.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep194",
+   "status": "OPTIMAL",
+   "obj": 20.0,
+   "bound": 20.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep195",
+   "status": "OPTIMAL",
+   "obj": 18.0,
+   "bound": 18.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep196",
+   "status": "OPTIMAL",
+   "obj": 21.0,
+   "bound": 21.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep197",
+   "status": "OPTIMAL",
+   "obj": 23.0,
+   "bound": 23.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep198",
+   "status": "OPTIMAL",
+   "obj": 27.0,
+   "bound": 27.0,
+   "tl": 300,
+   "certified": true
+  },
+  {
+   "tag": "rep199",
+   "status": "OPTIMAL",
+   "obj": 19.0,
+   "bound": 19.0,
+   "tl": 300,
+   "certified": true
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+PASS star: i3 0, root degree 4
+PASS caterpillar: i3 1, all nodes binary
+PASS (01)23: i3 1/2, root degree 3
+PASS prune: lost unary node contracted, lost leaf-free nodes kept as clusters
+PASS prune: surviving exemplar hangs as a leaf at its own node
+PASS binomial tail
+PASS bedier_birthdeath.json alpha=0.3: truth in the range of the birth-death null
+PASS bedier_birthdeath.json alpha=0.3: raw MWIS over-resolves (bifid, i3 up, degree 3 down)
+PASS bedier_birthdeath.json alpha=0.3: rival test adds at most one false cluster per 20 traditions
+PASS bedier_birthdeath.json alpha=0.3: rival test loses more than 5% of true clusters
+PASS bedier_birthdeath.json alpha=0.3: rival under-resolves, raw over-resolves
+PASS bedier_birthdeath.json alpha=0.3: some support threshold puts bifid and i3 inside the editors' intervals ['k>=2', 'k>=3']
+PASS bedier_birthdeath.json alpha=0.3: matching arms have P(deg>=3) in 0.05-0.16, below the truth [0.076, 0.106]
+PASS bedier_birthdeath.json alpha=0.3: truth P(deg>=3) 0.18-0.20 (published convention 0.181)
+PASS bedier_birthdeath.json alpha=0.6: truth in the range of the birth-death null
+PASS bedier_birthdeath.json alpha=0.6: raw MWIS over-resolves (bifid, i3 up, degree 3 down)
+PASS bedier_birthdeath.json alpha=0.6: rival test adds at most one false cluster per 20 traditions
+PASS bedier_birthdeath.json alpha=0.6: rival test loses more than 5% of true clusters
+PASS bedier_birthdeath.json alpha=0.6: rival under-resolves, raw over-resolves
+PASS bedier_birthdeath.json alpha=0.6: some support threshold puts bifid and i3 inside the editors' intervals ['k>=2', 'k>=3']
+PASS bedier_birthdeath.json alpha=0.6: matching arms have P(deg>=3) in 0.05-0.16, below the truth [0.056, 0.089]
+PASS bedier_birthdeath.json alpha=0.6: truth P(deg>=3) 0.18-0.20 (published convention 0.183)
+PASS bedier_birthdeath.json alpha=0.9: truth in the range of the birth-death null
+PASS bedier_birthdeath.json alpha=0.9: raw MWIS over-resolves (bifid, i3 up, degree 3 down)
+PASS bedier_birthdeath.json alpha=0.9: rival test adds at most one false cluster per 20 traditions
+PASS bedier_birthdeath.json alpha=0.9: rival test loses more than 5% of true clusters
+PASS bedier_birthdeath.json alpha=0.9: rival under-resolves, raw over-resolves
+PASS bedier_birthdeath.json alpha=0.9: some support threshold puts bifid and i3 inside the editors' intervals ['k>=2', 'k>=3', 'k>=5']
+PASS bedier_birthdeath.json alpha=0.9: matching arms have P(deg>=3) in 0.05-0.16, below the truth [0.069, 0.106, 0.157]
+PASS bedier_birthdeath.json alpha=0.9: truth P(deg>=3) 0.18-0.20 (published convention 0.195)
+PASS bedier_birthdeath_spencer.json alpha=0.3: truth in the range of the birth-death null
+PASS bedier_birthdeath_spencer.json alpha=0.3: raw MWIS over-resolves (bifid, i3 up, degree 3 down)
+PASS bedier_birthdeath_spencer.json alpha=0.3: rival test adds at most one false cluster per 20 traditions
+PASS bedier_birthdeath_spencer.json alpha=0.3: rival test loses more than 5% of true clusters
+PASS bedier_birthdeath_spencer.json alpha=0.3: rival under-resolves, raw over-resolves
+PASS bedier_birthdeath_spencer.json alpha=0.3: some support threshold puts bifid and i3 inside the editors' intervals ['k>=2', 'k>=3']
+PASS bedier_birthdeath_spencer.json alpha=0.3: matching arms have P(deg>=3) in 0.05-0.16, below the truth [0.053, 0.075]
+PASS bedier_birthdeath_spencer.json alpha=0.3: truth P(deg>=3) 0.18-0.20 (published convention 0.181)
+PASS bedier_birthdeath_spencer.json alpha=0.6: truth in the range of the birth-death null
+PASS bedier_birthdeath_spencer.json alpha=0.6: raw MWIS over-resolves (bifid, i3 up, degree 3 down)
+PASS bedier_birthdeath_spencer.json alpha=0.6: rival test adds at most one false cluster per 20 traditions
+PASS bedier_birthdeath_spencer.json alpha=0.6: rival test loses more than 5% of true clusters
+PASS bedier_birthdeath_spencer.json alpha=0.6: rival under-resolves, raw over-resolves
+PASS bedier_birthdeath_spencer.json alpha=0.6: some support threshold puts bifid and i3 inside the editors' intervals ['k>=3', 'k>=5']
+PASS bedier_birthdeath_spencer.json alpha=0.6: matching arms have P(deg>=3) in 0.05-0.16, below the truth [0.069, 0.106]
+PASS bedier_birthdeath_spencer.json alpha=0.6: truth P(deg>=3) 0.18-0.20 (published convention 0.183)
+PASS bedier_birthdeath_spencer.json alpha=0.9: truth in the range of the birth-death null
+PASS bedier_birthdeath_spencer.json alpha=0.9: raw MWIS over-resolves (bifid, i3 up, degree 3 down)
+PASS bedier_birthdeath_spencer.json alpha=0.9: rival test adds at most one false cluster per 20 traditions
+PASS bedier_birthdeath_spencer.json alpha=0.9: rival test loses more than 5% of true clusters
+PASS bedier_birthdeath_spencer.json alpha=0.9: rival under-resolves, raw over-resolves
+PASS bedier_birthdeath_spencer.json alpha=0.9: some support threshold puts bifid and i3 inside the editors' intervals ['k>=5']
+PASS bedier_birthdeath_spencer.json alpha=0.9: matching arms have P(deg>=3) in 0.05-0.16, below the truth [0.149]
+PASS bedier_birthdeath_spencer.json alpha=0.9: truth P(deg>=3) 0.18-0.20 (published convention 0.195)
+PASS bedier_birthdeath_spencer_L300.json alpha=0.6: truth in the range of the birth-death null
+PASS bedier_birthdeath_spencer_L300.json alpha=0.6: raw MWIS over-resolves (bifid, i3 up, degree 3 down)
+PASS bedier_birthdeath_spencer_L300.json alpha=0.6: rival test adds at most one false cluster per 20 traditions
+PASS bedier_birthdeath_spencer_L300.json alpha=0.6: rival test loses more than 5% of true clusters
+PASS bedier_birthdeath_spencer_L300.json alpha=0.6: rival under-resolves, raw over-resolves
+PASS bedier_birthdeath_spencer_L300.json alpha=0.6: at L=300 no threshold matches; k>=2 leaves i3 just below 0.89 (0.886)
+PASS bedier_birthdeath_spencer_L300.json alpha=0.6: matching arms have P(deg>=3) in 0.05-0.16, below the truth []
+PASS bedier_birthdeath_spencer_L300.json alpha=0.6: truth P(deg>=3) 0.18-0.20 (published convention 0.181)
+ALL PASS

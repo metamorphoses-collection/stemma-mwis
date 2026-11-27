@@ -1,0 +1,33 @@
+GLM      W06+W07                                  in     112422b41          exact
+GLM      W09+W19+W22+W26                          in     1?13?72?22         3/4
+GLM      W09+W19+W22+W26                          in     7?23134411         exact
+GLM      W09+W19                                  in     2233211151         exact
+GLM      W09+W19                                  in     2352412244         1/2
+GLM      W09+W19                                  in     2281533            1/2
+GLM      W22+W26                                  in     3324522433         exact
+GLM      W11+W25+W32                              in     1412323125         exact
+GLM      W11+W25+W32                              in     2112252223         2/3
+GLM      W11+W25                                  in     3332114413         exact
+GLM      W11+W25                                  in     312?145129         exact
+GLM      W11+W25                                  in     2314?5111?         NONE
+GLM      W14+W17+W20                              in     1134141214         2/3
+GLM      W17+W20                                  in     2412221461         exact
+GLM      W17+W20                                  in     2121121251         exact
+GLM      W23+W27                                  in     12554??812         exact
+GLM      W23+W27                                  in     662221b?3          NONE
+GLM      W04+W21+W34                              in     1422362242         exact
+GLM      W01+W24+W29+W33                          in     1?32?72?23         exact
+GLM      W03+W12                                  in     1?22?22?25         exact
+== GLM: 13 exact, 5 partial, 2 not found, of 20
+
+Nemotron W06+W07                                  in     11111112           exact
+Nemotron W10+W16+W37                              prefix 322214             2/3
+Nemotron W05+W13                                  prefix 322213|3222123     exact
+Nemotron W03+W04+W14+W17+W18+W20+W33+W34+W35      prefix 3222125131         exact
+Nemotron W21+W24+W29+W31                          prefix 3222122|3222125    exact
+Nemotron W12+W36                                  prefix 32121              exact
+Nemotron W15+W22+W26                              prefix 32221???           exact
+Nemotron W23+W27+W32                              prefix 42221|41221        exact
+Nemotron W09+W11+W19+W25+W30                      prefix 22221|12221        exact
+== Nemotron: 8 exact, 1 partial, 0 not found, of 9
+

@@ -1,0 +1,343 @@
+{
+ "emulation_settings": {
+  "engine": "pulser_simulation.QutipEmulator, single copy of the instance, sampling_rate=0.05",
+  "drive": "Omega 0->2pi*1.5->2pi*1.5->0 rad/us; delta -2pi*4 -> -2pi*2 -> 2pi*0.54 -> 2pi*0.9 rad/us (interpolated); T 6000 ns",
+  "samples": "sample_final_state(N_samples=4000) per configuration",
+  "noiseless": "pure-state Schroedinger evolution, no noise",
+  "noisy": "NoiseModel(p_false_pos=0.02, p_false_neg=0.10, dephasing_rate=1/4.5 us^-1): readout errors + Lindblad dephasing, solved as a density matrix (master equation). runs=40, samples_per_run=50 were passed but Pulser warns they are NOT used by the active noise types (SPAM, dephasing) [data/lai_ruby_dist/log.txt] -> no trajectories; 4000 samples from one density matrix.",
+  "weighted": "DMM detuning map (1 - w_eff), ramp 0 -> -delta_f over T; w_eff = 0.3 + 0.7 w/w_max; device = AnalogDevice virtual + DMM(bottom -60, total -600)"
+ },
+ "predictions": {
+  "priscus": {
+   "ideal": {
+    "P_valid": 0.99975,
+    "P_valid_se": 0.00024996874804661704,
+    "P_any_MIS": 0.92175,
+    "P_any_MIS_se": 0.004246378972136143,
+    "P_MWIS": 0.22475
+   },
+   "noisy": {
+    "P_valid": 0.92625,
+    "P_valid_se": 0.00413252155166794,
+    "P_any_MIS": 0.51225,
+    "P_any_MIS_se": 0.007903321097804391,
+    "P_MWIS": 0.12375
+   },
+   "MWIS_ideal": {
+    "P_valid": 1.0,
+    "P_valid_se": 0.0,
+    "P_any_MIS": 0.7045,
+    "P_any_MIS_se": 0.007214217733060182,
+    "P_MWIS": 0.568
+   },
+   "MWIS_noisy": {
+    "P_valid": 0.9225,
+    "P_valid_se": 0.004227698842159882,
+    "P_any_MIS": 0.4175,
+    "P_any_MIS_se": 0.007797335282005,
+    "P_MWIS": 0.1895
+   }
+  },
+  "lai (scorer, lai_emu_dist_T6000.json)": {
+   "ideal": {
+    "P_valid": 1.0,
+    "P_valid_se": 0.0,
+    "P_any_MIS": 0.7375,
+    "P_any_MIS_se": 0.006956898554672189,
+    "P_MWIS": 0.28
+   },
+   "noisy": {
+    "P_valid": 0.9325,
+    "P_valid_se": 0.003966854862482367,
+    "P_any_MIS": 0.21325,
+    "P_any_MIS_se": 0.0064763886059284615,
+    "P_MWIS": 0.06725
+   }
+  },
+  "lai (lai_mis_prep.json, independent rerun)": {
+   "ideal": {
+    "P_valid": 1.0,
+    "P_valid_se": 0.0,
+    "P_any_MIS": 0.741,
+    "P_any_MIS_se": 0.006926741658240186,
+    "P_MWIS": 0.28675
+   },
+   "noisy": {
+    "P_valid": 0.924,
+    "P_valid_se": 0.004189988066808782,
+    "P_any_MIS": 0.20575,
+    "P_any_MIS_se": 0.006391731719573342,
+    "P_MWIS": 0.06075
+   }
+  },
+  "lawrence (lawrence_emu_dist_T6000.json)": {
+   "ideal": {
+    "P_valid": 0.99975,
+    "P_valid_se": 0.00024996874804661704,
+    "P_any_MIS": 0.68525,
+    "P_any_MIS_se": 0.007343065393621386,
+    "P_MWIS": 0.68525
+   },
+   "noisy": {
+    "P_valid": 0.95175,
+    "P_valid_se": 0.0033882863478460618,
+    "P_any_MIS": 0.13975,
+    "P_any_MIS_se": 0.005482242641018363,
+    "P_MWIS": 0.13975
+   }
+  }
+ },
+ "lawrence_share_T6000_frozen": {
+  "T6000_MIS_ideal": {
+   "E": 2741,
+   "R": 127,
+   "share": 0.955718270571827,
+   "se": 0.003841383421686376
+  },
+  "T6000_MWIS_ideal": {
+   "E": 859,
+   "R": 359,
+   "share": 0.7052545155993432,
+   "se": 0.013063900794261186
+  },
+  "T6000_MIS_noisy_vendor_nominal": {
+   "E": 559,
+   "R": 283,
+   "share": 0.663895486935867,
+   "se": 0.016279122245842288
+  },
+  "T6000_MWIS_noisy_vendor_nominal": {
+   "E": 289,
+   "R": 269,
+   "share": 0.517921146953405,
+   "se": 0.021153087359157476
+  }
+ },
+ "lawrence_share_scan16": {
+  "T1000_MIS_ideal": {
+   "E": 1370,
+   "R": 297,
+   "share": 0.8218356328734253,
+   "se": 0.009372061040248758
+  },
+  "T1000_MWIS_ideal": {
+   "E": 790,
+   "R": 238,
+   "share": 0.7684824902723736,
+   "se": 0.013155651254835574
+  },
+  "T1000_MIS_noisy_vendor_nominal": {
+   "E": 820,
+   "R": 204,
+   "share": 0.80078125,
+   "se": 0.012481652145516524
+  },
+  "T1000_MWIS_noisy_vendor_nominal": {
+   "E": 525,
+   "R": 224,
+   "share": 0.7009345794392523,
+   "se": 0.016729421920411634
+  },
+  "T2000_MIS_ideal": {
+   "E": 1220,
+   "R": 259,
+   "share": 0.8248816768086545,
+   "se": 0.009882743788871695
+  },
+  "T2000_MWIS_ideal": {
+   "E": 463,
+   "R": 287,
+   "share": 0.6173333333333333,
+   "se": 0.017747596603066716
+  },
+  "T2000_MIS_noisy_vendor_nominal": {
+   "E": 603,
+   "R": 184,
+   "share": 0.7662007623888183,
+   "se": 0.015087089581835616
+  },
+  "T2000_MWIS_noisy_vendor_nominal": {
+   "E": 259,
+   "R": 253,
+   "share": 0.505859375,
+   "se": 0.02209556957343774
+  },
+  "T4000_MIS_ideal": {
+   "E": 2124,
+   "R": 214,
+   "share": 0.9084687767322498,
+   "se": 0.005963721891587209
+  },
+  "T4000_MWIS_ideal": {
+   "E": 805,
+   "R": 299,
+   "share": 0.7291666666666666,
+   "se": 0.013374572961112049
+  },
+  "T4000_MIS_noisy_vendor_nominal": {
+   "E": 625,
+   "R": 289,
+   "share": 0.6838074398249453,
+   "se": 0.015380471045056868
+  },
+  "T4000_MWIS_noisy_vendor_nominal": {
+   "E": 331,
+   "R": 276,
+   "share": 0.5453047775947282,
+   "se": 0.02021089292833479
+  },
+  "T6000_MIS_ideal": {
+   "E": 2696,
+   "R": 111,
+   "share": 0.9604560028500179,
+   "se": 0.0036783903482029857
+  },
+  "T6000_MWIS_ideal": {
+   "E": 858,
+   "R": 316,
+   "share": 0.7308347529812607,
+   "se": 0.012944492847281514
+  },
+  "T6000_MIS_noisy_vendor_nominal": {
+   "E": 541,
+   "R": 259,
+   "share": 0.67625,
+   "se": 0.01654297197830547
+  },
+  "T6000_MWIS_noisy_vendor_nominal": {
+   "E": 290,
+   "R": 263,
+   "share": 0.5244122965641953,
+   "se": 0.02123680485023033
+  }
+ },
+ "lawrence_size_bias": {
+  "E_size": 4,
+  "R_size": 3,
+  "E_weight": 21,
+  "R_weight": 18,
+  "bootstrap_condition": "E is the MWIS iff w(B+R) + w(B+F+R) > w(P+R) (shared families cancel); full data 4+3 > 4",
+  "bootstrap_value": 0.7955,
+  "bootstrap_file": "data/lawrence_native_graph_s3_bootstrap.json (B=20000, seed 1), code/native/bootstrap_histories.py",
+  "hardware_share": 0.7879,
+  "fugacity_matching_hardware": 3.7147571900047156,
+  "note": "device is unweighted: it can only see |E|=4 vs |R|=3. Greedy random-order gives 2/3; uniform over IS gives 1/2; a size-biased sampler P~lambda^|S| gives lambda/(1+lambda), any value in (1/2,1).",
+  "readout_false_negative_effect": "with p_fn=0.10 per atom, E (4 atoms) survives readout with 0.9^4, R with 0.9^3: pre-readout share = 0.805"
+ },
+ "tails_check": {
+  "priscus": {
+   "max_tail_between_compatible_um": null,
+   "sum_intercopy_tail_max_rad_us": 0.026545246828158082,
+   "unweighted": {
+    "ground": [
+     "{MP,EMP}"
+    ],
+    "ground_energy": -11.22444188778284,
+    "gap_to_next": 0.31671892898574505,
+    "ground_equals": "MIS set",
+    "n_degenerate_MIS_split_by_tails": true,
+    "MIS_energies": {
+     "{MP,EB}": -10.02584842336146,
+     "{EP,EMP}": -10.438265009811104,
+     "{BMP,MP}": -10.907722958797095,
+     "{MP,EMP}": -11.22444188778284
+    },
+    "lowest_non_independent": [
+     "{MP,EP,EMP}",
+     7.7022696679137255
+    ]
+   },
+   "weighted": {
+    "ground": [
+     "{BMP,MP}"
+    ],
+    "ground_energy": -7.653032969678068,
+    "gap_to_next": 1.9981661932164405,
+    "ground_equals": "MWIS",
+    "n_degenerate_MIS_split_by_tails": null,
+    "MIS_energies": null,
+    "lowest_non_independent": [
+     "{BMP,EP}",
+     16.73814956358187
+    ]
+   },
+   "abstract_MWIS_true_w": "{BMP,MP}",
+   "abstract_MWIS_compressed_w": "{BMP,MP}"
+  },
+  "lai": {
+   "max_tail_between_compatible_um": null,
+   "sum_intercopy_tail_max_rad_us": 0.14962879852951552,
+   "unweighted": {
+    "ground": [
+     "{CG,DE,AB,DEF}"
+    ],
+    "ground_energy": -19.536859121317647,
+    "gap_to_next": 0.4439454082260994,
+    "ground_equals": "MIS set",
+    "n_degenerate_MIS_split_by_tails": true,
+    "MIS_energies": {
+     "{CG,AB,DEF,EF}": -16.787325178858634,
+     "{CG,AB,DEF,DF}": -19.092913713091548,
+     "{CG,DE,AB,DEF}": -19.536859121317647,
+     "{CG,AB,CEG,DF}": -18.801601945259375
+    },
+    "lowest_non_independent": [
+     "{CG,DE,AB,DEF,DF}",
+     1.4069936854244673
+    ]
+   },
+   "weighted": {
+    "ground": [
+     "{CG,DE,AB,DEF}"
+    ],
+    "ground_energy": -10.023188368418285,
+    "gap_to_next": 0.03061668454546762,
+    "ground_equals": "MWIS",
+    "n_degenerate_MIS_split_by_tails": null,
+    "MIS_energies": null,
+    "lowest_non_independent": [
+     "{CG,DE,DEF,DF}",
+     14.51868620677455
+    ]
+   },
+   "abstract_MWIS_true_w": "{CG,DE,AB,DEF}",
+   "abstract_MWIS_compressed_w": "{CG,DE,AB,DEF}"
+  },
+  "lawrence": {
+   "max_tail_between_compatible_um": null,
+   "sum_intercopy_tail_max_rad_us": 0.050252707178728075,
+   "unweighted": {
+    "ground": [
+     "{B+F+Mi+P+R,B+R,B+F+P+R,B+F+R}"
+    ],
+    "ground_energy": -18.457406352996276,
+    "gap_to_next": 2.2955508361269032,
+    "ground_equals": "MIS set",
+    "n_degenerate_MIS_split_by_tails": false,
+    "MIS_energies": {
+     "{B+F+Mi+P+R,B+R,B+F+P+R,B+F+R}": -18.457406352996276
+    },
+    "lowest_non_independent": [
+     "{B+F+Mi+P+R,B+R,P+R,B+F+P+R}",
+     -5.845184224915954
+    ]
+   },
+   "weighted": {
+    "ground": [
+     "{B+F+Mi+P+R,B+R,B+F+P+R}"
+    ],
+    "ground_energy": -10.76402813933782,
+    "gap_to_next": 0.11534357528979555,
+    "ground_equals": "NOT the MWIS",
+    "n_degenerate_MIS_split_by_tails": null,
+    "MIS_energies": null,
+    "lowest_non_independent": [
+     "{B+F+Mi+P+R,B+R,P+R,B+F+P+R}",
+     2.071629262130326
+    ]
+   },
+   "abstract_MWIS_true_w": "{B+F+Mi+P+R,B+R,B+F+P+R,B+F+R}",
+   "abstract_MWIS_compressed_w": "{B+F+Mi+P+R,B+R,B+F+P+R,B+F+R}"
+  }
+ }
+}

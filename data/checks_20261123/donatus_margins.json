@@ -1,0 +1,1210 @@
+{
+ "base": {
+  "obj": 587.0,
+  "status": "OPTIMAL",
+  "bound": 587.0,
+  "relaxation": 587.0,
+  "iterations": 1,
+  "cuts": 0,
+  "seconds": 5.438647985458374,
+  "families": 43,
+  "family_sets": [
+   [
+    "P",
+    "U1",
+    "U2"
+   ],
+   [
+    "B2",
+    "Ko"
+   ],
+   [
+    "C1",
+    "C2",
+    "D",
+    "P2",
+    "SO"
+   ],
+   [
+    "Bo",
+    "F16",
+    "Ri"
+   ],
+   [
+    "Bo",
+    "Ri"
+   ],
+   [
+    "Ad",
+    "L3",
+    "R4"
+   ],
+   [
+    "Ar",
+    "Bo",
+    "C1",
+    "C2",
+    "D",
+    "F16",
+    "P",
+    "P2",
+    "Ri",
+    "SO",
+    "U1",
+    "U2",
+    "U3"
+   ],
+   [
+    "H",
+    "Li",
+    "Me",
+    "Z"
+   ],
+   [
+    "F15",
+    "Fa",
+    "T1"
+   ],
+   [
+    "N2",
+    "P4"
+   ],
+   [
+    "C1",
+    "C2",
+    "P2",
+    "SO"
+   ],
+   [
+    "F15",
+    "T1"
+   ],
+   [
+    "Ad",
+    "F20",
+    "L3",
+    "L5",
+    "L6",
+    "Mi",
+    "R4",
+    "T2"
+   ],
+   [
+    "Ad",
+    "F20",
+    "L3",
+    "L5",
+    "L6",
+    "Mi",
+    "R4",
+    "T2",
+    "V2"
+   ],
+   [
+    "Ad",
+    "F20",
+    "L3",
+    "Mi",
+    "R4",
+    "T2"
+   ],
+   [
+    "Ad",
+    "R4"
+   ],
+   [
+    "C1",
+    "C2",
+    "SO"
+   ],
+   [
+    "C1",
+    "C2"
+   ],
+   [
+    "Au",
+    "M1"
+   ],
+   [
+    "H",
+    "Li",
+    "Me"
+   ],
+   [
+    "H",
+    "Li"
+   ],
+   [
+    "F17",
+    "Nn",
+    "Pg"
+   ],
+   [
+    "F14",
+    "F19",
+    "L2",
+    "L4",
+    "Pi",
+    "R3",
+    "V3"
+   ],
+   [
+    "Ad",
+    "F20",
+    "L3",
+    "L5",
+    "Mi",
+    "R4",
+    "T2"
+   ],
+   [
+    "F18",
+    "Re"
+   ],
+   [
+    "P",
+    "U1"
+   ],
+   [
+    "C1",
+    "C2",
+    "D",
+    "P",
+    "P2",
+    "SO",
+    "U1",
+    "U2",
+    "U3"
+   ],
+   [
+    "B2",
+    "H",
+    "Ko",
+    "Li",
+    "Me",
+    "Z"
+   ],
+   [
+    "F14",
+    "V3"
+   ],
+   [
+    "Mi",
+    "T2"
+   ],
+   [
+    "Ar",
+    "Bo",
+    "C1",
+    "C2",
+    "D",
+    "F15",
+    "F16",
+    "Fa",
+    "P",
+    "P2",
+    "Ri",
+    "SO",
+    "T1",
+    "U1",
+    "U2",
+    "U3"
+   ],
+   [
+    "F14",
+    "L2",
+    "V3"
+   ],
+   [
+    "F14",
+    "F19",
+    "L1",
+    "L2",
+    "L4",
+    "Pi",
+    "R3",
+    "V3"
+   ],
+   [
+    "Ar",
+    "C1",
+    "C2",
+    "D",
+    "P",
+    "P2",
+    "SO",
+    "U1",
+    "U2",
+    "U3"
+   ],
+   [
+    "F18",
+    "P3",
+    "Re"
+   ],
+   [
+    "Pi",
+    "R3"
+   ],
+   [
+    "Ad",
+    "Ar",
+    "Au",
+    "B2",
+    "Bo",
+    "C1",
+    "C2",
+    "D",
+    "F14",
+    "F15",
+    "F16",
+    "F17",
+    "F18",
+    "F19",
+    "F20",
+    "Fa",
+    "H",
+    "Ko",
+    "L1",
+    "L2",
+    "L3",
+    "L4",
+    "L5",
+    "L6",
+    "Li",
+    "M1",
+    "M2",
+    "Me",
+    "Mi",
+    "N2",
+    "Nn",
+    "P",
+    "P1",
+    "P2",
+    "P3",
+    "P4",
+    "Pg",
+    "Pi",
+    "R2",
+    "R3",
+    "R4",
+    "Re",
+    "Ri",
+    "SO",
+    "T1",
+    "T2",
+    "U1",
+    "U2",
+    "U3",
+    "V2",
+    "V3",
+    "Z"
+   ],
+   [
+    "Nn",
+    "Pg"
+   ],
+   [
+    "Ad",
+    "Au",
+    "F14",
+    "F17",
+    "F18",
+    "F19",
+    "F20",
+    "L1",
+    "L2",
+    "L3",
+    "L4",
+    "L5",
+    "L6",
+    "M1",
+    "Mi",
+    "Nn",
+    "P1",
+    "P3",
+    "Pg",
+    "Pi",
+    "R2",
+    "R3",
+    "R4",
+    "Re",
+    "T2",
+    "V2",
+    "V3"
+   ],
+   [
+    "F20",
+    "Mi",
+    "T2"
+   ],
+   [
+    "P1",
+    "R2"
+   ],
+   [
+    "P",
+    "U1",
+    "U2",
+    "U3"
+   ],
+   [
+    "F19",
+    "L4"
+   ]
+  ]
+ },
+ "editor_families": {
+  "kappa": {
+   "size": 4,
+   "support": 44,
+   "support_vertices": 15,
+   "crossing": 120,
+   "in_optimum": true,
+   "W_forb": 544.0,
+   "W_imp": 587.0,
+   "margin_forb_minus_imp": -43.0,
+   "status": [
+    "OPTIMAL",
+    "OPTIMAL"
+   ],
+   "still_in_tree_when_forbidden": false
+  },
+  "lambda": {
+   "size": 2,
+   "support": 188,
+   "support_vertices": 29,
+   "crossing": 89,
+   "in_optimum": true,
+   "W_forb": 399.0,
+   "W_imp": 587.0,
+   "margin_forb_minus_imp": -188.0,
+   "status": [
+    "OPTIMAL",
+    "OPTIMAL"
+   ],
+   "still_in_tree_when_forbidden": false
+  },
+  "phi": {
+   "size": 5,
+   "support": 26,
+   "support_vertices": 15,
+   "crossing": 124,
+   "in_optimum": true,
+   "W_forb": 561.0,
+   "W_imp": 587.0,
+   "margin_forb_minus_imp": -26.0,
+   "status": [
+    "OPTIMAL",
+    "OPTIMAL"
+   ],
+   "still_in_tree_when_forbidden": false
+  },
+  "xi": {
+   "size": 9,
+   "support": 7,
+   "support_vertices": 6,
+   "crossing": 301,
+   "in_optimum": true,
+   "W_forb": 581.0,
+   "W_imp": 587.0,
+   "margin_forb_minus_imp": -6.0,
+   "status": [
+    "OPTIMAL",
+    "OPTIMAL"
+   ],
+   "still_in_tree_when_forbidden": false
+  },
+  "omicron": {
+   "size": 3,
+   "support": 18,
+   "support_vertices": 14,
+   "crossing": 250,
+   "in_optimum": true,
+   "W_forb": 569.0,
+   "W_imp": 587.0,
+   "margin_forb_minus_imp": -18.0,
+   "status": [
+    "OPTIMAL",
+    "OPTIMAL"
+   ],
+   "still_in_tree_when_forbidden": false
+  },
+  "mu": {
+   "size": 13,
+   "support": 8,
+   "support_vertices": 7,
+   "crossing": 502,
+   "in_optimum": true,
+   "W_forb": 580.0,
+   "W_imp": 587.0,
+   "margin_forb_minus_imp": -7.0,
+   "status": [
+    "OPTIMAL",
+    "OPTIMAL"
+   ],
+   "still_in_tree_when_forbidden": false
+  },
+  "pi": {
+   "size": 2,
+   "support": 14,
+   "support_vertices": 11,
+   "crossing": 149,
+   "in_optimum": false,
+   "W_forb": 575.0,
+   "W_imp": 587.0,
+   "margin_forb_minus_imp": -12.0,
+   "status": [
+    "OPTIMAL",
+    "OPTIMAL"
+   ],
+   "still_in_tree_when_forbidden": false
+  },
+  "rho": {
+   "size": 3,
+   "support": 24,
+   "support_vertices": 15,
+   "crossing": 269,
+   "in_optimum": true,
+   "W_forb": 564.0,
+   "W_imp": 587.0,
+   "margin_forb_minus_imp": -23.0,
+   "status": [
+    "OPTIMAL",
+    "OPTIMAL"
+   ],
+   "still_in_tree_when_forbidden": false
+  },
+  "sigma": {
+   "size": 3,
+   "support": 16,
+   "support_vertices": 7,
+   "crossing": 132,
+   "in_optimum": true,
+   "W_forb": 571.0,
+   "W_imp": 587.0,
+   "margin_forb_minus_imp": -16.0,
+   "status": [
+    "OPTIMAL",
+    "OPTIMAL"
+   ],
+   "still_in_tree_when_forbidden": false
+  },
+  "tau": {
+   "size": 7,
+   "support": 7,
+   "support_vertices": 4,
+   "crossing": 439,
+   "in_optimum": true,
+   "W_forb": 582.0,
+   "W_imp": 587.0,
+   "margin_forb_minus_imp": -5.0,
+   "status": [
+    "OPTIMAL",
+    "OPTIMAL"
+   ],
+   "still_in_tree_when_forbidden": false
+  },
+  "upsilon": {
+   "size": 4,
+   "support": 3,
+   "support_vertices": 3,
+   "crossing": 176,
+   "in_optimum": false,
+   "W_forb": 587.0,
+   "W_imp": 584.0,
+   "margin_forb_minus_imp": 3.0,
+   "status": [
+    "OPTIMAL",
+    "OPTIMAL"
+   ],
+   "still_in_tree_when_forbidden": false
+  },
+  "nu": {
+   "size": 29,
+   "support": 0,
+   "support_vertices": 0,
+   "crossing": 805,
+   "in_optimum": false,
+   "W_forb": 587.0,
+   "W_imp": 572.0,
+   "margin_forb_minus_imp": 15.0,
+   "status": [
+    "OPTIMAL",
+    "OPTIMAL"
+   ],
+   "still_in_tree_when_forbidden": false
+  }
+ },
+ "editor_stemma": {
+  "pairwise_compatible": true,
+  "sum_of_supports": 355,
+  "W_opt": 587.0,
+  "W_imp_all12": 569.0,
+  "status_all12": "OPTIMAL",
+  "loss_all12": 18.0,
+  "W_imp_subsets": {
+   "all_but_nu": {
+    "families": [
+     "kappa",
+     "lambda",
+     "phi",
+     "xi",
+     "omicron",
+     "mu",
+     "pi",
+     "rho",
+     "sigma",
+     "tau",
+     "upsilon"
+    ],
+    "W_imp": 584.0,
+    "status": "OPTIMAL",
+    "loss_vs_opt": 3.0
+   },
+   "all_but_nu_upsilon": {
+    "families": [
+     "kappa",
+     "lambda",
+     "phi",
+     "xi",
+     "omicron",
+     "mu",
+     "pi",
+     "rho",
+     "sigma",
+     "tau"
+    ],
+    "W_imp": 587.0,
+    "status": "OPTIMAL",
+    "loss_vs_opt": 0.0
+   },
+   "pi_and_tau": {
+    "families": [
+     "pi",
+     "tau"
+    ],
+    "W_imp": 587.0,
+    "status": "OPTIMAL",
+    "loss_vs_opt": 0.0
+   }
+  },
+  "weight_of_candidates_compatible_with_all12": 655
+ },
+ "optimum_family_persistence": [
+  {
+   "family": [
+    "P",
+    "U1",
+    "U2"
+   ],
+   "support": 9,
+   "W_forb": 579.0,
+   "loss": 8.0,
+   "in_every_optimum": true
+  },
+  {
+   "family": [
+    "B2",
+    "Ko"
+   ],
+   "support": 188,
+   "W_forb": 399.0,
+   "loss": 188.0,
+   "in_every_optimum": true
+  },
+  {
+   "family": [
+    "C1",
+    "C2",
+    "D",
+    "P2",
+    "SO"
+   ],
+   "support": 26,
+   "W_forb": 561.0,
+   "loss": 26.0,
+   "in_every_optimum": true
+  },
+  {
+   "family": [
+    "Bo",
+    "F16",
+    "Ri"
+   ],
+   "support": 18,
+   "W_forb": 569.0,
+   "loss": 18.0,
+   "in_every_optimum": true
+  },
+  {
+   "family": [
+    "Bo",
+    "Ri"
+   ],
+   "support": 38,
+   "W_forb": 551.0,
+   "loss": 36.0,
+   "in_every_optimum": true
+  },
+  {
+   "family": [
+    "Ad",
+    "L3",
+    "R4"
+   ],
+   "support": 16,
+   "W_forb": 571.0,
+   "loss": 16.0,
+   "in_every_optimum": true
+  },
+  {
+   "family": [
+    "Ar",
+    "Bo",
+    "C1",
+    "C2",
+    "D",
+    "F16",
+    "P",
+    "P2",
+    "Ri",
+    "SO",
+    "U1",
+    "U2",
+    "U3"
+   ],
+   "support": 8,
+   "W_forb": 580.0,
+   "loss": 7.0,
+   "in_every_optimum": true
+  },
+  {
+   "family": [
+    "H",
+    "Li",
+    "Me",
+    "Z"
+   ],
+   "support": 44,
+   "W_forb": 544.0,
+   "loss": 43.0,
+   "in_every_optimum": true
+  },
+  {
+   "family": [
+    "F15",
+    "Fa",
+    "T1"
+   ],
+   "support": 24,
+   "W_forb": 564.0,
+   "loss": 23.0,
+   "in_every_optimum": true
+  },
+  {
+   "family": [
+    "N2",
+    "P4"
+   ],
+   "support": 2,
+   "W_forb": 587.0,
+   "loss": 0.0,
+   "in_every_optimum": false
+  },
+  {
+   "family": [
+    "C1",
+    "C2",
+    "P2",
+    "SO"
+   ],
+   "support": 9,
+   "W_forb": 579.0,
+   "loss": 8.0,
+   "in_every_optimum": true
+  },
+  {
+   "family": [
+    "F15",
+    "T1"
+   ],
+   "support": 57,
+   "W_forb": 538.0,
+   "loss": 49.0,
+   "in_every_optimum": true
+  },
+  {
+   "family": [
+    "Ad",
+    "F20",
+    "L3",
+    "L5",
+    "L6",
+    "Mi",
+    "R4",
+    "T2"
+   ],
+   "support": 1,
+   "W_forb": 587.0,
+   "loss": 0.0,
+   "in_every_optimum": false
+  },
+  {
+   "family": [
+    "Ad",
+    "F20",
+    "L3",
+    "L5",
+    "L6",
+    "Mi",
+    "R4",
+    "T2",
+    "V2"
+   ],
+   "support": 1,
+   "W_forb": 587.0,
+   "loss": 0.0,
+   "in_every_optimum": false
+  },
+  {
+   "family": [
+    "Ad",
+    "F20",
+    "L3",
+    "Mi",
+    "R4",
+    "T2"
+   ],
+   "support": 6,
+   "W_forb": 584.0,
+   "loss": 3.0,
+   "in_every_optimum": true
+  },
+  {
+   "family": [
+    "Ad",
+    "R4"
+   ],
+   "support": 17,
+   "W_forb": 572.0,
+   "loss": 15.0,
+   "in_every_optimum": true
+  },
+  {
+   "family": [
+    "C1",
+    "C2",
+    "SO"
+   ],
+   "support": 3,
+   "W_forb": 585.0,
+   "loss": 2.0,
+   "in_every_optimum": true
+  },
+  {
+   "family": [
+    "C1",
+    "C2"
+   ],
+   "support": 14,
+   "W_forb": 573.0,
+   "loss": 14.0,
+   "in_every_optimum": true
+  },
+  {
+   "family": [
+    "Au",
+    "M1"
+   ],
+   "support": 3,
+   "W_forb": 586.0,
+   "loss": 1.0,
+   "in_every_optimum": true
+  },
+  {
+   "family": [
+    "H",
+    "Li",
+    "Me"
+   ],
+   "support": 2,
+   "W_forb": 586.0,
+   "loss": 1.0,
+   "in_every_optimum": true
+  },
+  {
+   "family": [
+    "H",
+    "Li"
+   ],
+   "support": 4,
+   "W_forb": 586.0,
+   "loss": 1.0,
+   "in_every_optimum": true
+  },
+  {
+   "family": [
+    "F17",
+    "Nn",
+    "Pg"
+   ],
+   "support": 16,
+   "W_forb": 572.0,
+   "loss": 15.0,
+   "in_every_optimum": true
+  },
+  {
+   "family": [
+    "F14",
+    "F19",
+    "L2",
+    "L4",
+    "Pi",
+    "R3",
+    "V3"
+   ],
+   "support": 7,
+   "W_forb": 582.0,
+   "loss": 5.0,
+   "in_every_optimum": true
+  },
+  {
+   "family": [
+    "Ad",
+    "F20",
+    "L3",
+    "L5",
+    "Mi",
+    "R4",
+    "T2"
+   ],
+   "support": 2,
+   "W_forb": 586.0,
+   "loss": 1.0,
+   "in_every_optimum": true
+  },
+  {
+   "family": [
+    "F18",
+    "Re"
+   ],
+   "support": 2,
+   "W_forb": 585.0,
+   "loss": 2.0,
+   "in_every_optimum": true
+  },
+  {
+   "family": [
+    "P",
+    "U1"
+   ],
+   "support": 18,
+   "W_forb": 570.0,
+   "loss": 17.0,
+   "in_every_optimum": true
+  },
+  {
+   "family": [
+    "C1",
+    "C2",
+    "D",
+    "P",
+    "P2",
+    "SO",
+    "U1",
+    "U2",
+    "U3"
+   ],
+   "support": 7,
+   "W_forb": 581.0,
+   "loss": 6.0,
+   "in_every_optimum": true
+  },
+  {
+   "family": [
+    "B2",
+    "H",
+    "Ko",
+    "Li",
+    "Me",
+    "Z"
+   ],
+   "support": 10,
+   "W_forb": 584.0,
+   "loss": 3.0,
+   "in_every_optimum": true
+  },
+  {
+   "family": [
+    "F14",
+    "V3"
+   ],
+   "support": 10,
+   "W_forb": 583.0,
+   "loss": 4.0,
+   "in_every_optimum": true
+  },
+  {
+   "family": [
+    "Mi",
+    "T2"
+   ],
+   "support": 12,
+   "W_forb": 576.0,
+   "loss": 11.0,
+   "in_every_optimum": true
+  },
+  {
+   "family": [
+    "Ar",
+    "Bo",
+    "C1",
+    "C2",
+    "D",
+    "F15",
+    "F16",
+    "Fa",
+    "P",
+    "P2",
+    "Ri",
+    "SO",
+    "T1",
+    "U1",
+    "U2",
+    "U3"
+   ],
+   "support": 5,
+   "W_forb": 583.0,
+   "loss": 4.0,
+   "in_every_optimum": true
+  },
+  {
+   "family": [
+    "F14",
+    "L2",
+    "V3"
+   ],
+   "support": 7,
+   "W_forb": 583.0,
+   "loss": 4.0,
+   "in_every_optimum": true
+  },
+  {
+   "family": [
+    "F14",
+    "F19",
+    "L1",
+    "L2",
+    "L4",
+    "Pi",
+    "R3",
+    "V3"
+   ],
+   "support": 7,
+   "W_forb": 582.0,
+   "loss": 5.0,
+   "in_every_optimum": true
+  },
+  {
+   "family": [
+    "Ar",
+    "C1",
+    "C2",
+    "D",
+    "P",
+    "P2",
+    "SO",
+    "U1",
+    "U2",
+    "U3"
+   ],
+   "support": 5,
+   "W_forb": 582.0,
+   "loss": 5.0,
+   "in_every_optimum": true
+  },
+  {
+   "family": [
+    "F18",
+    "P3",
+    "Re"
+   ],
+   "support": 2,
+   "W_forb": 585.0,
+   "loss": 2.0,
+   "in_every_optimum": true
+  },
+  {
+   "family": [
+    "Pi",
+    "R3"
+   ],
+   "support": 3,
+   "W_forb": 586.0,
+   "loss": 1.0,
+   "in_every_optimum": true
+  },
+  {
+   "family": [
+    "Ad",
+    "Ar",
+    "Au",
+    "B2",
+    "Bo",
+    "C1",
+    "C2",
+    "D",
+    "F14",
+    "F15",
+    "F16",
+    "F17",
+    "F18",
+    "F19",
+    "F20",
+    "Fa",
+    "H",
+    "Ko",
+    "L1",
+    "L2",
+    "L3",
+    "L4",
+    "L5",
+    "L6",
+    "Li",
+    "M1",
+    "M2",
+    "Me",
+    "Mi",
+    "N2",
+    "Nn",
+    "P",
+    "P1",
+    "P2",
+    "P3",
+    "P4",
+    "Pg",
+    "Pi",
+    "R2",
+    "R3",
+    "R4",
+    "Re",
+    "Ri",
+    "SO",
+    "T1",
+    "T2",
+    "U1",
+    "U2",
+    "U3",
+    "V2",
+    "V3",
+    "Z"
+   ],
+   "support": 2,
+   "W_forb": 586.0,
+   "loss": 1.0,
+   "in_every_optimum": true
+  },
+  {
+   "family": [
+    "Nn",
+    "Pg"
+   ],
+   "support": 2,
+   "W_forb": 587.0,
+   "loss": 0.0,
+   "in_every_optimum": false
+  },
+  {
+   "family": [
+    "Ad",
+    "Au",
+    "F14",
+    "F17",
+    "F18",
+    "F19",
+    "F20",
+    "L1",
+    "L2",
+    "L3",
+    "L4",
+    "L5",
+    "L6",
+    "M1",
+    "Mi",
+    "Nn",
+    "P1",
+    "P3",
+    "Pg",
+    "Pi",
+    "R2",
+    "R3",
+    "R4",
+    "Re",
+    "T2",
+    "V2",
+    "V3"
+   ],
+   "support": 1,
+   "W_forb": 586.0,
+   "loss": 1.0,
+   "in_every_optimum": true
+  },
+  {
+   "family": [
+    "F20",
+    "Mi",
+    "T2"
+   ],
+   "support": 6,
+   "W_forb": 582.0,
+   "loss": 5.0,
+   "in_every_optimum": true
+  },
+  {
+   "family": [
+    "P1",
+    "R2"
+   ],
+   "support": 2,
+   "W_forb": 585.0,
+   "loss": 2.0,
+   "in_every_optimum": true
+  },
+  {
+   "family": [
+    "P",
+    "U1",
+    "U2",
+    "U3"
+   ],
+   "support": 1,
+   "W_forb": 587.0,
+   "loss": 0.0,
+   "in_every_optimum": false
+  },
+  {
+   "family": [
+    "F19",
+    "L4"
+   ],
+   "support": 1,
+   "W_forb": 587.0,
+   "loss": 0.0,
+   "in_every_optimum": false
+  }
+ ],
+ "treelikeness": {
+  "units": 1253,
+  "split_types": 1425,
+  "total_candidate_weight": 1772,
+  "W_opt": 587.0,
+  "share_of_candidate_weight": 0.3312641083521445,
+  "informative_units": 1205,
+  "units_consistent_with_tree": 348,
+  "share_consistent": 0.2887966804979253,
+  "units_consistent_vertexwise": 348
+ },
+ "workers": 8,
+ "seconds": 336.8048167228699
+}

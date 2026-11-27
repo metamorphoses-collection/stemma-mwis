@@ -1,0 +1,1146 @@
+{
+ "exclusive": {
+  "passed": true,
+  "numbers": {
+   "collations": 400,
+   "units": 6141,
+   "split_pairs": 3791,
+   "cluster_pairs": 1716,
+   "cross_unit_conflicts": 10433
+  },
+  "instances": "400 random collations, $4\\le n\\le9$, multistate units with random illegibility (6{,}141 units)",
+  "result": "all 3{,}791 same-unit split pairs compatible and all 1{,}716 cluster pairs laminar; 10{,}433 conflicting pairs across units (control)",
+  "seconds": 0.0
+ },
+ "nphard": {
+  "passed": true,
+  "numbers": {
+   "graphs": 250,
+   "max_vertices": 10
+  },
+  "instances": "250 random graphs, $2\\le|V|\\le10$, integer weights $1$--$20$",
+  "result": "MWIS of $H$ (brute force) equals the maximum-weight compatible set of the constructed splits, same value and same optimal sets, in all; $4|E|+2|V|+2$ witnesses",
+  "seconds": 0.1
+ },
+ "buneman": {
+  "passed": true,
+  "numbers": {
+   "trees": 300,
+   "nonbinary_trees": 188,
+   "compatible_sets": 300
+  },
+  "instances": "300 random stemmata ($4\\le n\\le10$, 188 non-binary) and 300 random compatible sets",
+  "result": "split sets pairwise compatible; split set $\\to$ tree $\\to$ split set exact, internal degrees $\\ge3$, rebuilt tree isomorphic to the original as a leaf-labelled tree, in all",
+  "seconds": 0.2
+ },
+ "threshold": {
+  "passed": true,
+  "numbers": {
+   "instances": 146,
+   "unrestricted_optimum_not_T": 78
+  },
+  "instances": "146 random stemmata, $5\\le n\\le7$ (binary and not), integer weights meeting the hypothesis",
+  "result": "restricted optimum is $\\T$, uniquely, in all (all compatible sets enumerated); without the threshold the optimum differs from $\\T$ in 78",
+  "seconds": 0.0
+ },
+ "pairwise": {
+  "passed": true,
+  "numbers": {
+   "rows": [
+    {
+     "n": 5,
+     "alpha": 0.102,
+     "K": 8,
+     "L": 46,
+     "bound": 0.4887,
+     "sim_error": 0.0644,
+     "reps": 40000,
+     "passed": true
+    },
+    {
+     "n": 5,
+     "alpha": 0.102,
+     "K": 8,
+     "L": 93,
+     "bound": 0.0489,
+     "sim_error": 0.00638,
+     "reps": 40000,
+     "passed": true
+    },
+    {
+     "n": 5,
+     "alpha": 0.871,
+     "K": 8,
+     "L": 58,
+     "bound": 0.4977,
+     "sim_error": 0.06865,
+     "reps": 40000,
+     "passed": true
+    },
+    {
+     "n": 5,
+     "alpha": 0.871,
+     "K": 8,
+     "L": 108,
+     "bound": 0.0491,
+     "sim_error": 0.0068,
+     "reps": 40000,
+     "passed": true
+    },
+    {
+     "n": 5,
+     "alpha": 0.299,
+     "K": 8,
+     "L": 40,
+     "bound": 0.4975,
+     "sim_error": 0.07842,
+     "reps": 40000,
+     "passed": true
+    },
+    {
+     "n": 5,
+     "alpha": 0.299,
+     "K": 8,
+     "L": 80,
+     "bound": 0.0492,
+     "sim_error": 0.00802,
+     "reps": 40000,
+     "passed": true
+    },
+    {
+     "n": 5,
+     "alpha": 0.696,
+     "K": 8,
+     "L": 505,
+     "bound": 0.4988,
+     "sim_error": 0.08903,
+     "reps": 40000,
+     "passed": true
+    },
+    {
+     "n": 5,
+     "alpha": 0.696,
+     "K": 8,
+     "L": 1306,
+     "bound": 0.0499,
+     "sim_error": 0.00682,
+     "reps": 40000,
+     "passed": true
+    },
+    {
+     "n": 6,
+     "alpha": 0.312,
+     "K": 22,
+     "L": 152,
+     "bound": 0.4988,
+     "sim_error": 0.09885,
+     "reps": 20000,
+     "passed": true
+    },
+    {
+     "n": 6,
+     "alpha": 0.312,
+     "K": 22,
+     "L": 460,
+     "bound": 0.0497,
+     "sim_error": 0.00775,
+     "reps": 20000,
+     "passed": true
+    },
+    {
+     "n": 6,
+     "alpha": 0.422,
+     "K": 22,
+     "L": 82,
+     "bound": 0.4985,
+     "sim_error": 0.05865,
+     "reps": 20000,
+     "passed": true
+    },
+    {
+     "n": 6,
+     "alpha": 0.422,
+     "K": 22,
+     "L": 158,
+     "bound": 0.0495,
+     "sim_error": 0.00635,
+     "reps": 20000,
+     "passed": true
+    }
+   ],
+   "max_sim_over_bound": 0.1982
+  },
+  "instances": "6 attraction-model instances meeting the hypotheses ($n=5,6$), two lengths each (bound $\\approx0.5$ and $\\approx0.05$, $L=40$--$1306$), $2\\times10^4$--$4\\times10^4$ simulated collations",
+  "result": "bound $\\ge$ simulated $\\Pr(\\hat S_L\\neq\\T)$ (ties counted as errors) in all; largest ratio simulated/bound $0.198$",
+  "seconds": 0.8
+ },
+ "consistency": {
+  "passed": true,
+  "numbers": {
+   "part_a": [
+    {
+     "n": 5,
+     "gamma": 0.0324,
+     "at": "Bernstein",
+     "L": 1925,
+     "bernstein": 0.4997,
+     "hoeffding": 7.2845,
+     "sim_error": 0.0,
+     "passed": true
+    },
+    {
+     "n": 5,
+     "gamma": 0.0324,
+     "at": "Hoeffding",
+     "L": 7031,
+     "bernstein": 0.0067,
+     "hoeffding": 0.5,
+     "sim_error": 0.0,
+     "passed": true
+    },
+    {
+     "n": 5,
+     "gamma": 0.0893,
+     "at": "Bernstein",
+     "L": 365,
+     "bernstein": 0.4971,
+     "hoeffding": 4.6718,
+     "sim_error": 0.0003,
+     "passed": true
+    },
+    {
+     "n": 5,
+     "gamma": 0.0893,
+     "at": "Hoeffding",
+     "L": 926,
+     "bernstein": 0.0157,
+     "hoeffding": 0.4998,
+     "sim_error": 0.0,
+     "passed": true
+    },
+    {
+     "n": 5,
+     "gamma": 0.1137,
+     "at": "Bernstein",
+     "L": 301,
+     "bernstein": 0.4999,
+     "hoeffding": 2.8582,
+     "sim_error": 0.0001,
+     "passed": true
+    },
+    {
+     "n": 5,
+     "gamma": 0.1137,
+     "at": "Hoeffding",
+     "L": 571,
+     "bernstein": 0.0796,
+     "hoeffding": 0.4991,
+     "sim_error": 0.0,
+     "passed": true
+    },
+    {
+     "n": 6,
+     "gamma": 0.0438,
+     "at": "Bernstein",
+     "L": 1351,
+     "bernstein": 0.4992,
+     "hoeffding": 13.7001,
+     "sim_error": 0.0,
+     "passed": true
+    },
+    {
+     "n": 6,
+     "gamma": 0.0438,
+     "at": "Hoeffding",
+     "L": 4806,
+     "bernstein": 0.0056,
+     "hoeffding": 0.4999,
+     "sim_error": 0.0,
+     "passed": true
+    }
+   ],
+   "part_b": [
+    {
+     "case": "designed",
+     "gap": 0.04,
+     "L": [
+      25,
+      100,
+      400,
+      1600,
+      6400
+     ],
+     "freq_T": [
+      0.316,
+      0.233,
+      0.0895,
+      0.005,
+      0.0
+     ],
+     "passed": true
+    },
+    {
+     "case": "long branch",
+     "gap": 0.0359,
+     "L": [
+      25,
+      100,
+      400,
+      1600,
+      6400
+     ],
+     "freq_T": [
+      0.0432,
+      0.0485,
+      0.02,
+      0.0003,
+      0.0
+     ],
+     "passed": true
+    }
+   ]
+  },
+  "instances": "(a) 4 attraction-model instances with $\\gamma=0.032$--$0.114$ ($n=5,6$), at the length where each bound first reaches $0.5$ ($L=301$--$7{,}031$), $2\\times10^4$ collations; (b) a designed law and a long-branch instance with $m(S)>m(\\T)$, $L=25$--$6{,}400$",
+  "result": "(a) both bounds $\\ge$ simulated error in all (largest simulated error $0.0003$); (b) $\\Pr(\\hat S_L=\\T)$ falls from $0.32$ to $0.00$ and $0.04$ to $0.00$",
+  "seconds": 0.6
+ },
+ "samplesize": {
+  "passed": true,
+  "numbers": {
+   "cases": 236,
+   "max_bound_over_eps": 0.2387,
+   "simulated": [
+    {
+     "n": 6,
+     "gamma": 0.0211,
+     "L": 34170,
+     "bernstein": 0.004,
+     "sim_error": 0.0
+    },
+    {
+     "n": 5,
+     "gamma": 0.1367,
+     "L": 541,
+     "bernstein": 0.0129,
+     "sim_error": 0.0
+    },
+    {
+     "n": 5,
+     "gamma": 0.2138,
+     "L": 283,
+     "bernstein": 0.0196,
+     "sim_error": 0.0
+    },
+    {
+     "n": 6,
+     "gamma": 0.0431,
+     "L": 4661,
+     "bernstein": 0.0057,
+     "sim_error": 0.0
+    }
+   ]
+  },
+  "instances": "236 (instance, $\\varepsilon$) cases: attraction-model instances with $\\gamma>0$ ($n=5,6$), $\\varepsilon\\in\\{0.5,0.1,0.01,0.001\\}$; 4 simulated at $\\varepsilon=0.1$",
+  "result": "at the $L$ of the formula the Bernstein bound is $\\le\\varepsilon$ in all (largest ratio $0.239$); no error in the simulations at $\\varepsilon=0.1$",
+  "seconds": 2.5
+ },
+ "blocks": {
+  "passed": true,
+  "numbers": {
+   "rows": [
+    {
+     "gamma": 0.1022,
+     "K": 8,
+     "rho": 1.0,
+     "k": 5,
+     "J": 706,
+     "bound": 0.4998,
+     "sim_error": 0.0,
+     "passed": true
+    },
+    {
+     "gamma": 0.1022,
+     "K": 8,
+     "rho": 0.5,
+     "k": 10,
+     "J": 706,
+     "bound": 0.4998,
+     "sim_error": 0.0,
+     "passed": true
+    },
+    {
+     "gamma": 0.2467,
+     "K": 8,
+     "rho": 1.0,
+     "k": 5,
+     "J": 122,
+     "bound": 0.4889,
+     "sim_error": 0.0,
+     "passed": true
+    },
+    {
+     "gamma": 0.2467,
+     "K": 8,
+     "rho": 0.5,
+     "k": 10,
+     "J": 122,
+     "bound": 0.4889,
+     "sim_error": 0.0,
+     "passed": true
+    },
+    {
+     "gamma": 0.0881,
+     "K": 8,
+     "rho": 1.0,
+     "k": 5,
+     "J": 951,
+     "bound": 0.4999,
+     "sim_error": 0.0,
+     "passed": true
+    },
+    {
+     "gamma": 0.0881,
+     "K": 8,
+     "rho": 0.5,
+     "k": 10,
+     "J": 951,
+     "bound": 0.4999,
+     "sim_error": 0.0,
+     "passed": true
+    },
+    {
+     "gamma": 0.1076,
+     "K": 8,
+     "rho": 1.0,
+     "k": 5,
+     "J": 637,
+     "bound": 0.4992,
+     "sim_error": 0.0,
+     "passed": true
+    },
+    {
+     "gamma": 0.1076,
+     "K": 8,
+     "rho": 0.5,
+     "k": 10,
+     "J": 637,
+     "bound": 0.4992,
+     "sim_error": 0.0,
+     "passed": true
+    }
+   ],
+   "control": [
+    {
+     "gamma": 0.0922,
+     "J": 10,
+     "k": 20,
+     "bound": 19.1674,
+     "iid_bound_L_Jk": 8.54470991126453,
+     "sim_error": 0.6967,
+     "iid_bound_violated": false,
+     "passed": true
+    },
+    {
+     "gamma": 0.0922,
+     "J": 20,
+     "k": 20,
+     "bound": 18.3695,
+     "iid_bound_L_Jk": 3.6506033733831145,
+     "sim_error": 0.4872,
+     "iid_bound_violated": false,
+     "passed": true
+    },
+    {
+     "gamma": 0.0922,
+     "J": 40,
+     "k": 20,
+     "bound": 16.8719,
+     "iid_bound_L_Jk": 0.6663452494878087,
+     "sim_error": 0.2513,
+     "iid_bound_violated": false,
+     "passed": true
+    },
+    {
+     "gamma": 0.0922,
+     "J": 80,
+     "k": 20,
+     "bound": 14.233,
+     "iid_bound_L_Jk": 0.022200799575748508,
+     "sim_error": 0.0783,
+     "iid_bound_violated": true,
+     "passed": true
+    },
+    {
+     "gamma": 0.0922,
+     "J": 160,
+     "k": 20,
+     "bound": 10.1289,
+     "iid_bound_L_Jk": 2.4643775090127756e-05,
+     "sim_error": 0.0109,
+     "iid_bound_violated": true,
+     "passed": true
+    },
+    {
+     "gamma": 0.0922,
+     "J": 320,
+     "k": 20,
+     "bound": 5.1298,
+     "iid_bound_L_Jk": 3.036578253464006e-11,
+     "sim_error": 0.0002,
+     "iid_bound_violated": false,
+     "passed": true
+    },
+    {
+     "gamma": 0.0967,
+     "J": 10,
+     "k": 20,
+     "bound": 19.0869,
+     "iid_bound_L_Jk": 7.854536822965835,
+     "sim_error": 0.4997,
+     "iid_bound_violated": false,
+     "passed": true
+    },
+    {
+     "gamma": 0.0967,
+     "J": 20,
+     "k": 20,
+     "bound": 18.2154,
+     "iid_bound_L_Jk": 3.0846874351663116,
+     "sim_error": 0.3312,
+     "iid_bound_violated": false,
+     "passed": true
+    },
+    {
+     "gamma": 0.0967,
+     "J": 40,
+     "k": 20,
+     "bound": 16.5901,
+     "iid_bound_L_Jk": 0.4757648286336459,
+     "sim_error": 0.1841,
+     "iid_bound_violated": false,
+     "passed": true
+    },
+    {
+     "gamma": 0.0967,
+     "J": 80,
+     "k": 20,
+     "bound": 13.7615,
+     "iid_bound_L_Jk": 0.011317608608240121,
+     "sim_error": 0.0619,
+     "iid_bound_violated": true,
+     "passed": true
+    },
+    {
+     "gamma": 0.0967,
+     "J": 160,
+     "k": 20,
+     "bound": 9.469,
+     "iid_bound_L_Jk": 6.404413230465546e-06,
+     "sim_error": 0.0117,
+     "iid_bound_violated": true,
+     "passed": true
+    },
+    {
+     "gamma": 0.0967,
+     "J": 320,
+     "k": 20,
+     "bound": 4.4831,
+     "iid_bound_L_Jk": 2.0508254413281073e-12,
+     "sim_error": 0.0004,
+     "iid_bound_violated": false,
+     "passed": true
+    }
+   ],
+   "iid_bound_violations": 4
+  },
+  "instances": "4 attraction-model instances ($n=5$, $\\gamma=0.088$--$0.247$), blocks of $k=5$ identical units or $k=10$ units repeated with probability $1/2$, $J=122$--$951$ blocks, $10^4$ collations",
+  "result": "bound $\\ge$ simulated error in all (at bound $\\approx0.5$, simulated error $0.0000$ at most; with $k=20$ identical units and $J=10$--$320$, simulated error up to $0.697$, still below the bound); control: the i.i.d.\\ bound with $L=Jk$ is exceeded by the simulated error in 4 of 12 short-$J$ cases",
+  "seconds": 0.3
+ },
+ "gammablocks": {
+  "passed": true,
+  "numbers": {
+   "rows": [
+    {
+     "instance": 0,
+     "gamma_T": 0.0748,
+     "delta": 0.05,
+     "J": 50,
+     "k": 4,
+     "rho": 1.0,
+     "coverage": 1.0,
+     "certified": 0.0,
+     "false_certificates": 0.0,
+     "passed": true
+    },
+    {
+     "instance": 0,
+     "gamma_T": 0.0748,
+     "delta": 0.05,
+     "J": 400,
+     "k": 4,
+     "rho": 1.0,
+     "coverage": 1.0,
+     "certified": 0.0,
+     "false_certificates": 0.0,
+     "passed": true
+    },
+    {
+     "instance": 0,
+     "gamma_T": 0.0748,
+     "delta": 0.05,
+     "J": 3200,
+     "k": 4,
+     "rho": 0.5,
+     "coverage": 1.0,
+     "certified": 0.985,
+     "false_certificates": 0.0,
+     "passed": true
+    },
+    {
+     "instance": 0,
+     "gamma_T": 0.0748,
+     "delta": 0.2,
+     "J": 50,
+     "k": 4,
+     "rho": 1.0,
+     "coverage": 1.0,
+     "certified": 0.0,
+     "false_certificates": 0.0,
+     "passed": true
+    },
+    {
+     "instance": 0,
+     "gamma_T": 0.0748,
+     "delta": 0.2,
+     "J": 400,
+     "k": 4,
+     "rho": 1.0,
+     "coverage": 1.0,
+     "certified": 0.0,
+     "false_certificates": 0.0,
+     "passed": true
+    },
+    {
+     "instance": 0,
+     "gamma_T": 0.0748,
+     "delta": 0.2,
+     "J": 3200,
+     "k": 4,
+     "rho": 0.5,
+     "coverage": 1.0,
+     "certified": 0.9995,
+     "false_certificates": 0.0,
+     "passed": true
+    },
+    {
+     "instance": 1,
+     "gamma_T": 0.1826,
+     "delta": 0.05,
+     "J": 50,
+     "k": 4,
+     "rho": 1.0,
+     "coverage": 1.0,
+     "certified": 0.0,
+     "false_certificates": 0.0,
+     "passed": true
+    },
+    {
+     "instance": 1,
+     "gamma_T": 0.1826,
+     "delta": 0.05,
+     "J": 400,
+     "k": 4,
+     "rho": 1.0,
+     "coverage": 1.0,
+     "certified": 0.6095,
+     "false_certificates": 0.0,
+     "passed": true
+    },
+    {
+     "instance": 1,
+     "gamma_T": 0.1826,
+     "delta": 0.05,
+     "J": 3200,
+     "k": 4,
+     "rho": 0.5,
+     "coverage": 1.0,
+     "certified": 1.0,
+     "false_certificates": 0.0,
+     "passed": true
+    },
+    {
+     "instance": 1,
+     "gamma_T": 0.1826,
+     "delta": 0.2,
+     "J": 50,
+     "k": 4,
+     "rho": 1.0,
+     "coverage": 1.0,
+     "certified": 0.0,
+     "false_certificates": 0.0,
+     "passed": true
+    },
+    {
+     "instance": 1,
+     "gamma_T": 0.1826,
+     "delta": 0.2,
+     "J": 400,
+     "k": 4,
+     "rho": 1.0,
+     "coverage": 1.0,
+     "certified": 0.8515,
+     "false_certificates": 0.0,
+     "passed": true
+    },
+    {
+     "instance": 1,
+     "gamma_T": 0.1826,
+     "delta": 0.2,
+     "J": 3200,
+     "k": 4,
+     "rho": 0.5,
+     "coverage": 1.0,
+     "certified": 1.0,
+     "false_certificates": 0.0,
+     "passed": true
+    },
+    {
+     "instance": 2,
+     "gamma_T": -0.0312,
+     "delta": 0.05,
+     "J": 50,
+     "k": 4,
+     "rho": 1.0,
+     "coverage": 1.0,
+     "certified": 0.0,
+     "false_certificates": 0.0,
+     "passed": true
+    },
+    {
+     "instance": 2,
+     "gamma_T": -0.0312,
+     "delta": 0.05,
+     "J": 400,
+     "k": 4,
+     "rho": 1.0,
+     "coverage": 1.0,
+     "certified": 0.0,
+     "false_certificates": 0.0,
+     "passed": true
+    },
+    {
+     "instance": 2,
+     "gamma_T": -0.0312,
+     "delta": 0.05,
+     "J": 3200,
+     "k": 4,
+     "rho": 0.5,
+     "coverage": 1.0,
+     "certified": 0.0,
+     "false_certificates": 0.0,
+     "passed": true
+    },
+    {
+     "instance": 2,
+     "gamma_T": -0.0312,
+     "delta": 0.2,
+     "J": 50,
+     "k": 4,
+     "rho": 1.0,
+     "coverage": 1.0,
+     "certified": 0.0,
+     "false_certificates": 0.0,
+     "passed": true
+    },
+    {
+     "instance": 2,
+     "gamma_T": -0.0312,
+     "delta": 0.2,
+     "J": 400,
+     "k": 4,
+     "rho": 1.0,
+     "coverage": 1.0,
+     "certified": 0.0,
+     "false_certificates": 0.0,
+     "passed": true
+    },
+    {
+     "instance": 2,
+     "gamma_T": -0.0312,
+     "delta": 0.2,
+     "J": 3200,
+     "k": 4,
+     "rho": 0.5,
+     "coverage": 1.0,
+     "certified": 0.0,
+     "false_certificates": 0.0,
+     "passed": true
+    }
+   ]
+  },
+  "instances": "3 attraction-model instances on $n=5$ (two with $\\gamma>0$, one long-branch with $\\gamma<0$), $\\delta=0.05,0.2$, $J=50,400,3{,}200$ blocks of $4$ units (identical, or repeated with probability $1/2$), $2{,}000$ collations each",
+  "result": "$\\gamma_{\\mathrm{lo}}(T)\\le\\gamma(T)$ for all $15$ binary stemmata simultaneously in every simulated collation (required $1-\\delta$); no false certificate; the true stemma is certified in a fraction $0.00$ or less at $J=50$ and up to $1.00$ at $J=3{,}200$",
+  "seconds": 0.2
+ },
+ "textillegible": {
+  "passed": true,
+  "numbers": {
+   "instances": 48,
+   "min_slack_lower": 3.975628472128229e-08,
+   "min_slack_upper": 0.007822782023524141,
+   "sharp_bound_violations": 4.0,
+   "sharp_violations_targeted": 4,
+   "condition_c_instances": 36
+  },
+  "instances": "48 random rooted trees ($n=5$: 30, $n=6$: 18), attraction model, all innovation outcomes; for each reading partition its own joint law of the illegible set (singletons, blocks, random mixtures, dependent across witnesses; on 12 trees, two witnesses illegible together exactly when they turn a proposed true split into a false one), every conditional rate $\\le\\delta$",
+  "result": "$\\tilde m_\\sigma\\ge(1-4\\delta)m_\\sigma$ and $\\tilde m_\\tau\\le m_\\tau+2\\delta\\mu$ for every split (smallest slacks $4.0\\times10^{-8}$, $7.8\\times10^{-3}$); the independent-case bound with $\\delta^{d}$ fails for 4 splits (control; 4 of them under the targeted laws); in all 36 instances with $\\varrho>0$, rerun at $\\delta=0.9\\varrho/(4+2\\mu)$, the true set is the unique maximum of $\\tilde m$",
+  "seconds": 2.3
+ },
+ "bediereffect": {
+  "passed": true,
+  "numbers": {
+   "rows": [
+    {
+     "n": 5,
+     "splits_T": 1,
+     "m_tau": 0.0657,
+     "L": 11,
+     "bound": 0.4738,
+     "P_T_is_a_maximiser": 0.09835,
+     "P_unique": 0.0836,
+     "passed": true
+    },
+    {
+     "n": 5,
+     "splits_T": 1,
+     "m_tau": 0.0657,
+     "L": 34,
+     "bound": 0.0994,
+     "P_T_is_a_maximiser": 0.00095,
+     "P_unique": 0.00085,
+     "passed": true
+    },
+    {
+     "n": 5,
+     "splits_T": 1,
+     "m_tau": 0.0559,
+     "L": 13,
+     "bound": 0.4734,
+     "P_T_is_a_maximiser": 0.0498,
+     "P_unique": 0.02705,
+     "passed": true
+    },
+    {
+     "n": 5,
+     "splits_T": 1,
+     "m_tau": 0.0559,
+     "L": 41,
+     "bound": 0.0946,
+     "P_T_is_a_maximiser": 0.00035,
+     "P_unique": 0.00025,
+     "passed": true
+    },
+    {
+     "n": 5,
+     "splits_T": 1,
+     "m_tau": 0.0622,
+     "L": 11,
+     "bound": 0.4934,
+     "P_T_is_a_maximiser": 0.11435,
+     "P_unique": 0.0759,
+     "passed": true
+    },
+    {
+     "n": 5,
+     "splits_T": 1,
+     "m_tau": 0.0622,
+     "L": 36,
+     "bound": 0.0991,
+     "P_T_is_a_maximiser": 0.0027,
+     "P_unique": 0.0023,
+     "passed": true
+    },
+    {
+     "n": 5,
+     "splits_T": 1,
+     "m_tau": 0.0287,
+     "L": 24,
+     "bound": 0.497,
+     "P_T_is_a_maximiser": 0.09015,
+     "P_unique": 0.05005,
+     "passed": true
+    },
+    {
+     "n": 5,
+     "splits_T": 1,
+     "m_tau": 0.0287,
+     "L": 80,
+     "bound": 0.0973,
+     "P_T_is_a_maximiser": 0.00225,
+     "P_unique": 0.00175,
+     "passed": true
+    },
+    {
+     "n": 6,
+     "splits_T": 1,
+     "m_tau": 0.0128,
+     "L": 54,
+     "bound": 0.4998,
+     "P_T_is_a_maximiser": 0.00725,
+     "P_unique": 0.00495,
+     "passed": true
+    },
+    {
+     "n": 6,
+     "splits_T": 1,
+     "m_tau": 0.0128,
+     "L": 180,
+     "bound": 0.0991,
+     "P_T_is_a_maximiser": 0.0,
+     "P_unique": 0.0,
+     "passed": true
+    },
+    {
+     "n": 6,
+     "splits_T": 2,
+     "m_tau": 0.0118,
+     "L": 59,
+     "bound": 0.496,
+     "P_T_is_a_maximiser": 0.2867,
+     "P_unique": 0.2575,
+     "passed": true
+    },
+    {
+     "n": 6,
+     "splits_T": 2,
+     "m_tau": 0.0118,
+     "L": 194,
+     "bound": 0.0997,
+     "P_T_is_a_maximiser": 0.0231,
+     "P_unique": 0.023,
+     "passed": true
+    }
+   ]
+  },
+  "instances": "6 attraction-model trees with a polytomy ($n=5,6$), the largest $m_\\tau$ among false splits compatible with $\\T$ ($0.012$--$0.066$), two lengths each ($L=11$--$194$), $2\\times10^4$ collations",
+  "result": "$\\Pr(\\T$ is a maximiser$)\\le(1-m_\\tau)^L$ in all (ratio simulated/bound $0.00$--$0.58$)",
+  "seconds": 0.3
+ },
+ "bedier": {
+  "passed": true,
+  "numbers": {
+   "rows": [
+    {
+     "n": 5,
+     "a": 0.0388,
+     "b": 0.1297,
+     "c": 0.0776,
+     "L": 121,
+     "bound": 0.492,
+     "sim_error": 0.0646,
+     "passed": true
+    },
+    {
+     "n": 5,
+     "a": 0.0388,
+     "b": 0.1297,
+     "c": 0.0747,
+     "L": 128,
+     "bound": 0.496,
+     "sim_error": 0.0636,
+     "passed": true
+    },
+    {
+     "n": 5,
+     "a": 0.0478,
+     "b": 0.0541,
+     "c": 0.0509,
+     "L": 13707,
+     "bound": 0.5,
+     "sim_error": 0.09325,
+     "passed": true
+    },
+    {
+     "n": 5,
+     "a": 0.0478,
+     "b": 0.0541,
+     "c": 0.0506,
+     "L": 14001,
+     "bound": 0.5,
+     "sim_error": 0.09385,
+     "passed": true
+    },
+    {
+     "n": 5,
+     "a": 0.0404,
+     "b": 0.1297,
+     "c": 0.0787,
+     "L": 143,
+     "bound": 0.4998,
+     "sim_error": 0.0699,
+     "passed": true
+    },
+    {
+     "n": 5,
+     "a": 0.0404,
+     "b": 0.1297,
+     "c": 0.088,
+     "L": 129,
+     "bound": 0.4997,
+     "sim_error": 0.09855,
+     "passed": true
+    },
+    {
+     "n": 5,
+     "a": 0.0382,
+     "b": 0.0455,
+     "c": 0.0418,
+     "L": 8420,
+     "bound": 0.5,
+     "sim_error": 0.08955,
+     "passed": true
+    },
+    {
+     "n": 5,
+     "a": 0.0382,
+     "b": 0.0455,
+     "c": 0.0409,
+     "L": 9328,
+     "bound": 0.5,
+     "sim_error": 0.1055,
+     "passed": true
+    },
+    {
+     "n": 6,
+     "a": 0.0415,
+     "b": 0.0731,
+     "c": 0.0562,
+     "L": 591,
+     "bound": 0.4999,
+     "sim_error": 0.06305,
+     "passed": true
+    },
+    {
+     "n": 6,
+     "a": 0.0415,
+     "b": 0.0731,
+     "c": 0.0686,
+     "L": 4593,
+     "bound": 0.4999,
+     "sim_error": 0.1233,
+     "passed": true
+    }
+   ],
+   "second_form_holds": true
+  },
+  "instances": "5 attraction-model trees with a polytomy ($n=5,6$) and $b>a$, $c=c^\\ast$ and a random $c\\in(a,b)$, at the length where the bound first reaches $0.5$ ($L=121$--$14{,}001$), $2\\times10^4$ collations",
+  "result": "KL bound $\\ge$ simulated $\\Pr(\\hat S_{L,c}\\neq\\T)$ in all (largest simulated error $0.1233$); at $c^\\ast$ the KL bound is below the second form at every $L$ tested ($10$--$10^4$)",
+  "seconds": 0.3
+ },
+ "rival": {
+  "passed": true,
+  "numbers": {
+   "rows": [
+    {
+     "n": 5,
+     "m_sigma": 0.1054,
+     "m_tau": 0.0578,
+     "L": 200,
+     "reps": 40000,
+     "p_value": 0.41915648404099826,
+     "p_value_wrong_law": 0.0,
+     "passed": true
+    },
+    {
+     "n": 5,
+     "m_sigma": 0.1947,
+     "m_tau": 0.0694,
+     "L": 200,
+     "reps": 40000,
+     "p_value": 0.6814791948466561,
+     "p_value_wrong_law": 0.0,
+     "passed": true
+    },
+    {
+     "n": 5,
+     "m_sigma": 0.1618,
+     "m_tau": 0.0421,
+     "L": 200,
+     "reps": 40000,
+     "p_value": 0.9496424252511121,
+     "p_value_wrong_law": 0.0,
+     "passed": true
+    },
+    {
+     "n": 6,
+     "m_sigma": 0.0651,
+     "m_tau": 0.0372,
+     "L": 200,
+     "reps": 40000,
+     "p_value": 0.5359612031123877,
+     "p_value_wrong_law": 0.0,
+     "passed": true
+    }
+   ],
+   "max_prob_unit_proposes_both": 0.0
+  },
+  "instances": "4 attraction-model trees ($n=5,6$), a true split and its strongest crossing rival, $L=200$, $4\\times10^4$ collations",
+  "result": "exact unit law: no unit proposes both; randomised probability-integral transform of $w(\\sigma)$ given the sum, chi-square on deciles: $p=0.42$--$0.95$ under the binomial law, $p<10^{-6}$ for the control with the ratio raised by $15\\%$",
+  "seconds": 0.4
+ },
+ "dimfree": {
+  "passed": true,
+  "numbers": {
+   "trees": 68,
+   "false_splits": 2552,
+   "worst_ratio": 0.9947010107390399,
+   "structural_failures": 0
+  },
+  "instances": "68 random binary trees $T'$ ($n=5$--$8$), all 2552 false splits, all legibility patterns, $\\delta\\in\\{0.01,\\dots,0.9\\}$",
+  "result": "display probability $\\le2\\max(\\delta,2\\delta^2)$ in all (largest ratio 0.995); every displayed pattern leaves one of the four parts of the proof wholly illegible",
+  "seconds": 0.4
+ },
+ "dominance": {
+  "passed": true,
+  "numbers": {
+   "trees": 60,
+   "false_splits": 1396,
+   "strict": 792,
+   "smallest_slack": 0.0,
+   "outcome_failures": 0.0,
+   "decomposition_max_error": 1.3877787807814457e-17
+  },
+  "instances": "60 random rooted trees ($n=5$--$7$, a third with polytomies), random rates, $\\alpha\\in\\{0,1\\}$ or random; all outcomes with at most two innovations; all 1396 splits not of the tree",
+  "result": "second-order rooted support of each cluster $\\le$ unrooted support of the split in all (strict in 792); per outcome, a rooted proposal of $C$ or $D$ implies the unrooted proposal of $\\tau$; the decomposition of the proof (disjoint pairs $\\alpha^2$ against $1$, nested pairs $1-\\alpha^2$ in both) equals the enumeration (largest difference $1.4\\times10^{-17}$)",
+  "seconds": 0.0
+ },
+ "modelglobal": {
+  "passed": true,
+  "numbers": {
+   "meeting": 185,
+   "not_meeting": 756,
+   "not_meeting_separation_fails": 323,
+   "smallest_margin": 0.006342218685269313,
+   "smallest_gamma_n_le_6": 0.006342218685269313
+  },
+  "instances": "185 random rooted binary trees ($n=5$--$8$, rooted on an edge or at a vertex) with rates meeting the hypothesis; all $2^{|\\mathcal E|}$ mark patterns enumerated",
+  "result": "global separation in all (smallest $\\min_\\T m-\\max_\\F m=6.3\\times10^{-3}$), $\\gamma>0$ for $n\\le6$; of 756 instances missing the hypothesis, separation fails in 323",
+  "seconds": 1.8
+ },
+ "lba": {
+  "passed": true,
+  "numbers": {
+   "points": 4210,
+   "near_boundary": 1000,
+   "formula_checks": 4510,
+   "mismatches": 0,
+   "consistent": 2505,
+   "lba": 1165,
+   "boundary": 540
+  },
+  "instances": "4210 points $(r,p_1,p_3)$, $p_2=p_4=0$: a grid, random points and 1000 within $10^{-9}$ of the boundary; and $300$ random general rate vectors; exact rational arithmetic",
+  "result": "the formulas of Proposition~\\ref{prop:quartet} equal enumeration of the $2^6$ mark patterns at all 4510 points; $m_{12|34}>\\max(m_{13|24},m_{14|23})$ exactly where $(1-r)p_1p_3<r(2-p_1-p_3)$ (2505 points) and $13|24$ strictly heaviest exactly on the reverse side (1165); neither at the 540 points of equality; 0 mismatches",
+  "seconds": 0.9
+ }
+}

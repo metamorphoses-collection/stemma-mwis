@@ -1,0 +1,200 @@
+{
+ "set": "paper",
+ "n_recorded": 239,
+ "n_explicit": 94,
+ "by_series": {
+  "AA": {
+   "explicit": 41,
+   "two_way": 39
+  },
+  "SRM": {
+   "explicit": 53,
+   "two_way": 51
+  }
+ },
+ "two_way": 90,
+ "per_editor": [
+  {
+   "editor": "Krusch",
+   "explicit": 34,
+   "two_way": 31,
+   "names": [
+    "B. Krusch",
+    "Bruno Krusch"
+   ]
+  },
+  {
+   "editor": "Levison",
+   "explicit": 20,
+   "two_way": 20,
+   "names": [
+    "W. Levison"
+   ]
+  },
+  {
+   "editor": "Mommsen",
+   "explicit": 16,
+   "two_way": 16,
+   "names": [
+    "Th. Mommsen",
+    "Theodor Mommsen"
+   ]
+  },
+  {
+   "editor": "Ehwald",
+   "explicit": 4,
+   "two_way": 4,
+   "names": [
+    "R. Ehwald"
+   ]
+  },
+  {
+   "editor": "Vollmer",
+   "explicit": 4,
+   "two_way": 3,
+   "names": [
+    "F. Vollmer"
+   ]
+  },
+  {
+   "editor": "Luetjohann",
+   "explicit": 2,
+   "two_way": 2,
+   "names": [
+    "Christianus Luetjohann (apparatus); preface on filiation by Fridericus Leo",
+    "Christianus Luetjohann; carmina apparatus completed and filiation stated by Fridericus Leo"
+   ]
+  },
+  {
+   "editor": "Droysen",
+   "explicit": 2,
+   "two_way": 2,
+   "names": [
+    "H. Droysen",
+    "H. Droysen (with bracketed notes by Th. Mommsen)"
+   ]
+  },
+  {
+   "editor": "Leo",
+   "explicit": 2,
+   "two_way": 2,
+   "names": [
+    "F. Leo"
+   ]
+  },
+  {
+   "editor": "Birt",
+   "explicit": 2,
+   "two_way": 2,
+   "names": [
+    "Theodor Birt"
+   ]
+  },
+  {
+   "editor": "Seeck",
+   "explicit": 2,
+   "two_way": 2,
+   "names": [
+    "O. Seeck"
+   ]
+  },
+  {
+   "editor": "Halm",
+   "explicit": 1,
+   "two_way": 1,
+   "names": [
+    "Carolus Halm"
+   ]
+  },
+  {
+   "editor": "Partsch",
+   "explicit": 1,
+   "two_way": 1,
+   "names": [
+    "Iosephus Partsch"
+   ]
+  },
+  {
+   "editor": "Sauppe",
+   "explicit": 1,
+   "two_way": 1,
+   "names": [
+    "Hermannus Sauppe"
+   ]
+  },
+  {
+   "editor": "Vogel",
+   "explicit": 1,
+   "two_way": 1,
+   "names": [
+    "Fridericus Vogel"
+   ]
+  },
+  {
+   "editor": "Peiper",
+   "explicit": 1,
+   "two_way": 1,
+   "names": [
+    "R. Peiper"
+   ]
+  },
+  {
+   "editor": "Bonnet",
+   "explicit": 1,
+   "two_way": 1,
+   "names": [
+    "M. Bonnet"
+   ]
+  }
+ ],
+ "n_editors": 16,
+ "editor_mean_two_way_share": 0.9788602941176471,
+ "editors_all_two_way": 14,
+ "editors_majority_two_way": 16,
+ "p_editor_vote_vs_weitzman": {
+  "0.71": 0.004169976231163697,
+  "0.77": 0.015270441822480158
+ },
+ "p_text_level_vs_weitzman": {
+  "0.71": 9.88548254358692e-10,
+  "0.77": 6.045260276405747e-07
+ },
+ "multi_branch": [
+  {
+   "series": "AA",
+   "text": "vita_radegundis",
+   "editor": "B. Krusch",
+   "ed": "Krusch",
+   "k": 3,
+   "explicit": true,
+   "paper": true
+  },
+  {
+   "series": "AA",
+   "text": "eugenius_carmina",
+   "editor": "F. Vollmer",
+   "ed": "Vollmer",
+   "k": 6,
+   "explicit": true,
+   "paper": true
+  },
+  {
+   "series": "SRM",
+   "text": "vita_haimhrammi_arbeo",
+   "editor": "Bruno Krusch",
+   "ed": "Krusch",
+   "k": 3,
+   "explicit": true,
+   "paper": true
+  },
+  {
+   "series": "SRM",
+   "text": "vita_landiberti_stephani",
+   "editor": "B. Krusch",
+   "ed": "Krusch",
+   "k": 3,
+   "explicit": true,
+   "paper": true
+  }
+ ]
+}

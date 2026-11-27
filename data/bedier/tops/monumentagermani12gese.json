@@ -1,0 +1,411 @@
+{
+ "volume": "AA 12",
+ "ia_id": "monumentagermani12gese",
+ "texts": [
+  {
+   "volume": "AA 12",
+   "ia_id": "monumentagermani12gese",
+   "text_id": "cassiodorus_variae",
+   "work": "Cassiodorus, Variae (libri I-XII)",
+   "editor": "Th. Mommsen",
+   "year": 1894,
+   "text_lines": [
+    20960,
+    48700
+   ],
+   "preface_lines": [
+    2753,
+    5763
+   ],
+   "sigla": [
+    {
+     "siglum": "L",
+     "manuscript": "Leidensis Vulcanianus 46",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "R",
+     "manuscript": "Monacensis 13072",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "K",
+     "manuscript": "Florentinus Laurentianus 89,23",
+     "date_if_given": "s. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "P",
+     "manuscript": "Vaticanus Palatinus 273",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "D",
+     "manuscript": "Berolinensis Diezianus (books I-V excerpts)",
+     "date_if_given": "s. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "M",
+     "manuscript": "Montispessulanus 294",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "O",
+     "manuscript": "Romanus Angelicanus V 4.7",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "N",
+     "manuscript": "Neapolitanus IV.B.41",
+     "date_if_given": "s. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "X",
+     "manuscript": "Montispessulanus 4 (lectio selecta)",
+     "date_if_given": "s. XII/XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "Z",
+     "manuscript": "Parisinus 2185 A (I 1-23; VIII-XII)",
+     "date_if_given": "s. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "T",
+     "manuscript": "Breslaviensis 63 (VI-VIII 10)",
+     "date_if_given": "s. XIV",
+     "role": "direct"
+    },
+    {
+     "siglum": "U",
+     "manuscript": "Caesenas 13,3 (VI-VII 42)",
+     "date_if_given": "s. XV",
+     "role": "direct"
+    },
+    {
+     "siglum": "B",
+     "manuscript": "Bruxellensis 10018 (VII 42-XII)",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "D (Halense)",
+     "manuscript": "fragmentum Halense (IX 17-18); same letter D as Diezianus",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "E",
+     "manuscript": "Florentinus Laurentianus 16 sin. 11 (class 6)",
+     "date_if_given": "s. XIV",
+     "role": "direct"
+    },
+    {
+     "siglum": "F",
+     "manuscript": "Florentinus Laurentianus 45,11 (class 6)",
+     "date_if_given": "s. XIV",
+     "role": "direct"
+    },
+    {
+     "siglum": "C",
+     "manuscript": "Ambrosianus A 210 inf. (VIII 1-10, 42-47; class 6)",
+     "date_if_given": "s. XV",
+     "role": "direct"
+    },
+    {
+     "siglum": "I (Ip, Iw)",
+     "manuscript": "epitome: Pragensis univ. + Vindobonensis 407",
+     "date_if_given": "s. XIV",
+     "role": "direct"
+    },
+    {
+     "siglum": "H",
+     "manuscript": "epitome: Oxoniensis coll. Magdalenae 166",
+     "date_if_given": "s. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "G",
+     "manuscript": "epitome: Londiniensis reg. 8 B XIX",
+     "date_if_given": "s. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "A",
+     "manuscript": "editio Accursiana (with cod. Breslaviensis 62 s. XIV)",
+     "date_if_given": "1533 ed.",
+     "role": "indirect"
+    }
+   ],
+   "apparatus": "negative_sigla",
+   "filiation_stated": "verbal",
+   "top_branches": [
+    [
+     "M",
+     "O",
+     "N",
+     "X",
+     "Z",
+     "E",
+     "F"
+    ],
+    [
+     "L",
+     "R",
+     "K",
+     "P",
+     "D"
+    ]
+   ],
+   "deeper_groups": [
+    [
+     "L",
+     "R",
+     "K"
+    ],
+    [
+     "P",
+     "D"
+    ],
+    [
+     "E",
+     "F"
+    ],
+    [
+     "T",
+     "U"
+    ],
+    [
+     "B",
+     "Z",
+     "K"
+    ],
+    [
+     "I",
+     "H",
+     "G"
+    ],
+    [
+     "I"
+    ],
+    [
+     "H",
+     "G"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 2759,
+     "page": "p. XXXIX",
+     "quote": "exemplaria quae extant scripta editaque omnia redeunt ad archetypum unicum nequaquam vetustum et erroribus inquinatum non paucis"
+    },
+    {
+     "ocr_line": 2847,
+     "page": "p. XLI",
+     "quote": "ordines eorum constitui potuerunt ita inter se diversi, ut non a codicibus, sed a codicum generibus crisis pendeat, maxime in parte prima l. I-IV, 39 servata duobus librorum ordinibus nobis primo et secundo"
+    },
+    {
+     "ocr_line": 3251,
+     "page": "p. XLVII",
+     "quote": "Classis secundae codices ... proficisci apparet ex archetypo eodem, idque mutilum fuisse pariter atque archetypum classis primae"
+    },
+    {
+     "ocr_line": 3877,
+     "page": "p. LV",
+     "quote": "In universum quamquam libri ordinis prioris LRK Palatino emendatiores sunt, propria utilitas huic quoque tribuenda est"
+    },
+    {
+     "ocr_line": 4123,
+     "page": "p. LVII",
+     "quote": "Berolinensis Diezianus ... nobis D, inter eos qui hodie supersunt libros solus est, qui descendat ex eodem archetypo atque Palatinus"
+    },
+    {
+     "ocr_line": 4295,
+     "page": "p. LX",
+     "quote": "Classis quarta fortasse origine sua coniuncta est cum secunda"
+    },
+    {
+     "ocr_line": 4499,
+     "page": "p. LXIII",
+     "quote": "plena epitomae exemplaria repperi quattuor. discedunt ea in duas familias discretas"
+    },
+    {
+     "ocr_line": 5232,
+     "page": "p. LXXIII",
+     "quote": "Classis prima ubi desinit, qui librorum EF similiumque archetypum exaravit ... supplente quae absunt a classe prima ex libro secundae"
+    }
+   ],
+   "flags": [
+    "pilot_text",
+    "multiple_sections_different_witnesses",
+    "contamination_at_top"
+   ],
+   "confidence": "medium",
+   "notes": "Mommsen orders witnesses by six 'classes' defined by the book ranges they carry, all from one archetype; only for I-IV,39 are two orders coordinate (class 1 MONX[+Z, EF] vs class 2 LRK+PD), which is the recorded top. Later parts: class 3 TU (VI-VIII,10), class 4 BZK+Halle fragment (VII,42-XII, perhaps once one codex with class 2), class 5 epitome (I vs HG), class 6 EFC (Q archetype, class 1 in I-IV,39 then supplemented from a K-like class-2 book). Many deteriores are contaminated; EF interpolated.",
+   "classification_A3": "explicit"
+  },
+  {
+   "volume": "AA 12",
+   "ia_id": "monumentagermani12gese",
+   "text_id": "acta_synhodorum_romae_499_501_502",
+   "work": "Acta synhodorum habitarum Romae a. 499, 501, 502 (with royal praecepta)",
+   "editor": "Th. Mommsen",
+   "year": 1894,
+   "text_lines": [
+    49248,
+    55030
+   ],
+   "preface_lines": [
+    48958,
+    49245
+   ],
+   "sigla": [
+    {
+     "siglum": "A",
+     "manuscript": "Vaticanus reginae 1997 (sylloge Teatina)",
+     "date_if_given": "s. VIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "B",
+     "manuscript": "Berolinensis Phillippsianus 1743",
+     "date_if_given": "s. VIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "F",
+     "manuscript": "Monacensis 5508 (Diessensis)",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "T",
+     "manuscript": "Parisinus 1564 (Pithoeanus)",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "E",
+     "manuscript": "Vaticanus 5845 (Dionysiana aucta)",
+     "date_if_given": "s. VIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "C",
+     "manuscript": "Ambrosianus S. 33 sup. (Bobiensis)",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "H",
+     "manuscript": "Parisinus 8921 (Dionysio-Hadriana, contaminated)",
+     "date_if_given": "s. VIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "G",
+     "manuscript": "Parisinus 11710 (Dionysio-Hadriana, contaminated)",
+     "date_if_given": "a. 805",
+     "role": "direct"
+    },
+    {
+     "siglum": "D",
+     "manuscript": "Vaticanus 1342 (Dionysio-Hadriana, contaminated)",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "M",
+     "manuscript": "Romanus Vallicellianus A 5 (Dionysio-Hadriana, contaminated)",
+     "date_if_given": "s. IX/X",
+     "role": "direct"
+    },
+    {
+     "siglum": "K",
+     "manuscript": "Coloniensis 212 (excerpts of synod 502 only)",
+     "date_if_given": "s. VII",
+     "role": "indirect"
+    },
+    {
+     "siglum": "V",
+     "manuscript": "Vaticanus Palatinus 574 (excerpts of synod 502 only)",
+     "date_if_given": "s. IX",
+     "role": "indirect"
+    }
+   ],
+   "apparatus": "negative_sigla",
+   "filiation_stated": "verbal",
+   "top_branches": [
+    [
+     "A",
+     "B",
+     "F",
+     "T"
+    ],
+    [
+     "E",
+     "C"
+    ]
+   ],
+   "deeper_groups": [
+    [
+     "B",
+     "F",
+     "T"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 49020,
+     "page": "p. 395",
+     "quote": "Sed ab archetypo communi mature sumpta sunt exemplaria duo, quorum utrumque propaginem reliquit; familiam ducit in altero syllogae ... Teatinae liber primarius ... A, in altero liber syllogae Dionysianae auctae ... E"
+    },
+    {
+     "ocr_line": 49084,
+     "page": "p. 396",
+     "quote": "sed tres hi libri tam arto vinculo coniuncti sunt ... communem horum librorum originem et artam cum Teatino corpore conexionem demonstrant"
+    },
+    {
+     "ocr_line": 49173,
+     "page": "p. 397",
+     "quote": "Ad hos duos codicum ordines accedit tertius contaminatorum et interpolatorum sive ... exemplarium corporis Dionysiani Hadriani"
+    },
+    {
+     "ocr_line": 49237,
+     "page": "p. 398",
+     "quote": "descendunt excerpta haec ex codice diverso a nostrorum communi archetypo eoque aliquantum meliore"
+    }
+   ],
+   "flags": [
+    "contamination_at_top"
+   ],
+   "confidence": "high",
+   "notes": "Two families from a common archetype: Teatina A with BFT (BFT thought to derive from the Teatine corpus, not necessarily from A itself) vs Dionysiana aucta EC (C not copied from E). Third order HGDM (Dionysio-Hadriana) drew on both families, so it is contaminated across the top division. Excerpts KV (synod 502 only) come from outside the common archetype. Siglum C appears as '0' in the OCR siglum list.",
+   "classification_A3": "explicit"
+  }
+ ],
+ "skipped": [
+  {
+   "piece": "Ordo generis Cassiodororum (Anecdoton Holderi), prooemium pp. V-VI",
+   "reason": "single manuscript (Augiensis CVI, now Karlsruhe); short excerpt printed inside the preface"
+  },
+  {
+   "piece": "Additamentum primum: Epistulae Theodericianae variae (lines ~48705-48955)",
+   "reason": "separate letters, each from its own source collection (e.g. collectio Britannica); no common tradition or stated filiation"
+  },
+  {
+   "piece": "Additamentum tertium: Cassiodori orationum reliquiae, ed. L. Traube (lines 55034-~)",
+   "reason": "single manuscript (fragments of one Bobbio codex, Turin/Milan/Nancy leaves, partly palimpsest)"
+  }
+ ],
+ "reader": "agent",
+ "date": "2026-11-13"
+}

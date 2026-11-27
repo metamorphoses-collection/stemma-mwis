@@ -1,0 +1,687 @@
+{
+ "volume": "AA 13",
+ "ia_id": "monumentagermani13gese",
+ "texts": [
+  {
+   "volume": "AA 13",
+   "ia_id": "monumentagermani13gese",
+   "text_id": "gildas_de_excidio",
+   "work": "Gildas, De excidio et conquestu Britanniae",
+   "editor": "Th. Mommsen",
+   "year": 1898,
+   "text_lines": [
+    1946,
+    8217
+   ],
+   "preface_lines": [
+    1112,
+    1426
+   ],
+   "sigla": [
+    {
+     "siglum": "C",
+     "manuscript": "Londiniensis Cottonianus Vitell. A VI (fire-damaged)",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "D",
+     "manuscript": "Cantabrigiensis bibl. publ. Dd. I. 17 (copied from C)",
+     "date_if_given": "s. XIV (c. 1400)",
+     "role": "direct"
+    },
+    {
+     "siglum": "A",
+     "manuscript": "Abrincensis (Avranches), interpolated",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "X",
+     "manuscript": "Cantabrigiensis bibl. publ. Ff. I. 27 (to p. 41,14 only)",
+     "date_if_given": "s. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "P",
+     "manuscript": "editio princeps Polydori Vergilii (C + lost interpolated codex)",
+     "date_if_given": "1525",
+     "role": "indirect"
+    },
+    {
+     "siglum": "Q",
+     "manuscript": "editio Iohannis Iosselini",
+     "date_if_given": "1568",
+     "role": "indirect"
+    },
+    {
+     "siglum": "H",
+     "manuscript": "adnotationes in exemplari Heidelbergensi ed. Iosselinianae",
+     "date_if_given": "",
+     "role": "indirect"
+    },
+    {
+     "siglum": "R",
+     "manuscript": "citations in Vita Gildae by the monk of Ruys",
+     "date_if_given": "s. XI",
+     "role": "indirect"
+    },
+    {
+     "siglum": "Beda",
+     "manuscript": "excerpts in Bede (cited in apparatus)",
+     "date_if_given": "s. VIII",
+     "role": "indirect"
+    }
+   ],
+   "apparatus": "mixed_sigla",
+   "filiation_stated": "verbal",
+   "top_branches": [
+    [
+     "C",
+     "D"
+    ],
+    [
+     "A",
+     "X"
+    ]
+   ],
+   "deeper_groups": [],
+   "evidence": [
+    {
+     "ocr_line": 1114,
+     "page": "p. 13",
+     "quote": "praeter Bedae excerpta et codicem Abrincensem interpolatum scripta editaque exemplaria omnia redeunt fere ad unum codicem Londiniensem Cottonianum"
+    },
+    {
+     "ocr_line": 1157,
+     "page": "p. 14",
+     "quote": "cum et archetypum fuerit eius qui sequitur [D] et primis duobus editoribus P et Q pro textus fundamento"
+    },
+    {
+     "ocr_line": 1393,
+     "page": "p. 17",
+     "quote": "intelleget tribus libris interpolatis subesse archetypum interpolatum et ipsum, sed modeste"
+    }
+   ],
+   "flags": [],
+   "confidence": "medium",
+   "notes": "C is stated to be the exemplar of D (D descriptus), so the C branch has effectively one independent witness; the interpolated branch is A, X and the lost source used by Polydore (P). P is an early edition mixing C with that lost interpolated codex. The editor never names a common archetype above C and the A-X-P archetype explicitly; the two-way split is implied by 'omnia redeunt ad C' except A (and X/P).",
+   "classification_A3": "explicit"
+  },
+  {
+   "volume": "AA 13",
+   "ia_id": "monumentagermani13gese",
+   "text_id": "historia_brittonum",
+   "work": "Historia Brittonum cum additamentis Nennii (7 parts: sex aetates, historia, vita Patricii, Arthuriana, genealogiae, civitates, mirabilia)",
+   "editor": "Th. Mommsen",
+   "year": 1898,
+   "text_lines": [
+    12520,
+    20740
+   ],
+   "preface_lines": [
+    10364,
+    12515
+   ],
+   "sigla": [
+    {
+     "siglum": "H",
+     "manuscript": "Londiniensis Harleianus 3859",
+     "date_if_given": "s. XI/XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "K",
+     "manuscript": "Londiniensis Cottonianus Vesp. D XXI",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "Z",
+     "manuscript": "Chartres 98 (mutilous)",
+     "date_if_given": "s. IX/X",
+     "role": "direct"
+    },
+    {
+     "siglum": "M",
+     "manuscript": "Vaticanus reginae 1964",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "N",
+     "manuscript": "Parisinus 11108",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "P",
+     "manuscript": "Londiniensis Cottonianus Calig. A VIII",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "Q",
+     "manuscript": "Londiniensis Cottonianus Nero D VIII",
+     "date_if_given": "s. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "D",
+     "manuscript": "Durhamensis B. II. 35 (first hand Gildan)",
+     "date_if_given": "s. XII (a. 1166)",
+     "role": "direct"
+    },
+    {
+     "siglum": "D2",
+     "manuscript": "Durhamensis, later hand(s) with Nennian readings",
+     "date_if_given": "",
+     "role": "corrector_hand"
+    },
+    {
+     "siglum": "C",
+     "manuscript": "Cantabrigiensis coll. Corp. Chr. 139 (Nennian recension)",
+     "date_if_given": "s. XII/XIII (OCR lists differ)",
+     "role": "direct"
+    },
+    {
+     "siglum": "C2",
+     "manuscript": "Cantabrigiensis CCC 139, later hand",
+     "date_if_given": "",
+     "role": "corrector_hand"
+    },
+    {
+     "siglum": "G",
+     "manuscript": "Londiniensis Burneianus 310 (copied from D)",
+     "date_if_given": "a. 1381",
+     "role": "direct"
+    },
+    {
+     "siglum": "L",
+     "manuscript": "Cantabrigiensis bibl. publ. Ff. I. 27 (copied from C)",
+     "date_if_given": "s. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "interpres",
+     "manuscript": "Irish version of Gilla Coemgin (Nennian recension)",
+     "date_if_given": "",
+     "role": "indirect"
+    }
+   ],
+   "apparatus": "mixed_sigla",
+   "filiation_stated": "verbal",
+   "top_branches": [
+    [
+     "H",
+     "K",
+     "P",
+     "Q",
+     "D",
+     "G",
+     "C",
+     "L"
+    ],
+    [
+     "Z",
+     "M",
+     "N"
+    ]
+   ],
+   "deeper_groups": [
+    [
+     "H",
+     "K"
+    ],
+    [
+     "P",
+     "Q",
+     "D",
+     "G"
+    ],
+    [
+     "C",
+     "L"
+    ],
+    [
+     "M",
+     "N"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 10680,
+     "page": "p. 117",
+     "quote": "Primi tertiique ordinis libri cum a computatione incipiant perducta ad a. 891 ... computum eum praeposuit librarius is ad quem tam anonymi codices redeunt quam Gildani"
+    },
+    {
+     "ocr_line": 10693,
+     "page": "p. 117",
+     "quote": "itaque primae tertiaeque classis archetypo communi forma data est a. 891"
+    },
+    {
+     "ocr_line": 12058,
+     "page": "p. 135",
+     "quote": "hinc colligemus reliquarum familiarum principes proxime quidem accessisse ad primae classis archetypum, sed ex hoc ipso nequaquam descendere"
+    },
+    {
+     "ocr_line": 12062,
+     "page": "p. 135",
+     "quote": "Secunda familia ipsa bipertita est, repraesentata scilicet cum codice ... Carnutino Z ... tum duobus libris ... M, et ... N"
+    },
+    {
+     "ocr_line": 12095,
+     "page": "p. 136",
+     "quote": "librarius archetypi eius, a quo MN descendunt, praeter codicem Carnutini similem adhibuit alterum familiae Gildanae"
+    },
+    {
+     "ocr_line": 12121,
+     "page": "p. 136",
+     "quote": "Tertium ordinem libri constituunt numero multi corpus de quo agitur proponentes sub nomine Gildae ... P ... Q ... D"
+    },
+    {
+     "ocr_line": 12353,
+     "page": "p. 140",
+     "quote": "Codicem a Nennio adhibitum esse ordinis primi vel inde colligitur"
+    }
+   ],
+   "flags": [
+    "contamination_at_top",
+    "multiple_sections_different_witnesses"
+   ],
+   "confidence": "low",
+   "notes": "Mommsen names three orders: I anonymi (HK), II Gallica/Marcian (Z; MN), III Gildan (PQD). He says I and III share a scribe/archetype dated by the 891 computus, which is the basis for the recorded 2-way top; he could also be read as giving three coordinate orders (k=3), so check this. The Nennian recension (C, D2; copies L of C, G of D) is said to come from an order-I codex near K, but its Latin witnesses also share errors with the Gildan order. MN are contaminated from the Gildan family. Sections differ in which witnesses carry them; codices 1-11 collated only for c. 7-10 are omitted.",
+   "classification_A3": "explicit"
+  },
+  {
+   "volume": "AA 13",
+   "ia_id": "monumentagermani13gese",
+   "text_id": "beda_chronica_maiora",
+   "work": "Beda, Chronica maiora (De temporum ratione c. 66) ad a. 725",
+   "editor": "Th. Mommsen",
+   "year": 1898,
+   "text_lines": [
+    22517,
+    29044
+   ],
+   "preface_lines": [
+    20780,
+    22385
+   ],
+   "sigla": [
+    {
+     "siglum": "B",
+     "manuscript": "Mediolanensis Ambrosianus D 30 inf.",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "F",
+     "manuscript": "Berolinensis Phillippsianus 1831",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "H",
+     "manuscript": "Sangallensis 251",
+     "date_if_given": "s. IX (a. c. 820)",
+     "role": "direct"
+    },
+    {
+     "siglum": "M",
+     "manuscript": "Parisinus 4860",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "O",
+     "manuscript": "Vaticanus Ottobonianus (n. 67 in preface; '61' in OCR list)",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "R",
+     "manuscript": "shelfmark not legible in OCR siglum list",
+     "date_if_given": "",
+     "role": "direct"
+    }
+   ],
+   "apparatus": "mixed_sigla",
+   "filiation_stated": "none",
+   "top_branches": [],
+   "deeper_groups": [],
+   "evidence": [
+    {
+     "ocr_line": 22289,
+     "page": "p. 243-244",
+     "quote": "in hac apparatus condicione etsi familiae codicum ordinari nequiverunt, adnotabimus locos quosdam propter consensum codicum in errore vel interpolatione memoratu dignos"
+    }
+   ],
+   "flags": [],
+   "confidence": "high",
+   "notes": "Editor states explicitly that families could not be established; dozens more codices given as specimen only. Chronica minora are printed in the same page range (apparatus lines 'BFHMOR chronicorum maiorum; EHM chronicorum minorum'). Sigla O and R are garbled in the OCR list; check the image if needed.",
+   "classification_A3": "none"
+  },
+  {
+   "volume": "AA 13",
+   "ia_id": "monumentagermani13gese",
+   "text_id": "beda_chronica_minora",
+   "work": "Beda, Chronica minora (De temporibus c. 17-22) ad a. 703",
+   "editor": "Th. Mommsen",
+   "year": 1898,
+   "text_lines": [
+    22517,
+    29044
+   ],
+   "preface_lines": [
+    20780,
+    22385
+   ],
+   "sigla": [
+    {
+     "siglum": "E",
+     "manuscript": "Einsidlensis 167 (selecta only)",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "F",
+     "manuscript": "Berolinensis Phillippsianus 1831",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "H",
+     "manuscript": "Sangallensis 251",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "M",
+     "manuscript": "Parisinus 4860",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "P",
+     "manuscript": "Vaticanus Palatinus 1448",
+     "date_if_given": "s. X",
+     "role": "direct"
+    }
+   ],
+   "apparatus": "mixed_sigla",
+   "filiation_stated": "none",
+   "top_branches": [],
+   "deeper_groups": [],
+   "evidence": [
+    {
+     "ocr_line": 22289,
+     "page": "p. 243-244",
+     "quote": "etsi familiae codicum ordinari nequiverunt"
+    }
+   ],
+   "flags": [],
+   "confidence": "high",
+   "notes": "Same statement covers both chronicles. Printed together with the maiora (same line range), so extraction must separate the two apparatus streams. Further codices used only for c. 255-263, 271-281.",
+   "classification_A3": "none"
+  },
+  {
+   "volume": "AA 13",
+   "ia_id": "monumentagermani13gese",
+   "text_id": "laterculus_imperatorum_ad_iustinum_i",
+   "work": "Laterculus imperatorum ad Iustinum I",
+   "editor": "Th. Mommsen",
+   "year": 1898,
+   "text_lines": [
+    36042,
+    36430
+   ],
+   "preface_lines": [
+    35970,
+    36041
+   ],
+   "sigla": [
+    {
+     "siglum": "C",
+     "manuscript": "Vaticanus 3339",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "Z",
+     "manuscript": "Vaticanus 1984 (ends at Constantius II)",
+     "date_if_given": "s. IX/X",
+     "role": "direct"
+    },
+    {
+     "siglum": "B",
+     "manuscript": "Bernensis 120",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "A",
+     "manuscript": "Mediolanensis Ambrosianus C 72 inf.",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "V",
+     "manuscript": "Vaticanus 341",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "N",
+     "manuscript": "Vaticanus 1979",
+     "date_if_given": "s. XI/XII",
+     "role": "direct"
+    }
+   ],
+   "apparatus": "negative_sigla",
+   "filiation_stated": "none",
+   "top_branches": [],
+   "deeper_groups": [],
+   "evidence": [
+    {
+     "ocr_line": 35996,
+     "page": "p. 418",
+     "quote": "Codices adhibiti sunt sex hi."
+    }
+   ],
+   "flags": [],
+   "confidence": "high",
+   "notes": "Six codices described one by one; only stated relation is that Coloniensis 32 (not used) was copied from C. No grouping given. Short text (about 4 pages).",
+   "classification_A3": "none"
+  },
+  {
+   "volume": "AA 13",
+   "ia_id": "monumentagermani13gese",
+   "text_id": "laterculus_regum_visigothorum",
+   "work": "Laterculus regum Visigothorum legum corpori praemissus",
+   "editor": "Th. Mommsen",
+   "year": 1898,
+   "text_lines": [
+    39700,
+    40355
+   ],
+   "preface_lines": [
+    39515,
+    39700
+   ],
+   "sigla": [
+    {
+     "siglum": "A",
+     "manuscript": "Vaticanus reginae 1024",
+     "date_if_given": "s. VIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "S",
+     "manuscript": "Soriensis deperditus (Perez copy, Matrit. F 38)",
+     "date_if_given": "",
+     "role": "indirect"
+    },
+    {
+     "siglum": "C",
+     "manuscript": "Parisinus 4667",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "H",
+     "manuscript": "Havniensis 805",
+     "date_if_given": "s. XIV",
+     "role": "direct"
+    },
+    {
+     "siglum": "P",
+     "manuscript": "Parisinus 4668",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "Q",
+     "manuscript": "Parisinus 4418",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "R",
+     "manuscript": "Parisinus 1557 (apparently copied from Q)",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "T",
+     "manuscript": "Conimbricensis S. Crucis 83 (known from Bonaventura only)",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "D",
+     "manuscript": "Legionensis, now Matritensis",
+     "date_if_given": "a. 1057",
+     "role": "direct"
+    },
+    {
+     "siglum": "O",
+     "manuscript": "Ovetensis deperditus (readings via Perez)",
+     "date_if_given": "s. XII",
+     "role": "indirect"
+    }
+   ],
+   "apparatus": "mixed_sigla",
+   "filiation_stated": "none",
+   "top_branches": [],
+   "deeper_groups": [
+    [
+     "P",
+     "Q",
+     "R",
+     "O"
+    ],
+    [
+     "C",
+     "H"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 39602,
+     "page": "p. 462",
+     "quote": "ad hunc proxime accedunt libri nostri QRO habentes communes cum eo interpolationes"
+    },
+    {
+     "ocr_line": 39596,
+     "page": "p. 462",
+     "quote": "Havniensis n. 805 ... similis est Parisini 4667 finitque item in c. 39"
+    }
+   ],
+   "flags": [],
+   "confidence": "medium",
+   "notes": "Mommsen gives two local groupings (P with QRO by shared interpolations; H similar to C) but no division under an archetype, so filiation recorded as none. A reader might treat the groups as a partial verbal stemma. S and O are lost codices known from transcripts.",
+   "classification_A3": "none"
+  }
+ ],
+ "skipped": [
+  {
+   "piece": "Gildas, Add. I: Epistularum Gildae deperditarum fragmenta",
+   "reason": "excerpts from canon collections (Hibernensis, Cambridge collectanea); no manuscript stemma or sigla apparatus"
+  },
+  {
+   "piece": "Gildas, Add. II: Liber de paenitentia",
+   "reason": "single manuscript (Paris, olim Fecamp)"
+  },
+  {
+   "piece": "Gildas, Add. III: Vita Gildae auctore monacho Ruiensi",
+   "reason": "no manuscript seen; text from early editions only"
+  },
+  {
+   "piece": "Gildas, Add. IV: Vita Gildae auctore Caradoco",
+   "reason": "two independent witnesses (CCC 139 and Durham; Burney 310 copied from Durham); no filiation"
+  },
+  {
+   "piece": "Beda Add. I-II: interpolations of cod. Paris. 1615 and Monac. 246",
+   "reason": "lists of additions in single codices (Leiden/Munich/Paris compilation), not an edition with apparatus"
+  },
+  {
+   "piece": "Beda Add. III: Auctaria (Continuatio Constantinopolitana etc.)",
+   "reason": "short continuations in 4 codices, no filiation stated; fragment-length"
+  },
+  {
+   "piece": "Beda Add. IV: Continuatio Carolingica prima",
+   "reason": "short continuations differing by codex group, printed per manuscript; no stemma"
+  },
+  {
+   "piece": "Beda Add. V: Generationum regnorumque laterculus Bedanus",
+   "reason": "only Paris 4860 and Sangall. 878 printed in full; others summarised; no filiation"
+  },
+  {
+   "piece": "Fasti Theonis Alexandrini (ed. Usener)",
+   "reason": "Greek tables; two independent witnesses L and F (M is a copy of L)"
+  },
+  {
+   "piece": "Fasti Veronenses",
+   "reason": "single manuscript (Verona LV)"
+  },
+  {
+   "piece": "Fasti Augustani",
+   "reason": "single manuscript (Augsburg 223)"
+  },
+  {
+   "piece": "Fasti Heracliani (ed. Usener)",
+   "reason": "Greek; from the L/M/F tradition only (at most 2 independent witnesses)"
+  },
+  {
+   "piece": "Laterculus imperatorum adiunctus codici Theodosiano",
+   "reason": "single manuscript (Taurinensis a II 2)"
+  },
+  {
+   "piece": "Expositio temporum Hilariana",
+   "reason": "single manuscript (Matritensis univ. 194)"
+  },
+  {
+   "piece": "Laterculus imperatorum Malalianus",
+   "reason": "single manuscript (Vat. Pal. 21)"
+  },
+  {
+   "piece": "Laterculi regum et imperatorum ab astronomis Alexandrinis (Heraclianus, Leoninus, acephalus; ed. Usener)",
+   "reason": "Greek tables in L/M/F only (M copied from L); at most 2 independent witnesses"
+  },
+  {
+   "piece": "Laterculus regum Vandalorum et Alanorum",
+   "reason": "two recensions printed in parallel, each from one lost exemplar (Augiensis -> P, Aw; Matritensis 134 / Osmensis); at most 2 witnesses per recension"
+  },
+  {
+   "piece": "Additamenta ad vol. I, II, III",
+   "reason": "addenda and corrigenda to earlier volumes, not editions"
+  },
+  {
+   "piece": "Indices (Lucas/Mommsen)",
+   "reason": "index, not an edition"
+  }
+ ],
+ "reader": "agent",
+ "date": "2026-11-13"
+}

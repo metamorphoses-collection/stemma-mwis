@@ -1,0 +1,27 @@
+{
+ "stemma_witnesses": "ARKNSPOELVCFG",
+ "cited": {
+  "A": 315,
+  "R": 232,
+  "K": 138,
+  "N": 135,
+  "S": 40,
+  "P": 114,
+  "O": 178,
+  "E": 212,
+  "L": 136,
+  "V": 329,
+  "C": 207,
+  "F": 223,
+  "G": 46
+ },
+ "analysis_witnesses": "ARKNSPOELVCFG",
+ "units_with_shared_departure": 221,
+ "included": true,
+ "exclusion": [],
+ "editor_top": [
+  "A",
+  "RKNSPOELVCFG"
+ ],
+ "k_E": 2
+}

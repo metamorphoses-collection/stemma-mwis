@@ -1,0 +1,1867 @@
+{
+ "v1_published": {
+  "label": "v1 published (814 notes)",
+  "units": 814,
+  "unrooted": {
+   "best": [
+    "CDEFG",
+    "CG",
+    "DE",
+    "DEF"
+   ],
+   "score": 281,
+   "runner_up": 267,
+   "runner_up_tree": [
+    "CDEFG",
+    "CDEG",
+    "CG",
+    "DE"
+   ],
+   "ties_at_top": 1,
+   "weights": {
+    "CG": 176,
+    "DE": 43,
+    "CDEFG": 38,
+    "DEF": 24,
+    "EF": 23,
+    "DF": 13,
+    "CEG": 13,
+    "BCG": 6,
+    "CD": 9
+   }
+  },
+  "global_cert": {
+   "min_true": 24,
+   "min_true_split": [
+    "DEF"
+   ],
+   "max_false": 23,
+   "max_false_split": [
+    "EF"
+   ],
+   "margin": 1,
+   "holds": true
+  },
+  "local_cert": {
+   "min_margin": 11,
+   "binding": [
+    {
+     "true": "DEF",
+     "w_true": 24,
+     "rival": "CEG",
+     "w_rival": 13
+    }
+   ],
+   "holds": true
+  },
+  "rival_test": [
+   {
+    "family": "CG",
+    "support": 176,
+    "strongest_rival": "CD",
+    "rival_support": 9,
+    "p_one_sided": 1.2328731845381464e-41
+   },
+   {
+    "family": "DE",
+    "support": 43,
+    "strongest_rival": "EF",
+    "rival_support": 23,
+    "p_one_sided": 0.009328630177010503
+   },
+   {
+    "family": "CDEFG",
+    "support": 38,
+    "strongest_rival": "BCG",
+    "rival_support": 6,
+    "p_one_sided": 4.715187742476701e-07
+   },
+   {
+    "family": "DEF",
+    "support": 24,
+    "strongest_rival": "CEG",
+    "rival_support": 13,
+    "p_one_sided": 0.04943587479647249
+   }
+  ],
+  "trio_DE_EF_DF": {
+   "counts": [
+    43,
+    23,
+    13
+   ],
+   "p": 0.0019773298999578447,
+   "s_obs": 0.009328630177010503
+  },
+  "rooted_min2": {
+   "best": [
+    "AB",
+    "CDEFG",
+    "CG",
+    "DE",
+    "DEF"
+   ],
+   "score": 278,
+   "runner_up": [
+    "AB",
+    "CDEFG",
+    "CDEG",
+    "CG",
+    "DE"
+   ],
+   "runner_up_score": 267,
+   "ties_at_top": 1,
+   "named": {
+    "AB-edge": {
+     "score": 278,
+     "clusters": {
+      "AB": 17,
+      "CG": 176,
+      "DE": 43,
+      "DEF": 21,
+      "CDEFG": 21
+     }
+    },
+    "DEF-edge": {
+     "score": 260,
+     "clusters": {
+      "AB": 17,
+      "CG": 176,
+      "DE": 43,
+      "DEF": 21,
+      "ABCG": 3
+     }
+    },
+    "central": {
+     "score": 257,
+     "clusters": {
+      "AB": 17,
+      "CG": 176,
+      "DE": 43,
+      "DEF": 21
+     }
+    }
+   },
+   "rootings_of_unrooted_optimum": [
+    [
+     278,
+     "AB | CDEFG",
+     [
+      "AB",
+      "CDEFG",
+      "CG",
+      "DE",
+      "DEF"
+     ]
+    ],
+    [
+     261,
+     "B | ACDEFG",
+     [
+      "ACDEFG",
+      "CDEFG",
+      "CG",
+      "DE",
+      "DEF"
+     ]
+    ],
+    [
+     261,
+     "A | BCDEFG",
+     [
+      "BCDEFG",
+      "CDEFG",
+      "CG",
+      "DE",
+      "DEF"
+     ]
+    ],
+    [
+     260,
+     "DEF | ABCG",
+     [
+      "AB",
+      "ABCG",
+      "CG",
+      "DE",
+      "DEF"
+     ]
+    ],
+    [
+     257,
+     "CG | ABDEF",
+     [
+      "AB",
+      "ABDEF",
+      "CG",
+      "DE",
+      "DEF"
+     ]
+    ],
+    [
+     239,
+     "F | ABCDEG",
+     [
+      "AB",
+      "ABCDEG",
+      "ABCG",
+      "CG",
+      "DE"
+     ]
+    ],
+    [
+     239,
+     "DE | ABCFG",
+     [
+      "AB",
+      "ABCFG",
+      "ABCG",
+      "CG",
+      "DE"
+     ]
+    ],
+    [
+     196,
+     "E | ABCDFG",
+     [
+      "AB",
+      "ABCDFG",
+      "ABCFG",
+      "ABCG",
+      "CG"
+     ]
+    ],
+    [
+     196,
+     "D | ABCEFG",
+     [
+      "AB",
+      "ABCEFG",
+      "ABCFG",
+      "ABCG",
+      "CG"
+     ]
+    ],
+    [
+     81,
+     "G | ABCDEF",
+     [
+      "AB",
+      "ABCDEF",
+      "ABDEF",
+      "DE",
+      "DEF"
+     ]
+    ],
+    [
+     81,
+     "C | ABDEFG",
+     [
+      "AB",
+      "ABDEF",
+      "ABDEFG",
+      "DE",
+      "DEF"
+     ]
+    ]
+   ]
+  },
+  "rooted_min1": {
+   "best": [
+    "AB",
+    "CDEFG",
+    "CG",
+    "DE",
+    "DEF"
+   ],
+   "score": 278,
+   "runner_up": [
+    "AB",
+    "CDEFG",
+    "CDEG",
+    "CG",
+    "DE"
+   ],
+   "runner_up_score": 267,
+   "ties_at_top": 1,
+   "named": {
+    "AB-edge": {
+     "score": 278,
+     "clusters": {
+      "AB": 17,
+      "CG": 176,
+      "DE": 43,
+      "DEF": 21,
+      "CDEFG": 21
+     }
+    },
+    "DEF-edge": {
+     "score": 260,
+     "clusters": {
+      "AB": 17,
+      "CG": 176,
+      "DE": 43,
+      "DEF": 21,
+      "ABCG": 3
+     }
+    },
+    "central": {
+     "score": 257,
+     "clusters": {
+      "AB": 17,
+      "CG": 176,
+      "DE": 43,
+      "DEF": 21
+     }
+    }
+   },
+   "rootings_of_unrooted_optimum": [
+    [
+     278,
+     "AB | CDEFG",
+     [
+      "AB",
+      "CDEFG",
+      "CG",
+      "DE",
+      "DEF"
+     ]
+    ],
+    [
+     261,
+     "B | ACDEFG",
+     [
+      "ACDEFG",
+      "CDEFG",
+      "CG",
+      "DE",
+      "DEF"
+     ]
+    ],
+    [
+     261,
+     "A | BCDEFG",
+     [
+      "BCDEFG",
+      "CDEFG",
+      "CG",
+      "DE",
+      "DEF"
+     ]
+    ],
+    [
+     260,
+     "DEF | ABCG",
+     [
+      "AB",
+      "ABCG",
+      "CG",
+      "DE",
+      "DEF"
+     ]
+    ],
+    [
+     257,
+     "CG | ABDEF",
+     [
+      "AB",
+      "ABDEF",
+      "CG",
+      "DE",
+      "DEF"
+     ]
+    ],
+    [
+     239,
+     "F | ABCDEG",
+     [
+      "AB",
+      "ABCDEG",
+      "ABCG",
+      "CG",
+      "DE"
+     ]
+    ],
+    [
+     239,
+     "DE | ABCFG",
+     [
+      "AB",
+      "ABCFG",
+      "ABCG",
+      "CG",
+      "DE"
+     ]
+    ],
+    [
+     196,
+     "E | ABCDFG",
+     [
+      "AB",
+      "ABCDFG",
+      "ABCFG",
+      "ABCG",
+      "CG"
+     ]
+    ],
+    [
+     196,
+     "D | ABCEFG",
+     [
+      "AB",
+      "ABCEFG",
+      "ABCFG",
+      "ABCG",
+      "CG"
+     ]
+    ],
+    [
+     81,
+     "G | ABCDEF",
+     [
+      "AB",
+      "ABCDEF",
+      "ABDEF",
+      "DE",
+      "DEF"
+     ]
+    ],
+    [
+     81,
+     "C | ABDEFG",
+     [
+      "AB",
+      "ABDEF",
+      "ABDEFG",
+      "DE",
+      "DEF"
+     ]
+    ]
+   ]
+  },
+  "stability_unrooted": {
+   "CG": 1.0,
+   "DEF": 0.997,
+   "DE": 0.99,
+   "CDEFG": 1.0
+  },
+  "stability_rooted": {
+   "AB": 1.0,
+   "CG": 1.0,
+   "DEF": 0.984,
+   "DE": 0.99,
+   "CDEFG": 1.0
+  },
+  "gamma_confidence": {
+   "L": 814,
+   "gamma_hat": 0.01719897985458374,
+   "gamma_lo": -0.02256166934967041,
+   "scaled": {
+    "1": -0.02256166934967041,
+    "1.5": -0.013420939445495605,
+    "2": -0.008341491222381592,
+    "3": -0.002174675464630127,
+    "4": 0.0005026459693908691,
+    "5": 0.0023133158683776855,
+    "6": 0.003641664981842041,
+    "8": 0.005495011806488037
+   },
+   "first_multiple_certified": 4
+  }
+ },
+ "v1_minus_n056": {
+  "label": "v1 without n056 (no splits)",
+  "units": 806,
+  "unrooted": {
+   "best": [
+    "CDEFG",
+    "CG",
+    "DE",
+    "DEF"
+   ],
+   "score": 279,
+   "runner_up": 265,
+   "runner_up_tree": [
+    "CDEFG",
+    "CDEG",
+    "CG",
+    "DE"
+   ],
+   "ties_at_top": 1,
+   "weights": {
+    "CG": 176,
+    "DE": 41,
+    "CDEFG": 38,
+    "DEF": 24,
+    "EF": 23,
+    "DF": 13,
+    "CEG": 13,
+    "BCG": 6,
+    "CD": 9
+   }
+  },
+  "global_cert": {
+   "min_true": 24,
+   "min_true_split": [
+    "DEF"
+   ],
+   "max_false": 23,
+   "max_false_split": [
+    "EF"
+   ],
+   "margin": 1,
+   "holds": true
+  },
+  "local_cert": {
+   "min_margin": 11,
+   "binding": [
+    {
+     "true": "DEF",
+     "w_true": 24,
+     "rival": "CEG",
+     "w_rival": 13
+    }
+   ],
+   "holds": true
+  },
+  "rival_test": [
+   {
+    "family": "CG",
+    "support": 176,
+    "strongest_rival": "CD",
+    "rival_support": 9,
+    "p_one_sided": 1.2328731845381464e-41
+   },
+   {
+    "family": "DE",
+    "support": 41,
+    "strongest_rival": "EF",
+    "rival_support": 23,
+    "p_one_sided": 0.0163828795494116
+   },
+   {
+    "family": "CDEFG",
+    "support": 38,
+    "strongest_rival": "BCG",
+    "rival_support": 6,
+    "p_one_sided": 4.715187742476701e-07
+   },
+   {
+    "family": "DEF",
+    "support": 24,
+    "strongest_rival": "CEG",
+    "rival_support": 13,
+    "p_one_sided": 0.04943587479647249
+   }
+  ],
+  "trio_DE_EF_DF": {
+   "counts": [
+    41,
+    23,
+    13
+   ],
+   "p": 0.003725780877572959,
+   "s_obs": 0.0163828795494116
+  },
+  "rooted_min2": {
+   "best": [
+    "AB",
+    "CDEFG",
+    "CG",
+    "DE",
+    "DEF"
+   ],
+   "score": 276,
+   "runner_up": [
+    "AB",
+    "CDEFG",
+    "CDEG",
+    "CG",
+    "DE"
+   ],
+   "runner_up_score": 265,
+   "ties_at_top": 1,
+   "named": {
+    "AB-edge": {
+     "score": 276,
+     "clusters": {
+      "AB": 17,
+      "CG": 176,
+      "DE": 41,
+      "DEF": 21,
+      "CDEFG": 21
+     }
+    },
+    "DEF-edge": {
+     "score": 258,
+     "clusters": {
+      "AB": 17,
+      "CG": 176,
+      "DE": 41,
+      "DEF": 21,
+      "ABCG": 3
+     }
+    },
+    "central": {
+     "score": 255,
+     "clusters": {
+      "AB": 17,
+      "CG": 176,
+      "DE": 41,
+      "DEF": 21
+     }
+    }
+   },
+   "rootings_of_unrooted_optimum": [
+    [
+     276,
+     "AB | CDEFG",
+     [
+      "AB",
+      "CDEFG",
+      "CG",
+      "DE",
+      "DEF"
+     ]
+    ],
+    [
+     259,
+     "B | ACDEFG",
+     [
+      "ACDEFG",
+      "CDEFG",
+      "CG",
+      "DE",
+      "DEF"
+     ]
+    ],
+    [
+     259,
+     "A | BCDEFG",
+     [
+      "BCDEFG",
+      "CDEFG",
+      "CG",
+      "DE",
+      "DEF"
+     ]
+    ],
+    [
+     258,
+     "DEF | ABCG",
+     [
+      "AB",
+      "ABCG",
+      "CG",
+      "DE",
+      "DEF"
+     ]
+    ],
+    [
+     255,
+     "CG | ABDEF",
+     [
+      "AB",
+      "ABDEF",
+      "CG",
+      "DE",
+      "DEF"
+     ]
+    ],
+    [
+     237,
+     "F | ABCDEG",
+     [
+      "AB",
+      "ABCDEG",
+      "ABCG",
+      "CG",
+      "DE"
+     ]
+    ],
+    [
+     237,
+     "DE | ABCFG",
+     [
+      "AB",
+      "ABCFG",
+      "ABCG",
+      "CG",
+      "DE"
+     ]
+    ],
+    [
+     196,
+     "E | ABCDFG",
+     [
+      "AB",
+      "ABCDFG",
+      "ABCFG",
+      "ABCG",
+      "CG"
+     ]
+    ],
+    [
+     196,
+     "D | ABCEFG",
+     [
+      "AB",
+      "ABCEFG",
+      "ABCFG",
+      "ABCG",
+      "CG"
+     ]
+    ],
+    [
+     79,
+     "G | ABCDEF",
+     [
+      "AB",
+      "ABCDEF",
+      "ABDEF",
+      "DE",
+      "DEF"
+     ]
+    ],
+    [
+     79,
+     "C | ABDEFG",
+     [
+      "AB",
+      "ABDEF",
+      "ABDEFG",
+      "DE",
+      "DEF"
+     ]
+    ]
+   ]
+  },
+  "rooted_min1": {
+   "best": [
+    "AB",
+    "CDEFG",
+    "CG",
+    "DE",
+    "DEF"
+   ],
+   "score": 276,
+   "runner_up": [
+    "AB",
+    "CDEFG",
+    "CDEG",
+    "CG",
+    "DE"
+   ],
+   "runner_up_score": 265,
+   "ties_at_top": 1,
+   "named": {
+    "AB-edge": {
+     "score": 276,
+     "clusters": {
+      "AB": 17,
+      "CG": 176,
+      "DE": 41,
+      "DEF": 21,
+      "CDEFG": 21
+     }
+    },
+    "DEF-edge": {
+     "score": 258,
+     "clusters": {
+      "AB": 17,
+      "CG": 176,
+      "DE": 41,
+      "DEF": 21,
+      "ABCG": 3
+     }
+    },
+    "central": {
+     "score": 255,
+     "clusters": {
+      "AB": 17,
+      "CG": 176,
+      "DE": 41,
+      "DEF": 21
+     }
+    }
+   },
+   "rootings_of_unrooted_optimum": [
+    [
+     276,
+     "AB | CDEFG",
+     [
+      "AB",
+      "CDEFG",
+      "CG",
+      "DE",
+      "DEF"
+     ]
+    ],
+    [
+     259,
+     "B | ACDEFG",
+     [
+      "ACDEFG",
+      "CDEFG",
+      "CG",
+      "DE",
+      "DEF"
+     ]
+    ],
+    [
+     259,
+     "A | BCDEFG",
+     [
+      "BCDEFG",
+      "CDEFG",
+      "CG",
+      "DE",
+      "DEF"
+     ]
+    ],
+    [
+     258,
+     "DEF | ABCG",
+     [
+      "AB",
+      "ABCG",
+      "CG",
+      "DE",
+      "DEF"
+     ]
+    ],
+    [
+     255,
+     "CG | ABDEF",
+     [
+      "AB",
+      "ABDEF",
+      "CG",
+      "DE",
+      "DEF"
+     ]
+    ],
+    [
+     237,
+     "F | ABCDEG",
+     [
+      "AB",
+      "ABCDEG",
+      "ABCG",
+      "CG",
+      "DE"
+     ]
+    ],
+    [
+     237,
+     "DE | ABCFG",
+     [
+      "AB",
+      "ABCFG",
+      "ABCG",
+      "CG",
+      "DE"
+     ]
+    ],
+    [
+     196,
+     "E | ABCDFG",
+     [
+      "AB",
+      "ABCDFG",
+      "ABCFG",
+      "ABCG",
+      "CG"
+     ]
+    ],
+    [
+     196,
+     "D | ABCEFG",
+     [
+      "AB",
+      "ABCEFG",
+      "ABCFG",
+      "ABCG",
+      "CG"
+     ]
+    ],
+    [
+     79,
+     "G | ABCDEF",
+     [
+      "AB",
+      "ABCDEF",
+      "ABDEF",
+      "DE",
+      "DEF"
+     ]
+    ],
+    [
+     79,
+     "C | ABDEFG",
+     [
+      "AB",
+      "ABDEF",
+      "ABDEFG",
+      "DE",
+      "DEF"
+     ]
+    ]
+   ]
+  },
+  "stability_unrooted": {
+   "CG": 1.0,
+   "DEF": 0.992,
+   "DE": 0.987,
+   "CDEFG": 1.0
+  },
+  "stability_rooted": {
+   "AB": 1.0,
+   "CG": 1.0,
+   "DEF": 0.976,
+   "DE": 0.987,
+   "CDEFG": 1.0
+  },
+  "gamma_confidence": {
+   "L": 806,
+   "gamma_hat": 0.01736968755722046,
+   "gamma_lo": -0.024653255939483643,
+   "scaled": {
+    "1": -0.024653255939483643,
+    "1.5": -0.014873385429382324,
+    "2": -0.010474979877471924,
+    "3": -0.004313468933105469,
+    "4": -0.0006731748580932617,
+    "5": 0.0017975568771362305,
+    "6": 0.0036146044731140137,
+    "8": 0.005550742149353027
+   },
+   "first_multiple_certified": 5
+  }
+ },
+ "v2": {
+  "label": "v2: n056 dropped, 34 composite notes split",
+  "units": 843,
+  "unrooted": {
+   "best": [
+    "CDEFG",
+    "CG",
+    "DE",
+    "DEF"
+   ],
+   "score": 279,
+   "runner_up": 265,
+   "runner_up_tree": [
+    "CDEFG",
+    "CDEG",
+    "CG",
+    "DE"
+   ],
+   "ties_at_top": 1,
+   "weights": {
+    "CG": 176,
+    "DE": 41,
+    "CDEFG": 38,
+    "DEF": 24,
+    "EF": 23,
+    "DF": 13,
+    "CEG": 13,
+    "BCG": 6,
+    "CD": 9
+   }
+  },
+  "global_cert": {
+   "min_true": 24,
+   "min_true_split": [
+    "DEF"
+   ],
+   "max_false": 23,
+   "max_false_split": [
+    "EF"
+   ],
+   "margin": 1,
+   "holds": true
+  },
+  "local_cert": {
+   "min_margin": 11,
+   "binding": [
+    {
+     "true": "DEF",
+     "w_true": 24,
+     "rival": "CEG",
+     "w_rival": 13
+    }
+   ],
+   "holds": true
+  },
+  "rival_test": [
+   {
+    "family": "CG",
+    "support": 176,
+    "strongest_rival": "CD",
+    "rival_support": 9,
+    "p_one_sided": 1.2328731845381464e-41
+   },
+   {
+    "family": "DE",
+    "support": 41,
+    "strongest_rival": "EF",
+    "rival_support": 23,
+    "p_one_sided": 0.0163828795494116
+   },
+   {
+    "family": "CDEFG",
+    "support": 38,
+    "strongest_rival": "BCG",
+    "rival_support": 6,
+    "p_one_sided": 4.715187742476701e-07
+   },
+   {
+    "family": "DEF",
+    "support": 24,
+    "strongest_rival": "CEG",
+    "rival_support": 13,
+    "p_one_sided": 0.04943587479647249
+   }
+  ],
+  "trio_DE_EF_DF": {
+   "counts": [
+    41,
+    23,
+    13
+   ],
+   "p": 0.003725780877572959,
+   "s_obs": 0.0163828795494116
+  },
+  "rooted_min2": {
+   "best": [
+    "AB",
+    "CDEFG",
+    "CG",
+    "DE",
+    "DEF"
+   ],
+   "score": 276,
+   "runner_up": [
+    "AB",
+    "CDEFG",
+    "CDEG",
+    "CG",
+    "DE"
+   ],
+   "runner_up_score": 265,
+   "ties_at_top": 1,
+   "named": {
+    "AB-edge": {
+     "score": 276,
+     "clusters": {
+      "AB": 17,
+      "CG": 176,
+      "DE": 41,
+      "DEF": 21,
+      "CDEFG": 21
+     }
+    },
+    "DEF-edge": {
+     "score": 258,
+     "clusters": {
+      "AB": 17,
+      "CG": 176,
+      "DE": 41,
+      "DEF": 21,
+      "ABCG": 3
+     }
+    },
+    "central": {
+     "score": 255,
+     "clusters": {
+      "AB": 17,
+      "CG": 176,
+      "DE": 41,
+      "DEF": 21
+     }
+    }
+   },
+   "rootings_of_unrooted_optimum": [
+    [
+     276,
+     "AB | CDEFG",
+     [
+      "AB",
+      "CDEFG",
+      "CG",
+      "DE",
+      "DEF"
+     ]
+    ],
+    [
+     259,
+     "B | ACDEFG",
+     [
+      "ACDEFG",
+      "CDEFG",
+      "CG",
+      "DE",
+      "DEF"
+     ]
+    ],
+    [
+     259,
+     "A | BCDEFG",
+     [
+      "BCDEFG",
+      "CDEFG",
+      "CG",
+      "DE",
+      "DEF"
+     ]
+    ],
+    [
+     258,
+     "DEF | ABCG",
+     [
+      "AB",
+      "ABCG",
+      "CG",
+      "DE",
+      "DEF"
+     ]
+    ],
+    [
+     255,
+     "CG | ABDEF",
+     [
+      "AB",
+      "ABDEF",
+      "CG",
+      "DE",
+      "DEF"
+     ]
+    ],
+    [
+     237,
+     "F | ABCDEG",
+     [
+      "AB",
+      "ABCDEG",
+      "ABCG",
+      "CG",
+      "DE"
+     ]
+    ],
+    [
+     237,
+     "DE | ABCFG",
+     [
+      "AB",
+      "ABCFG",
+      "ABCG",
+      "CG",
+      "DE"
+     ]
+    ],
+    [
+     196,
+     "E | ABCDFG",
+     [
+      "AB",
+      "ABCDFG",
+      "ABCFG",
+      "ABCG",
+      "CG"
+     ]
+    ],
+    [
+     196,
+     "D | ABCEFG",
+     [
+      "AB",
+      "ABCEFG",
+      "ABCFG",
+      "ABCG",
+      "CG"
+     ]
+    ],
+    [
+     79,
+     "G | ABCDEF",
+     [
+      "AB",
+      "ABCDEF",
+      "ABDEF",
+      "DE",
+      "DEF"
+     ]
+    ],
+    [
+     79,
+     "C | ABDEFG",
+     [
+      "AB",
+      "ABDEF",
+      "ABDEFG",
+      "DE",
+      "DEF"
+     ]
+    ]
+   ]
+  },
+  "rooted_min1": {
+   "best": [
+    "AB",
+    "CDEFG",
+    "CG",
+    "DE",
+    "DEF"
+   ],
+   "score": 276,
+   "runner_up": [
+    "AB",
+    "CDEFG",
+    "CDEG",
+    "CG",
+    "DE"
+   ],
+   "runner_up_score": 265,
+   "ties_at_top": 1,
+   "named": {
+    "AB-edge": {
+     "score": 276,
+     "clusters": {
+      "AB": 17,
+      "CG": 176,
+      "DE": 41,
+      "DEF": 21,
+      "CDEFG": 21
+     }
+    },
+    "DEF-edge": {
+     "score": 258,
+     "clusters": {
+      "AB": 17,
+      "CG": 176,
+      "DE": 41,
+      "DEF": 21,
+      "ABCG": 3
+     }
+    },
+    "central": {
+     "score": 255,
+     "clusters": {
+      "AB": 17,
+      "CG": 176,
+      "DE": 41,
+      "DEF": 21
+     }
+    }
+   },
+   "rootings_of_unrooted_optimum": [
+    [
+     276,
+     "AB | CDEFG",
+     [
+      "AB",
+      "CDEFG",
+      "CG",
+      "DE",
+      "DEF"
+     ]
+    ],
+    [
+     259,
+     "B | ACDEFG",
+     [
+      "ACDEFG",
+      "CDEFG",
+      "CG",
+      "DE",
+      "DEF"
+     ]
+    ],
+    [
+     259,
+     "A | BCDEFG",
+     [
+      "BCDEFG",
+      "CDEFG",
+      "CG",
+      "DE",
+      "DEF"
+     ]
+    ],
+    [
+     258,
+     "DEF | ABCG",
+     [
+      "AB",
+      "ABCG",
+      "CG",
+      "DE",
+      "DEF"
+     ]
+    ],
+    [
+     255,
+     "CG | ABDEF",
+     [
+      "AB",
+      "ABDEF",
+      "CG",
+      "DE",
+      "DEF"
+     ]
+    ],
+    [
+     237,
+     "F | ABCDEG",
+     [
+      "AB",
+      "ABCDEG",
+      "ABCG",
+      "CG",
+      "DE"
+     ]
+    ],
+    [
+     237,
+     "DE | ABCFG",
+     [
+      "AB",
+      "ABCFG",
+      "ABCG",
+      "CG",
+      "DE"
+     ]
+    ],
+    [
+     196,
+     "E | ABCDFG",
+     [
+      "AB",
+      "ABCDFG",
+      "ABCFG",
+      "ABCG",
+      "CG"
+     ]
+    ],
+    [
+     196,
+     "D | ABCEFG",
+     [
+      "AB",
+      "ABCEFG",
+      "ABCFG",
+      "ABCG",
+      "CG"
+     ]
+    ],
+    [
+     79,
+     "G | ABCDEF",
+     [
+      "AB",
+      "ABCDEF",
+      "ABDEF",
+      "DE",
+      "DEF"
+     ]
+    ],
+    [
+     79,
+     "C | ABDEFG",
+     [
+      "AB",
+      "ABDEF",
+      "ABDEFG",
+      "DE",
+      "DEF"
+     ]
+    ]
+   ]
+  },
+  "stability_unrooted": {
+   "CG": 1.0,
+   "DEF": 0.994,
+   "DE": 0.983,
+   "CDEFG": 1.0
+  },
+  "stability_rooted": {
+   "AB": 1.0,
+   "CG": 1.0,
+   "DEF": 0.987,
+   "DE": 0.983,
+   "CDEFG": 1.0
+  },
+  "gamma_confidence": {
+   "L": 843,
+   "gamma_hat": 0.016607344150543213,
+   "gamma_lo": -0.023613452911376953,
+   "scaled": {
+    "1": -0.023613452911376953,
+    "1.5": -0.014258742332458496,
+    "2": -0.01004326343536377,
+    "3": -0.004146695137023926,
+    "4": -0.0006631016731262207,
+    "5": 0.0017012953758239746,
+    "6": 0.0034400224685668945,
+    "8": 0.005301952362060547
+   },
+   "first_multiple_certified": 5
+  }
+ },
+ "v2_majority_reference": {
+  "label": "v2 against the majority reading",
+  "units": 843,
+  "unrooted": {
+   "best": [
+    "CDEFG",
+    "CG",
+    "DE",
+    "DEF"
+   ],
+   "score": 289,
+   "runner_up": 273,
+   "runner_up_tree": [
+    "CDEFG",
+    "CFG",
+    "CG",
+    "DE"
+   ],
+   "ties_at_top": 1,
+   "weights": {
+    "CG": 176,
+    "DE": 43,
+    "CDEFG": 49,
+    "DEF": 21,
+    "EF": 23,
+    "DF": 13,
+    "CEG": 13,
+    "BCG": 6,
+    "CD": 9
+   }
+  },
+  "global_cert": {
+   "min_true": 21,
+   "min_true_split": [
+    "DEF"
+   ],
+   "max_false": 23,
+   "max_false_split": [
+    "EF"
+   ],
+   "margin": -2,
+   "holds": false
+  },
+  "local_cert": {
+   "min_margin": 8,
+   "binding": [
+    {
+     "true": "DEF",
+     "w_true": 21,
+     "rival": "CEG",
+     "w_rival": 13
+    }
+   ],
+   "holds": true
+  },
+  "rival_test": [
+   {
+    "family": "CG",
+    "support": 176,
+    "strongest_rival": "CD",
+    "rival_support": 9,
+    "p_one_sided": 1.2328731845381464e-41
+   },
+   {
+    "family": "CDEFG",
+    "support": 49,
+    "strongest_rival": "BCG",
+    "rival_support": 6,
+    "p_one_sided": 9.11417247229096e-10
+   },
+   {
+    "family": "DE",
+    "support": 43,
+    "strongest_rival": "EF",
+    "rival_support": 23,
+    "p_one_sided": 0.009328630177010503
+   },
+   {
+    "family": "DEF",
+    "support": 21,
+    "strongest_rival": "CEG",
+    "rival_support": 13,
+    "p_one_sided": 0.11474050651304424
+   }
+  ],
+  "trio_DE_EF_DF": {
+   "counts": [
+    43,
+    23,
+    13
+   ],
+   "p": 0.0019773298999578447,
+   "s_obs": 0.009328630177010503
+  },
+  "rooted_min2": {
+   "best": [
+    "AB",
+    "CDEFG",
+    "CG",
+    "DE",
+    "DEF"
+   ],
+   "score": 289,
+   "runner_up": [
+    "AB",
+    "ABCG",
+    "CG",
+    "DE",
+    "DEF"
+   ],
+   "runner_up_score": 289,
+   "ties_at_top": 3,
+   "named": {
+    "AB-edge": {
+     "score": 289,
+     "clusters": {
+      "AB": 49,
+      "CG": 176,
+      "DE": 43,
+      "DEF": 21,
+      "CDEFG": 0
+     }
+    },
+    "DEF-edge": {
+     "score": 289,
+     "clusters": {
+      "AB": 49,
+      "CG": 176,
+      "DE": 43,
+      "DEF": 21,
+      "ABCG": 0
+     }
+    },
+    "central": {
+     "score": 289,
+     "clusters": {
+      "AB": 49,
+      "CG": 176,
+      "DE": 43,
+      "DEF": 21
+     }
+    }
+   },
+   "rootings_of_unrooted_optimum": [
+    [
+     289,
+     "DEF | ABCG",
+     [
+      "AB",
+      "ABCG",
+      "CG",
+      "DE",
+      "DEF"
+     ]
+    ],
+    [
+     289,
+     "CG | ABDEF",
+     [
+      "AB",
+      "ABDEF",
+      "CG",
+      "DE",
+      "DEF"
+     ]
+    ],
+    [
+     289,
+     "AB | CDEFG",
+     [
+      "AB",
+      "CDEFG",
+      "CG",
+      "DE",
+      "DEF"
+     ]
+    ],
+    [
+     268,
+     "F | ABCDEG",
+     [
+      "AB",
+      "ABCDEG",
+      "ABCG",
+      "CG",
+      "DE"
+     ]
+    ],
+    [
+     268,
+     "DE | ABCFG",
+     [
+      "AB",
+      "ABCFG",
+      "ABCG",
+      "CG",
+      "DE"
+     ]
+    ],
+    [
+     240,
+     "B | ACDEFG",
+     [
+      "ACDEFG",
+      "CDEFG",
+      "CG",
+      "DE",
+      "DEF"
+     ]
+    ],
+    [
+     240,
+     "A | BCDEFG",
+     [
+      "BCDEFG",
+      "CDEFG",
+      "CG",
+      "DE",
+      "DEF"
+     ]
+    ],
+    [
+     225,
+     "E | ABCDFG",
+     [
+      "AB",
+      "ABCDFG",
+      "ABCFG",
+      "ABCG",
+      "CG"
+     ]
+    ],
+    [
+     225,
+     "D | ABCEFG",
+     [
+      "AB",
+      "ABCEFG",
+      "ABCFG",
+      "ABCG",
+      "CG"
+     ]
+    ],
+    [
+     113,
+     "G | ABCDEF",
+     [
+      "AB",
+      "ABCDEF",
+      "ABDEF",
+      "DE",
+      "DEF"
+     ]
+    ],
+    [
+     113,
+     "C | ABDEFG",
+     [
+      "AB",
+      "ABDEF",
+      "ABDEFG",
+      "DE",
+      "DEF"
+     ]
+    ]
+   ]
+  },
+  "rooted_min1": {
+   "best": [
+    "AB",
+    "CDEFG",
+    "CG",
+    "DE",
+    "DEF"
+   ],
+   "score": 289,
+   "runner_up": [
+    "AB",
+    "ABCG",
+    "CG",
+    "DE",
+    "DEF"
+   ],
+   "runner_up_score": 289,
+   "ties_at_top": 3,
+   "named": {
+    "AB-edge": {
+     "score": 289,
+     "clusters": {
+      "AB": 49,
+      "CG": 176,
+      "DE": 43,
+      "DEF": 21,
+      "CDEFG": 0
+     }
+    },
+    "DEF-edge": {
+     "score": 289,
+     "clusters": {
+      "AB": 49,
+      "CG": 176,
+      "DE": 43,
+      "DEF": 21,
+      "ABCG": 0
+     }
+    },
+    "central": {
+     "score": 289,
+     "clusters": {
+      "AB": 49,
+      "CG": 176,
+      "DE": 43,
+      "DEF": 21
+     }
+    }
+   },
+   "rootings_of_unrooted_optimum": [
+    [
+     289,
+     "DEF | ABCG",
+     [
+      "AB",
+      "ABCG",
+      "CG",
+      "DE",
+      "DEF"
+     ]
+    ],
+    [
+     289,
+     "CG | ABDEF",
+     [
+      "AB",
+      "ABDEF",
+      "CG",
+      "DE",
+      "DEF"
+     ]
+    ],
+    [
+     289,
+     "AB | CDEFG",
+     [
+      "AB",
+      "CDEFG",
+      "CG",
+      "DE",
+      "DEF"
+     ]
+    ],
+    [
+     268,
+     "F | ABCDEG",
+     [
+      "AB",
+      "ABCDEG",
+      "ABCG",
+      "CG",
+      "DE"
+     ]
+    ],
+    [
+     268,
+     "DE | ABCFG",
+     [
+      "AB",
+      "ABCFG",
+      "ABCG",
+      "CG",
+      "DE"
+     ]
+    ],
+    [
+     240,
+     "B | ACDEFG",
+     [
+      "ACDEFG",
+      "CDEFG",
+      "CG",
+      "DE",
+      "DEF"
+     ]
+    ],
+    [
+     240,
+     "A | BCDEFG",
+     [
+      "BCDEFG",
+      "CDEFG",
+      "CG",
+      "DE",
+      "DEF"
+     ]
+    ],
+    [
+     225,
+     "E | ABCDFG",
+     [
+      "AB",
+      "ABCDFG",
+      "ABCFG",
+      "ABCG",
+      "CG"
+     ]
+    ],
+    [
+     225,
+     "D | ABCEFG",
+     [
+      "AB",
+      "ABCEFG",
+      "ABCFG",
+      "ABCG",
+      "CG"
+     ]
+    ],
+    [
+     113,
+     "G | ABCDEF",
+     [
+      "AB",
+      "ABCDEF",
+      "ABDEF",
+      "DE",
+      "DEF"
+     ]
+    ],
+    [
+     113,
+     "C | ABDEFG",
+     [
+      "AB",
+      "ABDEF",
+      "ABDEFG",
+      "DE",
+      "DEF"
+     ]
+    ]
+   ]
+  },
+  "stability_unrooted": {
+   "CG": 1.0,
+   "DEF": 1.0,
+   "DE": 0.992,
+   "CDEFG": 1.0
+  },
+  "stability_rooted": {
+   "AB": 1.0,
+   "CG": 1.0,
+   "DEF": 1.0,
+   "DE": 0.992,
+   "CDEFG": 1.0
+  },
+  "note": "Sensitivity: re-polarise each unit against its majority reading (a class holding a strict majority of the\nwitnesses present; otherwise the printed text is kept) instead of the printed (A-corrected) text. Classes = listed groups + the base (witnesses not listed). F lacks vv. 1-52 (prologue). Other lacunae are not\nmodelled, so this is approximate."
+ }
+}

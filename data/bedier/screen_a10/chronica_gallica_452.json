@@ -1,0 +1,20 @@
+{
+ "stemma_witnesses": "LBM",
+ "cited": {
+  "L": 101,
+  "B": 106,
+  "M": 130
+ },
+ "analysis_witnesses": "LBM",
+ "units_with_shared_departure": 46,
+ "included": false,
+ "exclusion": [
+  "too few witnesses",
+  "too thin"
+ ],
+ "editor_top": [
+  "L",
+  "BM"
+ ],
+ "k_E": 2
+}

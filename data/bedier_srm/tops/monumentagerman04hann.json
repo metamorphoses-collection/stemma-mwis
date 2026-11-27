@@ -1,0 +1,3464 @@
+{
+ "volume": "SRM 4",
+ "ia_id": "monumentagerman04hann",
+ "texts": [
+  {
+   "volume": "SRM 4",
+   "ia_id": "monumentagerman04hann",
+   "editor": "Bruno Krusch",
+   "year": 1902,
+   "deeper_groups": [
+    [
+     "A1a",
+     "A1b"
+    ],
+    [
+     "A1a",
+     "A1a*"
+    ],
+    [
+     "A1b",
+     "A1b*"
+    ],
+    [
+     "A2",
+     "A2*"
+    ],
+    [
+     "A3",
+     "A4"
+    ],
+    [
+     "B1a",
+     "B1b"
+    ],
+    [
+     "B1a",
+     "B1b",
+     "B2"
+    ]
+   ],
+   "flags": [
+    "diagram_garbled_in_ocr",
+    "multiple_sections_different_witnesses"
+   ],
+   "text_id": "ionas_vita_columbani_lib1",
+   "work": "Ionas, Vitae Columbani liber I (with epistula and carmina)",
+   "text_lines": [
+    4358,
+    8016
+   ],
+   "preface_lines": [
+    2471,
+    3420
+   ],
+   "sigla": [
+    {
+     "siglum": "A1a",
+     "manuscript": "Sangallensis 553",
+     "date_if_given": "s. X in.",
+     "role": "direct"
+    },
+    {
+     "siglum": "A1a*",
+     "manuscript": "Einsidlensis 257",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "A1a**",
+     "manuscript": "Haigh Hall (Lancashire) 101",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "A1b",
+     "manuscript": "Bruxellensis 8518-20",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "A1b*",
+     "manuscript": "Heidelberg, Salem 9,21",
+     "date_if_given": "s. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "A1b2",
+     "manuscript": "Turicensis C 10 i",
+     "date_if_given": "s. X ex.",
+     "role": "direct"
+    },
+    {
+     "siglum": "A1c",
+     "manuscript": "Wirziburgensis Mp. th. f. 139",
+     "date_if_given": "s. XII in.",
+     "role": "direct"
+    },
+    {
+     "siglum": "A1c*",
+     "manuscript": "Monacensis 4628",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "A2",
+     "manuscript": "Parisiensis 5600",
+     "date_if_given": "s. XI in.",
+     "role": "direct"
+    },
+    {
+     "siglum": "A2*",
+     "manuscript": "Parisiensis 5365",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "A2a",
+     "manuscript": "Hagae-Comitum X.73",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "A2a*",
+     "manuscript": "Compendiensis (lost; used by Mabillon)",
+     "date_if_given": null,
+     "role": "indirect"
+    },
+    {
+     "siglum": "A2a**",
+     "manuscript": "Antverpiensis (lost; used by Henschenius)",
+     "date_if_given": null,
+     "role": "indirect"
+    },
+    {
+     "siglum": "A2a***",
+     "manuscript": "Parisiensis 5308",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "A2b1",
+     "manuscript": "Bruxellensis 18018",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "A2b2",
+     "manuscript": "Rotomagensis U 2",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "A2c1",
+     "manuscript": "Divionensis 383",
+     "date_if_given": "s. XII/XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "A2c2",
+     "manuscript": "Remensis 1144",
+     "date_if_given": "s. XIII in.",
+     "role": "direct"
+    },
+    {
+     "siglum": "A2c3",
+     "manuscript": "Parisiensis 5297",
+     "date_if_given": "s. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "A3",
+     "manuscript": "Mettensis 523",
+     "date_if_given": "s. XI ex.",
+     "role": "direct"
+    },
+    {
+     "siglum": "A3*",
+     "manuscript": "Trevericus seminarii 36",
+     "date_if_given": "s. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "A4",
+     "manuscript": "Bernensis 48",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "A5a",
+     "manuscript": "Suerinensis (Kadea 1204?)",
+     "date_if_given": null,
+     "role": "direct"
+    },
+    {
+     "siglum": "A5b",
+     "manuscript": "Coloniensis archivi 170",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "A5b*",
+     "manuscript": "Traiectinus 283 h",
+     "date_if_given": "a. 1403",
+     "role": "direct"
+    },
+    {
+     "siglum": "B1a",
+     "manuscript": "Taurinensis F IV 26",
+     "date_if_given": "s. X in.",
+     "role": "direct"
+    },
+    {
+     "siglum": "B1b",
+     "manuscript": "Taurinensis F IV 12",
+     "date_if_given": "s. X ex.",
+     "role": "direct"
+    },
+    {
+     "siglum": "B1b*",
+     "manuscript": "Taurinensis F III 15",
+     "date_if_given": null,
+     "role": "direct"
+    },
+    {
+     "siglum": "B1b**",
+     "manuscript": "Taurinensis (second codex listed with B1b*)",
+     "date_if_given": null,
+     "role": "direct"
+    },
+    {
+     "siglum": "B1c",
+     "manuscript": "Londiniensis Add. 21917",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "B1d",
+     "manuscript": "Admontensis 2",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "B1e",
+     "manuscript": "Monacensis 22245",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "B1f",
+     "manuscript": "Parisiensis 3788",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "B1g",
+     "manuscript": "Mediolanensis Ambros. B 55 inf.",
+     "date_if_given": "s. XII ex.",
+     "role": "direct"
+    },
+    {
+     "siglum": "B2",
+     "manuscript": "Vaticanus Reg. lat. 1025",
+     "date_if_given": "s. X ex.",
+     "role": "direct"
+    },
+    {
+     "siglum": "Fredegar",
+     "manuscript": "Fredegarius, Chron. IV,36 (excerpts c. 18-20)",
+     "date_if_given": null,
+     "role": "indirect"
+    }
+   ],
+   "apparatus": "mixed_sigla",
+   "filiation_stated": "diagram",
+   "top_branches": [
+    [
+     "A1a",
+     "A1a*",
+     "A1a**",
+     "A1b",
+     "A1b*",
+     "A1b2",
+     "A1c",
+     "A1c*",
+     "A2",
+     "A2*",
+     "A2a",
+     "A2a*",
+     "A2a**",
+     "A2a***",
+     "A2b1",
+     "A2b2",
+     "A2c1",
+     "A2c2",
+     "A2c3"
+    ],
+    [
+     "A3",
+     "A3*",
+     "A4",
+     "A5a",
+     "A5b",
+     "A5b*",
+     "B1a",
+     "B1b",
+     "B1b*",
+     "B1b**",
+     "B1c",
+     "B1d",
+     "B1e",
+     "B1f",
+     "B1g",
+     "B2",
+     "Fredegar"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 3206,
+     "page": "p. 46",
+     "quote": "Verba igitur Nametis usque perduxit in exemplari (x), unde libri A 1a.b.c.2 pendent, suo loco mota ... in altero autem exemplari (y) ordo rerum intactus relictus erat"
+    },
+    {
+     "ocr_line": 3209,
+     "page": "p. 46",
+     "quote": "talisque condicionis codex non solum is erat, qui a Fredegario librarioque B adhibitus est, sed extat adhuc A 3, quocum facit imperfectus A 4."
+    },
+    {
+     "ocr_line": 3318,
+     "page": "p. 48",
+     "quote": "Praestantissimus alterius classis codex B 1a, quocum fere convenit B 1b, ab eodem patre (d) prognatus ... B 2, qui alio stemmate ad eundem avum referendus est"
+    },
+    {
+     "ocr_line": 3330,
+     "page": "p. 48",
+     "quote": "stemma delineare libet hoc: Archetypus / x y / α A1a A1b β / A2 A3 A4 / A1b* B1a B1b B2 [diagram, OCR garbled]"
+    }
+   ],
+   "confidence": "medium",
+   "notes": "Stemma Archetypus -> x, y is clear; exact placement of A2 and of the Greek-letter nodes is garbled in OCR, check the printed diagram p. 48. A5 group sides now with A3 now with A4 (assigned to y because it lacks the Chagnoald passage like y); A1c switches to A2 in the second half; Fredegar is an indirect witness of y; class B is a later retractatio descending from y."
+  },
+  {
+   "volume": "SRM 4",
+   "ia_id": "monumentagerman04hann",
+   "editor": "Bruno Krusch",
+   "year": 1902,
+   "deeper_groups": [
+    [
+     "A1b",
+     "A1b*"
+    ],
+    [
+     "A1b2",
+     "A1b3",
+     "A1b4"
+    ]
+   ],
+   "flags": [
+    "classes_only",
+    "contamination_at_top",
+    "multiple_sections_different_witnesses"
+   ],
+   "text_id": "ionas_vita_columbani_lib2",
+   "work": "Ionas, Vitae Columbani liber II (Athala, Eustasius, Miracula Evoriacensia, Bertulfus, Miracula Bobiensia)",
+   "text_lines": [
+    8019,
+    10843
+   ],
+   "preface_lines": [
+    4016,
+    4185
+   ],
+   "sigla": [
+    {
+     "siglum": "A1a",
+     "manuscript": "Sangallensis 553",
+     "date_if_given": "s. X in.",
+     "role": "direct"
+    },
+    {
+     "siglum": "A1b",
+     "manuscript": "Bruxellensis 8518-20",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "A1b*",
+     "manuscript": "Heidelberg, Salem 9,21",
+     "date_if_given": "s. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "A1b1",
+     "manuscript": "Bruxellensis 7984",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "A1b2",
+     "manuscript": "Turicensis C 10 i",
+     "date_if_given": "s. X ex.",
+     "role": "direct"
+    },
+    {
+     "siglum": "A1b3",
+     "manuscript": "Monacensis 18546",
+     "date_if_given": "s. X/XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "A1b3*",
+     "manuscript": "Monacensis 22240",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "A1b4",
+     "manuscript": "Vindobonensis 430",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "A1c",
+     "manuscript": "Wirziburgensis Mp. th. f. 139",
+     "date_if_given": "s. XII in.",
+     "role": "direct"
+    },
+    {
+     "siglum": "A2",
+     "manuscript": "Parisiensis 5600",
+     "date_if_given": "s. XI in.",
+     "role": "direct"
+    },
+    {
+     "siglum": "A2a",
+     "manuscript": "Hagae-Comitum X.73",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "A2a*",
+     "manuscript": "Compendiensis (lost; Mabillon)",
+     "date_if_given": null,
+     "role": "indirect"
+    },
+    {
+     "siglum": "A2c1",
+     "manuscript": "Divionensis 383",
+     "date_if_given": "s. XII/XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "B1a",
+     "manuscript": "Taurinensis F IV 26",
+     "date_if_given": "s. X in.",
+     "role": "direct"
+    }
+   ],
+   "apparatus": "mixed_sigla",
+   "filiation_stated": "verbal",
+   "top_branches": [
+    [
+     "A1a",
+     "A1b",
+     "A1b*",
+     "A1b1",
+     "A1b2",
+     "A1b3",
+     "A1b3*",
+     "A1b4",
+     "A1c",
+     "B1a"
+    ],
+    [
+     "A2",
+     "A2a",
+     "A2a*",
+     "A2c1"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 4017,
+     "page": "p. 56",
+     "quote": "In libro secundo recensendo non eadem qua in priore subsidiorum copia abundavimus, deficiente exemplari y, deficientibus etiam codicum praestantiorum x partibus magnis."
+    },
+    {
+     "ocr_line": 4051,
+     "page": "p. 57",
+     "quote": "Menda enim iam in ipso deprehenduntur quae familiae A 1 neque unum exemplar librarius adhibuisse videtur, sed duo diversae originis."
+    },
+    {
+     "ocr_line": 4103,
+     "page": "p. 57",
+     "quote": "Quae cum ita sint, totum libri secundi fundamentum ad codices A 1 et A 2 iam relatum est."
+    }
+   ],
+   "confidence": "low",
+   "notes": "For book II all extant witnesses descend from x (y lost), so the editor's top split under the archetype is not represented; recorded the two families A1/A2 as branches (classes_only). B1a used two exemplars and agrees with A1b/A1b1, so placed with A1, but it is contaminated. Each Vita in book II has a different witness set (conspectus p. 56)."
+  },
+  {
+   "volume": "SRM 4",
+   "ia_id": "monumentagerman04hann",
+   "editor": "Bruno Krusch",
+   "year": 1902,
+   "deeper_groups": [],
+   "flags": [
+    "classes_only"
+   ],
+   "text_id": "vita_walarici",
+   "work": "Vita Walarici abbatis Leuconaensis",
+   "text_lines": [
+    11332,
+    12335
+   ],
+   "preface_lines": [
+    11265,
+    11329
+   ],
+   "sigla": [
+    {
+     "siglum": "1",
+     "manuscript": "Bononiensis 106",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "1a",
+     "manuscript": "Bruxellensis 7461",
+     "date_if_given": "s. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "2",
+     "manuscript": "Taurinensis F III 16",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "3a",
+     "manuscript": "S. Audomari 311",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "3b",
+     "manuscript": "Rothomagensis O 55",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "3b*",
+     "manuscript": "Parisiensis 13092",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "3b**",
+     "manuscript": "Bruxellensis 8363",
+     "date_if_given": "s. XVII",
+     "role": "direct"
+    },
+    {
+     "siglum": "4a",
+     "manuscript": "Parisiensis 5289",
+     "date_if_given": "s. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "4b",
+     "manuscript": "Bruxellensis 207",
+     "date_if_given": "s. XIII",
+     "role": "direct"
+    }
+   ],
+   "apparatus": "mixed_sigla",
+   "filiation_stated": "verbal",
+   "top_branches": [
+    [
+     "1",
+     "1a"
+    ],
+    [
+     "2"
+    ],
+    [
+     "3a",
+     "3b",
+     "3b*",
+     "3b**"
+    ],
+    [
+     "4a",
+     "4b"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 11301,
+     "page": "p. 159",
+     "quote": "V. Walarici ad codices meliores 1. 2 tantum recensui, e quibus in adiaphoris priorem anteposui, cum alter textum locis nonnullis inprimis in fine leviter retractatum exhibeat. Reliquos interpolatores turpiter depravaverunt"
+    }
+   ],
+   "confidence": "low",
+   "notes": "Classes are implied only by the numbering 1-4; Krusch states no relation between them and did not examine classes 3-4 closely. Edition rests on 1 and 2."
+  },
+  {
+   "volume": "SRM 4",
+   "ia_id": "monumentagerman04hann",
+   "editor": "Bruno Krusch",
+   "year": 1902,
+   "deeper_groups": [
+    [
+     "1a",
+     "1b"
+    ],
+    [
+     "3a",
+     "3b",
+     "3c"
+    ],
+    [
+     "4a",
+     "4b"
+    ]
+   ],
+   "flags": [
+    "contamination_at_top"
+   ],
+   "text_id": "vita_lupi_senonici",
+   "work": "Vita Lupi episcopi Senonici",
+   "text_lines": [
+    12540,
+    13121
+   ],
+   "preface_lines": [
+    12445,
+    12531
+   ],
+   "sigla": [
+    {
+     "siglum": "1a",
+     "manuscript": "Parisiensis 11749",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "1b",
+     "manuscript": "Parisiensis 15437",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "2a",
+     "manuscript": "Trecensis 1171",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "2b",
+     "manuscript": "Carnotensis 115",
+     "date_if_given": "s. XI in.",
+     "role": "direct"
+    },
+    {
+     "siglum": "2c",
+     "manuscript": "Parisiensis 3789",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "2d",
+     "manuscript": "Parisiensis 11759",
+     "date_if_given": "s. XIV",
+     "role": "direct"
+    },
+    {
+     "siglum": "2d*",
+     "manuscript": "Parisiensis 5353",
+     "date_if_given": "s. XIV",
+     "role": "direct"
+    },
+    {
+     "siglum": "3a",
+     "manuscript": "Trevericus bibl. urb. 1151/453",
+     "date_if_given": "s. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "3b",
+     "manuscript": "Parisiensis 5308",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "3c",
+     "manuscript": "Bruxellensis 9636",
+     "date_if_given": "s. XI/XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "4a",
+     "manuscript": "Monacensis 22245",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "4b",
+     "manuscript": "Monacensis 9506",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    }
+   ],
+   "apparatus": "mixed_sigla",
+   "filiation_stated": "verbal",
+   "top_branches": [
+    [
+     "1a",
+     "1b",
+     "3a",
+     "3b",
+     "3c",
+     "4a",
+     "4b"
+    ],
+    [
+     "2a",
+     "2b",
+     "2c",
+     "2d",
+     "2d*"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 12445,
+     "page": "p. 177",
+     "quote": "Codices in tres classes distinxi."
+    },
+    {
+     "ocr_line": 12511,
+     "page": "p. 178",
+     "quote": "Ad textum recensendum libros 1a. 2a. 3a adhibui, e quibus 1a. 3a propius inter se coniuncti sunt, medius sermonem haud raro impolitum ope grammaticae interdum emendasse videtur."
+    },
+    {
+     "ocr_line": 12513,
+     "page": "p. 178",
+     "quote": "Ad hanc autem classem plerique codices pertinent et, nisi fallor, etiam quarta cum ipsa in appendice convenit, dum in Vita magis cum 1 facere videtur."
+    }
+   ],
+   "confidence": "low",
+   "notes": "Pairing 1+3 against 2 rests on one sentence about the three collated codices; the referent of 'hanc classem' (class 2 or 3) is ambiguous. Class 4 sides with 1 in the Vita but with the other class in the appendix (c. 28-29)."
+  },
+  {
+   "volume": "SRM 4",
+   "ia_id": "monumentagerman04hann",
+   "editor": "Bruno Krusch",
+   "year": 1902,
+   "deeper_groups": [],
+   "flags": [
+    "classes_only"
+   ],
+   "text_id": "vita_austrigisili",
+   "work": "Vita Austrigisili episcopi Biturigi",
+   "text_lines": [
+    13416,
+    14047
+   ],
+   "preface_lines": [
+    13310,
+    13380
+   ],
+   "sigla": [
+    {
+     "siglum": "1a",
+     "manuscript": "Parisiensis 5304",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "1b",
+     "manuscript": "Parisiensis 5306",
+     "date_if_given": "s. XIV",
+     "role": "direct"
+    },
+    {
+     "siglum": "2",
+     "manuscript": "Parisiensis 5365",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "3a",
+     "manuscript": "Cenomannicus 217",
+     "date_if_given": "s. XII ex.",
+     "role": "direct"
+    },
+    {
+     "siglum": "3b",
+     "manuscript": "Parisiensis 5322",
+     "date_if_given": "s. XIII in.",
+     "role": "direct"
+    },
+    {
+     "siglum": "3c",
+     "manuscript": "Remensis 1144",
+     "date_if_given": "s. XIII in.",
+     "role": "direct"
+    },
+    {
+     "siglum": "3d",
+     "manuscript": "Bruxellensis 982",
+     "date_if_given": "s. XVI",
+     "role": "direct"
+    }
+   ],
+   "apparatus": "mixed_sigla",
+   "filiation_stated": "verbal",
+   "top_branches": [
+    [
+     "1a",
+     "1b"
+    ],
+    [
+     "2"
+    ],
+    [
+     "3a",
+     "3b",
+     "3c",
+     "3d"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 13355,
+     "page": "p. 190",
+     "quote": "Ex his libris 1a. b. 2 ad textum recensendum fere soli adhibendi erant, cum classis 3. leviter retractata esset ... Codices autem 1a. b inter se adeo coniuncti sunt, ut consentientes pro uno teste habendi sint."
+    }
+   ],
+   "confidence": "medium",
+   "notes": "Three numbered classes; no statement on how 1, 2 and 3 relate. Labbe's edition derives from a codex like 2."
+  },
+  {
+   "volume": "SRM 4",
+   "ia_id": "monumentagerman04hann",
+   "editor": "Bruno Krusch",
+   "year": 1902,
+   "deeper_groups": [],
+   "flags": [
+    "classes_only",
+    "recensions"
+   ],
+   "text_id": "miracula_austrigisili",
+   "work": "Liber miraculorum Austrigisili",
+   "text_lines": [
+    14048,
+    14567
+   ],
+   "preface_lines": [
+    13374,
+    13416
+   ],
+   "sigla": [
+    {
+     "siglum": "2",
+     "manuscript": "Parisiensis 5365",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "3a",
+     "manuscript": "Cenomannicus 217",
+     "date_if_given": "s. XII ex.",
+     "role": "direct"
+    },
+    {
+     "siglum": "3b",
+     "manuscript": "Parisiensis 5322",
+     "date_if_given": "s. XIII in.",
+     "role": "direct"
+    },
+    {
+     "siglum": "3c",
+     "manuscript": "Remensis 1144",
+     "date_if_given": "s. XIII in.",
+     "role": "direct"
+    },
+    {
+     "siglum": "3d",
+     "manuscript": "Bruxellensis 982",
+     "date_if_given": "s. XVI",
+     "role": "direct"
+    },
+    {
+     "siglum": "Labbe",
+     "manuscript": "Ph. Labbe, Nova bibl. mss. II (1657), from a codex of S. Austrigisilus de Castro",
+     "date_if_given": null,
+     "role": "indirect"
+    }
+   ],
+   "apparatus": "mixed_sigla",
+   "filiation_stated": "verbal",
+   "top_branches": [
+    [
+     "2",
+     "Labbe"
+    ],
+    [
+     "3a",
+     "3b",
+     "3c",
+     "3d"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 13374,
+     "page": "p. 190",
+     "quote": "Textum Miraculorum genuinum solus codex 2 exhibet; classis enim 3, quae in c. 13. desinit retractationem quandam continet."
+    }
+   ],
+   "confidence": "low",
+   "notes": "Class 3 is a retractatio ending at c. 13; Labbe's edition is from a codex 'paulo melioris notae' than 2 and is used to correct it. Grouping Labbe with 2 rests on Krusch's identification of the same source codex (p. 191)."
+  },
+  {
+   "volume": "SRM 4",
+   "ia_id": "monumentagerman04hann",
+   "editor": "Bruno Krusch",
+   "year": 1902,
+   "deeper_groups": [],
+   "flags": [
+    "classes_only"
+   ],
+   "text_id": "vita_amati",
+   "work": "Vita Amati abbatis Habendensis",
+   "text_lines": [
+    15071,
+    15453
+   ],
+   "preface_lines": [
+    14936,
+    14990
+   ],
+   "sigla": [
+    {
+     "siglum": "1",
+     "manuscript": "Parisiensis 5294",
+     "date_if_given": "s. XI/XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "2",
+     "manuscript": "Trevericus seminarii R. I,11",
+     "date_if_given": "s. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "3",
+     "manuscript": "Parisiensis 5308",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "4",
+     "manuscript": "Catalaunensis 56",
+     "date_if_given": "s. XI/XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "5",
+     "manuscript": "Parisiensis 5353",
+     "date_if_given": "s. XIV",
+     "role": "direct"
+    }
+   ],
+   "apparatus": "mixed_sigla",
+   "filiation_stated": "verbal",
+   "top_branches": [
+    [
+     "1",
+     "2",
+     "3"
+    ],
+    [
+     "4",
+     "5"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 14969,
+     "page": "p. 214",
+     "quote": "Codices 1. 2. 3 unam familiam faciunt, e quibus praestantia eminet 1, dum sermonem V. Amati admodum immutat 3. Libri alterius familiae 4. 5. tantam librariorum libertatem licentiamque subierunt"
+    }
+   ],
+   "confidence": "medium",
+   "notes": "Two families, no archetype discussion; same codices serve all three Habendum vitae."
+  },
+  {
+   "volume": "SRM 4",
+   "ia_id": "monumentagerman04hann",
+   "editor": "Bruno Krusch",
+   "year": 1902,
+   "deeper_groups": [],
+   "flags": [
+    "classes_only"
+   ],
+   "text_id": "vita_romarici",
+   "work": "Vita Romarici abbatis Habendensis",
+   "text_lines": [
+    15455,
+    15719
+   ],
+   "preface_lines": [
+    14936,
+    14990
+   ],
+   "sigla": [
+    {
+     "siglum": "1",
+     "manuscript": "Parisiensis 5294",
+     "date_if_given": "s. XI/XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "2",
+     "manuscript": "Trevericus seminarii R. I,11",
+     "date_if_given": "s. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "3",
+     "manuscript": "Parisiensis 5308",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "4",
+     "manuscript": "Catalaunensis 56",
+     "date_if_given": "s. XI/XII",
+     "role": "direct"
+    }
+   ],
+   "apparatus": "mixed_sigla",
+   "filiation_stated": "verbal",
+   "top_branches": [
+    [
+     "1",
+     "2",
+     "3"
+    ],
+    [
+     "4"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 14969,
+     "page": "p. 214",
+     "quote": "Codices 1. 2. 3 unam familiam faciunt, e quibus praestantia eminet 1, dum sermonem V. Amati admodum immutat 3. Libri alterius familiae 4. 5. tantam librariorum libertatem licentiamque subierunt"
+    }
+   ],
+   "confidence": "medium",
+   "notes": "Codex 5 contains only V. Amati; 3 has V. Romarici added by a s. XIII hand."
+  },
+  {
+   "volume": "SRM 4",
+   "ia_id": "monumentagerman04hann",
+   "editor": "Bruno Krusch",
+   "year": 1902,
+   "deeper_groups": [],
+   "flags": [],
+   "text_id": "vita_adelphii",
+   "work": "Vita Adelphii abbatis Habendensis",
+   "text_lines": [
+    15721,
+    15941
+   ],
+   "preface_lines": [
+    14936,
+    14990
+   ],
+   "sigla": [
+    {
+     "siglum": "1",
+     "manuscript": "Parisiensis 5294",
+     "date_if_given": "s. XI/XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "2",
+     "manuscript": "Trevericus seminarii R. I,11",
+     "date_if_given": "s. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "3",
+     "manuscript": "Parisiensis 5308",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    }
+   ],
+   "apparatus": "mixed_sigla",
+   "filiation_stated": "none",
+   "top_branches": [],
+   "evidence": [
+    {
+     "ocr_line": 14969,
+     "page": "p. 214",
+     "quote": "Codices 1. 2. 3 unam familiam faciunt, e quibus praestantia eminet 1, dum sermonem V. Amati admodum immutat 3. Libri alterius familiae 4. 5. tantam librariorum libertatem licentiamque subierunt"
+    }
+   ],
+   "confidence": "medium",
+   "notes": "Only codices 1, 2 (imperfect), 3 transmit it, all of one family; 4 omits V. Adelphii and 5 has only V. Amati, so no top division is stated for this text."
+  },
+  {
+   "volume": "SRM 4",
+   "ia_id": "monumentagerman04hann",
+   "editor": "Bruno Krusch",
+   "year": 1902,
+   "deeper_groups": [
+    [
+     "1c1",
+     "1c2",
+     "1d"
+    ],
+    [
+     "1c1",
+     "1c2"
+    ],
+    [
+     "3a",
+     "3b",
+     "3c"
+    ],
+    [
+     "5b",
+     "5c"
+    ],
+    [
+     "2g",
+     "2g*"
+    ]
+   ],
+   "flags": [
+    "classes_only",
+    "editor_undecided",
+    "contamination_at_top"
+   ],
+   "text_id": "vita_galli_walahfrid",
+   "work": "Walahfridus, Vita Galli confessoris",
+   "text_lines": [
+    19727,
+    23410
+   ],
+   "preface_lines": [
+    16897,
+    17560
+   ],
+   "sigla": [
+    {
+     "siglum": "1a",
+     "manuscript": "Einsidlensis 257",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "1a*",
+     "manuscript": "Einsidlensis 9",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "1a1",
+     "manuscript": "Londiniensis Add. 21170",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "1b",
+     "manuscript": "Sangallensis 560",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "1b*",
+     "manuscript": "Sangallensis 564",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "1c1",
+     "manuscript": "Guelferbytanus 17.5 Aug. 4o",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "1c2",
+     "manuscript": "Bernensis (OCR 'n.Ml')",
+     "date_if_given": "s. X/XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "1d",
+     "manuscript": "Berolinensis lat. qu. 505",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "2a",
+     "manuscript": "Vaticanus Pal. lat. 846",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "2b",
+     "manuscript": "Monacensis 22243",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "2b*",
+     "manuscript": "Monacensis 9506",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "2c",
+     "manuscript": "Wirziburgensis Mp. th. f. 139",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "2d",
+     "manuscript": "Trevericus cathedralis 93",
+     "date_if_given": null,
+     "role": "direct"
+    },
+    {
+     "siglum": "2e",
+     "manuscript": "Trevericus bibl. urb. 1151/456",
+     "date_if_given": null,
+     "role": "direct"
+    },
+    {
+     "siglum": "2f",
+     "manuscript": "Berolinensis theol. lat. fol. 267",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "2g",
+     "manuscript": "Coloniensis archivi 111",
+     "date_if_given": null,
+     "role": "direct"
+    },
+    {
+     "siglum": "2g*",
+     "manuscript": "Hagensis L 29",
+     "date_if_given": null,
+     "role": "direct"
+    },
+    {
+     "siglum": "2h",
+     "manuscript": "Holkham Hall (Leicester)",
+     "date_if_given": null,
+     "role": "direct"
+    },
+    {
+     "siglum": "2i",
+     "manuscript": "Namurcensis 15",
+     "date_if_given": "s. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "3a",
+     "manuscript": "Taurinensis F IV 26",
+     "date_if_given": "s. X in.",
+     "role": "direct"
+    },
+    {
+     "siglum": "3a*",
+     "manuscript": "Taurinensis F IV 24",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "3b",
+     "manuscript": "Bruxellensis 8518-20",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "3b*",
+     "manuscript": "Caroliruhensis Aug. XXXVII",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "3c",
+     "manuscript": "Vindobonensis 557",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "3d",
+     "manuscript": "Admontensis 2",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "3e",
+     "manuscript": "Monacensis 332",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "3f",
+     "manuscript": "Parisiensis 5308",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "4",
+     "manuscript": "Bernensis 168",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "5a",
+     "manuscript": "Sangallensis 562",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "5b",
+     "manuscript": "Sangallensis 572",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "5c",
+     "manuscript": "Monacensis 4628",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "6",
+     "manuscript": "Vindobonensis 520",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "7",
+     "manuscript": "Londiniensis Harl. 2802",
+     "date_if_given": "s. XIII",
+     "role": "direct"
+    }
+   ],
+   "apparatus": "mixed_sigla",
+   "filiation_stated": "verbal",
+   "top_branches": [
+    [
+     "1a",
+     "1a*",
+     "1a1",
+     "1b",
+     "1b*",
+     "1c1",
+     "1c2",
+     "1d"
+    ],
+    [
+     "2a",
+     "2b",
+     "2b*",
+     "2c",
+     "2d",
+     "2e",
+     "2f",
+     "2g",
+     "2g*",
+     "2h",
+     "2i",
+     "3a",
+     "3a*",
+     "3b",
+     "3b*",
+     "3c",
+     "3d",
+     "3e",
+     "3f",
+     "7"
+    ],
+    [
+     "4"
+    ],
+    [
+     "5a",
+     "5b",
+     "5c"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 17295,
+     "page": "p. 247",
+     "quote": "Classis 3 cum altera arta necessitudine coniuncta est, sicut ex locis colligi licet his"
+    },
+    {
+     "ocr_line": 17390,
+     "page": "p. 248",
+     "quote": "ex exemplari pendentes, quod haud ita longe post Walahfridum propriam viam ingressum videtur esse. Inter ipsos enim et reliquos libros inprimis primae classis nulla fere aut certe perrara necessitudo intercedit"
+    },
+    {
+     "ocr_line": 17357,
+     "page": "p. 248",
+     "quote": "Unicus quem quartae classi attribui codex raro cum aliis libris convenit ... modo cum libris 2 facit, modo cum 3c."
+    },
+    {
+     "ocr_line": 17463,
+     "page": "p. 250",
+     "quote": "Codices Walahfridianos in classes distribuendi arduum opus erat ... neque ex ipsis stemma satis certum componi licet."
+    }
+   ],
+   "confidence": "low",
+   "notes": "Five classes; only 2+3 are explicitly joined. Krusch says no certain stemma can be built. Codex 6 follows class 2 at first, then class 5 (two exemplars), so it is left out of the branches; 7 derives from the exemplar of 2g* but was collated with other classes. Class 4 is sporadically contaminated."
+  },
+  {
+   "volume": "SRM 4",
+   "ia_id": "monumentagerman04hann",
+   "editor": "Bruno Krusch",
+   "year": 1902,
+   "deeper_groups": [],
+   "flags": [],
+   "text_id": "vita_rusticulae",
+   "work": "Vita Rusticulae sive Marciae abbatissae Arelatensis (auctore Florentio)",
+   "text_lines": [
+    23645,
+    24455
+   ],
+   "preface_lines": [
+    23626,
+    23643
+   ],
+   "sigla": [
+    {
+     "siglum": "1",
+     "manuscript": "Parisiensis 3820",
+     "date_if_given": "s. XIV",
+     "role": "direct"
+    },
+    {
+     "siglum": "2",
+     "manuscript": "Codex Andreae Chesnii (lost; known through Duchesne and Mabillon editions)",
+     "date_if_given": null,
+     "role": "indirect"
+    }
+   ],
+   "apparatus": "mixed_sigla",
+   "filiation_stated": "none",
+   "top_branches": [],
+   "evidence": [
+    {
+     "ocr_line": 23635,
+     "page": "p. 339",
+     "quote": "Libris inter se discrepantibus lectio vera modo ex hoc modo ex illo eruenda erat."
+    }
+   ],
+   "confidence": "medium",
+   "notes": "Two witnesses, one only through editions; no filiation stated (implicitly independent)."
+  },
+  {
+   "volume": "SRM 4",
+   "ia_id": "monumentagerman04hann",
+   "editor": "Bruno Krusch",
+   "year": 1902,
+   "deeper_groups": [],
+   "flags": [
+    "classes_only"
+   ],
+   "text_id": "passio_thrudperti",
+   "work": "Passio Thrudperti martyris Brisgoviensis (recensio A)",
+   "text_lines": [
+    24789,
+    25236
+   ],
+   "preface_lines": [
+    24680,
+    24730
+   ],
+   "sigla": [
+    {
+     "siglum": "1",
+     "manuscript": "Sangallensis 577",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "1*",
+     "manuscript": "Stuttgartiensis bibl. fol. 567",
+     "date_if_given": "s. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "2",
+     "manuscript": "Einsidlensis 250",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "3a",
+     "manuscript": "Heidelbergensis Salem IX,29",
+     "date_if_given": "s. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "3b",
+     "manuscript": "Basileensis A IX 4",
+     "date_if_given": "a. 1491/2",
+     "role": "direct"
+    }
+   ],
+   "apparatus": "mixed_sigla",
+   "filiation_stated": "verbal",
+   "top_branches": [
+    [
+     "1",
+     "1*"
+    ],
+    [
+     "2"
+    ],
+    [
+     "3a",
+     "3b"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 24697,
+     "page": "p. 355",
+     "quote": "Codex vetustissimus 1, quocum arte coniunctus est 1*, ex exemplari persimili pendens ... Libri 3a. b ex exemplari eodem exscripti sunt"
+    }
+   ],
+   "confidence": "medium",
+   "notes": "Groups 1/1*, 2 and 3a/b are stated; their mutual relation is not. Recensions B and C are listed but not edited."
+  },
+  {
+   "volume": "SRM 4",
+   "ia_id": "monumentagerman04hann",
+   "editor": "Bruno Krusch",
+   "year": 1902,
+   "deeper_groups": [
+    [
+     "B1a",
+     "B1a*"
+    ],
+    [
+     "B1b",
+     "B1c"
+    ],
+    [
+     "B2b",
+     "B3"
+    ]
+   ],
+   "flags": [
+    "recensions"
+   ],
+   "text_id": "vita_sulpicii",
+   "work": "Vita Sulpicii episcopi Biturigi",
+   "text_lines": [
+    25848,
+    26646
+   ],
+   "preface_lines": [
+    25600,
+    25740
+   ],
+   "sigla": [
+    {
+     "siglum": "A1",
+     "manuscript": "Londiniensis Add. 11880, fol. 86-89",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "A2",
+     "manuscript": "Londiniensis Add. 11880, fol. 150-160 (second copy in same codex)",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "B1a",
+     "manuscript": "Caroliruhensis Aug. XXXII",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "B1a*",
+     "manuscript": "Einsidlensis 249",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "B1b",
+     "manuscript": "Rotomagensis U 26",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "B1c",
+     "manuscript": "Londiniensis Cotton Nero E I",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "B2a",
+     "manuscript": "Bruxellensis 7882",
+     "date_if_given": "s. XI in.",
+     "role": "direct"
+    },
+    {
+     "siglum": "B2b",
+     "manuscript": "Parisiensis 9741",
+     "date_if_given": "s. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "B3",
+     "manuscript": "Parisiensis 17625",
+     "date_if_given": "s. X/XI",
+     "role": "direct"
+    }
+   ],
+   "apparatus": "mixed_sigla",
+   "filiation_stated": "verbal",
+   "top_branches": [
+    [
+     "A1",
+     "A2"
+    ],
+    [
+     "B1a",
+     "B1a*",
+     "B1b",
+     "B1c",
+     "B2a",
+     "B2b",
+     "B3"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 25637,
+     "page": "p. 368",
+     "quote": "Utraque igitur recensio A et B ex exemplari deperdito (X) pendet, cuius textum primigenium modo hic, modo ille servavit."
+    }
+   ],
+   "confidence": "high",
+   "notes": "A and B are two recensions printed in parallel where they diverge. A1 and A2 are two copies in one codex. B2b and B3 'fortasse vinculo quodam cohaerent'; B3 seems collated with several exemplars."
+  },
+  {
+   "volume": "SRM 4",
+   "ia_id": "monumentagerman04hann",
+   "editor": "Bruno Krusch",
+   "year": 1902,
+   "deeper_groups": [
+    [
+     "4a",
+     "4b"
+    ],
+    [
+     "5a",
+     "5b",
+     "5c"
+    ]
+   ],
+   "flags": [],
+   "text_id": "vita_richarii_alcuin",
+   "work": "Alcuinus, Vita Richarii confessoris Centulensis",
+   "text_lines": [
+    27200,
+    27998
+   ],
+   "preface_lines": [
+    26946,
+    27050
+   ],
+   "sigla": [
+    {
+     "siglum": "1",
+     "manuscript": "Sangallensis 563",
+     "date_if_given": "s. IX/X",
+     "role": "direct"
+    },
+    {
+     "siglum": "2",
+     "manuscript": "Bruxellensis 207",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "3",
+     "manuscript": "Hagensis X 118",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "4a",
+     "manuscript": "Vaticanus Reg. lat. 488",
+     "date_if_given": "s. X-XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "4b",
+     "manuscript": "Bruxellensis 7460",
+     "date_if_given": "s. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "4b*",
+     "manuscript": "Compendiensis (used by Mabillon; OCR '4//')",
+     "date_if_given": null,
+     "role": "indirect"
+    },
+    {
+     "siglum": "4c",
+     "manuscript": "Parisiensis 12606",
+     "date_if_given": "s. XIII in.",
+     "role": "direct"
+    },
+    {
+     "siglum": "5a",
+     "manuscript": "Remensis 1144",
+     "date_if_given": "s. XIII in.",
+     "role": "direct"
+    },
+    {
+     "siglum": "5b",
+     "manuscript": "Carolivillensis 229",
+     "date_if_given": "s. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "5c",
+     "manuscript": "Parisiensis 11757",
+     "date_if_given": "s. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "6",
+     "manuscript": "Parisiensis 3788",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    }
+   ],
+   "apparatus": "mixed_sigla",
+   "filiation_stated": "verbal",
+   "top_branches": [
+    [
+     "1",
+     "2"
+    ],
+    [
+     "3",
+     "4a",
+     "4b",
+     "4b*",
+     "4c",
+     "5a",
+     "5b",
+     "5c",
+     "6"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 27028,
+     "page": "p. 386",
+     "quote": "Codices in duas familias discedunt, cum libris 1. 2 reliqui omnes oppositi sint. Codex 1 ... neque ipsi comparari potest qui ex eodem exemplari pendet liber 2 pessime interpolatus."
+    }
+   ],
+   "confidence": "high",
+   "notes": "Siglum of the lost Compendiensis is garbled in OCR ('4//', '4Jf'); check p. 386."
+  },
+  {
+   "volume": "SRM 4",
+   "ia_id": "monumentagerman04hann",
+   "editor": "Bruno Krusch",
+   "year": 1902,
+   "deeper_groups": [
+    [
+     "A1",
+     "A2"
+    ],
+    [
+     "A3",
+     "A3a"
+    ],
+    [
+     "B2",
+     "B3"
+    ],
+    [
+     "X1a",
+     "X1b"
+    ]
+   ],
+   "flags": [
+    "classes_only",
+    "contamination_at_top"
+   ],
+   "text_id": "vita_goaris",
+   "work": "Vita Goaris confessoris Rhenani",
+   "text_lines": [
+    28685,
+    29590
+   ],
+   "preface_lines": [
+    28396,
+    28600
+   ],
+   "sigla": [
+    {
+     "siglum": "A1",
+     "manuscript": "Basileensis F III 15b",
+     "date_if_given": "s. IX in.",
+     "role": "direct"
+    },
+    {
+     "siglum": "A2",
+     "manuscript": "Arenfelsensis (2 fragmentary leaves)",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "A3",
+     "manuscript": "Vaticanus Pal. lat. 846",
+     "date_if_given": "s. IX/X",
+     "role": "direct"
+    },
+    {
+     "siglum": "A3a",
+     "manuscript": "Monacensis 22242",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "A4",
+     "manuscript": "Wirziburgensis Mp. th. f. 34",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "A5",
+     "manuscript": "Carnotensis 115",
+     "date_if_given": "s. XI in.",
+     "role": "direct"
+    },
+    {
+     "siglum": "A6",
+     "manuscript": "Catalaunensis 56",
+     "date_if_given": "s. XI/XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "B1",
+     "manuscript": "Caroliruhensis Aug. CXXXVI",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "B2",
+     "manuscript": "Sangallensis 566",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "B3",
+     "manuscript": "Einsidlensis 248",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "X1a",
+     "manuscript": "Mettensis 523",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "X1b",
+     "manuscript": "Parisiensis 5294",
+     "date_if_given": "s. XI/XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "X2",
+     "manuscript": "Monacensis 332",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "X3",
+     "manuscript": "Gandavensis 307",
+     "date_if_given": "s. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "X4",
+     "manuscript": "Bruxellensis 9636-7",
+     "date_if_given": "s. XI/XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "X5",
+     "manuscript": "Parisiensis 3801",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "X6",
+     "manuscript": "Parisiensis 5322",
+     "date_if_given": "s. XIII in.",
+     "role": "direct"
+    },
+    {
+     "siglum": "X7",
+     "manuscript": "Parisiensis 5296 B",
+     "date_if_given": "s. XIII",
+     "role": "direct"
+    }
+   ],
+   "apparatus": "mixed_sigla",
+   "filiation_stated": "verbal",
+   "top_branches": [
+    [
+     "A1",
+     "A2",
+     "A3",
+     "A3a",
+     "A4",
+     "A5",
+     "A6",
+     "X1a",
+     "X1b"
+    ],
+    [
+     "B1",
+     "B2",
+     "B3"
+    ],
+    [
+     "X2",
+     "X3",
+     "X4",
+     "X5",
+     "X6",
+     "X7"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 28503,
+     "page": "p. 408",
+     "quote": "Inter utramque classem A et B id interest, quod A elocutionem rusticam melius servavit, B vero ... Codices A1 et A2 ex exemplari eodem pendent"
+    },
+    {
+     "ocr_line": 28523,
+     "page": "p. 408",
+     "quote": "unde concludi licet archetypum B codici A4 propinquius fuisse quam A 1. 3."
+    },
+    {
+     "ocr_line": 28547,
+     "page": "p. 409",
+     "quote": "pendentes uterque ex exemplari quodam A ... Sunt autem hi libri aliique, quos quamvis stirpe alienos in hac classi collocavi, suo quisque modo interpolati"
+    }
+   ],
+   "confidence": "low",
+   "notes": "Krusch states that the B archetype is closer to A4 than to A1/A3, which undercuts A as a top branch; the A/B split here is a class division, not a stated archetype split. Class X is explicitly heterogeneous (X1a/b derive from an A exemplar)."
+  },
+  {
+   "volume": "SRM 4",
+   "ia_id": "monumentagerman04hann",
+   "editor": "Bruno Krusch",
+   "year": 1902,
+   "deeper_groups": [
+    [
+     "A2",
+     "A3",
+     "A4"
+    ],
+    [
+     "B1a",
+     "B1b",
+     "B1c"
+    ],
+    [
+     "B2a1",
+     "B2a1*",
+     "B2a2",
+     "B2a3",
+     "B2b",
+     "B2c",
+     "B2d",
+     "B2e"
+    ],
+    [
+     "B2b",
+     "B2c"
+    ]
+   ],
+   "flags": [
+    "classes_only",
+    "contamination_at_top"
+   ],
+   "text_id": "vita_fursei",
+   "work": "Vita Fursei abbatis Latiniacensis",
+   "text_lines": [
+    30343,
+    30763
+   ],
+   "preface_lines": [
+    29945,
+    30240
+   ],
+   "sigla": [
+    {
+     "siglum": "A1",
+     "manuscript": "Londiniensis Harl. 5041",
+     "date_if_given": null,
+     "role": "direct"
+    },
+    {
+     "siglum": "A1*",
+     "manuscript": "Holkham Hall (Leicester) 129",
+     "date_if_given": "s. XI/XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "A2",
+     "manuscript": "Romanus bibl. Minervae B IV 18",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "A3",
+     "manuscript": "Rothomagensis 1381 (U 67)",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "A4",
+     "manuscript": "Parisiensis 3788",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "B1a",
+     "manuscript": "Bruxellensis 7984",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "B1b",
+     "manuscript": "Caroliruhensis Aug. XXXII",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "B1c",
+     "manuscript": "Parisiensis 9741",
+     "date_if_given": "s. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "B2a1",
+     "manuscript": "Londiniensis Cotton Nero E I",
+     "date_if_given": null,
+     "role": "direct"
+    },
+    {
+     "siglum": "B2a1*",
+     "manuscript": "Londiniensis Reg. 8 G VI",
+     "date_if_given": "s. XV",
+     "role": "direct"
+    },
+    {
+     "siglum": "B2a2",
+     "manuscript": "Londiniensis Egerton 2797",
+     "date_if_given": "s. XI in.",
+     "role": "direct"
+    },
+    {
+     "siglum": "B2a3",
+     "manuscript": "Rothomagensis U 26",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "B2b",
+     "manuscript": "Carnotensis 507",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "B2c",
+     "manuscript": "Rothomagensis U 8",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "B2d",
+     "manuscript": "Londiniensis Lambeth 173",
+     "date_if_given": "s. XI in.",
+     "role": "direct"
+    },
+    {
+     "siglum": "B2e",
+     "manuscript": "Londiniensis Reg. 5 A VII",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "B2e*",
+     "manuscript": "Londiniensis Lambeth 94",
+     "date_if_given": "s. XIII/XIV",
+     "role": "direct"
+    },
+    {
+     "siglum": "C1a",
+     "manuscript": "Coloniensis archivi 163",
+     "date_if_given": null,
+     "role": "direct"
+    },
+    {
+     "siglum": "C1b",
+     "manuscript": "Parisiensis 5568",
+     "date_if_given": null,
+     "role": "direct"
+    },
+    {
+     "siglum": "C1b1",
+     "manuscript": "Monacensis 27128",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "C1c",
+     "manuscript": "Aurelianensis 331",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "C1d",
+     "manuscript": "Gratianopolitanus 1171",
+     "date_if_given": "s. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "C1e",
+     "manuscript": "Bruxellensis 9119",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "C2a",
+     "manuscript": "Romanus Vitt. Emm. 1258",
+     "date_if_given": "s. IX in.",
+     "role": "direct"
+    },
+    {
+     "siglum": "C3",
+     "manuscript": "Hagensis X 118",
+     "date_if_given": "s. X ex.",
+     "role": "direct"
+    },
+    {
+     "siglum": "C4a",
+     "manuscript": "Parisiensis 17625",
+     "date_if_given": "s. X/XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "C4b",
+     "manuscript": "Parisiensis 11749",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "C4c",
+     "manuscript": "Londiniensis Egerton 2797",
+     "date_if_given": "s. XI in.",
+     "role": "direct"
+    },
+    {
+     "siglum": "C4d1",
+     "manuscript": "Duesseldorfensis C 10a",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "C4d2",
+     "manuscript": "Bonnensis S. 369",
+     "date_if_given": "s. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "C5",
+     "manuscript": "Berolinensis Phill. 1875",
+     "date_if_given": "s. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "C6a",
+     "manuscript": "Parisiensis 5604",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "C6b",
+     "manuscript": "Londiniensis Harl. 2800",
+     "date_if_given": "s. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "C6c",
+     "manuscript": "Bruxellensis 207",
+     "date_if_given": "s. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "D1",
+     "manuscript": "Parisiensis 2768 A",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "D2a",
+     "manuscript": "Mellicensis F 8",
+     "date_if_given": "s. XIII ex.",
+     "role": "direct"
+    },
+    {
+     "siglum": "D2b",
+     "manuscript": "S. Crucis (Heiligenkreuz) 11",
+     "date_if_given": "s. XII ex.",
+     "role": "direct"
+    },
+    {
+     "siglum": "Beda",
+     "manuscript": "Beda, Hist. eccl. III,19 (reworked text)",
+     "date_if_given": null,
+     "role": "indirect"
+    }
+   ],
+   "apparatus": "mixed_sigla",
+   "filiation_stated": "verbal",
+   "top_branches": [
+    [
+     "A1",
+     "A1*",
+     "A2",
+     "A3",
+     "A4",
+     "D2a",
+     "D2b"
+    ],
+    [
+     "B1a",
+     "B1b",
+     "B1c",
+     "B2a1",
+     "B2a1*",
+     "B2a2",
+     "B2a3",
+     "B2b",
+     "B2c",
+     "B2d",
+     "B2e",
+     "B2e*"
+    ],
+    [
+     "C1a",
+     "C1b",
+     "C1b1",
+     "C1c",
+     "C1d",
+     "C1e",
+     "C2a",
+     "C3",
+     "C4a",
+     "C4b",
+     "C4c",
+     "C4d1",
+     "C4d2",
+     "C5",
+     "C6a",
+     "C6b",
+     "C6c",
+     "D1"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 29953,
+     "page": "p. 429",
+     "quote": "E tribus in quas libros distribui classibus prima sola (A) ex exemplari pendet neque immutato neque interpolato ... adsunt autem in altera (B), dum in tertia (C) sermonis pristini iacturam lugemus."
+    },
+    {
+     "ocr_line": 30139,
+     "page": "p. 431",
+     "quote": "E tribus quas ad Vitam recensendam adhibui classibus A B C prior archetypi simillima est ... Sunt autem libri A bipartiti unusque A 1 contra reliquos A 2. 3. 4 stat."
+    },
+    {
+     "ocr_line": 30117,
+     "page": "p. 431",
+     "quote": "Dum enim textus V. Fursei in D 1 ad classem C pertinet, libri Austriaci D 2 ex exemplari meliore A pendere videntur"
+    }
+   ],
+   "confidence": "medium",
+   "notes": "Three classes with internal structure stated, but no statement on how A, B, C relate to each other. B2e and A1* mix readings of other classes; C4d1/2 interpolated from B1. D codices assigned to A/C per p. 431."
+  },
+  {
+   "volume": "SRM 4",
+   "ia_id": "monumentagerman04hann",
+   "editor": "Bruno Krusch",
+   "year": 1902,
+   "deeper_groups": [
+    [
+     "C4a",
+     "C4c"
+    ]
+   ],
+   "flags": [],
+   "text_id": "virtutes_fursei",
+   "work": "Virtutes Fursei",
+   "text_lines": [
+    30771,
+    31464
+   ],
+   "preface_lines": [
+    30045,
+    30235
+   ],
+   "sigla": [
+    {
+     "siglum": "C2a",
+     "manuscript": "Romanus Vitt. Emm. 1258",
+     "date_if_given": "s. IX in.",
+     "role": "direct"
+    },
+    {
+     "siglum": "C2b",
+     "manuscript": "Holkham Hall (Leicester) 129",
+     "date_if_given": "s. XI/XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "C3",
+     "manuscript": "Hagensis X 118",
+     "date_if_given": "s. X ex.",
+     "role": "direct"
+    },
+    {
+     "siglum": "C4a",
+     "manuscript": "Parisiensis 17625",
+     "date_if_given": "s. X/XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "C4b",
+     "manuscript": "Parisiensis 11749",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "C4c",
+     "manuscript": "Londiniensis Egerton 2797",
+     "date_if_given": "s. XI in.",
+     "role": "direct"
+    },
+    {
+     "siglum": "C4d1",
+     "manuscript": "Duesseldorfensis C 10a",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "C4d2",
+     "manuscript": "Bonnensis S. 369",
+     "date_if_given": "s. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "C5",
+     "manuscript": "Berolinensis Phill. 1875",
+     "date_if_given": "s. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "C6a",
+     "manuscript": "Parisiensis 5604",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "C6b",
+     "manuscript": "Londiniensis Harl. 2800",
+     "date_if_given": "s. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "C6c",
+     "manuscript": "Bruxellensis 207",
+     "date_if_given": "s. XIII",
+     "role": "direct"
+    }
+   ],
+   "apparatus": "mixed_sigla",
+   "filiation_stated": "verbal",
+   "top_branches": [
+    [
+     "C2a",
+     "C2b"
+    ],
+    [
+     "C3",
+     "C4a",
+     "C4b",
+     "C4c",
+     "C4d1",
+     "C4d2",
+     "C5",
+     "C6a",
+     "C6b",
+     "C6c"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 30216,
+     "page": "p. 432",
+     "quote": "Pendent igitur C2a.b ex exemplari alio atque reliqui, idque praeter lectiones splendidas etiam menda continebat pauca"
+    }
+   ],
+   "confidence": "medium",
+   "notes": "C3, C4a-c, C5 share a Vulgate correction; C6 are a conflated Vita+Virtutes type and were not used. Check that C6 belong with the non-C2 group."
+  },
+  {
+   "volume": "SRM 4",
+   "ia_id": "monumentagerman04hann",
+   "editor": "Bruno Krusch",
+   "year": 1902,
+   "deeper_groups": [],
+   "flags": [
+    "classes_only"
+   ],
+   "text_id": "additamentum_nivialense_fuilano",
+   "work": "Additamentum Nivialense de Fuilano",
+   "text_lines": [
+    31465,
+    31650
+   ],
+   "preface_lines": [
+    30120,
+    30138
+   ],
+   "sigla": [
+    {
+     "siglum": "D1",
+     "manuscript": "Parisiensis 2768 A",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "D2a",
+     "manuscript": "Mellicensis F 8",
+     "date_if_given": "s. XIII ex.",
+     "role": "direct"
+    },
+    {
+     "siglum": "D2b",
+     "manuscript": "S. Crucis (Heiligenkreuz) 11",
+     "date_if_given": "s. XII ex.",
+     "role": "direct"
+    },
+    {
+     "siglum": "Boll.",
+     "manuscript": "Bollandist edition, Cat. cod. hagiogr. Paris. I (1889)",
+     "date_if_given": null,
+     "role": "indirect"
+    }
+   ],
+   "apparatus": "mixed_sigla",
+   "filiation_stated": "verbal",
+   "top_branches": [
+    [
+     "D1"
+    ],
+    [
+     "D2a",
+     "D2b"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 30117,
+     "page": "p. 431",
+     "quote": "Est autem illud codicibus diversae originis subiunctum. Dum enim textus V. Fursei in D 1 ad classem C pertinet, libri Austriaci D 2 ex exemplari meliore A pendere videntur"
+    }
+   ],
+   "confidence": "low",
+   "notes": "The stated filiation concerns the Vita text in these codices, not the Additamentum itself; split D1 vs D2 inferred from that and the numbering."
+  },
+  {
+   "volume": "SRM 4",
+   "ia_id": "monumentagerman04hann",
+   "editor": "Bruno Krusch",
+   "year": 1902,
+   "deeper_groups": [
+    [
+     "A3",
+     "A4a",
+     "A4b"
+    ],
+    [
+     "A4a",
+     "A4b"
+    ],
+    [
+     "A2",
+     "Ax"
+    ],
+    [
+     "B2a",
+     "B2b",
+     "B2c",
+     "B2d"
+    ],
+    [
+     "B3a",
+     "B3b"
+    ]
+   ],
+   "flags": [
+    "diagram_garbled_in_ocr",
+    "contamination_at_top"
+   ],
+   "text_id": "vita_haimhrammi_arbeo",
+   "work": "Arbeo, Vita vel passio Haimhrammi episcopi et martyris Ratisbonensis",
+   "text_lines": [
+    33032,
+    38690
+   ],
+   "preface_lines": [
+    32180,
+    32935
+   ],
+   "sigla": [
+    {
+     "siglum": "A1",
+     "manuscript": "Parisiensis 2990 A",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "A2",
+     "manuscript": "Audomarensis (lost; Bollandist collation)",
+     "date_if_given": null,
+     "role": "indirect"
+    },
+    {
+     "siglum": "A3",
+     "manuscript": "Fuldensis (lost; Bollandist apographon)",
+     "date_if_given": "s. IX/X",
+     "role": "indirect"
+    },
+    {
+     "siglum": "A4a",
+     "manuscript": "Trevericus seminarii B. I,11",
+     "date_if_given": "s. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "A4b",
+     "manuscript": "Parisiensis 5308",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "A5",
+     "manuscript": "Parisiensis 12612",
+     "date_if_given": "s. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "Ax",
+     "manuscript": "Londiniensis Arundel 91 (abbreviated passio)",
+     "date_if_given": "s. XII",
+     "role": "indirect"
+    },
+    {
+     "siglum": "B1",
+     "manuscript": "Wirziburgensis Mp. th. q. 23",
+     "date_if_given": "s. IX in.",
+     "role": "direct"
+    },
+    {
+     "siglum": "B2a",
+     "manuscript": "Vaticanus Pal. lat. 846",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "B2b",
+     "manuscript": "Sangallensis 556",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "B2c",
+     "manuscript": "Einsidlensis 261",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "B2d",
+     "manuscript": "Bruxellensis 428-42",
+     "date_if_given": "s. XV",
+     "role": "direct"
+    },
+    {
+     "siglum": "B3a",
+     "manuscript": "Monacensis 19162",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "B3b",
+     "manuscript": "Monacensis 4618",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "B4",
+     "manuscript": "Berolinensis theol. lat. fol. 267",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "B5",
+     "manuscript": "Monacensis 9536",
+     "date_if_given": "s. XIII",
+     "role": "direct"
+    }
+   ],
+   "apparatus": "mixed_sigla",
+   "filiation_stated": "diagram",
+   "top_branches": [
+    [
+     "A1"
+    ],
+    [
+     "A2",
+     "A3",
+     "A4a",
+     "A4b",
+     "A5",
+     "Ax"
+    ],
+    [
+     "B1",
+     "B2a",
+     "B2b",
+     "B2c",
+     "B2d",
+     "B3a",
+     "B3b",
+     "B4",
+     "B5"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 32870,
+     "page": "p. 469",
+     "quote": "Ut codices A2. 3. 4 ex exemplari correcto Y pendent ... ita studii illius primordia quamvis rarissima in archetypo eo iam adfuisse videntur, ex quo omnes qui supersunt libri pendent, scilicet in Z"
+    },
+    {
+     "ocr_line": 32825,
+     "page": "p. 469",
+     "quote": "ex ipsa praestantia exemplaris X, proavi codicum B, concludi licet, quod totam classem A aliquoties superans haud raro lectionem A 1 confirmaverit"
+    },
+    {
+     "ocr_line": 32911,
+     "page": "p. 470",
+     "quote": "Variae codicum affinitates primo aspectu explicantur stemmate hoc: Z / X / A1 Y B / A2 α B1 γ δ B4 / A3 β B2a B2b B2c B2d B3a B3b / A4a A4b [diagram, OCR garbled]"
+    }
+   ],
+   "confidence": "medium",
+   "notes": "Reading the diagram as Z -> A1, Y, X(-> B); check the printed stemma p. 470, since X could sit under Z with A1/Y as separate lines or as a single A node. Y was corrected from a class-B codex (contamination). A5 (Siglum from Suyskens' S. Germain copy) and B5 placement are not shown in the OCR'd diagram."
+  },
+  {
+   "volume": "SRM 4",
+   "ia_id": "monumentagerman04hann",
+   "editor": "Bruno Krusch",
+   "year": 1902,
+   "deeper_groups": [
+    [
+     "3a",
+     "3c",
+     "3d",
+     "4"
+    ]
+   ],
+   "flags": [],
+   "text_id": "vita_bavonis_prior",
+   "work": "Vita Bavonis confessoris Gandavensis (vita prior)",
+   "text_lines": [
+    39452,
+    40270
+   ],
+   "preface_lines": [
+    39326,
+    39405
+   ],
+   "sigla": [
+    {
+     "siglum": "1",
+     "manuscript": "Gandavensis univ. 308",
+     "date_if_given": "s. XI in.",
+     "role": "direct"
+    },
+    {
+     "siglum": "2",
+     "manuscript": "Bruxellensis 7460",
+     "date_if_given": "s. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "3a",
+     "manuscript": "Coloniensis archivi 163",
+     "date_if_given": "s. XI/XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "3b",
+     "manuscript": "Valentianensis 513",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "3c",
+     "manuscript": "Parisiensis 5327",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "3d",
+     "manuscript": "Parisiensis 5270",
+     "date_if_given": "s. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "4",
+     "manuscript": "Bruxellensis 9636-7",
+     "date_if_given": "s. XI/XII",
+     "role": "direct"
+    }
+   ],
+   "apparatus": "mixed_sigla",
+   "filiation_stated": "verbal",
+   "top_branches": [
+    [
+     "1",
+     "2"
+    ],
+    [
+     "3a",
+     "3b",
+     "3c",
+     "3d",
+     "4"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 39391,
+     "page": "p. 533",
+     "quote": "Ex locis enim Sulpicianis colligi licet tertiam potius classem in his diversitatibus praestare, ita ut proavus codicum 1. 2 verborum collocationem suo arbitratu immutasse videatur"
+    },
+    {
+     "ocr_line": 39396,
+     "page": "p. 533",
+     "quote": "Ad huius vero familiaritatem et 3c se applicat et 3d. Ultimus denique qui totus retractatus est codex 4 ex exemplari simili 3a manifesto pendet."
+    }
+   ],
+   "confidence": "high",
+   "notes": "Two stated groups: 1.2 (common proavus) vs class 3 (+4)."
+  },
+  {
+   "volume": "SRM 4",
+   "ia_id": "monumentagerman04hann",
+   "editor": "Bruno Krusch",
+   "year": 1902,
+   "deeper_groups": [
+    [
+     "2",
+     "3a",
+     "3b",
+     "3c"
+    ],
+    [
+     "3a",
+     "3b",
+     "3c"
+    ]
+   ],
+   "flags": [
+    "editor_undecided"
+   ],
+   "text_id": "vita_desiderii_cadurcensis",
+   "work": "Vita Desiderii Cadurcae urbis episcopi",
+   "text_lines": [
+    41435,
+    44350
+   ],
+   "preface_lines": [
+    41085,
+    41260
+   ],
+   "sigla": [
+    {
+     "siglum": "1",
+     "manuscript": "Parisiensis 17002 (Musciacensis)",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "1b",
+     "manuscript": "Parisiensis 17002, corrector s. XII",
+     "date_if_given": null,
+     "role": "corrector_hand"
+    },
+    {
+     "siglum": "1x",
+     "manuscript": "Parisiensis 17002, second near-contemporary hand",
+     "date_if_given": null,
+     "role": "corrector_hand"
+    },
+    {
+     "siglum": "1c",
+     "manuscript": "Parisiensis 17002, third hand s. XII",
+     "date_if_given": null,
+     "role": "corrector_hand"
+    },
+    {
+     "siglum": "2",
+     "manuscript": "Havniensis Tott 136",
+     "date_if_given": "s. XIV",
+     "role": "direct"
+    },
+    {
+     "siglum": "3a",
+     "manuscript": "Parisiensis 11762, fol. 204-223",
+     "date_if_given": "s. XVII",
+     "role": "direct"
+    },
+    {
+     "siglum": "3b",
+     "manuscript": "Parisiensis 11762, fol. 234-245",
+     "date_if_given": "s. XVII",
+     "role": "direct"
+    },
+    {
+     "siglum": "3c",
+     "manuscript": "Parisiensis 11762, fol. 224-233",
+     "date_if_given": "s. XVII",
+     "role": "direct"
+    }
+   ],
+   "apparatus": "mixed_sigla",
+   "filiation_stated": "verbal",
+   "top_branches": [
+    [
+     "1",
+     "2",
+     "3a",
+     "3b",
+     "3c"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 41156,
+     "page": "p. 559",
+     "quote": "Cum Marciliacense coenobium pro Musciacensi c. 23. in utroque substitutum sit, inde librum archetypum eorum originem traxisse patet."
+    },
+    {
+     "ocr_line": 41176,
+     "page": "p. 559",
+     "quote": "ita ut hunc ex illo pendere paene certum habeam."
+    }
+   ],
+   "confidence": "medium",
+   "notes": "2 and 3 share a Marciliacum archetype which Krusch thinks was 'almost certainly' copied from 1, so there is no split below the archetype (single branch). He also allows that a reader corrected that exemplar from a better codex."
+  },
+  {
+   "volume": "SRM 4",
+   "ia_id": "monumentagerman04hann",
+   "editor": "Bruno Krusch",
+   "year": 1902,
+   "deeper_groups": [],
+   "flags": [],
+   "text_id": "vita_sigiramni",
+   "work": "Vita Sigiramni abbatis Longoretensis",
+   "text_lines": [
+    44575,
+    45900
+   ],
+   "preface_lines": [
+    44512,
+    44545
+   ],
+   "sigla": [
+    {
+     "siglum": "1",
+     "manuscript": "Bruxellensis 8550-1",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "2a",
+     "manuscript": "Bruxellensis 8964 (Bollandist apographon of a Longoretum lectionary, c. 1-15)",
+     "date_if_given": "s. XVIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "2b",
+     "manuscript": "Apographon Fr. Bosqueti (lost; used by Labbe)",
+     "date_if_given": null,
+     "role": "indirect"
+    }
+   ],
+   "apparatus": "mixed_sigla",
+   "filiation_stated": "verbal",
+   "top_branches": [
+    [
+     "1"
+    ],
+    [
+     "2a",
+     "2b"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 44534,
+     "page": "p. 605",
+     "quote": "Libri 2 ex exemplari multo deteriore eoque mutilo pendent, sed nonnullae lectiones melioris notae vel in eis deprehenduntur"
+    }
+   ],
+   "confidence": "high",
+   "notes": "From c. 16 on, codex 1 is the only witness."
+  },
+  {
+   "volume": "SRM 4",
+   "ia_id": "monumentagerman04hann",
+   "editor": "Bruno Krusch",
+   "year": 1902,
+   "deeper_groups": [
+    [
+     "B2a",
+     "B2b"
+    ]
+   ],
+   "flags": [
+    "recensions"
+   ],
+   "text_id": "vita_geremari",
+   "work": "Vita Geremari abbatis Flaviacensis",
+   "text_lines": [
+    46065,
+    46410
+   ],
+   "preface_lines": [
+    45925,
+    46063
+   ],
+   "sigla": [
+    {
+     "siglum": "A1",
+     "manuscript": "Parisiensis 5306",
+     "date_if_given": "s. XIV",
+     "role": "direct"
+    },
+    {
+     "siglum": "B1",
+     "manuscript": "Parisiensis 17627",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "B2a",
+     "manuscript": "Parisiensis 9745",
+     "date_if_given": "s. XV",
+     "role": "direct"
+    },
+    {
+     "siglum": "B2b",
+     "manuscript": "Ambianensis 467",
+     "date_if_given": "s. XVII",
+     "role": "direct"
+    }
+   ],
+   "apparatus": "mixed_sigla",
+   "filiation_stated": "verbal",
+   "top_branches": [
+    [
+     "A1"
+    ],
+    [
+     "B1",
+     "B2a",
+     "B2b"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 45993,
+     "page": "p. 627",
+     "quote": "Haud modicum temporis intervallum inter A et B intercessisse ex his argumentis colligi licet."
+    }
+   ],
+   "confidence": "medium",
+   "notes": "A (older recension, single codex A1) is the edited text; B is a later retractatio cited in the apparatus. Not a single tradition: the A/B split is between redactions."
+  },
+  {
+   "volume": "SRM 4",
+   "ia_id": "monumentagerman04hann",
+   "editor": "Bruno Krusch",
+   "year": 1902,
+   "deeper_groups": [
+    [
+     "1a",
+     "1b"
+    ],
+    [
+     "1c",
+     "1c*"
+    ],
+    [
+     "2a",
+     "2b",
+     "2c",
+     "2d",
+     "3"
+    ],
+    [
+     "2a",
+     "2b"
+    ],
+    [
+     "4",
+     "4a",
+     "4b"
+    ],
+    [
+     "4",
+     "5",
+     "7",
+     "8"
+    ]
+   ],
+   "flags": [
+    "multiple_sections_different_witnesses",
+    "contamination_at_top"
+   ],
+   "text_id": "vita_eligii",
+   "work": "Vita Eligii episcopi Noviomagensis libri duo (Dado/Audoinus)",
+   "text_lines": [
+    48388,
+    53874
+   ],
+   "preface_lines": [
+    47940,
+    48330
+   ],
+   "sigla": [
+    {
+     "siglum": "1a",
+     "manuscript": "Turicensis C 10 i",
+     "date_if_given": "s. X ex.",
+     "role": "direct"
+    },
+    {
+     "siglum": "1b",
+     "manuscript": "Berolinensis theol. lat. fol. 267",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "1c",
+     "manuscript": "Bernensis 48 (lib. I only)",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "1c*",
+     "manuscript": "Parisiensis 12606",
+     "date_if_given": "s. XIII in.",
+     "role": "direct"
+    },
+    {
+     "siglum": "2a",
+     "manuscript": "Bruxellensis 5374-75",
+     "date_if_given": "s. IX/X",
+     "role": "direct"
+    },
+    {
+     "siglum": "2b",
+     "manuscript": "Bruxellensis 9120",
+     "date_if_given": "s. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "2c",
+     "manuscript": "Parisiensis 5327",
+     "date_if_given": "s. X",
+     "role": "direct"
+    },
+    {
+     "siglum": "2d",
+     "manuscript": "Bruxellensis 18421-29",
+     "date_if_given": "s. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "3",
+     "manuscript": "Sangallensis 550",
+     "date_if_given": "s. X ex.",
+     "role": "direct"
+    },
+    {
+     "siglum": "3*",
+     "manuscript": "Monacensis 3717",
+     "date_if_given": "s. X/XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "4",
+     "manuscript": "Divionensis 395",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "4a",
+     "manuscript": "Bruxellensis 7487-91",
+     "date_if_given": "s. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "4b",
+     "manuscript": "Parisiensis 5308",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "5",
+     "manuscript": "Parisiensis 12607",
+     "date_if_given": "s. XIII in.",
+     "role": "direct"
+    },
+    {
+     "siglum": "6a",
+     "manuscript": "Parisiensis 5359",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "6b",
+     "manuscript": "Rothomagensis U 39",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "7",
+     "manuscript": "Parisiensis 5365",
+     "date_if_given": "s. XII",
+     "role": "direct"
+    },
+    {
+     "siglum": "8",
+     "manuscript": "Montepessulanus H 1",
+     "date_if_given": "s. XIII in.",
+     "role": "direct"
+    },
+    {
+     "siglum": "9",
+     "manuscript": "Parisiensis 5287",
+     "date_if_given": "s. XIII",
+     "role": "direct"
+    },
+    {
+     "siglum": "V. Aridii",
+     "manuscript": "Vita Aridii (borrowings from V. Eligii)",
+     "date_if_given": null,
+     "role": "indirect"
+    }
+   ],
+   "apparatus": "mixed_sigla",
+   "filiation_stated": "verbal",
+   "top_branches": [
+    [
+     "1a",
+     "1b",
+     "1c",
+     "1c*",
+     "7",
+     "V. Aridii"
+    ],
+    [
+     "2a",
+     "2b",
+     "2c",
+     "2d",
+     "3",
+     "3*",
+     "4",
+     "4a",
+     "4b",
+     "5",
+     "6a",
+     "6b",
+     "8",
+     "9"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 48108,
+     "page": "p. 659",
+     "quote": "Duae in priore libro codicum classes ita inter se distinguendae sunt, ut libris 1, quibuscum facit 7, potior calculus, alter vero reliquis omnibus accedat ... ex exemplari hic illic depravato reliquos pendere"
+    },
+    {
+     "ocr_line": 48255,
+     "page": "p. 661",
+     "quote": "Libros 2 et 3 ex eodem exemplari pendere manifestum est"
+    }
+   ],
+   "confidence": "medium",
+   "notes": "Top split 1(+7) vs rest holds for book I only; class 1 lacks book II, which rests on classes 2-9 alone. Codex 7 goes with class 1 in book I but with class 2-type elsewhere; 3* siglum from OCR '3'y'; Epistulae and the verse 'liber III' are short appended pieces (skipped)."
+  },
+  {
+   "volume": "SRM 4",
+   "ia_id": "monumentagerman04hann",
+   "editor": "Bruno Krusch",
+   "year": 1902,
+   "deeper_groups": [],
+   "flags": [
+    "classes_only"
+   ],
+   "text_id": "eligii_charta_cessionis",
+   "work": "Eligii charta cessionis Solemniacensis (Appendix I)",
+   "text_lines": [
+    54205,
+    54460
+   ],
+   "preface_lines": [
+    54163,
+    54190
+   ],
+   "sigla": [
+    {
+     "siglum": "1",
+     "manuscript": "Lemovicensis archivi, fonds de Solignac 9116",
+     "date_if_given": "s. XI",
+     "role": "direct"
+    },
+    {
+     "siglum": "2a",
+     "manuscript": "Parisiensis 9193 (Col)",
+     "date_if_given": null,
+     "role": "direct"
+    },
+    {
+     "siglum": "2b",
+     "manuscript": "Parisiensis 12779",
+     "date_if_given": "a. 1648",
+     "role": "direct"
+    }
+   ],
+   "apparatus": "mixed_sigla",
+   "filiation_stated": "verbal",
+   "top_branches": [
+    [
+     "1"
+    ],
+    [
+     "2a",
+     "2b"
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 54180,
+     "page": "p. 745",
+     "quote": "Textum ad praestantissimum codicem 1 recensui, discrepantiam lectionum alterius classis apparatui attribuens, quippe quae sermone immutato a loquendi more aevi illius haud raro recedat."
+    }
+   ],
+   "confidence": "medium",
+   "notes": "2a/2b are early-modern copies from the Solignac archive; Mabillon's Solemniacensis stood between 1 and 2."
+  },
+  {
+   "volume": "SRM 4",
+   "ia_id": "monumentagerman04hann",
+   "editor": "Bruno Krusch",
+   "year": 1902,
+   "deeper_groups": [],
+   "flags": [
+    "classes_only",
+    "multiple_sections_different_witnesses",
+    "recensions"
+   ],
+   "text_id": "praedicatio_eligii",
+   "work": "Praedicatio Eligii de supremo iudicio (Appendix II)",
+   "text_lines": [
+    54576,
+    55300
+   ],
+   "preface_lines": [
+    54465,
+    54575
+   ],
+   "sigla": [
+    {
+     "siglum": "A1",
+     "manuscript": "Sangallensis 194, c. 1-3, 10-20",
+     "date_if_given": "s. VIII ex.",
+     "role": "direct"
+    },
+    {
+     "siglum": "A2",
+     "manuscript": "Parisiensis nouv. acq. lat. 447, c. 1-9",
+     "date_if_given": "s. IX",
+     "role": "direct"
+    },
+    {
+     "siglum": "B",
+     "manuscript": "codices Vitae Eligii (II,16), taken as one exemplar",
+     "date_if_given": null,
+     "role": "indirect"
+    },
+    {
+     "siglum": "X",
+     "manuscript": "Parisiensis nouv. acq. lat. 450 (homily excerpted from Vita)",
+     "date_if_given": "s. IX/X",
+     "role": "indirect"
+    },
+    {
+     "siglum": "Sangerm.",
+     "manuscript": "codex Sangermanensis (homily from Vita)",
+     "date_if_given": null,
+     "role": "indirect"
+    }
+   ],
+   "apparatus": "mixed_sigla",
+   "filiation_stated": "verbal",
+   "top_branches": [
+    [
+     "A1"
+    ],
+    [
+     "A2"
+    ],
+    [
+     "B",
+     "X",
+     "Sangerm."
+    ]
+   ],
+   "evidence": [
+    {
+     "ocr_line": 54542,
+     "page": "p. 750",
+     "quote": "Vitae igitur codicibus quos littera B distinxi carere non possumus neque vero singulorum lectionibus variantibus opus erat nisi raro, cum pro uno solo exemplari habendi sint."
+    }
+   ],
+   "confidence": "low",
+   "notes": "A1 and A2 overlap only in c. 1-3 and transmit different sermon compilations; B is the sermon as embedded in V. Eligii II,16. No statement on how A1, A2 and B relate."
+  }
+ ],
+ "skipped": [
+  {
+   "text": "Versus de Bobuleno abbate (appendix to Ionas)",
+   "reason": "two MSS, B1b depends on B1a (p. 153): effectively single source",
+   "ocr_lines": [
+    10848,
+    11085
+   ]
+  },
+  {
+   "text": "Vitae Galli vetustissimae fragmentum",
+   "reason": "single witness (Zurich fragment leaves, s. XI?)",
+   "ocr_lines": [
+    16688,
+    17905
+   ]
+  },
+  {
+   "text": "Vita Galli auctore Wettino",
+   "reason": "single manuscript (Sangallensis 553); only the metrical prologue has a second codex (Erlangen 237)",
+   "ocr_lines": [
+    16782,
+    19725
+   ]
+  },
+  {
+   "text": "Passio Thrudperti: De translatione eius",
+   "reason": "single manuscript (1*)",
+   "ocr_lines": [
+    25241,
+    25290
+   ]
+  },
+  {
+   "text": "Antiphonae et responsoria de Haimhrammo",
+   "reason": "single manuscript (A1)",
+   "ocr_lines": [
+    38692,
+    38760
+   ]
+  },
+  {
+   "text": "Ex Vita Bavonis auctore Theoderico",
+   "reason": "excerpts/specimens only, no full edition (2 late MSS)",
+   "ocr_lines": [
+    40304,
+    40372
+   ]
+  },
+  {
+   "text": "Epistulae Dadonis et Chrodoberti",
+   "reason": "short appended piece (< 1 page) within Vita Eligii tradition (2a.c.d.4.5); no separate filiation",
+   "ocr_lines": [
+    53877,
+    53905
+   ]
+  },
+  {
+   "text": "Vita Eligii liber III (verse epilogue)",
+   "reason": "fragment of 1 page (2a.c.d), no separate filiation",
+   "ocr_lines": [
+    53941,
+    53980
+   ]
+  }
+ ],
+ "reader": "agent",
+ "date": "2026-11-13"
+}

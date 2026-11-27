@@ -1,0 +1,134 @@
+{
+ "alpha=0.3": {
+  "true": {
+   "traditions": 20,
+   "bifid_root": 0.6,
+   "p_deg2": 0.788,
+   "p_deg3": 0.188,
+   "i3": 0.822
+  },
+  "raw": {
+   "traditions": 20,
+   "bifid_root": 0.9,
+   "p_deg2": 0.981,
+   "p_deg3": 0.019,
+   "i3": 0.961
+  },
+  "rival": {
+   "traditions": 20,
+   "bifid_root": 0.45,
+   "p_deg2": 0.718,
+   "p_deg3": 0.231,
+   "i3": 0.778
+  },
+  "recovery": {
+   "raw": {
+    "true_found": 65,
+    "false_added": 19,
+    "true_total": 65
+   },
+   "rival": {
+    "true_found": 58,
+    "false_added": 0,
+    "true_total": 65
+   }
+  },
+  "simulated": 72
+ },
+ "alpha=0.6": {
+  "true": {
+   "traditions": 20,
+   "bifid_root": 0.65,
+   "p_deg2": 0.835,
+   "p_deg3": 0.147,
+   "i3": 0.876
+  },
+  "raw": {
+   "traditions": 20,
+   "bifid_root": 0.95,
+   "p_deg2": 0.992,
+   "p_deg3": 0.008,
+   "i3": 0.99
+  },
+  "rival": {
+   "traditions": 20,
+   "bifid_root": 0.45,
+   "p_deg2": 0.764,
+   "p_deg3": 0.146,
+   "i3": 0.722
+  },
+  "recovery": {
+   "raw": {
+    "true_found": 89,
+    "false_added": 19,
+    "true_total": 89
+   },
+   "rival": {
+    "true_found": 69,
+    "false_added": 0,
+    "true_total": 89
+   }
+  },
+  "simulated": 58
+ },
+ "alpha=0.9": {
+  "true": {
+   "traditions": 20,
+   "bifid_root": 0.65,
+   "p_deg2": 0.809,
+   "p_deg3": 0.122,
+   "i3": 0.827
+  },
+  "raw": {
+   "traditions": 20,
+   "bifid_root": 0.95,
+   "p_deg2": 0.986,
+   "p_deg3": 0.014,
+   "i3": 0.985
+  },
+  "rival": {
+   "traditions": 20,
+   "bifid_root": 0.3,
+   "p_deg2": 0.591,
+   "p_deg3": 0.197,
+   "i3": 0.505
+  },
+  "recovery": {
+   "raw": {
+    "true_found": 94,
+    "false_added": 30,
+    "true_total": 95
+   },
+   "rival": {
+    "true_found": 46,
+    "false_added": 0,
+    "true_total": 95
+   }
+  },
+  "simulated": 70
+ },
+ "params": {
+  "lam": 0.0085,
+  "mu": 0.0038,
+  "T_active": 1000,
+  "T_decimation": 1000,
+  "L": 1000,
+  "e": 0.02,
+  "traditions_per_alpha": 20,
+  "survivors": "3..30",
+  "camps_table1": {
+   "real": {
+    "bifid": 0.77,
+    "p_deg2": 0.81,
+    "p_deg3": 0.11,
+    "i3": 0.93
+   },
+   "simulated": {
+    "bifid": "0.60-0.64",
+    "p_deg2": "0.71-0.78",
+    "p_deg3": "0.14-0.15",
+    "i3": "0.80-0.85"
+   }
+  }
+ }
+}

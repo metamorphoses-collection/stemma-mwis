@@ -1,0 +1,23 @@
+{
+ "stemma_witnesses": "GHBVAX",
+ "cited": {
+  "G": 47,
+  "H": 0,
+  "B": 1,
+  "V": 101,
+  "A": 126,
+  "X": 5
+ },
+ "analysis_witnesses": "GVA",
+ "units_with_shared_departure": 45,
+ "included": false,
+ "exclusion": [
+  "too few witnesses",
+  "too thin"
+ ],
+ "editor_top": [
+  "G",
+  "VA"
+ ],
+ "k_E": 2
+}

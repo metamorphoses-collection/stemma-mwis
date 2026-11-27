@@ -1,0 +1,23 @@
+{
+ "stemma_witnesses": "VPCBAJRGM",
+ "cited": {
+  "V": 2899,
+  "P": 5003,
+  "C": 853,
+  "B": 3189,
+  "A": 2774,
+  "J": 637,
+  "R": 652,
+  "G": 162,
+  "M": 256
+ },
+ "analysis_witnesses": "VPCBAJRGM",
+ "units_with_shared_departure": 1692,
+ "included": true,
+ "exclusion": [],
+ "editor_top": [
+  "VPGM",
+  "CBAJR"
+ ],
+ "k_E": 2
+}

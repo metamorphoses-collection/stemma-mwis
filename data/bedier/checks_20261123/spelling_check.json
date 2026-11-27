@@ -1,0 +1,979 @@
+{
+ "agreement": {
+  "isidorus_chronica_maiora": {
+   "strict": {
+    "lemma=False window=False": 908,
+    "lemma=True window=True": 41,
+    "lemma=False window=True": 8,
+    "lemma=True window=False": 18
+   },
+   "broad": {
+    "lemma=False window=False": 808,
+    "lemma=True window=True": 112,
+    "lemma=True window=False": 35,
+    "lemma=False window=True": 20
+   }
+  },
+  "claudianus_raptus_proserpinae": {
+   "strict": {
+    "lemma=False window=False": 541,
+    "lemma=True window=True": 20,
+    "lemma=False window=True": 3
+   },
+   "broad": {
+    "lemma=False window=False": 524,
+    "lemma=True window=True": 35,
+    "lemma=False window=True": 5
+   }
+  },
+  "prosper_epitoma_chronicon": {
+   "strict": {
+    "lemma=False window=False": 1074,
+    "lemma=True window=True": 40,
+    "lemma=True window=False": 30,
+    "lemma=False window=True": 5
+   },
+   "broad": {
+    "lemma=False window=False": 963,
+    "lemma=True window=True": 86,
+    "lemma=True window=False": 81,
+    "lemma=False window=True": 19
+   }
+  },
+  "historia_brittonum": {
+   "strict": {
+    "lemma=False window=False": 1095,
+    "lemma=True window=True": 33,
+    "lemma=False window=True": 12,
+    "lemma=True window=False": 1
+   },
+   "broad": {
+    "lemma=False window=False": 1061,
+    "lemma=True window=True": 62,
+    "lemma=False window=True": 15,
+    "lemma=True window=False": 3
+   }
+  },
+  "isidorus_historia_gothorum": {
+   "strict": {
+    "lemma=False window=False": 607,
+    "lemma=False window=True": 5,
+    "lemma=True window=True": 21
+   },
+   "broad": {
+    "lemma=False window=False": 545,
+    "lemma=False window=True": 11,
+    "lemma=True window=True": 76,
+    "lemma=True window=False": 1
+   }
+  },
+  "fortunatus_vita_martini": {
+   "strict": {
+    "lemma=False window=False": 177,
+    "lemma=True window=True": 33,
+    "lemma=False window=True": 13
+   },
+   "broad": {
+    "lemma=False window=False": 158,
+    "lemma=False window=True": 22,
+    "lemma=True window=True": 42,
+    "lemma=True window=False": 1
+   }
+  },
+  "claudianus_maior": {
+   "strict": {
+    "lemma=False window=False": 1374,
+    "lemma=False window=True": 19,
+    "lemma=True window=True": 71,
+    "lemma=True window=False": 1
+   },
+   "broad": {
+    "lemma=False window=False": 1297,
+    "lemma=False window=True": 31,
+    "lemma=True window=True": 134,
+    "lemma=True window=False": 3
+   }
+  },
+  "sidonius_carmina": {
+   "strict": {
+    "lemma=False window=False": 142,
+    "lemma=True window=True": 1
+   },
+   "broad": {
+    "lemma=False window=False": 140,
+    "lemma=True window=True": 1,
+    "lemma=False window=True": 2
+   }
+  },
+  "ennodius_opera": {
+   "strict": {
+    "lemma=False window=False": 568,
+    "lemma=True window=True": 87,
+    "lemma=False window=True": 5,
+    "lemma=True window=False": 25
+   },
+   "broad": {
+    "lemma=False window=False": 505,
+    "lemma=True window=True": 142,
+    "lemma=False window=True": 10,
+    "lemma=True window=False": 28
+   }
+  },
+  "paulus_historia_romana": {
+   "strict": {
+    "lemma=False window=False": 202,
+    "lemma=False window=True": 4
+   },
+   "broad": {
+    "lemma=False window=False": 195,
+    "lemma=True window=True": 7,
+    "lemma=False window=True": 3,
+    "lemma=True window=False": 1
+   }
+  },
+  "victor_vitensis_historia": {
+   "strict": {
+    "lemma=False window=False": 481,
+    "lemma=True window=True": 19,
+    "lemma=False window=True": 6,
+    "lemma=True window=False": 4
+   },
+   "broad": {
+    "lemma=False window=False": 426,
+    "lemma=True window=True": 59,
+    "lemma=False window=True": 19,
+    "lemma=True window=False": 6
+   }
+  },
+  "jordanes_romana": {
+   "strict": {
+    "lemma=False window=False": 355,
+    "lemma=True window=True": 43,
+    "lemma=False window=True": 5,
+    "lemma=True window=False": 4
+   },
+   "broad": {
+    "lemma=False window=False": 286,
+    "lemma=True window=True": 102,
+    "lemma=False window=True": 12,
+    "lemma=True window=False": 7
+   }
+  },
+  "eugippius_vita_severini": {
+   "strict": {
+    "lemma=False window=False": 209,
+    "lemma=True window=True": 11,
+    "lemma=True window=False": 3
+   },
+   "broad": {
+    "lemma=False window=False": 193,
+    "lemma=True window=True": 26,
+    "lemma=False window=True": 1,
+    "lemma=True window=False": 3
+   }
+  },
+  "marcellinus_comes_chronicon": {
+   "strict": {
+    "lemma=False window=False": 290,
+    "lemma=True window=True": 18,
+    "lemma=True window=False": 1
+   },
+   "broad": {
+    "lemma=False window=False": 277,
+    "lemma=True window=True": 27,
+    "lemma=False window=True": 3,
+    "lemma=True window=False": 2
+   }
+  }
+ },
+ "sample": {
+  "strict": {
+   "n": 1388,
+   "drawn": [
+    {
+     "text": "victor_vitensis_historia",
+     "leaf": 15,
+     "line": 310,
+     "group": "BV",
+     "reading": "eensem",
+     "matched": "Oeensem",
+     "lemma_printed": false
+    },
+    {
+     "text": "eugippius_vita_severini",
+     "leaf": 43,
+     "line": 1234,
+     "group": "LMV",
+     "reading": "Hisdem",
+     "matched": "Isdem",
+     "lemma_printed": false
+    },
+    {
+     "text": "ennodius_opera",
+     "leaf": 180,
+     "line": 5856,
+     "group": "LV",
+     "reading": "amississe",
+     "matched": "amisisse",
+     "lemma_printed": false
+    },
+    {
+     "text": "claudianus_raptus_proserpinae",
+     "leaf": 624,
+     "line": 2337,
+     "group": "FSW",
+     "reading": "yde",
+     "matched": "Idae",
+     "lemma_printed": false
+    },
+    {
+     "text": "prosper_epitoma_chronicon",
+     "leaf": 447,
+     "line": 4968,
+     "group": "ACV",
+     "reading": "mamae",
+     "matched": "mameae",
+     "lemma_printed": true
+    },
+    {
+     "text": "paulus_historia_romana",
+     "leaf": 286,
+     "line": 9617,
+     "group": "MN",
+     "reading": "ammittere",
+     "matched": "amittere",
+     "lemma_printed": false
+    },
+    {
+     "text": "claudianus_raptus_proserpinae",
+     "leaf": 590,
+     "line": 489,
+     "group": "DSW",
+     "reading": "ethna",
+     "matched": "Aetna",
+     "lemma_printed": false
+    },
+    {
+     "text": "ennodius_opera",
+     "leaf": 342,
+     "line": 13619,
+     "group": "BV",
+     "reading": "isac",
+     "matched": "Isaac",
+     "lemma_printed": false
+    },
+    {
+     "text": "claudianus_maior",
+     "leaf": 558,
+     "line": 16356,
+     "group": "AP",
+     "reading": "calidon",
+     "matched": "Calydon",
+     "lemma_printed": false
+    },
+    {
+     "text": "claudianus_maior",
+     "leaf": 569,
+     "line": 16946,
+     "group": "AP",
+     "reading": "Sydera",
+     "matched": "Sidera",
+     "lemma_printed": false
+    },
+    {
+     "text": "prosper_epitoma_chronicon",
+     "leaf": 474,
+     "line": 6460,
+     "group": "HX",
+     "reading": "perit",
+     "matched": "periit",
+     "lemma_printed": false
+    },
+    {
+     "text": "isidorus_chronica_maiora",
+     "leaf": 449,
+     "line": 1131,
+     "group": "CPS",
+     "reading": "ose",
+     "matched": "Osee",
+     "lemma_printed": false
+    },
+    {
+     "text": "eugippius_vita_severini",
+     "leaf": 41,
+     "line": 1130,
+     "group": "LMV",
+     "reading": "heremi",
+     "matched": "eremi",
+     "lemma_printed": false
+    },
+    {
+     "text": "claudianus_raptus_proserpinae",
+     "leaf": 584,
+     "line": 153,
+     "group": "VW",
+     "reading": "Egeon",
+     "matched": "Aegaeon",
+     "lemma_printed": false
+    },
+    {
+     "text": "claudianus_raptus_proserpinae",
+     "leaf": 598,
+     "line": 910,
+     "group": "SW",
+     "reading": "phebe",
+     "matched": "Phoebe",
+     "lemma_printed": false
+    },
+    {
+     "text": "sidonius_carmina",
+     "leaf": 276,
+     "line": 1369,
+     "group": "CPT",
+     "reading": "roetheia",
+     "matched": "Rhoeteia",
+     "lemma_printed": false
+    },
+    {
+     "text": "eugippius_vita_severini",
+     "leaf": 38,
+     "line": 977,
+     "group": "MV",
+     "reading": "scafam",
+     "matched": "scapham",
+     "lemma_printed": false
+    },
+    {
+     "text": "claudianus_maior",
+     "leaf": 304,
+     "line": 2985,
+     "group": "BP",
+     "reading": "Inpetus",
+     "matched": "Impetus",
+     "lemma_printed": false
+    },
+    {
+     "text": "claudianus_raptus_proserpinae",
+     "leaf": 601,
+     "line": 1083,
+     "group": "CD",
+     "reading": "citherea",
+     "matched": "Cytherea",
+     "lemma_printed": false
+    },
+    {
+     "text": "marcellinus_comes_chronicon",
+     "leaf": 101,
+     "line": 1915,
+     "group": "ST",
+     "reading": "hisdem",
+     "matched": "iisdem",
+     "lemma_printed": false
+    },
+    {
+     "text": "isidorus_chronica_maiora",
+     "leaf": 468,
+     "line": 2185,
+     "group": "LY",
+     "reading": "zepherino",
+     "matched": "zeferino",
+     "lemma_printed": true
+    },
+    {
+     "text": "claudianus_maior",
+     "leaf": 323,
+     "line": 3984,
+     "group": "BV",
+     "reading": "Inpensi",
+     "matched": "Impensi",
+     "lemma_printed": false
+    },
+    {
+     "text": "claudianus_maior",
+     "leaf": 505,
+     "line": 13597,
+     "group": "BP",
+     "reading": "rene",
+     "matched": "Rhene",
+     "lemma_printed": false
+    },
+    {
+     "text": "ennodius_opera",
+     "leaf": 71,
+     "line": 246,
+     "group": "LV",
+     "reading": "annitente",
+     "matched": "adnitente",
+     "lemma_printed": false
+    },
+    {
+     "text": "eugippius_vita_severini",
+     "leaf": 49,
+     "line": 1568,
+     "group": "MV",
+     "reading": "ciuis",
+     "matched": "civis",
+     "lemma_printed": false
+    },
+    {
+     "text": "claudianus_maior",
+     "leaf": 465,
+     "line": 11460,
+     "group": "PV",
+     "reading": "ethiopum",
+     "matched": "Aethiopum",
+     "lemma_printed": false
+    },
+    {
+     "text": "isidorus_chronica_maiora",
+     "leaf": 455,
+     "line": 1478,
+     "group": "CDKNTXY",
+     "reading": "ptholomeus",
+     "matched": "Ptolomeus",
+     "lemma_printed": false
+    },
+    {
+     "text": "isidorus_chronica_maiora",
+     "leaf": 477,
+     "line": 2667,
+     "group": "PS",
+     "reading": "miche",
+     "matched": "micheae",
+     "lemma_printed": true
+    },
+    {
+     "text": "claudianus_maior",
+     "leaf": 305,
+     "line": 3035,
+     "group": "CV",
+     "reading": "lybiam",
+     "matched": "Libyam",
+     "lemma_printed": false
+    },
+    {
+     "text": "isidorus_chronica_maiora",
+     "leaf": 466,
+     "line": 2073,
+     "group": "BFKNPSTV",
+     "reading": "elius",
+     "matched": "Helius",
+     "lemma_printed": false
+    },
+    {
+     "text": "ennodius_opera",
+     "leaf": 89,
+     "line": 1157,
+     "group": "BLV",
+     "reading": "mihi",
+     "matched": "mi",
+     "lemma_printed": false
+    },
+    {
+     "text": "paulus_historia_romana",
+     "leaf": 293,
+     "line": 10008,
+     "group": "BH",
+     "reading": "euticetis",
+     "matched": "Eutychetis",
+     "lemma_printed": false
+    },
+    {
+     "text": "fortunatus_vita_martini",
+     "leaf": 366,
+     "line": 2408,
+     "group": "LS",
+     "reading": "limphas",
+     "matched": "lymphas",
+     "lemma_printed": false
+    },
+    {
+     "text": "historia_brittonum",
+     "leaf": 168,
+     "line": 1223,
+     "group": "NZ",
+     "reading": "enoc",
+     "matched": "Enoch",
+     "lemma_printed": false
+    },
+    {
+     "text": "ennodius_opera",
+     "leaf": 105,
+     "line": 1945,
+     "group": "BLV",
+     "reading": "mihi",
+     "matched": "mi",
+     "lemma_printed": true
+    },
+    {
+     "text": "victor_vitensis_historia",
+     "leaf": 35,
+     "line": 1412,
+     "group": "BL",
+     "reading": "fili",
+     "matched": "filii",
+     "lemma_printed": false
+    },
+    {
+     "text": "claudianus_raptus_proserpinae",
+     "leaf": 603,
+     "line": 1190,
+     "group": "ACF",
+     "reading": "uelud",
+     "matched": "velut",
+     "lemma_printed": false
+    },
+    {
+     "text": "jordanes_romana",
+     "leaf": 116,
+     "line": 2290,
+     "group": "PV",
+     "reading": "obtilam",
+     "matched": "Optilam",
+     "lemma_printed": false
+    },
+    {
+     "text": "claudianus_maior",
+     "leaf": 449,
+     "line": 10566,
+     "group": "PV",
+     "reading": "armis humeros",
+     "matched": "armis umeros",
+     "lemma_printed": false
+    },
+    {
+     "text": "sidonius_carmina",
+     "leaf": 255,
+     "line": 241,
+     "group": "CMP",
+     "reading": "deprehensas",
+     "matched": "deprensas",
+     "lemma_printed": false
+    }
+   ]
+  },
+  "broad": {
+   "n": 2578,
+   "drawn": [
+    {
+     "text": "ennodius_opera",
+     "leaf": 126,
+     "line": 3052,
+     "group": "LV",
+     "reading": "discriptoribus",
+     "matched": "descriptoribus",
+     "lemma_printed": false
+    },
+    {
+     "text": "paulus_historia_romana",
+     "leaf": 292,
+     "line": 9949,
+     "group": "HV",
+     "reading": "athalarico",
+     "matched": "Athalaricum",
+     "lemma_printed": false
+    },
+    {
+     "text": "sidonius_carmina",
+     "leaf": 309,
+     "line": 3071,
+     "group": "CP",
+     "reading": "endecasillabis",
+     "matched": "hendecasyllabis",
+     "lemma_printed": false
+    },
+    {
+     "text": "jordanes_romana",
+     "leaf": 100,
+     "line": 1400,
+     "group": "HV",
+     "reading": "gallienos",
+     "matched": "Gallienus",
+     "lemma_printed": false
+    },
+    {
+     "text": "ennodius_opera",
+     "leaf": 177,
+     "line": 5687,
+     "group": "CTV",
+     "reading": "suggerit",
+     "matched": "suggerit!***",
+     "lemma_printed": false
+    },
+    {
+     "text": "ennodius_opera",
+     "leaf": 99,
+     "line": 1644,
+     "group": "PTV",
+     "reading": "domine",
+     "matched": "domini",
+     "lemma_printed": false
+    },
+    {
+     "text": "isidorus_chronica_maiora",
+     "leaf": 462,
+     "line": 1857,
+     "group": "BDKPTXYZ",
+     "reading": "coepit",
+     "matched": "cepit",
+     "lemma_printed": false
+    },
+    {
+     "text": "victor_vitensis_historia",
+     "leaf": 28,
+     "line": 1015,
+     "group": "BR",
+     "reading": "chartagini",
+     "matched": "Carthagini",
+     "lemma_printed": false
+    },
+    {
+     "text": "paulus_historia_romana",
+     "leaf": 285,
+     "line": 9558,
+     "group": "NZ",
+     "reading": "decidente",
+     "matched": "decedente",
+     "lemma_printed": false
+    },
+    {
+     "text": "paulus_historia_romana",
+     "leaf": 292,
+     "line": 9946,
+     "group": "HMNVZ",
+     "reading": "constantinopolim",
+     "matched": "Constantinopoli",
+     "lemma_printed": false
+    },
+    {
+     "text": "claudianus_maior",
+     "leaf": 301,
+     "line": 2805,
+     "group": "BP",
+     "reading": "cahos",
+     "matched": "chaos",
+     "lemma_printed": false
+    },
+    {
+     "text": "claudianus_maior",
+     "leaf": 527,
+     "line": 14631,
+     "group": "AP",
+     "reading": "honus",
+     "matched": "onus",
+     "lemma_printed": false
+    },
+    {
+     "text": "claudianus_maior",
+     "leaf": 473,
+     "line": 11877,
+     "group": "PV",
+     "reading": "Italia",
+     "matched": "Italiam",
+     "lemma_printed": false
+    },
+    {
+     "text": "claudianus_raptus_proserpinae",
+     "leaf": 621,
+     "line": 2190,
+     "group": "SV",
+     "reading": "dyana",
+     "matched": "Diana",
+     "lemma_printed": false
+    },
+    {
+     "text": "isidorus_chronica_maiora",
+     "leaf": 469,
+     "line": 2235,
+     "group": "CKLPSY",
+     "reading": "regnauit",
+     "matched": "regnavit",
+     "lemma_printed": false
+    },
+    {
+     "text": "claudianus_maior",
+     "leaf": 563,
+     "line": 16613,
+     "group": "JPR",
+     "reading": "disponderat",
+     "matched": "desponderat",
+     "lemma_printed": true
+    },
+    {
+     "text": "ennodius_opera",
+     "leaf": 103,
+     "line": 1841,
+     "group": "BV",
+     "reading": "midetur",
+     "matched": "medetur",
+     "lemma_printed": false
+    },
+    {
+     "text": "paulus_historia_romana",
+     "leaf": 261,
+     "line": 8220,
+     "group": "NZ",
+     "reading": "extremo",
+     "matched": "extremum",
+     "lemma_printed": false
+    },
+    {
+     "text": "fortunatus_vita_martini",
+     "leaf": 347,
+     "line": 1376,
+     "group": "NP",
+     "reading": "inquid",
+     "matched": "inquit",
+     "lemma_printed": false
+    },
+    {
+     "text": "claudianus_maior",
+     "leaf": 317,
+     "line": 3644,
+     "group": "BC",
+     "reading": "Detergit",
+     "matched": "Deterget",
+     "lemma_printed": false
+    },
+    {
+     "text": "isidorus_chronica_maiora",
+     "leaf": 442,
+     "line": 762,
+     "group": "MY",
+     "reading": "pennis",
+     "matched": "pinnis",
+     "lemma_printed": false
+    },
+    {
+     "text": "ennodius_opera",
+     "leaf": 183,
+     "line": 5994,
+     "group": "LTV",
+     "reading": "promtu",
+     "matched": "promptu",
+     "lemma_printed": false
+    },
+    {
+     "text": "ennodius_opera",
+     "leaf": 312,
+     "line": 12092,
+     "group": "CLTV",
+     "reading": "deseret",
+     "matched": "deserit",
+     "lemma_printed": false
+    },
+    {
+     "text": "paulus_historia_romana",
+     "leaf": 268,
+     "line": 8602,
+     "group": "BV",
+     "reading": "exercitum",
+     "matched": "exercitu",
+     "lemma_printed": false
+    },
+    {
+     "text": "victor_vitensis_historia",
+     "leaf": 40,
+     "line": 1683,
+     "group": "BV",
+     "reading": "fili",
+     "matched": "filii",
+     "lemma_printed": false
+    },
+    {
+     "text": "claudianus_maior",
+     "leaf": 479,
+     "line": 12189,
+     "group": "BP",
+     "reading": "Retulit",
+     "matched": "Rettulit",
+     "lemma_printed": false
+    },
+    {
+     "text": "isidorus_historia_gothorum",
+     "leaf": 285,
+     "line": 731,
+     "group": "NP",
+     "reading": "abito",
+     "matched": "Avito",
+     "lemma_printed": false
+    },
+    {
+     "text": "isidorus_historia_gothorum",
+     "leaf": 288,
+     "line": 889,
+     "group": "AMNO",
+     "reading": "mouet",
+     "matched": "mouit",
+     "lemma_printed": true
+    },
+    {
+     "text": "ennodius_opera",
+     "leaf": 331,
+     "line": 13100,
+     "group": "LV",
+     "reading": "remississet",
+     "matched": "remisisset",
+     "lemma_printed": false
+    },
+    {
+     "text": "ennodius_opera",
+     "leaf": 260,
+     "line": 9594,
+     "group": "LV",
+     "reading": "destare",
+     "matched": "distare",
+     "lemma_printed": false
+    },
+    {
+     "text": "victor_vitensis_historia",
+     "leaf": 59,
+     "line": 2704,
+     "group": "BV",
+     "reading": "robore",
+     "matched": "rubore",
+     "lemma_printed": false
+    },
+    {
+     "text": "historia_brittonum",
+     "leaf": 182,
+     "line": 2296,
+     "group": "CDGLPQZ",
+     "reading": "arcem",
+     "matched": "arce",
+     "lemma_printed": false
+    },
+    {
+     "text": "ennodius_opera",
+     "leaf": 136,
+     "line": 3574,
+     "group": "LV",
+     "reading": "uniuersus",
+     "matched": "universos",
+     "lemma_printed": false
+    },
+    {
+     "text": "isidorus_chronica_maiora",
+     "leaf": 451,
+     "line": 1244,
+     "group": "CPX",
+     "reading": "babyllone",
+     "matched": "Babylone",
+     "lemma_printed": false
+    },
+    {
+     "text": "claudianus_raptus_proserpinae",
+     "leaf": 621,
+     "line": 2182,
+     "group": "SV",
+     "reading": "hiis",
+     "matched": "His",
+     "lemma_printed": false
+    },
+    {
+     "text": "claudianus_maior",
+     "leaf": 280,
+     "line": 1689,
+     "group": "AP",
+     "reading": "Ruffinus",
+     "matched": "Rufinus",
+     "lemma_printed": false
+    },
+    {
+     "text": "claudianus_raptus_proserpinae",
+     "leaf": 618,
+     "line": 2013,
+     "group": "CD",
+     "reading": "citherea",
+     "matched": "Cytherea",
+     "lemma_printed": false
+    },
+    {
+     "text": "ennodius_opera",
+     "leaf": 199,
+     "line": 6759,
+     "group": "BCLV",
+     "reading": "refunderit",
+     "matched": "refunderet",
+     "lemma_printed": false
+    },
+    {
+     "text": "victor_vitensis_historia",
+     "leaf": 15,
+     "line": 308,
+     "group": "BV",
+     "reading": "abetdeum",
+     "matched": "Habetdeum",
+     "lemma_printed": false
+    },
+    {
+     "text": "fortunatus_vita_martini",
+     "leaf": 376,
+     "line": 2902,
+     "group": "NP",
+     "reading": "trotinauit",
+     "matched": "trutinavit",
+     "lemma_printed": false
+    }
+   ]
+  }
+ },
+ "lemma_coverage": {
+  "isidorus_chronica_maiora": {
+   "shared_departures": 1497,
+   "with_printed_lemma": 456
+  },
+  "claudianus_raptus_proserpinae": {
+   "shared_departures": 664,
+   "with_printed_lemma": 133
+  },
+  "prosper_epitoma_chronicon": {
+   "shared_departures": 901,
+   "with_printed_lemma": 326
+  },
+  "historia_brittonum": {
+   "shared_departures": 1666,
+   "with_printed_lemma": 1118
+  },
+  "isidorus_historia_gothorum": {
+   "shared_departures": 490,
+   "with_printed_lemma": 189
+  },
+  "fortunatus_vita_martini": {
+   "shared_departures": 746,
+   "with_printed_lemma": 340
+  },
+  "claudianus_maior": {
+   "shared_departures": 1782,
+   "with_printed_lemma": 300
+  },
+  "sidonius_carmina": {
+   "shared_departures": 414,
+   "with_printed_lemma": 29
+  },
+  "ennodius_opera": {
+   "shared_departures": 1455,
+   "with_printed_lemma": 242
+  },
+  "paulus_historia_romana": {
+   "shared_departures": 721,
+   "with_printed_lemma": 82
+  },
+  "victor_vitensis_historia": {
+   "shared_departures": 721,
+   "with_printed_lemma": 197
+  },
+  "jordanes_romana": {
+   "shared_departures": 334,
+   "with_printed_lemma": 106
+  },
+  "eugippius_vita_severini": {
+   "shared_departures": 339,
+   "with_printed_lemma": 75
+  },
+  "marcellinus_comes_chronicon": {
+   "shared_departures": 222,
+   "with_printed_lemma": 75
+  }
+ }
+}

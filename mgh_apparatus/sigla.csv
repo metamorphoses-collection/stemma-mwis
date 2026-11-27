@@ -1,0 +1,478 @@
+text_id,siglum,manuscript,date,role
+acta_synhodorum_romae_499_501_502,A,Vaticanus reginae 1997 (sylloge Teatina),s. VIII,direct
+acta_synhodorum_romae_499_501_502,B,Berolinensis Phillippsianus 1743,s. VIII,direct
+acta_synhodorum_romae_499_501_502,F,Monacensis 5508 (Diessensis),s. IX,direct
+acta_synhodorum_romae_499_501_502,T,Parisinus 1564 (Pithoeanus),s. IX,direct
+acta_synhodorum_romae_499_501_502,E,Vaticanus 5845 (Dionysiana aucta),s. VIII,direct
+acta_synhodorum_romae_499_501_502,C,Ambrosianus S. 33 sup. (Bobiensis),s. IX,direct
+acta_synhodorum_romae_499_501_502,H,"Parisinus 8921 (Dionysio-Hadriana, contaminated)",s. VIII,direct
+acta_synhodorum_romae_499_501_502,G,"Parisinus 11710 (Dionysio-Hadriana, contaminated)",a. 805,direct
+acta_synhodorum_romae_499_501_502,D,"Vaticanus 1342 (Dionysio-Hadriana, contaminated)",s. IX,direct
+acta_synhodorum_romae_499_501_502,M,"Romanus Vallicellianus A 5 (Dionysio-Hadriana, contaminated)",s. IX/X,direct
+acta_synhodorum_romae_499_501_502,K,Coloniensis 212 (excerpts of synod 502 only),s. VII,indirect
+acta_synhodorum_romae_499_501_502,V,Vaticanus Palatinus 574 (excerpts of synod 502 only),s. IX,indirect
+aldhelm_aenigmata,A,"Petropolitanus Q I 15, olim Corbeiensis",s. VIII,direct
+aldhelm_aenigmata,R,"Petropolitanus F XIV 1, olim Corbeiensis (OCR 'B'/'It')",s. VIII/IX,direct
+aldhelm_aenigmata,K,Caroliruhensis Aug. LXXXV,s. VIII/IX,direct
+aldhelm_aenigmata,N,Vaticano-Palatinus 1753 (Nazarianus),s. IX,direct
+aldhelm_aenigmata,B1,"Britannicus Regius 15 A XVI, olim Cantuariensis",s. IX,direct
+aldhelm_aenigmata,B2,Britannicus Regius 12 C XXIII,s. X in.,direct
+aldhelm_aenigmata,S,fragmenta Sangallensia 1394,s. IX,direct
+aldhelm_aenigmata,S1,Sangallensis 242,s. IX,direct
+aldhelm_aenigmata,P,Parisinus lat. 16700,s. IX/X,direct
+aldhelm_aenigmata,O,Lipsiensis 74 (siglum uncertain in OCR: '0'),s. IX/X,direct
+aldhelm_aenigmata,E,"Oxoniensis Rawlinson C 697, olim Bury St. Edmunds",s. IX/X,direct
+aldhelm_aenigmata,P1,"Parisinus lat. 2339, olim Lemovicensis",s. X in.,direct
+aldhelm_aenigmata,L,"Vossianus lat. 8° 15, olim Lemovicensis (ex P1 descriptus)",s. X/XI,direct
+aldhelm_aenigmata,S2,"Bremensis 32, olim Sangallensis",s. X,direct
+aldhelm_aenigmata,V,Vaticano-Reginensis 2078,s. X,direct
+aldhelm_aenigmata,P2,Parisinus lat. 7540,s. X,direct
+aldhelm_aenigmata,P4,Parisinus lat. 8440 (superscript number uncertain in OCR),s. X/XI,direct
+aldhelm_aenigmata,e,Einsidlensis 302,s. X,direct
+aldhelm_aenigmata,C,"Cantabrigiensis Gg V 35, olim Cantuariensis",s. XI,direct
+aldhelm_aenigmata,P3,Parisinus lat. 2773 (superscript number uncertain in OCR),s. XI,direct
+aldhelm_aenigmata,F,Bruxellensis 4433-38,s. X,direct
+aldhelm_aenigmata,F1,"Bruxellensis 10615-729, olim Cusanus",s. XII,direct
+aldhelm_aenigmata,F2,"Bruxellensis 9799-809, olim Cusanus (ex F1 descriptus)",s. XII,direct
+aldhelm_aenigmata,G,Gudianus 331,s. X/XI,direct
+aldhelm_aenigmata,D,ed. Delrio 1601 ex codice Leodiensi deperdito (et corrector eius),1601,indirect
+aldhelm_carmina_ecclesiastica,A,"Berolinensis 167 = Phillippicus 1825, olim St. Albini Andegavensis (also centones Andegavenses)",s. IX,direct
+aldhelm_carmina_ecclesiastica,P,"Parisinus lat. 8318, fol. 75-80",s. X,direct
+aldhelm_carmina_ecclesiastica,V,Vaticano-Reginensis 251 (S. Benigni Divionensis),s. X,direct
+aldhelm_carmina_ecclesiastica,S,Sangallensis 899,s. IX ex.,direct
+aldhelm_carmina_ecclesiastica,Quercetanus,ed. A. Quercetani (Paris 1617) ex codice Bertiniano deperdito,1617,indirect
+aldhelm_carmina_ecclesiastica,F,"Faricius, Vita Aldhelmi (carm. I only)",s. XII in.,indirect
+aldhelm_carmina_ecclesiastica,W,"Willelmus Malmesburiensis, Gesta pontificum V 197 (carm. I only)",1125,indirect
+aldhelm_de_metris_tractatus,K,"Caroliruhensis Aug. LXXXV, olim Augiensis",s. VIII/IX,direct
+aldhelm_de_metris_tractatus,P1,"Parisinus lat. 2339, olim Lemovicensis",s. X in.,direct
+aldhelm_de_metris_tractatus,S,fragmenta Sangallensia 1394,s. IX,direct
+aldhelm_de_metris_tractatus,N,"Vaticano-Palatinus 1753, olim Nazarianus (Lorsch)",s. IX,direct
+aldhelm_de_metris_tractatus,A1,"Valentinianus 378, olim St. Amandinus (first part only)",s. IX/X,direct
+aldhelm_de_metris_tractatus,A,"Valentinianus 376, olim St. Amandinus (De pedum regulis part only)",s. IX/X,direct
+aldhelm_de_metris_tractatus,F,Bruxellensis 4433-38,s. X,direct
+aldhelm_de_metris_tractatus,F1,"Bruxellensis 9581-95, olim Cusanus (OCR F'/F^; probably ex F)",s. X,direct
+aldhelm_de_metris_tractatus,b,"Leidensis 490 Perizonii, apographon codicis Bertiniani deperditi",s. XVIII,direct
+aldhelm_de_metris_tractatus,D,ed. Delrio ex codice Leodiensi deperdito (prologue parts only),1601,indirect
+aldhelm_de_metris_tractatus,Mai,ed. A. Mai 1833 (ex N),1833,indirect
+aldhelm_de_virginitate_carmen,A,"Gothanus I 75, olim Murbacensis",s. VIII,direct
+aldhelm_de_virginitate_carmen,R,"Petropolitanus F XIV 1, olim Corbeiensis (excerpta)",s. VIII/IX,indirect
+aldhelm_de_virginitate_carmen,B,Bruxellensis 4433,s. X,direct
+aldhelm_de_virginitate_carmen,N,"Parisinus lat. 16668, olim Nazarianus",s. IX,direct
+aldhelm_de_virginitate_carmen,P1,"Parisinus lat. 2339, olim Lemovicensis",s. IX/X,direct
+aldhelm_de_virginitate_carmen,P,Parisinus lat. 16700,s. IX/X,direct
+aldhelm_de_virginitate_carmen,S,"Turicensis C 59/274, olim Sangallensis",s. IX,direct
+aldhelm_de_virginitate_carmen,S1,Sangallensis 242,s. IX/X,direct
+aldhelm_de_virginitate_carmen,S2,Sangallensis 263,s. X,direct
+aldhelm_de_virginitate_carmen,W,"Bodleianus 49, olim Wintonensis",s. X ex.,direct
+aldhelm_de_virginitate_carmen,O,Bodleianus 577,s. XI,direct
+aldhelm_de_virginitate_carmen,E,"Rawlinson C 697, olim Bury St. Edmunds",s. IX/X,direct
+aldhelm_de_virginitate_carmen,C1,Cantabrigiensis Corporis Christi 285,s. XI,direct
+aldhelm_de_virginitate_carmen,C,"Cantabrigiensis Gg V 35, olim Cantuariensis",s. XI,direct
+aldhelm_de_virginitate_carmen,M,Monacensis 23486 (fragmenta),s. XI,direct
+aldhelm_de_virginitate_carmen,V,"Vindobonensis 969 (OCR '989'), olim Moguntinus",s. X,direct
+aldhelm_de_virginitate_carmen,G,Gandensis 264,s. XII,direct
+aldhelm_de_virginitate_carmen,p,Pommersfeldensis 2883,a. 1494,direct
+aldhelm_de_virginitate_carmen,b,excerpta Bambergensia B II 10 (Alcuin),s. X,indirect
+aldhelm_de_virginitate_carmen,Werth.,fragmentum Wertheimense olim Grunachiense (siglum illegible in OCR),s. IX,direct
+aldhelm_de_virginitate_carmen,Faber,"ed. princeps J. Faber, Deventer 1513 (ex codice Coloniensi deperdito)",1513,indirect
+aldhelm_de_virginitate_prosa,A,Wirceburgensis M. th. f. 21 (scr. pro Gozbaldo episc.),s. IX,direct
+aldhelm_de_virginitate_prosa,G,Guelferbytanus Helmstedt. 365 (ex A descriptus),s. X,direct
+aldhelm_de_virginitate_prosa,A1,fragmenta Cantabrigiensia (Jenkinson),s. VIII/IX,direct
+aldhelm_de_virginitate_prosa,Oxon,fragmentum Oxoniense Ms. lat. th. f. 4,s. X,direct
+aldhelm_de_virginitate_prosa,P,"Phillippicus, nunc Cheltenham 8071 (+ fragmenta Cantabrigiensia Add. 3330)",s. IX,direct
+aldhelm_de_virginitate_prosa,B,"Bruxellensis 1650, in Anglia scriptus (Brux. 4164-66, s. XVII, ex hoc descriptus)",s. X,direct
+aldhelm_de_virginitate_prosa,O,"Bodleianus Digby 146, olim Abendoniensis",s. X,direct
+aldhelm_de_virginitate_prosa,C1,"Bodleianus 97, olim Cantuariensis",s. XI,direct
+aldhelm_de_virginitate_prosa,L,"Lambethanus 200, olim Walthamiensis",s. X,direct
+aldhelm_de_virginitate_prosa,H,"Herefordensis P I 17, olim Cirencestrensis",s. XII,direct
+aldhelm_de_virginitate_prosa,R1,Britannicus Regius 5 F III (siglum uncertain in OCR),s. X,direct
+aldhelm_de_virginitate_prosa,C2,"Cantabrigiensis Corporis Christi 326, olim Cantuariensis",s. X,direct
+aldhelm_de_virginitate_prosa,S,Sarisberiensis,s. XI,direct
+aldhelm_de_virginitate_prosa,R2,Britannicus Regius 7 D XXIV,s. X,direct
+aldhelm_de_virginitate_prosa,R3,Britannicus Regius 6 A VI,s. XI,direct
+aldhelm_de_virginitate_prosa,R4,Britannicus Regius 5 E XI,s. XI,direct
+aldhelm_de_virginitate_prosa,R5,Britannicus Regius 6 B VII,s. XII in.,direct
+ausonius_opuscula,T,Tilianus = Leidensis Vossianus Q 107 (prius genus),s. XV,direct
+ausonius_opuscula,M,"Magliabecchianus I 6, 29 (prius genus)",,direct
+ausonius_opuscula,λ,"Laurentianus LI 13, Magliabecchiani apographum (OCR siglum uncertain)",,direct
+ausonius_opuscula,ω (deteriores),"prius genus deteriores: Escorialensis III S 25 (e), Regius Kings 31 (k), Laurentianus XXXIII 19 (l), Magliabecchianus VII 8,315 (m), Patavinus C 64 (p), Perusinus J 102 (p2), Urbinas 649 (u), Vaticanus 1611 (v), Vaticanus 3152 (v2); group siglum garbled in OCR",s. XV,direct
+ausonius_opuscula,b2/y/g2/μ/p3,"codices excerptorum (Barberinus 815, Augustanus 10.9, Gudianus 145, Marcianus XII 8, Parisinus 18275)",,indirect
+ausonius_opuscula,a/h2/p4,"apographa librorum impressorum (Ambrosianus P 83 sup., Harleianus 2578, Parisinus 8284)",,indirect
+ausonius_opuscula,C,Cantabrigiensis 2070 (univ. Kk. V 34),,direct
+ausonius_opuscula,E/Med./Ven./Ug./Par./Iunt./Ald./Basil./Lugd.,early editions (ed. princeps 1472 etc.),,indirect
+ausonius_opuscula,V,Leidensis Vossianus lat. F 111 (alterum genus),s. IX,direct
+ausonius_opuscula,P,Parisinus lat. 8500 (alterum genus),s. XIV,direct
+ausonius_opuscula,h,Harleianus 2613 (from P),s. XV,direct
+ausonius_opuscula,Q,Leidensis Vossianus Q 33 (Technopaegnion only; from same archetype as VP),s. X,direct
+ausonius_opuscula,π/β/n,"Paulinus codices: Parisinus 7558 (s. IX), Bruxellensis 10703/5 (s. XII), Parisinus 2122 Puteaneus (s. X) (epistulae ad Paulinum; OCR sigla garbled)",,direct
+ausonius_opuscula,G,Sangallensis 899 (Mosella florilegium),s. X,direct
+ausonius_opuscula,B,Bruxellensis 5369/73 (Gemblacensis),s. XII,direct
+ausonius_opuscula,W,Parisinus 4887 eiusque apographa,s. XII,direct
+ausonius_opuscula,R,Regius mus. Brit. 15 B XIX (few pieces),,direct
+ausonius_opuscula,Z,consensus siglum used in apparatus (e.g. 'GBWZ'),,direct
+avitus_carmina,N,"Laudunensis 279 (ordo I, Laurissensis family; books I-IV)",s. IX in.,direct
+avitus_carmina,n,Laudunensis 273 (ordo I; cited only where it differs from N),s. IX ex.,direct
+avitus_carmina,P,"Parisinus lat. 11326 (ordo I, derived from a Laudunensis or its brother)",s. XI/XII,direct
+avitus_carmina,p,Parisinus lat. 14758 (S. Victoris; mixed from two families; raro laudatus),s. XIII,direct
+avitus_carmina,L,"Leidensis Vossianus lat. Q 86 (ordo II, the Cluniacensis survivor)",s. IX,direct
+avitus_carmina,R,Vaticanus Reginae 2078 (ordo III),s. IX-X,direct
+avitus_carmina,F,"Laurentianus pl. XXXIII cod. 20 (ordo III, cognate with R)",s. X,direct
+avitus_carmina,K?,Gratianopolitanus c. 95 (book VI only; siglum uncertain in OCR),s. XII,direct
+avitus_carmina,Gagn.,"editio Gagneii 1536 from lost Viennensis codex (ordo III, cognate with Sangallenses)",1536,indirect
+avitus_carmina,G,"Sangallensis 197 (Germanici, β)",s. IX,direct
+avitus_carmina,g,Sangallensis 198 (copy of G),s. X,direct
+avitus_carmina,D,"Augustanus, nunc Dresdensis (from G)",s. X,direct
+avitus_carmina,V,Vindobonensis 2132,s. XI,direct
+avitus_carmina,M,"Monacensis lat. 330 (β, interpolated from α)",s. XI,direct
+avitus_carmina,E,Monacensis lat. 14420 (S. Emmerami),s. XII,direct
+avitus_carmina,B,Monacensis lat. 4652 (Benedictoburanus),s. XI/XII,direct
+avitus_carmina,T,Monacensis lat. 19450 (Tegernseensis; siglum assumed),s. X,direct
+avitus_carmina,α / β / ω,"group sigla: Gallicani, Germanici, consensus potiorum",,direct
+cassiodorus_chronica,P,Parisinus lat. 4860 (olim Moguntiacensis),saec. X (a. 939-954),direct
+cassiodorus_chronica,M,Monacensis 14613 (olim S. Emmerami),saec. XI,direct
+cassiodorus_chronica,C,consensus of P and M,,direct
+cassiodorus_chronica,Cusp.,"excerpta apud Cuspinianum, de consulibus Romanorum, Basel 1553 (from the lost Reichenau archetype)",1553,indirect
+cassiodorus_chronica,Herm.,excerpta Cassiodorana apud Hermannum Contractum,,indirect
+cassiodorus_variae,L,Leidensis Vulcanianus 46,s. XII,direct
+cassiodorus_variae,R,Monacensis 13072,s. XII,direct
+cassiodorus_variae,K,"Florentinus Laurentianus 89,23",s. XIII,direct
+cassiodorus_variae,P,Vaticanus Palatinus 273,s. XII,direct
+cassiodorus_variae,D,Berolinensis Diezianus (books I-V excerpts),s. XIII,direct
+cassiodorus_variae,M,Montispessulanus 294,s. XII,direct
+cassiodorus_variae,O,Romanus Angelicanus V 4.7,s. XII,direct
+cassiodorus_variae,N,Neapolitanus IV.B.41,s. XIII,direct
+cassiodorus_variae,X,Montispessulanus 4 (lectio selecta),s. XII/XIII,direct
+cassiodorus_variae,Z,Parisinus 2185 A (I 1-23; VIII-XII),s. XIII,direct
+cassiodorus_variae,T,Breslaviensis 63 (VI-VIII 10),s. XIV,direct
+cassiodorus_variae,U,"Caesenas 13,3 (VI-VII 42)",s. XV,direct
+cassiodorus_variae,B,Bruxellensis 10018 (VII 42-XII),s. XII,direct
+cassiodorus_variae,D (Halense),fragmentum Halense (IX 17-18); same letter D as Diezianus,s. XI,direct
+cassiodorus_variae,E,Florentinus Laurentianus 16 sin. 11 (class 6),s. XIV,direct
+cassiodorus_variae,F,"Florentinus Laurentianus 45,11 (class 6)",s. XIV,direct
+cassiodorus_variae,C,"Ambrosianus A 210 inf. (VIII 1-10, 42-47; class 6)",s. XV,direct
+cassiodorus_variae,"I (Ip, Iw)",epitome: Pragensis univ. + Vindobonensis 407,s. XIV,direct
+cassiodorus_variae,H,epitome: Oxoniensis coll. Magdalenae 166,s. XIII,direct
+cassiodorus_variae,G,epitome: Londiniensis reg. 8 B XIX,s. XIII,direct
+cassiodorus_variae,A,editio Accursiana (with cod. Breslaviensis 62 s. XIV),1533 ed.,indirect
+chronica_gallica_452,L,Londiniensis musei Britannici Add. 16974 (olim S. Trudonis),saec. X (sigla list: IX),direct
+chronica_gallica_452,B,Bambergensis E III 18,saec. XI,direct
+chronica_gallica_452,M,Monacensis universitatis 6 (olim Weissenburgensis),saec. XI,direct
+chronica_gallica_452,Sig.,codices Sigebertiani (Sigebert of Gembloux's lost exemplar and its many copies),,indirect
+claudianus_maior,V,Vaticanus lat. 2809,saec. XI,direct
+claudianus_maior,P,Parisinus lat. 18552,saec. XIII (init. vel XII),direct
+claudianus_maior,C,Bruxellensis 5380-5384 (conspectus: 5381),saec. XI,direct
+claudianus_maior,Π,Parisinus lat. 8082 (conspectus OCR: 8083),saec. XIII,direct
+claudianus_maior,B,Neapolitanus (Farnesianus) IV E 47,saec. XIII,direct
+claudianus_maior,A,Ambrosianus S 66 sup. (printed 'J' in the OCR of the carmina maiora conspectus),saec. XV,direct
+claudianus_maior,J,"Cantabrigiensis coll. Trinitatis O.3.22 (carmina minora only, where A deficit)",saec. XIII,direct
+claudianus_maior,R,Veronensis 163 (carmina minora only; OCR often 'U'/'B'),saec. IX,direct
+claudianus_maior,E (carm. min.),Mediceus (Laurentianus) plut. 33 cod. 9,saec. XV,direct
+claudianus_maior,G,Sangallensis 429 (Gigantomachia only); also Reginensis 123 (De Nilo only) is signed G,saec. IX / a. 1056,direct
+claudianus_maior,M,Ambrosianus M 9 sup. (raro adhibitus),saec. XIII (maiora conspectus: XII),direct
+claudianus_maior,Em,"excerpta Florentina in margine editionis Vicentinae (1482), Florence BN A 1, 56",saec. XV hand,indirect
+claudianus_maior,E (carm. mai.),correcturae eiusdem manus in eodem Vicentinae exemplari,saec. XV hand,indirect
+claudianus_maior,"A (script, editio Vicentina)",editio princeps Vicentina 1482 (with hands A1 A2 A3),1482,indirect
+claudianus_maior,e/f,"excerpta Gyraldina in margine Aldinae, Lugdunensis 757 G 2",,indirect
+claudianus_raptus_proserpinae,F,Florentinus bibl. S. Crucis pl. XXIV sin. 12,saec. XII,direct
+claudianus_raptus_proserpinae,V,Antverpiensis N 71 (non ubique adhibitus),saec. XIII (conspectus: XIV),direct
+claudianus_raptus_proserpinae,S,Parisinus lat. 15005,saec. XIII vel XIV,direct
+claudianus_raptus_proserpinae,C,Cantabrigiensis coll. Corporis Christi 228,saec. XIII,direct
+claudianus_raptus_proserpinae,A,Oxoniensis Bodleianus Auct. F.2.16 ('A meus'; conspectus OCR prints 'J: ... Auct. J.2.16'),saec. XIII,direct
+claudianus_raptus_proserpinae,B,Oxoniensis Bodleianus Auct. F.1.15 pars tertia (so the preface; OCR conspectus reads 'eiusdem codicis pars tertia'),saec. XIII,direct
+claudianus_raptus_proserpinae,D,Musei Britannici 6042,saec. XIII,direct
+claudianus_raptus_proserpinae,W,Antverpiensis III 59,saec. XII-XIII,direct
+claudianus_raptus_proserpinae,e/f,"excerpta Gyraldina in margine Aldinae, Lugdunensis 757 G 2",,indirect
+dracontius_laudes_dei,B,"Bruxellensis bibl. reg. 10615-729 (pars 10723), olim Nicolai Cusani",s. XII,direct
+dracontius_laudes_dei,B2,"corrector of B (librarius ipse, later ink)",s. XII,corrector_hand
+dracontius_laudes_dei,M,Vaticanus lat. 3853 (ex B descriptus),s. XV,direct
+dracontius_laudes_dei,V,Vaticanus lat. 5884 (OCR '588 1'/'6884'; ex M correcto descriptus),s. XV,direct
+dracontius_laudes_dei,R,Rehdigeranus bybl. municip. Vratisl. 59 (ex V descriptus),s. XV,direct
+dracontius_laudes_dei,U,Vaticanus Urbinas lat. (no. garbled in OCR) (ex R descriptus),a. 1481,direct
+dracontius_laudes_dei,C,"centones Claromontani, cod. Berolinensis Meerman-Phillipps 1824 (excerpta)",s. IX,indirect
+dracontius_laudes_dei,A,"excerpta Alconii (Alcuini) levitae De laude dei, cod. Bambergensis B II 10 (libri II-III only)",s. X,indirect
+dracontius_laudes_dei,G,"florilegium/heptaemeron ex versibus Draconti, cod. Paris. lat. 8093 f. 15 (book I only)",s. VIII/IX,indirect
+dracontius_laudes_dei,Eug,"recensio Eugenii Toletani (hexaemeron = book I v. 118-754; codd. M F P L Q, see eugenius_dracontiana)",s. VII,indirect
+dracontius_orestis,B,"Bernensis Bongarsianus 45, fol. 52-59",s. IX,direct
+dracontius_orestis,A,"Ambrosianus O 74 sup. (apographon codicis Enochi Asculani, interpolatus)",s. XV,direct
+dracontius_orestis,floril.,"florilegium 'Proverbia Horestis' (codd. Leidensis Voss./Vulc. 48, Berolinensis Santen. 60, Harleianus 2745, frg. Buxheim; sub-sigla L X H D in its own apparatus)",s. XI/XII (codd. s. XIII-XIV),indirect
+dracontius_satisfactio,V,"Vaticanus Reginensis lat. 1267, fol. 143-150 (Beneventan script)",s. IX,direct
+dracontius_satisfactio,V2,manus secunda antiqua in V,,corrector_hand
+dracontius_satisfactio,D,"Darmstadensis 3303 (only v. 1-80, partly illegible)",s. IX,direct
+dracontius_satisfactio,Eug,recensio Eugenii Toletani (codd. M F P; printed in parallel),s. VII,indirect
+ennodius_opera,B,Bruxellensis 9845-9848,s. IX,direct
+ennodius_opera,V,Vaticanus lat. 3803,s. IX ex./X in.,direct
+ennodius_opera,L,Lambethanus 325,s. X,direct
+ennodius_opera,T,Trecensis (658 + further fasc.; Clairvaux),s. XII/XIII,direct
+ennodius_opera,C,Vaticanus Reginae (ex bibl. Christinae; shelfmark garbled in OCR),s. XIV,direct
+ennodius_opera,O,Ottobonianus 687 (ff. 13-28),s. XIII,direct
+ennodius_opera,P,Vindobonensis 745,s. XV,direct
+ennodius_opera,V2/Va/Vb,later hands in V,,corrector_hand
+ennodius_opera,Pseudo-Isidorus,"decretales Pseudo-Isidorianae (c. 850), excerpts",c. 850,indirect
+ennodius_opera,b,editio princeps Basileae 1569,1569,indirect
+eugenius_carmina,Ma,"Matritensis bybl. nat. 14,22, conlectio prior fol. 53 (visigoth.)",s. X,direct
+eugenius_carmina,Mb,"Matritensis 14,22, conlectio altera fol. 62",s. X,direct
+eugenius_carmina,Λ,"fragmenta Legionensia, León Catedral frg. 8 (OCR 'A'/'.1')",s. X,direct
+eugenius_carmina,L,"Legionensis, León Catedral 22 (nunc 21)",s. X,direct
+eugenius_carmina,F,Parisinus lat. 8093 (olim Fabri),s. IX,direct
+eugenius_carmina,P,Parisinus lat. 2832,s. IX,direct
+eugenius_carmina,C,Parisinus lat. 7540 (olim Colbertinus) — florilegium Ψ,s. X,direct
+eugenius_carmina,R,Vaticanus Reg. lat. 2078 — florilegium Ψ,s. IX/X,direct
+eugenius_carmina,T,Parisinus lat. 8071 (olim Thuani) — florilegium Ψ,s. IX,direct
+eugenius_carmina,Lips.,Lipsiensis bybl. senat. XLVIII,s. XII,direct
+eugenius_carmina,Brux.,Bruxellensis 8860-67 (licentissime interpolatus),s. X,direct
+eugenius_carmina,Harl.,Harleianus 3685 (two poems),s. XI,direct
+eugenius_dracontiana,M,"Matritensis bybl. nat. 14,22 olim Toletanus (visigoth.)",s. IX/X,direct
+eugenius_dracontiana,F,"Parisinus lat. 8093 (olim Nic. Fabri), pars prior (visigoth.)",s. VIII/IX,direct
+eugenius_dracontiana,F2,corrector of F (ex P),,corrector_hand
+eugenius_dracontiana,P,Parisinus lat. 2832,s. IX,direct
+eugenius_dracontiana,L,Laudunensis 279 (hexaemeron only),s. IX,direct
+eugenius_dracontiana,Q,"Laudunensis (no. garbled, '26'?) (hexaemeron only; 'gemelli' with L)",s. IX,direct
+eugenius_dracontiana,Z,Parisinus lat. 14758 (Sti Victoris 380),s. XIV,direct
+eugenius_dracontiana,Morel,ed. Moreliana Paris 1560 (ex Z),1560,indirect
+eugenius_dracontiana,Sirmond,ed. Sirmondi Paris 1619 (ex P),1619,indirect
+eugenius_dracontiana,Lorenzana,"SS. Patres Toletani I, Matriti 1782 (ex M)",1782,indirect
+eugenius_dracontiana,Arevalo,"Dracontii carmina rec. F. Arevalo, Romae 1791",1791,indirect
+eugippius_vita_severini,L,codex tabularii Lateranensis 79 (passionale),s. X,direct
+eugippius_vita_severini,V,Vaticanus lat. 5772 (olim Bobiensis),s. X ex. / XI,direct
+eugippius_vita_severini,M,Mediolanensis Ambrosianus (shelfmark not given),s. XI/XII,direct
+eugippius_vita_severini,D,"Monacensis lat. (four leaves; OCR reads 'cod. lat. 104r', probably clm 1044), covers ep. and c. 1-4, 14-22 only",s. IX,direct
+eugippius_vita_severini,L corr.,a slightly later hand in L ('manus haud multo recentior nonnulla mutavit'),,corrector_hand
+eugippius_vita_severini,Anon. Vales.,"Anonymus Valesianus, excerpt of c. 7 / c. 32 (testimonium, no siglum in the apparatus list)",,indirect
+eutropius_breviarium,G,Gothanus 101 (membr.),s. IX/X,direct
+eutropius_breviarium,G2,"Gothanus, later correcting hands",,corrector_hand
+eutropius_breviarium,F,Fuldensis (lost; readings known only from Sylburg's ed. 1590),,direct
+eutropius_breviarium,L,Leidensis (Leydensis) Lat. 141,s. X in.,direct
+eutropius_breviarium,O,"Bertinianus, St-Omer 697",s. X/XI,direct
+eutropius_breviarium,(Brux.),Bruxellensis 6439-6451 (copied from O; not cited),s. XII in.,direct
+eutropius_breviarium,S,probably the lost Burdigalensis via Vinetus' ed. (conspectus siglum lost in OCR; identification inferred from order of conspectus),,indirect
+eutropius_breviarium,D,Vaticanus lat. 1860,a. 1313,direct
+eutropius_breviarium,P,consensus of the codices of Paulus Diaconus' Historia Romana (individual: H V N Z),,indirect
+eutropius_breviarium,E,Bambergensis E III 22 (only the dedicatory letter),s. X,indirect
+eutropius_breviarium,Paean.,Paeanius' Greek translation,,indirect
+eutropius_breviarium,Exc.,excerpta in codd. Petropolitanus Dubrowski and Vaticanus Palat. 927,,indirect
+fortunatus_carmina,Σ,"Parisinus lat. 13048 (olim Corbeiensis), eclogae e carminibus",s. VIII-IX,direct
+fortunatus_carmina,A,Parisinus lat. 14144,s. IX?,direct
+fortunatus_carmina,C,Parisinus lat. 8312 (olim Colbertinus),,direct
+fortunatus_carmina,P,"Petropolitanus F. XIV. 1 (olim Corbeiensis, Sangerm. 598), carmina selecta in disturbed order",s. VIII,direct
+fortunatus_carmina,M,Ambrosianus C 74 sup.,,direct
+fortunatus_carmina,D,Parisinus lat. 9347 (olim Remensis),s. IX,direct
+fortunatus_carmina,G,Sangallensis 196,s. IX,direct
+fortunatus_carmina,V,"Vaticanus lat. 552 (I-VIII,3 only; mostly replaced by Ven.)",s. X,direct
+fortunatus_carmina,Ven.,editio Veneta of Salvator Solanius (stands in for V),,indirect
+fortunatus_carmina,B,Parisinus lat. 8090,s. X,direct
+fortunatus_carmina,L,Laudunensis 469,s. VIII/IX,direct
+fortunatus_carmina,R,Vaticanus Reginae 329,s. IX ex.,direct
+fortunatus_carmina,F,"Barberinus XIV 94 (books I-IV, VII)",s. X/XI,direct
+fortunatus_carmina,C2,Parisinus 8312 corrector (readings shared with BL),,corrector_hand
+fortunatus_vita_martini,P,Petropolitanus F. XIV. 1,s. VIII,direct
+fortunatus_vita_martini,N,Vaticanus Palatinus 845,s. IX,direct
+fortunatus_vita_martini,T,Parisinus lat. 2204 (praef. and I 1-413 only),s. IX,direct
+fortunatus_vita_martini,F,Barberinus XIV 94 (I 1-206 only),s. X/XI,direct
+fortunatus_vita_martini,B,Parisinus lat. 8090,s. X,direct
+fortunatus_vita_martini,L,Laudunensis 469,s. VIII/IX,direct
+fortunatus_vita_martini,L2,Laudunensis corrector (corrected from a good exemplar),,corrector_hand
+fortunatus_vita_martini,M,Ambrosianus C 74 sup.,,direct
+fortunatus_vita_martini,S,Sangallensis 573,s. IX/X,direct
+gildas_de_excidio,C,Londiniensis Cottonianus Vitell. A VI (fire-damaged),s. XI,direct
+gildas_de_excidio,D,Cantabrigiensis bibl. publ. Dd. I. 17 (copied from C),s. XIV (c. 1400),direct
+gildas_de_excidio,A,"Abrincensis (Avranches), interpolated",s. XII,direct
+gildas_de_excidio,X,"Cantabrigiensis bibl. publ. Ff. I. 27 (to p. 41,14 only)",s. XIII,direct
+gildas_de_excidio,P,editio princeps Polydori Vergilii (C + lost interpolated codex),1525,indirect
+gildas_de_excidio,Q,editio Iohannis Iosselini,1568,indirect
+gildas_de_excidio,H,adnotationes in exemplari Heidelbergensi ed. Iosselinianae,,indirect
+gildas_de_excidio,R,citations in Vita Gildae by the monk of Ruys,s. XI,indirect
+gildas_de_excidio,Beda,excerpts in Bede (cited in apparatus),s. VIII,indirect
+historia_brittonum,H,Londiniensis Harleianus 3859,s. XI/XII,direct
+historia_brittonum,K,Londiniensis Cottonianus Vesp. D XXI,s. XII,direct
+historia_brittonum,Z,Chartres 98 (mutilous),s. IX/X,direct
+historia_brittonum,M,Vaticanus reginae 1964,s. XI,direct
+historia_brittonum,N,Parisinus 11108,s. XII,direct
+historia_brittonum,P,Londiniensis Cottonianus Calig. A VIII,s. XII,direct
+historia_brittonum,Q,Londiniensis Cottonianus Nero D VIII,s. XIII,direct
+historia_brittonum,D,Durhamensis B. II. 35 (first hand Gildan),s. XII (a. 1166),direct
+historia_brittonum,D2,"Durhamensis, later hand(s) with Nennian readings",,corrector_hand
+historia_brittonum,C,Cantabrigiensis coll. Corp. Chr. 139 (Nennian recension),s. XII/XIII (OCR lists differ),direct
+historia_brittonum,C2,"Cantabrigiensis CCC 139, later hand",,corrector_hand
+historia_brittonum,G,Londiniensis Burneianus 310 (copied from D),a. 1381,direct
+historia_brittonum,L,Cantabrigiensis bibl. publ. Ff. I. 27 (copied from C),s. XIII,direct
+historia_brittonum,interpres,Irish version of Gilla Coemgin (Nennian recension),,indirect
+isidorus_chronica_maiora,A,"Albensis 29 (c. 1-4, 397-418)",saec. VIII,direct
+isidorus_chronica_maiora,B,Bernensis 83,saec. X,direct
+isidorus_chronica_maiora,C,"Caesenas 21,5",saec. IX,direct
+isidorus_chronica_maiora,D,Berolinensis Cheltenhamensium 41 = 1686,saec. IX,direct
+isidorus_chronica_maiora,E,Estensis ord. 1 n. 11,a. 800,direct
+isidorus_chronica_maiora,F,"Florentinus Laur. 20,54",saec. XI,direct
+isidorus_chronica_maiora,G,Parisinus 12236,saec. IX,direct
+isidorus_chronica_maiora,K,Coloniensis 83 II,saec. VIII,direct
+isidorus_chronica_maiora,L,Lucensis 490,saec. VIII (a. 796),direct
+isidorus_chronica_maiora,M,Parisinus 4860 (Pseudo-Mellitus),saec. X,direct
+isidorus_chronica_maiora,N,Monzensis,saec. IX,direct
+isidorus_chronica_maiora,P,Petropolitanus,saec. IX,direct
+isidorus_chronica_maiora,S,Sangallensis,saec. IX,direct
+isidorus_chronica_maiora,T,Parisinus 9380,saec. VIII/IX,direct
+isidorus_chronica_maiora,V,"Vindobonensis 89 (apographs Ew = Vindob. 323, V* = Egerton 1118)",saec. IX,direct
+isidorus_chronica_maiora,W,Guelferbytanus Helmstadiensis 579 (from c. 338),saec. IX,direct
+isidorus_chronica_maiora,X,Claromontanus Paris. 10910,saec. VII/VIII,direct
+isidorus_chronica_maiora,Y,Vaticanus Pal. 239,saec. IX,direct
+isidorus_chronica_maiora,Z,Vaticanus 6018,saec. IX,direct
+isidorus_chronica_maiora,O,appendix Marii (c. 405-418),saec. IX/X,indirect
+isidorus_historia_gothorum,P,Parisinus lat. 4873 (recensio brevior; OCR list 'r'),saec. XII,direct
+isidorus_historia_gothorum,B,Berolinensis Phillipps. 1885,saec. IX,direct
+isidorus_historia_gothorum,N,Matritensis bibl. nat. X 161,saec. XI/XII,direct
+isidorus_historia_gothorum,H,Matritensis academiae,saec. XIII,direct
+isidorus_historia_gothorum,O,Matritensis bibl. nat. F 58 (Pelagianus),saec. XVI/XVII,direct
+isidorus_historia_gothorum,[O],Matritenses T 10 et F 93,saec. XVI,direct
+isidorus_historia_gothorum,X,"Bernensis 83 (laus Hispaniae, recapitulatio)",saec. X,direct
+isidorus_historia_gothorum,Y,"Petropolitanus (laus Hispaniae, recapitulatio)",saec. IX,direct
+isidorus_historia_gothorum,Z,Sangallensis 133 (recapitulatio),saec. IX,direct
+isidorus_historia_gothorum,R,Romanus Palatinus (c. 13-19),a. 927 / saec. XII,direct
+isidorus_historia_gothorum,W,"Escurialensis R II 18 (c. 1-3, 66)",saec. VIII,direct
+isidorus_historia_gothorum,M,Matritensis univ. 134,saec. XIII,direct
+isidorus_historia_gothorum,A,Parisinus bibl. de l'Arsenal 982,saec. XIV,direct
+isidorus_historia_gothorum,L,"Lucas Tudensis (codd. Matr. Tolet. 27,28; Lugd. Perizon. fol. 9; ed. Schotti)",saec. XIII,indirect
+jordanes_getica,H,Heidelbergensis 921 (lost in Mommsen's fire 1880),s. VIII,direct
+jordanes_getica,P,Vaticanus Palatinus 920 (Laureshamensis),s. X (corrigenda: s. IX),direct
+jordanes_getica,V,Valenciennensis 88 (olim S. Amandi),s. IX,direct
+jordanes_getica,L,"Florentinus Laurentianus plut. 65,35",s. XI,direct
+jordanes_getica,L2,Laurentianus with corrector hand coaeval (L2 in apparatus),s. XI,corrector_hand
+jordanes_getica,A,"Mediolanensis Ambrosianus C 72 inf. (class I, interpolated; from P or its twin)",s. XI/XII,direct
+jordanes_getica,S,"Epitome Phillippsiana (Cheltenham 1885/1886), excerpts, class II",s. IX,indirect
+jordanes_getica,O,Vaticanus Ottobonianus 1346,s. X,direct
+jordanes_getica,B,Breslaviensis Rehdigeranus 106,s. XI,direct
+jordanes_getica,X,Atrebatensis (lost; known from Rosweyde's collation),,direct
+jordanes_getica,Y,Cantabrigiensis Trinity College O. 4. 36 (olim Gale 64),s. XI ex.,direct
+jordanes_getica,Z,Berolinensis lat. fol. 359 (olim Laetiensis),s. XII,direct
+jordanes_getica,Vind.,Vindobonensis 203 (contaminated from classes II and I; cited occasionally),s. XI,direct
+jordanes_getica,Duac.,"Duacensis 753 excerpts (class III, cited occasionally)",s. X/XI,indirect
+jordanes_getica,Rav.,Geographus Ravennas (testimonia),,indirect
+jordanes_getica,Paulus/Frechulfus/Landolfus,"Paulus Diaconus Hist. Rom., Frechulfus, Landolfus Sagax (excerpts, lower margin)",,indirect
+jordanes_romana,H,"Heidelbergensis 921 (Romana from p. 7,20)",s. VIII,direct
+jordanes_romana,P,Vaticanus Palatinus 920,s. X (corrigenda: s. IX),direct
+jordanes_romana,V,Valenciennensis 88,s. IX,direct
+jordanes_romana,L,"Laurentianus plut. 65,35 (lacunose in Romana)",s. XI,direct
+jordanes_romana,S,"Epitome Phillippsiana (Cheltenham), excerpts, class II",s. IX,indirect
+jordanes_romana,Par.,"Parisinus lat. 4860 (from lost Augiensis; recensio rejected, cited rarely)",c. a. 940,direct
+jordanes_romana,Florus/Paulus/Frechulfus,"Florus (source), Paulus Diaconus, Frechulfus (testimonia in lower margin)",,indirect
+marcellinus_comes_chronicon,S,Sanctomerensis (St-Omer) 697 (+706),saec. X/XI in.,direct
+marcellinus_comes_chronicon,T,"Tilianus, hodie Bodleianus auct. T [shelfmark garbled in OCR: 'auct. T 11 G']",saec. VI ex. (list: VII),direct
+marcellinus_comes_chronicon,U,Utinensis 14 (epitome),saec. XI,direct
+marcellinus_comes_chronicon,R,Parisinus lat. 4870 (epitome),saec. XIV,direct
+marcellinus_comes_chronicon,Beda,excerpta Bedae,,indirect
+paulus_historia_romana,H,Bambergensis E III 4 (513) (Eyssenhardt's B),s. IX/X,direct
+paulus_historia_romana,V,Vaticanus lat. 3339,s. XI,direct
+paulus_historia_romana,B,Berolinensis lat. 4o 1 (used for books XI-XVI only),s. XII,direct
+paulus_historia_romana,N,Laurentianus LXV 35,s. XI,direct
+paulus_historia_romana,N2,"Laurentianus LXV 35, second hand (corrected to an exemplar close to Z's archetype)",,corrector_hand
+paulus_historia_romana,Z,Vaticanus lat. 7312,s. XII,direct
+paulus_historia_romana,M,"Monacensis lat. 3516 (Augustanus 16, olim Hersfeldensis); used for books XI-XVI",s. XI,direct
+paulus_historia_romana,L,"Landolfus Sagax, Historia Romana, cod. Palatinus 909",,indirect
+polemius_laterculus_provinciarum,P,Bruxellensis 10615-10729,saec. XII,direct
+polemius_laterculus_provinciarum,B,Bambergensis E III 14,saec. XI,direct
+polemius_laterculus_provinciarum,O,Oxoniensis coll. Magd. 14,saec. XIV,direct
+polemius_laterculus_provinciarum,V,Vaticanus 341,saec. X,direct
+polemius_laterculus_provinciarum,9,Albigensis 29,saec. VIII,direct
+polemius_laterculus_provinciarum,10,Parisinus 4808,saec. X,direct
+polemius_laterculus_provinciarum,18,Monacensis Frisingensis 6243,saec. VIII,direct
+polemius_laterculus_provinciarum,68,Parisinus 2123,saec. IX,direct
+polemius_laterculus_provinciarum,72,Monacensis Palatinus 10291 (apographum Spirensis),saec. XVI,direct
+polemius_laterculus_provinciarum,73,Oxoniensis Canonicianus 378 (apographum Spirensis),saec. XVI,direct
+polemius_laterculus_provinciarum,74,Parisinus (apographum Spirensis; number illegible in OCR),saec. XV,direct
+polemius_laterculus_provinciarum,75,Vindobonensis 3103 (apographum Spirensis),saec. XV,direct
+polemius_laterculus_provinciarum,76,Carolorühensis CIII (olim Augiensis),saec. IX,direct
+prosper_epitoma_chronicon,A,"codex deperditus, ex apographis quinque (A1 Laurentianus S. Marci 638 saec. XI?; A2 Taurinensis?; A3 Riccardianus 321; A4 Berolinensis Cheltenham. 1870; A5 Matritensis F 63)",saec. XI-XV (apographa),direct
+prosper_epitoma_chronicon,B,Bruxellensis 1791(?),saec. X,direct
+prosper_epitoma_chronicon,C,Bruxellensis 5169(?),saec. IX,direct
+prosper_epitoma_chronicon,D,Londiniensis 16974,saec. X,direct
+prosper_epitoma_chronicon,F,Leidensis Freherianus Scal. 14,saec. IX,direct
+prosper_epitoma_chronicon,H,Havniensis 454,saec. XII,direct
+prosper_epitoma_chronicon,L,"Labbaei editio (1657, ex Spirensi deperdito)",,indirect
+prosper_epitoma_chronicon,L*,Labbaei adscriptiones ex Spirensi deperdito ad cod. Berolinensem Cheltenham. 1872,,indirect
+prosper_epitoma_chronicon,M,Laurentianus plut. 65 n. 35 (Mediceus),saec. X,direct
+prosper_epitoma_chronicon,O,Escurialensis Ovetensis R II 18,saec. VII,direct
+prosper_epitoma_chronicon,P,Laurentianus Poggianus plut. 67 n. 15,saec. XV,direct
+prosper_epitoma_chronicon,R,"Reichenaviensis deperditus (apographa Rp Parisinus 4860 saec. X, Ra Augustanus 223 saec. XV)",,direct
+prosper_epitoma_chronicon,V,Vaticanus reginae 2077 (epitome),saec. VI,direct
+prosper_epitoma_chronicon,X,Limogiensis 1 (pars prior),,direct
+prosper_epitoma_chronicon,Y,Limogiensis 1 (pars posterior),,direct
+prosper_epitoma_chronicon,Z,Matritensis univ. 134,saec. XIII,direct
+sidonius_carmina,M,"Florentinus Marcianus 554 (carm. I-VIII only, with lacunae, e.g. II 183-548)",s. X,direct
+sidonius_carmina,T,"Florentinus Laurentianus plut. XLV, 23",s. XII,direct
+sidonius_carmina,C,"Matritensis bibl. nat. Ee 102, olim Cluniacensis",s. X/XI,direct
+sidonius_carmina,F,Parisinus lat. 9551,s. XII,direct
+sidonius_carmina,P,Parisinus lat. 2781 (omits VII 137-600),s. X/XI,direct
+sidonius_carmina,"Ma/Mb, T1/T2 etc.",first-hand corrections and later hands,,corrector_hand
+sidonius_epistulae,L,Oxoniensis Laudianus lat. 104,s. X,direct
+sidonius_epistulae,M,Florentinus Marcianus 554,s. X,direct
+sidonius_epistulae,T,"Florentinus Laurentianus plut. XLV, 23",s. XII,direct
+sidonius_epistulae,C,"Matritensis bibl. nat. Ee 102, olim Cluniacensis",s. X/XI,direct
+sidonius_epistulae,F,Parisinus lat. 9551 (OCR '0oSl'),s. XII,direct
+sidonius_epistulae,P,Parisinus lat. 2781 (Puteanus),s. X/XI,direct
+sidonius_epistulae,"M1/M2, T1/T2 etc.",first/second hands in the codices,,corrector_hand
+sidonius_epistulae,G,"Sangallensis 190 (fragment of ep. II,1 only, variants in additamenta)",s. IX,indirect
+sidonius_epistulae,codex Nanzii / Woweren 'optimus',lost codex used by Woweren and Savaro (vulgate class),,indirect
+symmachus_epistulae,P,Parisinus lat. 8623,s. IX,direct
+symmachus_epistulae,P 2 m.,second hand of P (used a codex of the VMF family up to book VII),,corrector_hand
+symmachus_epistulae,V,Vaticanus Palatinus 1576,s. XI,direct
+symmachus_epistulae,M,"Montepessulanus H 4, pars prior (pars altera = florilegium F)",s. XIII,direct
+symmachus_epistulae,F,florilegium family (consensus; in books VIII-X F1 F2 F3),,direct
+symmachus_epistulae,F1,editio florilegii Argentoratensis 1510 (copy of a lost codex),1510,indirect
+symmachus_epistulae,F2,florilegium codex Parisinus lat. 8559,s. XII/XIII,direct
+symmachus_epistulae,F3,florilegium codex Vaticanus Reginae 1575,s. XIII,direct
+symmachus_epistulae,Π,"codex Divionensis (lost; known through Iuretus' edition; apograph of P, corrected from the florilegium)",,indirect
+symmachus_epistulae,(Π)/(Π)2,Iureti editio prior / altera,,indirect
+symmachus_epistulae,Γ,codex Huberti Giphanii (lost; known through Scioppius),,indirect
+symmachus_epistulae,(Γ),Scioppii editio,,indirect
+symmachus_epistulae,Φ,codex Fuldensis (lost; known through Scioppius),,indirect
+symmachus_epistulae,A,"Ausonian recension of epp. I 14, 25, 31, 32 (codices of Ausonius)",,indirect
+symmachus_relationes,T,Monacensis 18787 (olim Tegernseensis),s. XI,direct
+symmachus_relationes,M,Mettensis 500,s. XI,direct
+symmachus_relationes,Γ,"editio princeps Sigismundi Gelenii, Basel 1549 (from a lost codex; OCR shows F/r/Γ)",1549,indirect
+symmachus_relationes,A,Ambrosian recension of relatio III (codices of Ambrose's letters),,indirect
+symmachus_relationes,S,Symmachian recension (consensus TMΓ) in relatio III,,direct
+victor_vitensis_historia,A,"Laudunensis 113 (only lib. II 56-101, the Liber fidei catholicae, plus the Notitia)",s. IX,direct
+victor_vitensis_historia,B,Bambergensis E.III.4,s. IX,direct
+victor_vitensis_historia,L,Berolinensis lat. quart. 1,s. XII,direct
+victor_vitensis_historia,R,Bruxellensis 1794,s. X,direct
+victor_vitensis_historia,V,Vindobonensis 583 (antea Univ. 239),s. X,direct
+victor_vitensis_historia,Bern.,Bernensis 48 (cited only for its own readings),s. XI,direct
+victor_vitensis_historia,p,editio princeps Parisina (Jehan Petit),s. XVI in.,indirect
+victor_vitensis_historia,Lor.,"editio Coloniensis (R. Lorichius), reprinted from p",1537,indirect
+vita_germani,P,Petropolitanus F. Otd. I. 12 (olim Corbeiensis),s. IX,direct
+vita_germani,Q,Parisinus lat. 5365,s. XII,direct
+vita_germani,G,Parisinus lat. S. Germani 507,s. X,direct
+vita_germani,G2,"Parisinus S. Germani 507, corrector",s. X/XI,corrector_hand
+vita_germani,H,Parisinus lat. 3801 (copied from emended G),s. XII,direct
+vita_germani,I,Parisinus lat. 5296,s. XIII,direct
+vita_germani,K,Parisinus lat. 5568,s. X,direct
+vita_germani,L,Parisinus lat. S. Germani (number illegible in OCR),s. XI,direct
+vita_germani,X,codex Bonifontis (via Bollandists),,indirect
+vita_hilarii,G,Sangallensis 567,s. IX,direct
+vita_hilarii,H,Sangallensis 577 (copied from G),s. IX/X,direct
+vita_hilarii,B,Bruxellensis 7668 (copied from H),s. X,direct
+vita_hilarii,V,"Vaticanus 1197 (Langobardic, mutilated)",s. IX,direct
+vita_hilarii,A,Vaticanus 1193,s. XIII,direct
+vita_hilarii,X,Bruxellensis 7802 (interpolated),s. X,direct
+vita_hilarii,Y,Compendiensis (via Maurists),,indirect
+vita_hilarii,Z,"Ottobonianus, S. Germani, Colbertinus (via Maurists)",,indirect
+vita_medardi,M,Monacensis lat. 3511 (uncial; OCR reading),s. VII,direct
+vita_medardi,N,Namurcensis 53 (copied from M?),s. XII,direct
+vita_medardi,Q,Parisinus lat. 12598,s. VIII,direct
+vita_medardi,B,Bruxellensis 9637 (OCR '9G37'),s. XII,direct
+vita_medardi,P,Parisinus lat. 13345,s. XIII,direct
+vita_medardi,R,"Parisinus lat. 5301 (readings few, added after P)",s. X,direct
+vita_medardi,I,Illerdensis (fragment),s. XIV,direct
+vita_radegundis,P,Parisinus lat. 5275,s. XI in.,direct
+vita_radegundis,P2,"Parisinus 5275, corrector",,corrector_hand
+vita_radegundis,M,Monacensis lat. 3810,s. X,direct
+vita_radegundis,G,Parisinus lat. 13761,s. X,direct
+vita_radegundis,L,Londiniensis Mus. Brit. Add. 11880,s. IX in.,direct
+vita_radegundis,E,Monacensis lat. 14095,s. XI/XII,direct
+vita_radegundis,W,Monacensis lat. 22242 (Windberg),s. XII,direct
+vita_radegundis,Q,Parisinus lat. 9742,s. XII,direct
+vita_radegundis,T,Trecensis 1248,s. X/XI,direct
+vita_radegundis,H,Londiniensis Mus. Brit. Harleianus (number illegible in OCR),s. XII,direct
+vita_radegundis,X1,Parisinus lat. 5351,s. XI,direct
+vita_radegundis,X2,"Parisinus lat. (number illegible in OCR), olim S. Martini de Campis",s. XII,direct
+vita_radegundis,Y1,Parisinus lat. (number illegible in OCR; de la Mare 384),s. XI,direct
+vita_radegundis,Y2,"Parisinus lat. 1700? (OCR '17(10.'), olim Fuliensis",s. XII,direct
+vita_radegundis,Z,Parisinus lat. 5323,s. XIII,direct

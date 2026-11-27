@@ -1,0 +1,103 @@
+{
+ "stemma_witnesses": "ABCDEFG",
+ "cited": {
+  "A": 38,
+  "B": 163,
+  "C": 493,
+  "D": 502,
+  "E": 378,
+  "F": 487,
+  "G": 427
+ },
+ "analysis_witnesses": "ABCDEFG",
+ "units_with_shared_departure": 399,
+ "included": true,
+ "exclusion": [],
+ "editor_top": [
+  "ABCG",
+  "DF",
+  "E"
+ ],
+ "k_E": 3,
+ "status": "OPTIMAL",
+ "weight": 278.0,
+ "branches": [
+  {
+   "branch": "ABCG",
+   "status": "contradicted",
+   "by": [
+    "CDEFG"
+   ]
+  },
+  {
+   "branch": "DF",
+   "status": "contradicted",
+   "by": [
+    "DE"
+   ]
+  },
+  {
+   "branch": "E",
+   "status": "single_witness"
+  }
+ ],
+ "classification": "contradicted",
+ "k_D": 2,
+ "k_D_bootstrap": {
+  "2": 1.0
+ },
+ "stable_families": [
+  [
+   "CG",
+   176,
+   1.0
+  ],
+  [
+   "DE",
+   43,
+   0.995
+  ],
+  [
+   "DEF",
+   21,
+   0.995
+  ],
+  [
+   "CDEFG",
+   21,
+   1.0
+  ],
+  [
+   "AB",
+   17,
+   1.0
+  ]
+ ],
+ "mwis": [
+  [
+   "CG",
+   176,
+   1.0
+  ],
+  [
+   "DE",
+   43,
+   0.995
+  ],
+  [
+   "DEF",
+   21,
+   0.995
+  ],
+  [
+   "CDEFG",
+   21,
+   1.0
+  ],
+  [
+   "AB",
+   17,
+   1.0
+  ]
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "stemma_witnesses": "LMTCFP",
+ "cited": {
+  "L": 1754,
+  "M": 2916,
+  "T": 1938,
+  "C": 3710,
+  "F": 3595,
+  "P": 2342
+ },
+ "analysis_witnesses": "LMTCFP",
+ "units_with_shared_departure": 2522,
+ "included": true,
+ "exclusion": [],
+ "editor_top": [
+  "L",
+  "MTCFP"
+ ],
+ "k_E": 2
+}

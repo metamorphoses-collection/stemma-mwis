@@ -1,0 +1,124 @@
+{
+ "passed": true,
+ "instances_found": {
+  "A": 3,
+  "B": 3
+ },
+ "reps": 100,
+ "rows": [
+  {
+   "case": "A",
+   "gap_M": 0.0616,
+   "alpha": 0.396,
+   "delta": 0.127,
+   "L": [
+    25,
+    100,
+    400,
+    1600
+   ],
+   "freq_true_selected": [
+    0.59,
+    0.94,
+    1.0,
+    1.0
+   ],
+   "passed": true
+  },
+  {
+   "case": "A",
+   "gap_M": 0.04,
+   "alpha": 0.957,
+   "delta": 0.182,
+   "L": [
+    25,
+    100,
+    400,
+    1600
+   ],
+   "freq_true_selected": [
+    0.37,
+    0.91,
+    1.0,
+    1.0
+   ],
+   "passed": true
+  },
+  {
+   "case": "A",
+   "gap_M": 0.0403,
+   "alpha": 0.339,
+   "delta": 0.099,
+   "L": [
+    25,
+    100,
+    400,
+    1600
+   ],
+   "freq_true_selected": [
+    0.52,
+    0.87,
+    1.0,
+    1.0
+   ],
+   "passed": true
+  },
+  {
+   "case": "B",
+   "gap_M": -0.0338,
+   "alpha": 0.539,
+   "delta": 0.193,
+   "L": [
+    25,
+    100,
+    400,
+    1600
+   ],
+   "freq_true_selected": [
+    0.06,
+    0.04,
+    0.03,
+    0.0
+   ],
+   "passed": true
+  },
+  {
+   "case": "B",
+   "gap_M": -0.1275,
+   "alpha": 0.135,
+   "delta": 0.171,
+   "L": [
+    25,
+    100,
+    400,
+    1600
+   ],
+   "freq_true_selected": [
+    0.02,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "passed": true
+  },
+  {
+   "case": "B",
+   "gap_M": -0.0974,
+   "alpha": 0.191,
+   "delta": 0.081,
+   "L": [
+    25,
+    100,
+    400,
+    1600
+   ],
+   "freq_true_selected": [
+    0.06,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "passed": true
+  }
+ ]
+}

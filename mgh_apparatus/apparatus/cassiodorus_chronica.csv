@@ -1,0 +1,805 @@
+entry,volume,image_leaf,text_line,lemma,reading,witnesses,apparatus_line
+1,mgh_auct_ant_11,127,75,,paleus,M,"Hier. 13 paleus M, Baleus Cusp. 15 molechus] M, bolechus P, Belochus Hier. et sic, sed adnotans: 'a"
+2,mgh_auct_ant_11,127,75,molechus,bolechus,P,"Hier. 13 paleus M, Baleus Cusp. 15 molechus] M, bolechus P, Belochus Hier. et sic, sed adnotans: 'a"
+3,mgh_auct_ant_11,127,75,,mamythus,P,"quibusdam hic Molochus scribitur', Cusp. 19 mamythus P 22 ſfereus M, Sphaereus Cusp. 23 mami-"
+4,mgh_auct_ant_11,127,75,,ſfereus,M,"quibusdam hic Molochus scribitur', Cusp. 19 mamythus P 22 ſfereus M, Sphaereus Cusp. 23 mami-"
+5,mgh_auct_ant_11,127,75,,mamilus,M,"lus M 24 sparathus M, Sparetus Cusp. 28 amintis M 29 succensor M 32 xxxii] P ex"
+6,mgh_auct_ant_11,127,75,,sparathus,M,"lus M 24 sparathus M, Sparetus Cusp. 28 amintis M 29 succensor M 32 xxxii] P ex"
+7,mgh_auct_ant_11,127,75,,amintis,M,"lus M 24 sparathus M, Sparetus Cusp. 28 amintis M 29 succensor M 32 xxxii] P ex"
+8,mgh_auct_ant_11,127,75,,succensor,M,"lus M 24 sparathus M, Sparetus Cusp. 28 amintis M 29 succensor M 32 xxxii] P ex"
+9,mgh_auct_ant_11,127,75,,"ex corr. opinor, sed probabili , xxxiii",M,"corr. opinor, sed probabili (vide praef. p. 114), xxxiii M, 'triginta duos, alias triginta tres' Cusp. 36. 37 sic"
+10,mgh_auct_ant_11,127,75,,sic,P,"P ex Hieronymo opinor: panias reg. ann. xuiiii M et sic Cusp., addens: 'Eusebius et Iordanes scribunt"
+11,mgh_auct_ant_11,127,75,,ex Hieronymo opinor: panias reg. ann. xuiiii,M,"P ex Hieronymo opinor: panias reg. ann. xuiiii M et sic Cusp., addens: 'Eusebius et Iordanes scribunt"
+12,mgh_auct_ant_11,127,75,,"ex corr. opinor, sed ea probabili , item Cusp., sed significans eum numerum effectum esse ratiocinatione: dcccliii",M,(cf. c. 32) M 44 regis M 47 anno om. M quam C
+13,mgh_auct_ant_11,127,75,,regis,M,(cf. c. 32) M 44 regis M 47 anno om. M quam C
+14,mgh_auct_ant_11,127,75,,anno om.,M,(cf. c. 32) M 44 regis M 47 anno om. M quam C
+15,mgh_auct_ant_11,128,129,,aneas,M,"48 aneas M an P, annos M 51 om. M aenee P 53 aneas M 57 cartago P,"
+16,mgh_auct_ant_11,128,129,,an,P,"48 aneas M an P, annos M 51 om. M aenee P 53 aneas M 57 cartago P,"
+16,mgh_auct_ant_11,128,129,,annos,M,"48 aneas M an P, annos M 51 om. M aenee P 53 aneas M 57 cartago P,"
+17,mgh_auct_ant_11,128,129,,om.,M,"48 aneas M an P, annos M 51 om. M aenee P 53 aneas M 57 cartago P,"
+18,mgh_auct_ant_11,128,129,,aenee,P,"48 aneas M an P, annos M 51 om. M aenee P 53 aneas M 57 cartago P,"
+19,mgh_auct_ant_11,128,129,,aneas,M,"48 aneas M an P, annos M 51 om. M aenee P 53 aneas M 57 cartago P,"
+20,mgh_auct_ant_11,128,129,,cartago,P,"48 aneas M an P, annos M 51 om. M aenee P 53 aneas M 57 cartago P,"
+21,mgh_auct_ant_11,128,129,,castago,M,"57 castago M 58 david filius M 60 xxiii M 62 /arpentus M 66 lycurcus P, licurcus M"
+22,mgh_auct_ant_11,128,129,,david filius,M,"57 castago M 58 david filius M 60 xxiii M 62 /arpentus M 66 lycurcus P, licurcus M"
+23,mgh_auct_ant_11,128,129,,xxiii,M,"57 castago M 58 david filius M 60 xxiii M 62 /arpentus M 66 lycurcus P, licurcus M"
+24,mgh_auct_ant_11,128,129,,/arpentus,M,"57 castago M 58 david filius M 60 xxiii M 62 /arpentus M 66 lycurcus P, licurcus M"
+25,mgh_auct_ant_11,128,129,,lycurcus,P,"57 castago M 58 david filius M 60 xxiii M 62 /arpentus M 66 lycurcus P, licurcus M"
+25,mgh_auct_ant_11,128,129,,licurcus,M,"57 castago M 58 david filius M 60 xxiii M 62 /arpentus M 66 lycurcus P, licurcus M"
+26,mgh_auct_ant_11,128,129,,romanorum,P,"68 romanus] Mb Cusp., romanos Ma, romanorum P 69 xxviii M 70 aemulius M xliiii Hieronymus"
+27,mgh_auct_ant_11,128,129,,xxviii,M,"68 romanus] Mb Cusp., romanos Ma, romanorum P 69 xxviii M 70 aemulius M xliiii Hieronymus"
+28,mgh_auct_ant_11,128,129,,aemulius,M,"68 romanus] Mb Cusp., romanos Ma, romanorum P 69 xxviii M 70 aemulius M xliiii Hieronymus"
+29,mgh_auct_ant_11,128,129,,sunt conditi,P,"74 sunt conditi P 77 cantina P, cantila M 79 fuisset Ma 81 sybilla M 82 tullius Mb"
+30,mgh_auct_ant_11,128,129,,cantina,P,"74 sunt conditi P 77 cantina P, cantila M 79 fuisset Ma 81 sybilla M 82 tullius Mb"
+30,mgh_auct_ant_11,128,129,,cantila,M,"74 sunt conditi P 77 cantina P, cantila M 79 fuisset Ma 81 sybilla M 82 tullius Mb"
+31,mgh_auct_ant_11,128,129,,sybilla,M,"74 sunt conditi P 77 cantina P, cantila M 79 fuisset Ma 81 sybilla M 82 tullius Mb"
+32,mgh_auct_ant_11,128,129,,calcedon,C,84 calcedon C bizantium C
+33,mgh_auct_ant_11,128,129,,bizantium,C,84 calcedon C bizantium C
+34,mgh_auct_ant_11,129,148,,a. u. c.,C,95 a. u. c. HINC CONSVLES.
+35,mgh_auct_ant_11,129,148,,Valerius III et,P,"Liv. 2, 16 100 249 Valerius III et P. Postumius"
+36,mgh_auct_ant_11,129,148,,Agrippa Menenius et,P,"Liv. 2, 16 102 251 Agrippa Menenius et P. Postumius"
+37,mgh_auct_ant_11,129,148,,Ser. Sulpicius et,M,"Liv. 2, 19 106 254 Ser. Sulpicius et M. Tullius"
+38,mgh_auct_ant_11,129,148,,A. Sempronius et,M,"Liv. 2, 21 109 257 A. Sempronius et M. Minicius"
+39,mgh_auct_ant_11,129,178,,xxxuiii,M,87 xxxuiii M 89 tullus C 91 cepit M 93 pytagoras C 94 tranquinio M plulicam M
+40,mgh_auct_ant_11,129,178,,tullus,C,87 xxxuiii M 89 tullus C 91 cepit M 93 pytagoras C 94 tranquinio M plulicam M
+41,mgh_auct_ant_11,129,178,,cepit,M,87 xxxuiii M 89 tullus C 91 cepit M 93 pytagoras C 94 tranquinio M plulicam M
+42,mgh_auct_ant_11,129,178,,pytagoras,C,87 xxxuiii M 89 tullus C 91 cepit M 93 pytagoras C 94 tranquinio M plulicam M
+43,mgh_auct_ant_11,129,178,,tranquinio,M,87 xxxuiii M 89 tullus C 91 cepit M 93 pytagoras C 94 tranquinio M plulicam M
+44,mgh_auct_ant_11,129,178,,plulicam,M,87 xxxuiii M 89 tullus C 91 cepit M 93 pytagoras C 94 tranquinio M plulicam M
+45,mgh_auct_ant_11,129,178,,titus,C,"98 titus C a. 247 consules Valerius III et M. Horatius II ut absunt a nostris Livii exemplaribus, item"
+46,mgh_auct_ant_11,129,178,,consules Valerius III et,M,"98 titus C a. 247 consules Valerius III et M. Horatius II ut absunt a nostris Livii exemplaribus, item"
+47,mgh_auct_ant_11,129,178,,spurius,C,videntur afuisse a Cassiodoriano (vide praef. p. 115) 99 spurius C titus C heramnius cod. Cusp.
+48,mgh_auct_ant_11,129,178,,titus,C,videntur afuisse a Cassiodoriano (vide praef. p. 115) 99 spurius C titus C heramnius cod. Cusp.
+49,mgh_auct_ant_11,129,178,,ii,M,100 ii M 101 quartus M titus C 102 postumus M 105 his — largus om. M spurius C
+50,mgh_auct_ant_11,129,178,,quartus,M,100 ii M 101 quartus M titus C 102 postumus M 105 his — largus om. M spurius C
+51,mgh_auct_ant_11,129,178,,titus,C,100 ii M 101 quartus M titus C 102 postumus M 105 his — largus om. M spurius C
+52,mgh_auct_ant_11,129,178,,postumus,M,100 ii M 101 quartus M titus C 102 postumus M 105 his — largus om. M spurius C
+53,mgh_auct_ant_11,129,178,,his — largus om.,M,100 ii M 101 quartus M titus C 102 postumus M 105 his — largus om. M spurius C
+54,mgh_auct_ant_11,129,178,,spurius,C,100 ii M 101 quartus M titus C 102 postumus M 105 his — largus om. M spurius C
+55,mgh_auct_ant_11,129,178,,servius,C,106 servius C 107 ebutius C 108 largius Ma 109 simphronius C 114 minutius P
+56,mgh_auct_ant_11,129,178,,ebutius,C,106 servius C 107 ebutius C 108 largius Ma 109 simphronius C 114 minutius P
+57,mgh_auct_ant_11,129,178,,simphronius,C,106 servius C 107 ebutius C 108 largius Ma 109 simphronius C 114 minutius P
+58,mgh_auct_ant_11,129,178,,minutius,P,106 servius C 107 ebutius C 108 largius Ma 109 simphronius C 114 minutius P
+59,mgh_auct_ant_11,129,178,,simphronius,C,"115 minutius Pa simphronius C a. 264 consules Q. Sulpicius et Ser. Larcius, item a. 265 C. Iulius"
+60,mgh_auct_ant_11,129,178,,Iulius et,P,et P. Pinarius similiter et absunt a nostris Livii codicibus et afuerunt a Cassiodoriano (vide praef. p. 115)
+61,mgh_auct_ant_11,130,237,,lius,C,"lius C 150 tarpeus M 152 curiacius C 153 t. menenius] M Cusp., memenius (om. t.) P"
+62,mgh_auct_ant_11,130,237,,tarpeus,M,"lius C 150 tarpeus M 152 curiacius C 153 t. menenius] M Cusp., memenius (om. t.) P"
+63,mgh_auct_ant_11,130,237,,curiacius,C,"lius C 150 tarpeus M 152 curiacius C 153 t. menenius] M Cusp., memenius (om. t.) P"
+64,mgh_auct_ant_11,130,237,,"Cusp., memenius",P,"lius C 150 tarpeus M 152 curiacius C 153 t. menenius] M Cusp., memenius (om. t.) P"
+65,mgh_auct_ant_11,130,237,,puplica,M,"154 puplica M 157 ganius M 159 ginutius C curiacius C 160 i. papirius M simphronius M,"
+66,mgh_auct_ant_11,130,237,,ganius,M,"154 puplica M 157 ganius M 159 ginutius C curiacius C 160 i. papirius M simphronius M,"
+67,mgh_auct_ant_11,130,237,,ginutius,C,"154 puplica M 157 ganius M 159 ginutius C curiacius C 160 i. papirius M simphronius M,"
+68,mgh_auct_ant_11,130,237,,curiacius,C,"154 puplica M 157 ganius M 159 ginutius C curiacius C 160 i. papirius M simphronius M,"
+69,mgh_auct_ant_11,130,237,,i. papirius,M,"154 puplica M 157 ganius M 159 ginutius C curiacius C 160 i. papirius M simphronius M,"
+70,mgh_auct_ant_11,130,237,,simphronius,M,"154 puplica M 157 ganius M 159 ginutius C curiacius C 160 i. papirius M simphronius M,"
+70,mgh_auct_ant_11,130,237,,semphronus,P,"154 puplica M 157 ganius M 159 ginutius C curiacius C 160 i. papirius M simphronius M,"
+71,mgh_auct_ant_11,130,237,,fyrius,M,semphronus P 163 fyrius M
+72,mgh_auct_ant_11,131,292,,i. lucretius,M,181 i. lucretius M 178 natius Ma 182 i. ualerius M 183 orbe M 185 quibus] qui his M
+73,mgh_auct_ant_11,131,292,,i. ualerius,M,181 i. lucretius M 178 natius Ma 182 i. ualerius M 183 orbe M 185 quibus] qui his M
+74,mgh_auct_ant_11,131,292,,orbe,M,181 i. lucretius M 178 natius Ma 182 i. ualerius M 183 orbe M 185 quibus] qui his M
+75,mgh_auct_ant_11,131,292,quibus,qui his,M,181 i. lucretius M 178 natius Ma 182 i. ualerius M 183 orbe M 185 quibus] qui his M
+76,mgh_auct_ant_11,131,292,,puplica,C,186 puplica C 187 emilius M 189 peeticus (sic) M 193 poetilius C 194 cy C 195 plaucius M
+77,mgh_auct_ant_11,131,292,,emilius,M,186 puplica C 187 emilius M 189 peeticus (sic) M 193 poetilius C 194 cy C 195 plaucius M
+78,mgh_auct_ant_11,131,292,,peeticus,M,186 puplica C 187 emilius M 189 peeticus (sic) M 193 poetilius C 194 cy C 195 plaucius M
+79,mgh_auct_ant_11,131,292,,poetilius,C,186 puplica C 187 emilius M 189 peeticus (sic) M 193 poetilius C 194 cy C 195 plaucius M
+80,mgh_auct_ant_11,131,292,,cy,C,186 puplica C 187 emilius M 189 peeticus (sic) M 193 poetilius C 194 cy C 195 plaucius M
+81,mgh_auct_ant_11,131,292,,plaucius,M,186 puplica C 187 emilius M 189 peeticus (sic) M 193 poetilius C 194 cy C 195 plaucius M
+82,mgh_auct_ant_11,131,292,,peticis,M,198 peticis M
+83,mgh_auct_ant_11,132,348,,daillius,M,218 daillius M 219 om. M 224 c. plaustius C 225 plaucius M 226 plaucius M 236 plaucius M
+84,mgh_auct_ant_11,132,348,,om.,M,218 daillius M 219 om. M 224 c. plaustius C 225 plaucius M 226 plaucius M 236 plaucius M
+85,mgh_auct_ant_11,132,348,,c. plaustius,C,218 daillius M 219 om. M 224 c. plaustius C 225 plaucius M 226 plaucius M 236 plaucius M
+86,mgh_auct_ant_11,132,348,,plaucius,M,218 daillius M 219 om. M 224 c. plaustius C 225 plaucius M 226 plaucius M 236 plaucius M
+87,mgh_auct_ant_11,132,348,,plaucius,M,218 daillius M 219 om. M 224 c. plaustius C 225 plaucius M 226 plaucius M 236 plaucius M
+88,mgh_auct_ant_11,132,348,,plaucius,M,218 daillius M 219 om. M 224 c. plaustius C 225 plaucius M 226 plaucius M 236 plaucius M
+89,mgh_auct_ant_11,132,348,,naucius,M,"238 naucius M pupillius M 239 publius P, puplius M 240 poetilius C"
+90,mgh_auct_ant_11,132,348,,pupillius,M,"238 naucius M pupillius M 239 publius P, puplius M 240 poetilius C"
+91,mgh_auct_ant_11,132,348,,publius,P,"238 naucius M pupillius M 239 publius P, puplius M 240 poetilius C"
+91,mgh_auct_ant_11,132,348,,puplius,M,"238 naucius M pupillius M 239 publius P, puplius M 240 poetilius C"
+92,mgh_auct_ant_11,132,348,,poetilius,C,"238 naucius M pupillius M 239 publius P, puplius M 240 poetilius C"
+93,mgh_auct_ant_11,133,393,,[Q. Ogulnius et,C,285 485 [Q. Ogulnius et C. Fabius]
+94,mgh_auct_ant_11,133,401,,domicius,M,271 domicius M 273. 274 om. M 275 p. ulpicius C 283 genutius C 284 genutius C cos.
+95,mgh_auct_ant_11,133,401,,om.,M,271 domicius M 273. 274 om. M 275 p. ulpicius C 283 genutius C 284 genutius C cos.
+96,mgh_auct_ant_11,133,401,,p. ulpicius,C,271 domicius M 273. 274 om. M 275 p. ulpicius C 283 genutius C 284 genutius C cos.
+97,mgh_auct_ant_11,133,401,,genutius,C,271 domicius M 273. 274 om. M 275 p. ulpicius C 283 genutius C 284 genutius C cos.
+98,mgh_auct_ant_11,133,401,,genutius,C,271 domicius M 273. 274 om. M 275 p. ulpicius C 283 genutius C 284 genutius C cos.
+99,mgh_auct_ant_11,133,401,,om.,C,"a. 485 om. C, etiam Cusp., sed videntur adfuisse apud Cassiodorum (praef. p. 115). 286 semphronius P"
+100,mgh_auct_ant_11,133,401,,semphronius,P,"a. 485 om. C, etiam Cusp., sed videntur adfuisse apud Cassiodorum (praef. p. 115). 286 semphronius P"
+101,mgh_auct_ant_11,133,401,,om.,P,289 om. P
+102,mgh_auct_ant_11,134,453,,postumus,M,292 postumus M 293 om. M otacicilius P 297 om. M erranus P (cf. c. 298) 298 manlius]
+103,mgh_auct_ant_11,134,453,,om.,M,292 postumus M 293 om. M otacicilius P 297 om. M erranus P (cf. c. 298) 298 manlius]
+104,mgh_auct_ant_11,134,453,,otacicilius,P,292 postumus M 293 om. M otacicilius P 297 om. M erranus P (cf. c. 298) 298 manlius]
+105,mgh_auct_ant_11,134,453,,om.,M,292 postumus M 293 om. M otacicilius P 297 om. M erranus P (cf. c. 298) 298 manlius]
+106,mgh_auct_ant_11,134,453,,erranus,P,292 postumus M 293 om. M otacicilius P 297 om. M erranus P (cf. c. 298) 298 manlius]
+107,mgh_auct_ant_11,134,453,manlius,erranus,M,292 postumus M 293 om. M otacicilius P 297 om. M erranus P (cf. c. 298) 298 manlius]
+108,mgh_auct_ant_11,134,453,,fulcius,M,"P, erranus M (cf. c. 297) 299 fulcius M 300 et om. M 301 om. M 302 aurelius] P, cornelius M"
+109,mgh_auct_ant_11,134,453,,et om.,M,"P, erranus M (cf. c. 297) 299 fulcius M 300 et om. M 301 om. M 302 aurelius] P, cornelius M"
+110,mgh_auct_ant_11,134,453,,om.,M,"P, erranus M (cf. c. 297) 299 fulcius M 300 et om. M 301 om. M 302 aurelius] P, cornelius M"
+111,mgh_auct_ant_11,134,453,aurelius,cornelius,M,"P, erranus M (cf. c. 297) 299 fulcius M 300 et om. M 301 om. M 302 aurelius] P, cornelius M"
+112,mgh_auct_ant_11,134,453,,om.,M,304 om. M 306 om. M 307 cecilius M 308—310 om. M 312 lutacius M 313 lutatius
+113,mgh_auct_ant_11,134,453,,om.,M,304 om. M 306 om. M 307 cecilius M 308—310 om. M 312 lutacius M 313 lutatius
+114,mgh_auct_ant_11,134,453,,cecilius,M,304 om. M 306 om. M 307 cecilius M 308—310 om. M 312 lutacius M 313 lutatius
+115,mgh_auct_ant_11,134,453,,308—310 om.,M,304 om. M 306 om. M 307 cecilius M 308—310 om. M 312 lutacius M 313 lutatius
+116,mgh_auct_ant_11,134,453,,lutacius,M,304 om. M 306 om. M 307 cecilius M 308—310 om. M 312 lutacius M 313 lutatius
+117,mgh_auct_ant_11,134,453,,lutatius om.,M,om. M 316 comaedia P 323 oblicius C 324. 325 c. papirius et m. aemilius (rel. om.) M 326 se
+118,mgh_auct_ant_11,134,453,,comaedia,P,om. M 316 comaedia P 323 oblicius C 324. 325 c. papirius et m. aemilius (rel. om.) M 326 se
+119,mgh_auct_ant_11,134,453,,oblicius,C,om. M 316 comaedia P 323 oblicius C 324. 325 c. papirius et m. aemilius (rel. om.) M 326 se
+120,mgh_auct_ant_11,134,453,,c. papirius et m. aemilius,M,om. M 316 comaedia P 323 oblicius C 324. 325 c. papirius et m. aemilius (rel. om.) M 326 se
+121,mgh_auct_ant_11,134,453,,om.,M,addidi. 329 om. M 331 om. M 332 marcus M
+122,mgh_auct_ant_11,134,453,,om.,M,addidi. 329 om. M 331 om. M 332 marcus M
+123,mgh_auct_ant_11,134,453,,marcus,M,addidi. 329 om. M 331 om. M 332 marcus M
+124,mgh_auct_ant_11,135,506,,om.,M,"338. 339 om. M 339 movit Cusp. 341 flamminius C 342 terrentius M barro C 346 iii et] P,"
+125,mgh_auct_ant_11,135,506,,flamminius,C,"338. 339 om. M 339 movit Cusp. 341 flamminius C 342 terrentius M barro C 346 iii et] P,"
+126,mgh_auct_ant_11,135,506,,terrentius,M,"338. 339 om. M 339 movit Cusp. 341 flamminius C 342 terrentius M barro C 346 iii et] P,"
+127,mgh_auct_ant_11,135,506,,barro,C,"338. 339 om. M 339 movit Cusp. 341 flamminius C 342 terrentius M barro C 346 iii et] P,"
+128,mgh_auct_ant_11,135,506,iii et,et iii,M,"338. 339 om. M 339 movit Cusp. 341 flamminius C 342 terrentius M barro C 346 iii et] P,"
+129,mgh_auct_ant_11,135,506,,et om.,M,et iii M 348 et om. M 349. 350 om. M 351 c.] g M 352 om. M 353 crasso M
+130,mgh_auct_ant_11,135,506,,om.,M,et iii M 348 et om. M 349. 350 om. M 351 c.] g M 352 om. M 353 crasso M
+131,mgh_auct_ant_11,135,506,c.,g,M,et iii M 348 et om. M 349. 350 om. M 351 c.] g M 352 om. M 353 crasso M
+132,mgh_auct_ant_11,135,506,,om.,M,et iii M 348 et om. M 349. 350 om. M 351 c.] g M 352 om. M 353 crasso M
+133,mgh_auct_ant_11,135,506,,crasso,M,et iii M 348 et om. M 349. 350 om. M 351 c.] g M 352 om. M 353 crasso M
+134,mgh_auct_ant_11,135,506,,om.,M,"354. 355. 356 om. M p. servilius P, ubi a. 552. 553 priorum consulum praenominibus (utpote iisdem quae"
+135,mgh_auct_ant_11,135,506,,p. servilius,P,"354. 355. 356 om. M p. servilius P, ubi a. 552. 553 priorum consulum praenominibus (utpote iisdem quae"
+136,mgh_auct_ant_11,135,506,,l. cornelius,P,applicantur. 357 l. cornelius P poeta M 358 sex. sulpicius P et om. M 359 c. cornelius P
+137,mgh_auct_ant_11,135,506,,poeta,M,applicantur. 357 l. cornelius P poeta M 358 sex. sulpicius P et om. M 359 c. cornelius P
+138,mgh_auct_ant_11,135,506,,sex. sulpicius,P,applicantur. 357 l. cornelius P poeta M 358 sex. sulpicius P et om. M 359 c. cornelius P
+139,mgh_auct_ant_11,135,506,,et om.,M,applicantur. 357 l. cornelius P poeta M 358 sex. sulpicius P et om. M 359 c. cornelius P
+140,mgh_auct_ant_11,135,506,,c. cornelius,P,applicantur. 357 l. cornelius P poeta M 358 sex. sulpicius P et om. M 359 c. cornelius P
+141,mgh_auct_ant_11,135,506,,l. aelius,P,360 l. aelius P poeto M 361 l. cornelius P minutius P 362 p. furius P marcellius M
+142,mgh_auct_ant_11,135,506,,poeto,M,360 l. aelius P poeto M 361 l. cornelius P minutius P 362 p. furius P marcellius M
+143,mgh_auct_ant_11,135,506,,l. cornelius,P,360 l. aelius P poeto M 361 l. cornelius P minutius P 362 p. furius P marcellius M
+144,mgh_auct_ant_11,135,506,,minutius,P,360 l. aelius P poeto M 361 l. cornelius P minutius P 362 p. furius P marcellius M
+145,mgh_auct_ant_11,135,506,,p. furius,P,360 l. aelius P poeto M 361 l. cornelius P minutius P 362 p. furius P marcellius M
+146,mgh_auct_ant_11,135,506,,marcellius,M,360 l. aelius P poeto M 361 l. cornelius P minutius P 362 p. furius P marcellius M
+147,mgh_auct_ant_11,135,506,,om.,M,"363 om. M 365 a. 561 consules relatos apud Livium 34, 54 om. C, habet Cusp. ex Livio omnino: sed videntur"
+148,mgh_auct_ant_11,135,506,,om.,C,"363 om. M 365 a. 561 consules relatos apud Livium 34, 54 om. C, habet Cusp. ex Livio omnino: sed videntur"
+149,mgh_auct_ant_11,135,506,,m. scipio,P,adfuisse apud Cassiodorum (vide supra p. 115). 367 m. scipio P 368 m. scipio P lelius M
+150,mgh_auct_ant_11,135,506,,m. scipio,P,adfuisse apud Cassiodorum (vide supra p. 115). 367 m. scipio P 368 m. scipio P lelius M
+151,mgh_auct_ant_11,136,563,,om.,M,370. 371 om. M 374 m. sempronius labeon M 376 labeon om. M hoc loco. 380 tarpurnius C
+152,mgh_auct_ant_11,136,563,,m. sempronius labeon,M,370. 371 om. M 374 m. sempronius labeon M 376 labeon om. M hoc loco. 380 tarpurnius C
+153,mgh_auct_ant_11,136,563,,labeon om.,M,370. 371 om. M 374 m. sempronius labeon M 376 labeon om. M hoc loco. 380 tarpurnius C
+154,mgh_auct_ant_11,136,563,,tarpurnius,C,370. 371 om. M 374 m. sempronius labeon M 376 labeon om. M hoc loco. 380 tarpurnius C
+155,mgh_auct_ant_11,136,563,,om.,M,383 om. M 385 om. M 387 l. potumius abinus M 388 om. M 390 et a. atilius om. M
+156,mgh_auct_ant_11,136,563,,om.,M,383 om. M 385 om. M 387 l. potumius abinus M 388 om. M 390 et a. atilius om. M
+157,mgh_auct_ant_11,136,563,,l. potumius abinus,M,383 om. M 385 om. M 387 l. potumius abinus M 388 om. M 390 et a. atilius om. M
+158,mgh_auct_ant_11,136,563,,om.,M,383 om. M 385 om. M 387 l. potumius abinus M 388 om. M 390 et a. atilius om. M
+159,mgh_auct_ant_11,136,563,,et a. atilius om.,M,383 om. M 385 om. M 387 l. potumius abinus M 388 om. M 390 et a. atilius om. M
+160,mgh_auct_ant_11,136,563,,om.,M,"392 om. M 393 poeto M 394 mamercus P Cusp., marcus M 395 octauus M 396 om. M"
+161,mgh_auct_ant_11,136,563,,poeto,M,"392 om. M 393 poeto M 394 mamercus P Cusp., marcus M 395 octauus M 396 om. M"
+162,mgh_auct_ant_11,136,563,,mamercus,P,"392 om. M 393 poeto M 394 mamercus P Cusp., marcus M 395 octauus M 396 om. M"
+163,mgh_auct_ant_11,136,563,,"Cusp., marcus",M,"392 om. M 393 poeto M 394 mamercus P Cusp., marcus M 395 octauus M 396 om. M"
+164,mgh_auct_ant_11,136,563,,octauus,M,"392 om. M 393 poeto M 394 mamercus P Cusp., marcus M 395 octauus M 396 om. M"
+165,mgh_auct_ant_11,136,563,,om.,M,"392 om. M 393 poeto M 394 mamercus P Cusp., marcus M 395 octauus M 396 om. M"
+166,mgh_auct_ant_11,136,563,,iuvencius,M,"397 iuvencius M 398 martius P Cusp., mamercus M 401 et om. M 402 aemelius M 407 om. M"
+167,mgh_auct_ant_11,136,563,,martius,P,"397 iuvencius M 398 martius P Cusp., mamercus M 401 et om. M 402 aemelius M 407 om. M"
+168,mgh_auct_ant_11,136,563,,"Cusp., mamercus",M,"397 iuvencius M 398 martius P Cusp., mamercus M 401 et om. M 402 aemelius M 407 om. M"
+169,mgh_auct_ant_11,136,563,,et om.,M,"397 iuvencius M 398 martius P Cusp., mamercus M 401 et om. M 402 aemelius M 407 om. M"
+170,mgh_auct_ant_11,136,563,,aemelius,M,"397 iuvencius M 398 martius P Cusp., mamercus M 401 et om. M 402 aemelius M 407 om. M"
+171,mgh_auct_ant_11,136,563,,om.,M,"397 iuvencius M 398 martius P Cusp., mamercus M 401 et om. M 402 aemelius M 407 om. M"
+172,mgh_auct_ant_11,136,563,,celtiberie,M,409 celtiberie M
+173,mgh_auct_ant_11,137,615,,affricanus,M,415 affricanus M 416 nummius P 417 et om. M 418 calba C 419 et om. M 420 om. M
+174,mgh_auct_ant_11,137,615,,nummius,P,415 affricanus M 416 nummius P 417 et om. M 418 calba C 419 et om. M 420 om. M
+175,mgh_auct_ant_11,137,615,,et om.,M,415 affricanus M 416 nummius P 417 et om. M 418 calba C 419 et om. M 420 om. M
+176,mgh_auct_ant_11,137,615,,calba,C,415 affricanus M 416 nummius P 417 et om. M 418 calba C 419 et om. M 420 om. M
+177,mgh_auct_ant_11,137,615,,et om.,M,415 affricanus M 416 nummius P 417 et om. M 418 calba C 419 et om. M 420 om. M
+178,mgh_auct_ant_11,137,615,,om.,M,415 affricanus M 416 nummius P 417 et om. M 418 calba C 419 et om. M 420 om. M
+179,mgh_auct_ant_11,137,615,,cepio,C,"421 cepio C 421. 422 et q. pompeius q. cepio et c. laelius P, et c. lelius (rel. om.) M 423 pom-"
+180,mgh_auct_ant_11,137,615,,et q. pompeius q. cepio et c. laelius,P,"421 cepio C 421. 422 et q. pompeius q. cepio et c. laelius P, et c. lelius (rel. om.) M 423 pom-"
+180,mgh_auct_ant_11,137,615,,et c. lelius,M,"421 cepio C 421. 422 et q. pompeius q. cepio et c. laelius P, et c. lelius (rel. om.) M 423 pom-"
+181,mgh_auct_ant_11,137,615,,pompilius,P,"pilius P 424 prutus P 425. 426 om. M 426 p. furius Cusp., p. furio P 427 carpurnius C"
+182,mgh_auct_ant_11,137,615,,prutus,P,"pilius P 424 prutus P 425. 426 om. M 426 p. furius Cusp., p. furio P 427 carpurnius C"
+183,mgh_auct_ant_11,137,615,,om.,M,"pilius P 424 prutus P 425. 426 om. M 426 p. furius Cusp., p. furio P 427 carpurnius C"
+184,mgh_auct_ant_11,137,615,,"p. furius Cusp., p. furio",P,"pilius P 424 prutus P 425. 426 om. M 426 p. furius Cusp., p. furio P 427 carpurnius C"
+185,mgh_auct_ant_11,137,615,,carpurnius,C,"pilius P 424 prutus P 425. 426 om. M 426 p. furius Cusp., p. furio P 427 carpurnius C"
+186,mgh_auct_ant_11,137,615,,p. affricanus,M,"429 p. affricanus M, a. africanus P fulgius C 430 carpurnius C 431 om. M 435 octauus M"
+186,mgh_auct_ant_11,137,615,,a. africanus,P,"429 p. affricanus M, a. africanus P fulgius C 430 carpurnius C 431 om. M 435 octauus M"
+187,mgh_auct_ant_11,137,615,,fulgius,C,"429 p. affricanus M, a. africanus P fulgius C 430 carpurnius C 431 om. M 435 octauus M"
+188,mgh_auct_ant_11,137,615,,carpurnius,C,"429 p. affricanus M, a. africanus P fulgius C 430 carpurnius C 431 om. M 435 octauus M"
+189,mgh_auct_ant_11,137,615,,om.,M,"429 p. affricanus M, a. africanus P fulgius C 430 carpurnius C 431 om. M 435 octauus M"
+190,mgh_auct_ant_11,137,615,,octauus,M,"429 p. affricanus M, a. africanus P fulgius C 430 carpurnius C 431 om. M 435 octauus M"
+191,mgh_auct_ant_11,137,615,,om.,M,437 om. M 438 m. plaucius et m. aurelius M 439 (sic P Cusp.). 440. 441 om. M 442 hi M
+192,mgh_auct_ant_11,137,615,,m. plaucius et m. aurelius,M,437 om. M 438 m. plaucius et m. aurelius M 439 (sic P Cusp.). 440. 441 om. M 442 hi M
+193,mgh_auct_ant_11,137,615,,om.,M,437 om. M 438 m. plaucius et m. aurelius M 439 (sic P Cusp.). 440. 441 om. M 442 hi M
+194,mgh_auct_ant_11,137,615,,hi,M,437 om. M 438 m. plaucius et m. aurelius M 439 (sic P Cusp.). 440. 441 om. M 442 hi M
+195,mgh_auct_ant_11,137,615,,c.,M,"c. M Cusp., om. P 443 optimius M 447 om. M mutius P 448 linicius C geta om. M"
+196,mgh_auct_ant_11,137,615,,"Cusp., om.",P,"c. M Cusp., om. P 443 optimius M 447 om. M mutius P 448 linicius C geta om. M"
+197,mgh_auct_ant_11,137,615,,optimius,M,"c. M Cusp., om. P 443 optimius M 447 om. M mutius P 448 linicius C geta om. M"
+198,mgh_auct_ant_11,137,615,,om.,M,"c. M Cusp., om. P 443 optimius M 447 om. M mutius P 448 linicius C geta om. M"
+199,mgh_auct_ant_11,137,615,,mutius,P,"c. M Cusp., om. P 443 optimius M 447 om. M mutius P 448 linicius C geta om. M"
+200,mgh_auct_ant_11,137,615,,linicius,C,"c. M Cusp., om. P 443 optimius M 447 om. M mutius P 448 linicius C geta om. M"
+201,mgh_auct_ant_11,137,615,,geta om.,M,"c. M Cusp., om. P 443 optimius M 447 om. M mutius P 448 linicius C geta om. M"
+202,mgh_auct_ant_11,137,615,,scaurius,C,449 scaurius C 450 hi M cn. micius M
+203,mgh_auct_ant_11,137,615,,hi,M,449 scaurius C 450 hi M cn. micius M
+204,mgh_auct_ant_11,137,615,,cn. micius,M,449 scaurius C 450 hi M cn. micius M
+205,mgh_auct_ant_11,138,668,,ludricam,P,450 ludricam P talarium] scripsi probavitque Martinus Hertz (de ludo talario sive talari. Breslaviae
+206,mgh_auct_ant_11,138,668,talarium,"scripsi probavitque Martinus Hertz reiecta coniectura antea proposita Atellanum, talanum",C,450 ludricam P talarium] scripsi probavitque Martinus Hertz (de ludo talario sive talari. Breslaviae
+207,mgh_auct_ant_11,138,668,,om.,M,rum Sich. 451 om. M 452 cecilius P 453 om. M 454 carpurnius C 455 et om. M
+208,mgh_auct_ant_11,138,668,,cecilius,P,rum Sich. 451 om. M 452 cecilius P 453 om. M 454 carpurnius C 455 et om. M
+209,mgh_auct_ant_11,138,668,,om.,M,rum Sich. 451 om. M 452 cecilius P 453 om. M 454 carpurnius C 455 et om. M
+210,mgh_auct_ant_11,138,668,,carpurnius,C,rum Sich. 451 om. M 452 cecilius P 453 om. M 454 carpurnius C 455 et om. M
+211,mgh_auct_ant_11,138,668,,et om.,M,rum Sich. 451 om. M 452 cecilius P 453 om. M 454 carpurnius C 455 et om. M
+212,mgh_auct_ant_11,138,668,,minutius,M,minutius M 456 om. M 457 scaurius P 458. 459 om. M 459 erranus P 460 coepionem C
+213,mgh_auct_ant_11,138,668,,om.,M,minutius M 456 om. M 457 scaurius P 458. 459 om. M 459 erranus P 460 coepionem C
+214,mgh_auct_ant_11,138,668,,scaurius,P,minutius M 456 om. M 457 scaurius P 458. 459 om. M 459 erranus P 460 coepionem C
+215,mgh_auct_ant_11,138,668,,om.,M,minutius M 456 om. M 457 scaurius P 458. 459 om. M 459 erranus P 460 coepionem C
+216,mgh_auct_ant_11,138,668,,erranus,P,minutius M 456 om. M 457 scaurius P 458. 459 om. M 459 erranus P 460 coepionem C
+217,mgh_auct_ant_11,138,668,,coepionem,C,minutius M 456 om. M 457 scaurius P 458. 459 om. M 459 erranus P 460 coepionem C
+218,mgh_auct_ant_11,138,668,,manlius,M,"461 manlius M Cusp., manilius P 462 c. maurius (om. ii) M finbrius C 463—466 om. M"
+219,mgh_auct_ant_11,138,668,,"Cusp., manilius",P,"461 manlius M Cusp., manilius P 462 c. maurius (om. ii) M finbrius C 463—466 om. M"
+220,mgh_auct_ant_11,138,668,,c. maurius,M,"461 manlius M Cusp., manilius P 462 c. maurius (om. ii) M finbrius C 463—466 om. M"
+221,mgh_auct_ant_11,138,668,,finbrius,C,"461 manlius M Cusp., manilius P 462 c. maurius (om. ii) M finbrius C 463—466 om. M"
+222,mgh_auct_ant_11,138,668,,463—466 om.,M,"461 manlius M Cusp., manilius P 462 c. maurius (om. ii) M finbrius C 463—466 om. M"
+223,mgh_auct_ant_11,138,668,,om.,M,"464 Q. Luctatius Cusp., fortasse ex cod. 470 om. M domicius P cassus P 471 ptolomaeus"
+224,mgh_auct_ant_11,138,668,,domicius,P,"464 Q. Luctatius Cusp., fortasse ex cod. 470 om. M domicius P cassus P 471 ptolomaeus"
+225,mgh_auct_ant_11,138,668,,cassus,P,"464 Q. Luctatius Cusp., fortasse ex cod. 470 om. M domicius P cassus P 471 ptolomaeus"
+226,mgh_auct_ant_11,138,668,,ptolomaeus aegipti,M,aegipti M 473 om. M 475 om. M c. claudius et m. pulcher perperna P 477 om. M c. P Cusp.
+227,mgh_auct_ant_11,138,668,,om.,M,aegipti M 473 om. M 475 om. M c. claudius et m. pulcher perperna P 477 om. M c. P Cusp.
+228,mgh_auct_ant_11,138,668,,om.,M,aegipti M 473 om. M 475 om. M c. claudius et m. pulcher perperna P 477 om. M c. P Cusp.
+229,mgh_auct_ant_11,138,668,,c. claudius et m. pulcher perperna,P,aegipti M 473 om. M 475 om. M c. claudius et m. pulcher perperna P 477 om. M c. P Cusp.
+230,mgh_auct_ant_11,138,668,,om.,M,aegipti M 473 om. M 475 om. M c. claudius et m. pulcher perperna P 477 om. M c. P Cusp.
+231,mgh_auct_ant_11,138,668,,c.,P,aegipti M 473 om. M 475 om. M c. claudius et m. pulcher perperna P 477 om. M c. P Cusp.
+232,mgh_auct_ant_11,138,668,,pompeus,M,"478 pompeus M 479 et om. M 480—482 om. M 483 iiii et ii om. M 484 xliiii P Cusp.,"
+233,mgh_auct_ant_11,138,668,,et om.,M,"478 pompeus M 479 et om. M 480—482 om. M 483 iiii et ii om. M 484 xliiii P Cusp.,"
+234,mgh_auct_ant_11,138,668,,480—482 om.,M,"478 pompeus M 479 et om. M 480—482 om. M 483 iiii et ii om. M 484 xliiii P Cusp.,"
+235,mgh_auct_ant_11,138,668,,iiii et ii om.,M,"478 pompeus M 479 et om. M 480—482 om. M 483 iiii et ii om. M 484 xliiii P Cusp.,"
+236,mgh_auct_ant_11,138,668,,xliiii,P,"478 pompeus M 479 et om. M 480—482 om. M 483 iiii et ii om. M 484 xliiii P Cusp.,"
+237,mgh_auct_ant_11,138,668,,"Cusp., xl",M,xl M 486 negligentia M 488 c. dolabella M
+238,mgh_auct_ant_11,138,668,,negligentia,M,xl M 486 negligentia M 488 c. dolabella M
+239,mgh_auct_ant_11,138,668,,c. dolabella,M,xl M 486 negligentia M 488 c. dolabella M
+240,mgh_auct_ant_11,139,725,,489—496 om.,M,"489—496 om. M 500 et q. hortensis P, et q. quintius M 501 aq. catulo P, atque catulo M, a"
+241,mgh_auct_ant_11,139,725,,et q. hortensis,P,"489—496 om. M 500 et q. hortensis P, et q. quintius M 501 aq. catulo P, atque catulo M, a"
+241,mgh_auct_ant_11,139,725,,et q. quintius,M,"489—496 om. M 500 et q. hortensis P, et q. quintius M 501 aq. catulo P, atque catulo M, a"
+242,mgh_auct_ant_11,139,725,,aq. catulo,P,"489—496 om. M 500 et q. hortensis P, et q. quintius M 501 aq. catulo P, atque catulo M, a"
+242,mgh_auct_ant_11,139,725,,atque catulo,M,"489—496 om. M 500 et q. hortensis P, et q. quintius M 501 aq. catulo P, atque catulo M, a"
+243,mgh_auct_ant_11,139,725,,om.,M,"Catulo Cusp. 502 om. M 504. 505 an. lepidus et l. tarquatus C, Cn. Lepidus et L. Torquatus"
+244,mgh_auct_ant_11,139,725,,an. lepidus et l. tarquatus,C,"Catulo Cusp. 502 om. M 504. 505 an. lepidus et l. tarquatus C, Cn. Lepidus et L. Torquatus"
+245,mgh_auct_ant_11,139,725,,cesar,M,codex Cuspiniani: plena nomina videntur adfuisse apud Cassiodorum (vide supra p. 115). 506 cesar M
+246,mgh_auct_ant_11,139,725,,q.,C,"q. C Cusp. 509 puppius M 510 pistoriensis M peremptis M 513 et a. gabinius] P, et m."
+247,mgh_auct_ant_11,139,725,,puppius,M,"q. C Cusp. 509 puppius M 510 pistoriensis M peremptis M 513 et a. gabinius] P, et m."
+248,mgh_auct_ant_11,139,725,,pistoriensis,M,"q. C Cusp. 509 puppius M 510 pistoriensis M peremptis M 513 et a. gabinius] P, et m."
+249,mgh_auct_ant_11,139,725,,peremptis,M,"q. C Cusp. 509 puppius M 510 pistoriensis M peremptis M 513 et a. gabinius] P, et m."
+250,mgh_auct_ant_11,139,725,et a. gabinius,et m. valerius,M,"q. C Cusp. 509 puppius M 510 pistoriensis M peremptis M 513 et a. gabinius] P, et m."
+251,mgh_auct_ant_11,139,725,,l. lentulus,M,valerius M 515 l. lentulus M 516 cicero] cero M 517 om. M 519 domicius C 520. 521 om. M
+252,mgh_auct_ant_11,139,725,cicero,cero,M,valerius M 515 l. lentulus M 516 cicero] cero M 517 om. M 519 domicius C 520. 521 om. M
+253,mgh_auct_ant_11,139,725,,om.,M,valerius M 515 l. lentulus M 516 cicero] cero M 517 om. M 519 domicius C 520. 521 om. M
+254,mgh_auct_ant_11,139,725,,domicius,C,valerius M 515 l. lentulus M 516 cicero] cero M 517 om. M 519 domicius C 520. 521 om. M
+255,mgh_auct_ant_11,139,725,,om.,M,valerius M 515 l. lentulus M 516 cicero] cero M 517 om. M 519 domicius C 520. 521 om. M
+256,mgh_auct_ant_11,139,725,,domicius,P,"520 domicius P 524 om. M 525 pomeio Ma cesareque P, cesaraque M 526 cesar P italiam C"
+257,mgh_auct_ant_11,139,725,,om.,M,"520 domicius P 524 om. M 525 pomeio Ma cesareque P, cesaraque M 526 cesar P italiam C"
+258,mgh_auct_ant_11,139,725,,cesareque,P,"520 domicius P 524 om. M 525 pomeio Ma cesareque P, cesaraque M 526 cesar P italiam C"
+258,mgh_auct_ant_11,139,725,,cesaraque,M,"520 domicius P 524 om. M 525 pomeio Ma cesareque P, cesaraque M 526 cesar P italiam C"
+259,mgh_auct_ant_11,139,725,,cesar,P,"520 domicius P 524 om. M 525 pomeio Ma cesareque P, cesaraque M 526 cesar P italiam C"
+260,mgh_auct_ant_11,139,725,,italiam,C,"520 domicius P 524 om. M 525 pomeio Ma cesareque P, cesaraque M 526 cesar P italiam C"
+261,mgh_auct_ant_11,140,778,,a primus,M,"527 a primus M cesares P septem M, ui P Cusp. interpolantes. 529 et p.] p. et M"
+262,mgh_auct_ant_11,140,778,,cesares,P,"527 a primus M cesares P septem M, ui P Cusp. interpolantes. 529 et p.] p. et M"
+263,mgh_auct_ant_11,140,778,,septem,M,"527 a primus M cesares P septem M, ui P Cusp. interpolantes. 529 et p.] p. et M"
+263,mgh_auct_ant_11,140,778,,ui,P,"527 a primus M cesares P septem M, ui P Cusp. interpolantes. 529 et p.] p. et M"
+264,mgh_auct_ant_11,140,778,et p.,p. et,M,"527 a primus M cesares P septem M, ui P Cusp. interpolantes. 529 et p.] p. et M"
+265,mgh_auct_ant_11,140,778,,fusius,M,"530 fusius M Cusp., fuuius P ciaticanus M Cusp. 531 falsalico M egyptum M 532 lepidis M"
+266,mgh_auct_ant_11,140,778,,"Cusp., fuuius",P,"530 fusius M Cusp., fuuius P ciaticanus M Cusp. 531 falsalico M egyptum M 532 lepidis M"
+267,mgh_auct_ant_11,140,778,,ciaticanus,M,"530 fusius M Cusp., fuuius P ciaticanus M Cusp. 531 falsalico M egyptum M 532 lepidis M"
+268,mgh_auct_ant_11,140,778,,falsalico,M,"530 fusius M Cusp., fuuius P ciaticanus M Cusp. 531 falsalico M egyptum M 532 lepidis M"
+269,mgh_auct_ant_11,140,778,,egyptum,M,"530 fusius M Cusp., fuuius P ciaticanus M Cusp. 531 falsalico M egyptum M 532 lepidis M"
+270,mgh_auct_ant_11,140,778,,lepidis,M,"530 fusius M Cusp., fuuius P ciaticanus M Cusp. 531 falsalico M egyptum M 532 lepidis M"
+271,mgh_auct_ant_11,140,778,,fab.,C,533 fab. C 534 quadruum C 536 cesari P marciis M 540 caiete C 541 cesar P 544 do-
+272,mgh_auct_ant_11,140,778,,quadruum,C,533 fab. C 534 quadruum C 536 cesari P marciis M 540 caiete C 541 cesar P 544 do-
+273,mgh_auct_ant_11,140,778,,cesari,P,533 fab. C 534 quadruum C 536 cesari P marciis M 540 caiete C 541 cesar P 544 do-
+274,mgh_auct_ant_11,140,778,,marciis,M,533 fab. C 534 quadruum C 536 cesari P marciis M 540 caiete C 541 cesar P 544 do-
+275,mgh_auct_ant_11,140,778,,caiete,C,533 fab. C 534 quadruum C 536 cesari P marciis M 540 caiete C 541 cesar P 544 do-
+276,mgh_auct_ant_11,140,778,,cesar,P,533 fab. C 534 quadruum C 536 cesari P marciis M 540 caiete C 541 cesar P 544 do-
+277,mgh_auct_ant_11,140,778,,domicius,C,micius C 545. 546 om. M 548 conversum P 549 genlius M cocceus M 550 cernificius M
+278,mgh_auct_ant_11,140,778,,om.,M,micius C 545. 546 om. M 548 conversum P 549 genlius M cocceus M 550 cernificius M
+279,mgh_auct_ant_11,140,778,,conversum,P,micius C 545. 546 om. M 548 conversum P 549 genlius M cocceus M 550 cernificius M
+280,mgh_auct_ant_11,140,778,,genlius,M,micius C 545. 546 om. M 548 conversum P 549 genlius M cocceus M 550 cernificius M
+281,mgh_auct_ant_11,140,778,,cocceus,M,micius C 545. 546 om. M 548 conversum P 549 genlius M cocceus M 550 cernificius M
+282,mgh_auct_ant_11,140,778,,cernificius,M,micius C 545. 546 om. M 548 conversum P 549 genlius M cocceus M 550 cernificius M
+283,mgh_auct_ant_11,140,778,,om.,M,551 om. M 552 uulcatius C 553 domicius M 554 om. M messela P 555 cesare C
+284,mgh_auct_ant_11,140,778,,uulcatius,C,551 om. M 552 uulcatius C 553 domicius M 554 om. M messela P 555 cesare C
+285,mgh_auct_ant_11,140,778,,domicius,M,551 om. M 552 uulcatius C 553 domicius M 554 om. M messela P 555 cesare C
+286,mgh_auct_ant_11,140,778,,om.,M,551 om. M 552 uulcatius C 553 domicius M 554 om. M messela P 555 cesare C
+287,mgh_auct_ant_11,140,778,,messela,P,551 om. M 552 uulcatius C 553 domicius M 554 om. M messela P 555 cesare C
+288,mgh_auct_ant_11,140,778,,cesare,C,551 om. M 552 uulcatius C 553 domicius M 554 om. M messela P 555 cesare C
+289,mgh_auct_ant_11,140,778,,cesare,M,557 actiacus Pa 558 cesare M conditur M
+290,mgh_auct_ant_11,140,778,,conditur,M,557 actiacus Pa 558 cesare M conditur M
+291,mgh_auct_ant_11,141,834,,cesar,M,568 cesar M norbanis M 569 astores C lucium lanium perdomuit C 570 cesar P 571. 572 om. M
+292,mgh_auct_ant_11,141,834,,norbanis,M,568 cesar M norbanis M 569 astores C lucium lanium perdomuit C 570 cesar P 571. 572 om. M
+293,mgh_auct_ant_11,141,834,,astores,C,568 cesar M norbanis M 569 astores C lucium lanium perdomuit C 570 cesar P 571. 572 om. M
+294,mgh_auct_ant_11,141,834,,lucium lanium perdomuit,C,568 cesar M norbanis M 569 astores C lucium lanium perdomuit C 570 cesar P 571. 572 om. M
+295,mgh_auct_ant_11,141,834,,cesar,P,568 cesar M norbanis M 569 astores C lucium lanium perdomuit C 570 cesar P 571. 572 om. M
+296,mgh_auct_ant_11,141,834,,om.,M,568 cesar M norbanis M 569 astores C lucium lanium perdomuit C 570 cesar P 571. 572 om. M
+297,mgh_auct_ant_11,141,834,,apulleius,M,573 apulleius M p. silius] p. arruntius M 574 decepit M 576 cesari P 577 om. M
+298,mgh_auct_ant_11,141,834,p. silius,p. arruntius,M,573 apulleius M p. silius] p. arruntius M 574 decepit M 576 cesari P 577 om. M
+299,mgh_auct_ant_11,141,834,,decepit,M,573 apulleius M p. silius] p. arruntius M 574 decepit M 576 cesari P 577 om. M
+300,mgh_auct_ant_11,141,834,,cesari,P,573 apulleius M p. silius] p. arruntius M 574 decepit M 576 cesari P 577 om. M
+301,mgh_auct_ant_11,141,834,,om.,M,573 apulleius M p. silius] p. arruntius M 574 decepit M 576 cesari P 577 om. M
+302,mgh_auct_ant_11,141,834,,583—586 om.,M,"583—586 om. M 585 iullo sanctionibus P, Iulius Antonius Cusp. affricanus P 587 cesari P"
+303,mgh_auct_ant_11,141,834,,iullo sanctionibus,P,"583—586 om. M 585 iullo sanctionibus P, Iulius Antonius Cusp. affricanus P 587 cesari P"
+304,mgh_auct_ant_11,141,834,,Iulius Antonius Cusp. affricanus,P,"583—586 om. M 585 iullo sanctionibus P, Iulius Antonius Cusp. affricanus P 587 cesari P"
+305,mgh_auct_ant_11,141,834,,cesari,P,"583—586 om. M 585 iullo sanctionibus P, Iulius Antonius Cusp. affricanus P 587 cesari P"
+306,mgh_auct_ant_11,141,834,,martius,M,588 martius M 591 om. M 592 lelius M 595 om. M lentus P messula P 596 bethleem P
+307,mgh_auct_ant_11,141,834,,om.,M,588 martius M 591 om. M 592 lelius M 595 om. M lentus P messula P 596 bethleem P
+308,mgh_auct_ant_11,141,834,,lelius,M,588 martius M 591 om. M 592 lelius M 595 om. M lentus P messula P 596 bethleem P
+309,mgh_auct_ant_11,141,834,,om.,M,588 martius M 591 om. M 592 lelius M 595 om. M lentus P messula P 596 bethleem P
+310,mgh_auct_ant_11,141,834,,lentus,P,588 martius M 591 om. M 592 lelius M 595 om. M lentus P messula P 596 bethleem P
+311,mgh_auct_ant_11,141,834,,messula,P,588 martius M 591 om. M 592 lelius M 595 om. M lentus P messula P 596 bethleem P
+312,mgh_auct_ant_11,141,834,,bethleem,P,588 martius M 591 om. M 592 lelius M 595 om. M lentus P messula P 596 bethleem P
+313,mgh_auct_ant_11,142,887,,plaucius,M,597 plaucius M 598—600 om. M 606 cecilius M linicius C 607. 608 om. M
+314,mgh_auct_ant_11,142,887,,598—600 om.,M,597 plaucius M 598—600 om. M 606 cecilius M linicius C 607. 608 om. M
+315,mgh_auct_ant_11,142,887,,cecilius,M,597 plaucius M 598—600 om. M 606 cecilius M linicius C 607. 608 om. M
+316,mgh_auct_ant_11,142,887,,linicius,C,597 plaucius M 598—600 om. M 606 cecilius M linicius C 607. 608 om. M
+317,mgh_auct_ant_11,142,887,,om.,M,597 plaucius M 598—600 om. M 606 cecilius M linicius C 607. 608 om. M
+318,mgh_auct_ant_11,142,887,,stadius,M,610 stadius M 611 om. M 614 septuagessmo M in om. M hi] hic M 615 cesar C
+319,mgh_auct_ant_11,142,887,,om.,M,610 stadius M 611 om. M 614 septuagessmo M in om. M hi] hic M 615 cesar C
+320,mgh_auct_ant_11,142,887,,septuagessmo,M,610 stadius M 611 om. M 614 septuagessmo M in om. M hi] hic M 615 cesar C
+321,mgh_auct_ant_11,142,887,,in om.,M,610 stadius M 611 om. M 614 septuagessmo M in om. M hi] hic M 615 cesar C
+322,mgh_auct_ant_11,142,887,hi,hic,M,610 stadius M 611 om. M 614 septuagessmo M in om. M hi] hic M 615 cesar C
+323,mgh_auct_ant_11,142,887,,cesar,C,610 stadius M 611 om. M 614 septuagessmo M in om. M hi] hic M 615 cesar C
+324,mgh_auct_ant_11,142,887,,scribonus,M,616 scribonus M 618 pompeius M cecilius M 619 ti. (om. caesar) et germanias cesar M 621 cesar M
+325,mgh_auct_ant_11,142,887,,pompeius,M,616 scribonus M 618 pompeius M cecilius M 619 ti. (om. caesar) et germanias cesar M 621 cesar M
+326,mgh_auct_ant_11,142,887,,cecilius,M,616 scribonus M 618 pompeius M cecilius M 619 ti. (om. caesar) et germanias cesar M 621 cesar M
+327,mgh_auct_ant_11,142,887,,ti. et germanias cesar,M,616 scribonus M 618 pompeius M cecilius M 619 ti. (om. caesar) et germanias cesar M 621 cesar M
+328,mgh_auct_ant_11,142,887,,cesar,M,616 scribonus M 618 pompeius M cecilius M 619 ti. (om. caesar) et germanias cesar M 621 cesar M
+329,mgh_auct_ant_11,142,887,,suria,C,suria C est om. P 623 et drusus (om. caesar) M 625 om. M 626 cesar P puplice M
+330,mgh_auct_ant_11,142,887,,est om.,P,suria C est om. P 623 et drusus (om. caesar) M 625 om. M 626 cesar P puplice M
+331,mgh_auct_ant_11,142,887,,et drusus,M,suria C est om. P 623 et drusus (om. caesar) M 625 om. M 626 cesar P puplice M
+332,mgh_auct_ant_11,142,887,,om.,M,suria C est om. P 623 et drusus (om. caesar) M 625 om. M 626 cesar P puplice M
+333,mgh_auct_ant_11,142,887,,cesar,P,suria C est om. P 623 et drusus (om. caesar) M 625 om. M 626 cesar P puplice M
+334,mgh_auct_ant_11,142,887,,puplice,M,suria C est om. P 623 et drusus (om. caesar) M 625 om. M 626 cesar P puplice M
+335,mgh_auct_ant_11,142,887,,om.,M,628. 629 om. M 629 getulicus P 631—633 om. M
+336,mgh_auct_ant_11,142,887,,getulicus,P,628. 629 om. M 629 getulicus P 631—633 om. M
+337,mgh_auct_ant_11,142,887,,631—633 om.,M,628. 629 om. M 629 getulicus P 631—633 om. M
+338,mgh_auct_ant_11,143,941,,silla,M,"637 silla M 638 Vitellio Vict. 639 om. M 640 atyricus P, atyraus M 642 x] P,"
+339,mgh_auct_ant_11,143,941,,om.,M,"637 silla M 638 Vitellio Vict. 639 om. M 640 atyricus P, atyraus M 642 x] P,"
+340,mgh_auct_ant_11,143,941,,atyricus,P,"637 silla M 638 Vitellio Vict. 639 om. M 640 atyricus P, atyraus M 642 x] P,"
+340,mgh_auct_ant_11,143,941,,atyraus,M,"637 silla M 638 Vitellio Vict. 639 om. M 640 atyricus P, atyraus M 642 x] P,"
+341,mgh_auct_ant_11,143,941,x,xi,M,"637 silla M 638 Vitellio Vict. 639 om. M 640 atyricus P, atyraus M 642 x] P,"
+342,mgh_auct_ant_11,143,941,Cusp. iiii,iii,M,xi M Cusp. iiii] iii M 648 xxiiii] xxuiiii Hier. 649 saturnius M 651 petus Ma 653 thaurus M
+343,mgh_auct_ant_11,143,941,,saturnius,M,xi M Cusp. iiii] iii M 648 xxiiii] xxuiiii Hier. 649 saturnius M 651 petus Ma 653 thaurus M
+344,mgh_auct_ant_11,143,941,,thaurus,M,xi M Cusp. iiii] iii M 648 xxiiii] xxuiiii Hier. 649 saturnius M 651 petus Ma 653 thaurus M
+345,mgh_auct_ant_11,143,941,,prittannis,M,"654 prittannis M 655 uincius Ma, Vicinio Prosp. et Vict. 656 studia P 657 Asiatico et Silano"
+346,mgh_auct_ant_11,143,941,,studia,P,"654 prittannis M 655 uincius Ma, Vicinio Prosp. et Vict. 656 studia P 657 Asiatico et Silano"
+347,mgh_auct_ant_11,143,941,centena,lxviii centena Hier. et om.,M,Vict. 658 centena] lxviii centena Hier. et om. M 659 trachia C regnat C 660 om. M
+348,mgh_auct_ant_11,143,941,,trachia,C,Vict. 658 centena] lxviii centena Hier. et om. M 659 trachia C regnat C 660 om. M
+349,mgh_auct_ant_11,143,941,,regnat,C,Vict. 658 centena] lxviii centena Hier. et om. M 659 trachia C regnat C 660 om. M
+350,mgh_auct_ant_11,143,941,,om.,M,Vict. 658 centena] lxviii centena Hier. et om. M 659 trachia C regnat C 660 om. M
+351,mgh_auct_ant_11,143,941,,uitellus,P,uitellus P 661 uitellus P 662. 663 om. M
+352,mgh_auct_ant_11,143,941,,uitellus,P,uitellus P 661 uitellus P 662. 663 om. M
+353,mgh_auct_ant_11,144,995,,om.,M,"666 om. M Antonius Cusp. 669 om. M 673 rethoricam M, retholicam P 675—678 om. M"
+354,mgh_auct_ant_11,144,995,,om.,M,"666 om. M Antonius Cusp. 669 om. M 673 rethoricam M, retholicam P 675—678 om. M"
+355,mgh_auct_ant_11,144,995,,rethoricam,M,"666 om. M Antonius Cusp. 669 om. M 673 rethoricam M, retholicam P 675—678 om. M"
+355,mgh_auct_ant_11,144,995,,retholicam,P,"666 om. M Antonius Cusp. 669 om. M 673 rethoricam M, retholicam P 675—678 om. M"
+356,mgh_auct_ant_11,144,995,,675—678 om.,M,"666 om. M Antonius Cusp. 669 om. M 673 rethoricam M, retholicam P 675—678 om. M"
+357,mgh_auct_ant_11,144,995,,om.,M,"680 om. M 681 neronias M uobulo P alexandrianae M cum Eutropio, alexandrinae P Cusp., cf."
+358,mgh_auct_ant_11,144,995,,neronias,M,"680 om. M 681 neronias M uobulo P alexandrianae M cum Eutropio, alexandrinae P Cusp., cf."
+359,mgh_auct_ant_11,144,995,,uobulo,P,"680 om. M 681 neronias M uobulo P alexandrianae M cum Eutropio, alexandrinae P Cusp., cf."
+360,mgh_auct_ant_11,144,995,,alexandrianae,M,"680 om. M 681 neronias M uobulo P alexandrianae M cum Eutropio, alexandrinae P Cusp., cf."
+361,mgh_auct_ant_11,144,995,,"cum Eutropio, alexandrinae",P,"680 om. M 681 neronias M uobulo P alexandrianae M cum Eutropio, alexandrinae P Cusp., cf."
+362,mgh_auct_ant_11,144,995,,om.,M,c. 920. 684 Celsino Victorius. 687 om. M 689 apostolus M Cusp. nerore P 690 iiii] quat-
+363,mgh_auct_ant_11,144,995,,apostolus,M,c. 920. 684 Celsino Victorius. 687 om. M 689 apostolus M Cusp. nerore P 690 iiii] quat-
+364,mgh_auct_ant_11,144,995,,Cusp. nerore,P,c. 920. 684 Celsino Victorius. 687 om. M 689 apostolus M Cusp. nerore P 690 iiii] quat-
+365,mgh_auct_ant_11,144,995,iiii,quattuor,P,c. 920. 684 Celsino Victorius. 687 om. M 689 apostolus M Cusp. nerore P 690 iiii] quat-
+365,mgh_auct_ant_11,144,995,iiii,quatuor,M,c. 920. 684 Celsino Victorius. 687 om. M 689 apostolus M Cusp. nerore P 690 iiii] quat-
+366,mgh_auct_ant_11,144,995,,numentana,C,"tuor P, quatuor M numentana C 691 succensit M 692 om. M 693 uitellus Ma 695 om. M"
+367,mgh_auct_ant_11,144,995,,succensit,M,"tuor P, quatuor M numentana C 691 succensit M 692 om. M 693 uitellus Ma 695 om. M"
+368,mgh_auct_ant_11,144,995,,om.,M,"tuor P, quatuor M numentana C 691 succensit M 692 om. M 693 uitellus Ma 695 om. M"
+369,mgh_auct_ant_11,144,995,,om.,M,"tuor P, quatuor M numentana C 691 succensit M 692 om. M 693 uitellus Ma 695 om. M"
+370,mgh_auct_ant_11,145,1049,,uespasianus iiii om.,M,698 uespasianus iiii om. M 699 iudea C 700—706 om. M 707 titus uiiii M 710 disser-
+371,mgh_auct_ant_11,145,1049,,iudea,C,698 uespasianus iiii om. M 699 iudea C 700—706 om. M 707 titus uiiii M 710 disser-
+372,mgh_auct_ant_11,145,1049,,700—706 om.,M,698 uespasianus iiii om. M 699 iudea C 700—706 om. M 707 titus uiiii M 710 disser-
+373,mgh_auct_ant_11,145,1049,,titus uiiii,M,698 uespasianus iiii om. M 699 iudea C 700—706 om. M 707 titus uiiii M 710 disser-
+374,mgh_auct_ant_11,145,1049,,dissertissimus,C,tissimus C 713 domicianus P 714 ob signem C delicias C succensit M cludelissimus P
+375,mgh_auct_ant_11,145,1049,,domicianus,P,tissimus C 713 domicianus P 714 ob signem C delicias C succensit M cludelissimus P
+376,mgh_auct_ant_11,145,1049,,ob signem,C,tissimus C 713 domicianus P 714 ob signem C delicias C succensit M cludelissimus P
+377,mgh_auct_ant_11,145,1049,,delicias,C,tissimus C 713 domicianus P 714 ob signem C delicias C succensit M cludelissimus P
+378,mgh_auct_ant_11,145,1049,,succensit,M,tissimus C 713 domicianus P 714 ob signem C delicias C succensit M cludelissimus P
+379,mgh_auct_ant_11,145,1049,,cludelissimus,P,tissimus C 713 domicianus P 714 ob signem C delicias C succensit M cludelissimus P
+380,mgh_auct_ant_11,145,1049,u,ui,M,717 u] ui M 718 om. M 720. 721 om. M 723 om. M
+381,mgh_auct_ant_11,145,1049,,om.,M,717 u] ui M 718 om. M 720. 721 om. M 723 om. M
+382,mgh_auct_ant_11,145,1049,,om.,M,717 u] ui M 718 om. M 720. 721 om. M 723 om. M
+383,mgh_auct_ant_11,145,1049,,om.,M,717 u] ui M 718 om. M 720. 721 om. M 723 om. M
+384,mgh_auct_ant_11,146,1102,,facte,M,729 facte M pantheum Hier. 730. 731 om. M 733 om. M 735 om. M 736 appollonius (om.
+385,mgh_auct_ant_11,146,1102,,om.,M,729 facte M pantheum Hier. 730. 731 om. M 733 om. M 735 om. M 736 appollonius (om.
+386,mgh_auct_ant_11,146,1102,,om.,M,729 facte M pantheum Hier. 730. 731 om. M 733 om. M 735 om. M 736 appollonius (om.
+387,mgh_auct_ant_11,146,1102,,om.,M,729 facte M pantheum Hier. 730. 731 om. M 733 om. M 735 om. M 736 appollonius (om.
+388,mgh_auct_ant_11,146,1102,,appollonius,M,729 facte M pantheum Hier. 730. 731 om. M 733 om. M 735 om. M 736 appollonius (om.
+389,mgh_auct_ant_11,146,1102,,xxxiiii,M,729 facte M pantheum Hier. 730. 731 om. M 733 om. M 735 om. M 736 appollonius (om.
+390,mgh_auct_ant_11,146,1102,,annum,C,729 facte M pantheum Hier. 730. 731 om. M 733 om. M 735 om. M 736 appollonius (om.
+391,mgh_auct_ant_11,146,1102,u,ii,M,729 facte M pantheum Hier. 730. 731 om. M 733 om. M 735 om. M 736 appollonius (om.
+392,mgh_auct_ant_11,146,1102,,senetio,M,729 facte M pantheum Hier. 730. 731 om. M 733 om. M 735 om. M 736 appollonius (om.
+393,mgh_auct_ant_11,146,1102,,cum — fuerunt xi om.,M,"740 cum — fuerunt xi om. M qui] cui P Cusp. 741. 742 om. M 744 quadratus Ma 747 faedus P,"
+394,mgh_auct_ant_11,146,1102,qui,cui,P,"740 cum — fuerunt xi om. M qui] cui P Cusp. 741. 742 om. M 744 quadratus Ma 747 faedus P,"
+395,mgh_auct_ant_11,146,1102,,om.,M,"740 cum — fuerunt xi om. M qui] cui P Cusp. 741. 742 om. M 744 quadratus Ma 747 faedus P,"
+396,mgh_auct_ant_11,146,1102,,faedus,P,"740 cum — fuerunt xi om. M qui] cui P Cusp. 741. 742 om. M 744 quadratus Ma 747 faedus P,"
+396,mgh_auct_ant_11,146,1102,,fidem Hier. seuleuciam,M,"740 cum — fuerunt xi om. M qui] cui P Cusp. 741. 742 om. M 744 quadratus Ma 747 faedus P,"
+397,mgh_auct_ant_11,146,1102,,etesifontem,C,fidem Hier. seuleuciam M etesifontem C cum Hieronymi codd. Freh. et Pet. 751. 752 om. M
+398,mgh_auct_ant_11,146,1102,,om.,M,fidem Hier. seuleuciam M etesifontem C cum Hieronymi codd. Freh. et Pet. 751. 752 om. M
+399,mgh_auct_ant_11,146,1102,,"Bolenus Cusp. Prosp., solenus",P,"752 Bolenus Cusp. Prosp., solenus P 754. 755 om. M 754 affricanus P"
+400,mgh_auct_ant_11,146,1102,,om.,M,"752 Bolenus Cusp. Prosp., solenus P 754. 755 om. M 754 affricanus P"
+401,mgh_auct_ant_11,146,1102,,affricanus,P,"752 Bolenus Cusp. Prosp., solenus P 754. 755 om. M 754 affricanus P"
+402,mgh_auct_ant_11,147,1156,,plenius,P,756 plenius PMa 757 om. M 759 om. M 760 aproniamus P 761 assyrriam M
+403,mgh_auct_ant_11,147,1156,,om.,M,756 plenius PMa 757 om. M 759 om. M 760 aproniamus P 761 assyrriam M
+404,mgh_auct_ant_11,147,1156,,om.,M,756 plenius PMa 757 om. M 759 om. M 760 aproniamus P 761 assyrriam M
+405,mgh_auct_ant_11,147,1156,,aproniamus,P,756 plenius PMa 757 om. M 759 om. M 760 aproniamus P 761 assyrriam M
+406,mgh_auct_ant_11,147,1156,,assyrriam,M,756 plenius PMa 757 om. M 759 om. M 760 aproniamus P 761 assyrriam M
+407,mgh_auct_ant_11,147,1156,,om.,M,763. 764 om. M 766 seleutiam M lxii M collocata M calumna C d. xxuiiii om. M 768. 769 om. M
+408,mgh_auct_ant_11,147,1156,,seleutiam,M,763. 764 om. M 766 seleutiam M lxii M collocata M calumna C d. xxuiiii om. M 768. 769 om. M
+409,mgh_auct_ant_11,147,1156,,lxii,M,763. 764 om. M 766 seleutiam M lxii M collocata M calumna C d. xxuiiii om. M 768. 769 om. M
+410,mgh_auct_ant_11,147,1156,,collocata,M,763. 764 om. M 766 seleutiam M lxii M collocata M calumna C d. xxuiiii om. M 768. 769 om. M
+411,mgh_auct_ant_11,147,1156,,calumna,C,763. 764 om. M 766 seleutiam M lxii M collocata M calumna C d. xxuiiii om. M 768. 769 om. M
+412,mgh_auct_ant_11,147,1156,,d. xxuiiii om.,M,763. 764 om. M 766 seleutiam M lxii M collocata M calumna C d. xxuiiii om. M 768. 769 om. M
+413,mgh_auct_ant_11,147,1156,,om.,M,763. 764 om. M 766 seleutiam M lxii M collocata M calumna C d. xxuiiii om. M 768. 769 om. M
+414,mgh_auct_ant_11,147,1156,,adrianus,M,"770 adrianus M 772. 773 om. M 773 aproniamus P1 774 nicenae P, nicetae M 776 om. M"
+415,mgh_auct_ant_11,147,1156,,om.,M,"770 adrianus M 772. 773 om. M 773 aproniamus P1 774 nicenae P, nicetae M 776 om. M"
+416,mgh_auct_ant_11,147,1156,,aproniamus,P,"770 adrianus M 772. 773 om. M 773 aproniamus P1 774 nicenae P, nicetae M 776 om. M"
+417,mgh_auct_ant_11,147,1156,,nicenae,P,"770 adrianus M 772. 773 om. M 773 aproniamus P1 774 nicenae P, nicetae M 776 om. M"
+417,mgh_auct_ant_11,147,1156,,nicetae,M,"770 adrianus M 772. 773 om. M 773 aproniamus P1 774 nicenae P, nicetae M 776 om. M"
+418,mgh_auct_ant_11,147,1156,,om.,M,"770 adrianus M 772. 773 om. M 773 aproniamus P1 774 nicenae P, nicetae M 776 om. M"
+419,mgh_auct_ant_11,147,1156,reliquorumque,reliquet,M,777 reliquorumque] reliquet M 781. 782 om. M Cos. a. 130 etiam a Cusp. cod. afuerunt.
+420,mgh_auct_ant_11,147,1156,,om.,M,777 reliquorumque] reliquet M 781. 782 om. M Cos. a. 130 etiam a Cusp. cod. afuerunt.
+421,mgh_auct_ant_11,148,1210,,om.,M,783 om. M 787 om. M Sergiano II Victorius 788 atilianis M 792—795 om. M
+422,mgh_auct_ant_11,148,1210,,om.,M,783 om. M 787 om. M Sergiano II Victorius 788 atilianis M 792—795 om. M
+423,mgh_auct_ant_11,148,1210,,atilianis,M,783 om. M 787 om. M Sergiano II Victorius 788 atilianis M 792—795 om. M
+424,mgh_auct_ant_11,148,1210,,792—795 om.,M,783 om. M 787 om. M Sergiano II Victorius 788 atilianis M 792—795 om. M
+425,mgh_auct_ant_11,148,1210,,presens,P,792 Sergianus et Balbinus Cusp. 794 presens P 795 presens P 797 bethelem M sus
+426,mgh_auct_ant_11,148,1210,,presens,P,792 Sergianus et Balbinus Cusp. 794 presens P 795 presens P 797 bethelem M sus
+427,mgh_auct_ant_11,148,1210,,bethelem,M,792 Sergianus et Balbinus Cusp. 794 presens P 795 presens P 797 bethelem M sus
+428,mgh_auct_ant_11,148,1210,,sus scaltus,P,"scaltus P, sclatus (om. sus) M potestatis P iudeos C 799 succensit M 802. 803 om. M"
+428,mgh_auct_ant_11,148,1210,,sclatus,M,"scaltus P, sclatus (om. sus) M potestatis P iudeos C 799 succensit M 802. 803 om. M"
+429,mgh_auct_ant_11,148,1210,,potestatis,P,"scaltus P, sclatus (om. sus) M potestatis P iudeos C 799 succensit M 802. 803 om. M"
+430,mgh_auct_ant_11,148,1210,,iudeos,C,"scaltus P, sclatus (om. sus) M potestatis P iudeos C 799 succensit M 802. 803 om. M"
+431,mgh_auct_ant_11,148,1210,,succensit,M,"scaltus P, sclatus (om. sus) M potestatis P iudeos C 799 succensit M 802. 803 om. M"
+432,mgh_auct_ant_11,148,1210,,om.,M,"scaltus P, sclatus (om. sus) M potestatis P iudeos C 799 succensit M 802. 803 om. M"
+433,mgh_auct_ant_11,148,1210,,807—812 om.,M,805 aulius Ma 807—812 om. M 812 Rufino Victorius. 814 chalcedicus C basylides P
+434,mgh_auct_ant_11,148,1210,,chalcedicus,C,805 aulius Ma 807—812 om. M 812 Rufino Victorius. 814 chalcedicus C basylides P
+435,mgh_auct_ant_11,148,1210,,basylides,P,805 aulius Ma 807—812 om. M 812 Rufino Victorius. 814 chalcedicus C basylides P
+436,mgh_auct_ant_11,148,1210,,scytopolitanus om.,M,"scytopolitanus om. M quoque] M Cusp., om. P"
+437,mgh_auct_ant_11,148,1210,,"Cusp., om.",P,"scytopolitanus om. M quoque] M Cusp., om. P"
+438,mgh_auct_ant_11,149,1265,,818—821 om.,M,818—821 om. M 822 ui et iiii P ex corr. 823 duodecimam M lxxuii] lxxiii M fili M
+439,mgh_auct_ant_11,149,1265,,ui et iiii,P,818—821 om. M 822 ui et iiii P ex corr. 823 duodecimam M lxxuii] lxxiii M fili M
+440,mgh_auct_ant_11,149,1265,,duodecimam,M,818—821 om. M 822 ui et iiii P ex corr. 823 duodecimam M lxxuii] lxxiii M fili M
+441,mgh_auct_ant_11,149,1265,lxxuii,lxxiii,M,818—821 om. M 822 ui et iiii P ex corr. 823 duodecimam M lxxuii] lxxiii M fili M
+442,mgh_auct_ant_11,149,1265,,fili,M,818—821 om. M 822 ui et iiii P ex corr. 823 duodecimam M lxxuii] lxxiii M fili M
+443,mgh_auct_ant_11,149,1265,,antoninis,M,"antoninis M xuii M xiiii om. M 826 ferri] terri P, om. M 827 lelianus M 829 latinis] P"
+444,mgh_auct_ant_11,149,1265,,xuii,M,"antoninis M xuii M xiiii om. M 826 ferri] terri P, om. M 827 lelianus M 829 latinis] P"
+445,mgh_auct_ant_11,149,1265,,xiiii om.,M,"antoninis M xuii M xiiii om. M 826 ferri] terri P, om. M 827 lelianus M 829 latinis] P"
+446,mgh_auct_ant_11,149,1265,ferri,terri,P,"antoninis M xuii M xiiii om. M 826 ferri] terri P, om. M 827 lelianus M 829 latinis] P"
+446,mgh_auct_ant_11,149,1265,ferri,om.,M,"antoninis M xuii M xiiii om. M 826 ferri] terri P, om. M 827 lelianus M 829 latinis] P"
+447,mgh_auct_ant_11,149,1265,,lelianus,M,"antoninis M xuii M xiiii om. M 826 ferri] terri P, om. M 827 lelianus M 829 latinis] P"
+448,mgh_auct_ant_11,149,1265,,"Cusp., insignis",M,"Cusp., insignis M 831 cesar M 833—836 om. M 838 annus P 839. 840 om. M 843. 844 om. M"
+449,mgh_auct_ant_11,149,1265,,cesar,M,"Cusp., insignis M 831 cesar M 833—836 om. M 838 annus P 839. 840 om. M 843. 844 om. M"
+450,mgh_auct_ant_11,149,1265,,833—836 om.,M,"Cusp., insignis M 831 cesar M 833—836 om. M 838 annus P 839. 840 om. M 843. 844 om. M"
+451,mgh_auct_ant_11,149,1265,,annus,P,"Cusp., insignis M 831 cesar M 833—836 om. M 838 annus P 839. 840 om. M 843. 844 om. M"
+452,mgh_auct_ant_11,149,1265,,om.,M,"Cusp., insignis M 831 cesar M 833—836 om. M 838 annus P 839. 840 om. M 843. 844 om. M"
+453,mgh_auct_ant_11,149,1265,,om.,M,"Cusp., insignis M 831 cesar M 833—836 om. M 838 annus P 839. 840 om. M 843. 844 om. M"
+454,mgh_auct_ant_11,150,1315,,anno,M,"851 anno M fuerunt om. M 852 presens M gordianus] P cum Prosp. et Vict., cordianus M"
+455,mgh_auct_ant_11,150,1315,,fuerunt om.,M,"851 anno M fuerunt om. M 852 presens M gordianus] P cum Prosp. et Vict., cordianus M"
+456,mgh_auct_ant_11,150,1315,,presens,M,"851 anno M fuerunt om. M 852 presens M gordianus] P cum Prosp. et Vict., cordianus M"
+457,mgh_auct_ant_11,150,1315,,"cum Prosp. et Vict., cordianus",M,"851 anno M fuerunt om. M 852 presens M gordianus] P cum Prosp. et Vict., cordianus M"
+458,mgh_auct_ant_11,150,1315,,om.,M,853 om. M 855 om. M 856 marcillus M 859. 860 om. M 862 duobus Silanis Victorius
+459,mgh_auct_ant_11,150,1315,,om.,M,853 om. M 855 om. M 856 marcillus M 859. 860 om. M 862 duobus Silanis Victorius
+460,mgh_auct_ant_11,150,1315,,marcillus,M,853 om. M 855 om. M 856 marcillus M 859. 860 om. M 862 duobus Silanis Victorius
+461,mgh_auct_ant_11,150,1315,,om.,M,853 om. M 855 om. M 856 marcillus M 859. 860 om. M 862 duobus Silanis Victorius
+462,mgh_auct_ant_11,150,1315,,om.,M,"864 om. M 865 ambronianus M 866 uii om. M 867 pertinax] PaM, helvius pertinax Pb ex"
+463,mgh_auct_ant_11,150,1315,,ambronianus,M,"864 om. M 865 ambronianus M 866 uii om. M 867 pertinax] PaM, helvius pertinax Pb ex"
+464,mgh_auct_ant_11,150,1315,,uii om.,M,"864 om. M 865 ambronianus M 866 uii om. M 867 pertinax] PaM, helvius pertinax Pb ex"
+465,mgh_auct_ant_11,150,1315,,aper,M,"Hier., Aelius Pertinax Cusp. 869 aper M 871 om. M 873. 874 om. M 874 scoturninus P"
+466,mgh_auct_ant_11,150,1315,,om.,M,"Hier., Aelius Pertinax Cusp. 869 aper M 871 om. M 873. 874 om. M 874 scoturninus P"
+467,mgh_auct_ant_11,150,1315,,om.,M,"Hier., Aelius Pertinax Cusp. 869 aper M 871 om. M 873. 874 om. M 874 scoturninus P"
+468,mgh_auct_ant_11,150,1315,,scoturninus,P,"Hier., Aelius Pertinax Cusp. 869 aper M 871 om. M 873. 874 om. M 874 scoturninus P"
+469,mgh_auct_ant_11,150,1315,,pasthos,M,"876 pasthos M romam M 878 mutianus M 879 thernae M anthiochiam P septezodium C,"
+470,mgh_auct_ant_11,150,1315,,romam,M,"876 pasthos M romam M 878 mutianus M 879 thernae M anthiochiam P septezodium C,"
+471,mgh_auct_ant_11,150,1315,,mutianus,M,"876 pasthos M romam M 878 mutianus M 879 thernae M anthiochiam P septezodium C,"
+472,mgh_auct_ant_11,150,1315,,thernae,M,"876 pasthos M romam M 878 mutianus M 879 thernae M anthiochiam P septezodium C,"
+473,mgh_auct_ant_11,150,1315,,anthiochiam,P,"876 pasthos M romam M 878 mutianus M 879 thernae M anthiochiam P septezodium C,"
+474,mgh_auct_ant_11,150,1315,,septezodium,C,"876 pasthos M romam M 878 mutianus M 879 thernae M anthiochiam P septezodium C,"
+475,mgh_auct_ant_11,151,1371,,om.,M,881 om. M 883 om. M 884 haelianus P1 887 om. M 890 om. M Rufino Victorius
+476,mgh_auct_ant_11,151,1371,,om.,M,881 om. M 883 om. M 884 haelianus P1 887 om. M 890 om. M Rufino Victorius
+477,mgh_auct_ant_11,151,1371,,haelianus,P,881 om. M 883 om. M 884 haelianus P1 887 om. M 890 om. M Rufino Victorius
+478,mgh_auct_ant_11,151,1371,,om.,M,881 om. M 883 om. M 884 haelianus P1 887 om. M 890 om. M Rufino Victorius
+479,mgh_auct_ant_11,151,1371,,om.,M,881 om. M 883 om. M 884 haelianus P1 887 om. M 890 om. M Rufino Victorius
+480,mgh_auct_ant_11,151,1371,,origenis,C,"891 origenis C 893 brittania P 894 aspiri M, aspari Cusp. 895 om. M 897—902 om. M"
+481,mgh_auct_ant_11,151,1371,,brittania,P,"891 origenis C 893 brittania P 894 aspiri M, aspari Cusp. 895 om. M 897—902 om. M"
+482,mgh_auct_ant_11,151,1371,,aspiri,M,"891 origenis C 893 brittania P 894 aspiri M, aspari Cusp. 895 om. M 897—902 om. M"
+483,mgh_auct_ant_11,151,1371,,om.,M,"891 origenis C 893 brittania P 894 aspiri M, aspari Cusp. 895 om. M 897—902 om. M"
+484,mgh_auct_ant_11,151,1371,,897—902 om.,M,"891 origenis C 893 brittania P 894 aspiri M, aspari Cusp. 895 om. M 897—902 om. M"
+485,mgh_auct_ant_11,151,1371,,praetoriam,M,903 praetoriam M 905 marinus C archelaidae C 907 seleucius P1 908 haeliogabalum C
+486,mgh_auct_ant_11,151,1371,,marinus,C,903 praetoriam M 905 marinus C archelaidae C 907 seleucius P1 908 haeliogabalum C
+487,mgh_auct_ant_11,151,1371,,archelaidae,C,903 praetoriam M 905 marinus C archelaidae C 907 seleucius P1 908 haeliogabalum C
+488,mgh_auct_ant_11,151,1371,,seleucius,P,903 praetoriam M 905 marinus C archelaidae C 907 seleucius P1 908 haeliogabalum C
+489,mgh_auct_ant_11,151,1371,,haeliogabalum,C,903 praetoriam M 905 marinus C archelaidae C 907 seleucius P1 908 haeliogabalum C
+490,mgh_auct_ant_11,151,1371,,palestina,C,910 palestina C pius M urbis P1M
+491,mgh_auct_ant_11,151,1371,,pius,M,910 palestina C pius M urbis P1M
+492,mgh_auct_ant_11,152,1426,,antonius,C,912 antonius C mamae C quo om. Ma 916 om. M 918 adsesser alexander M 920 thermae
+493,mgh_auct_ant_11,152,1426,,mamae,C,912 antonius C mamae C quo om. Ma 916 om. M 918 adsesser alexander M 920 thermae
+494,mgh_auct_ant_11,152,1426,,om.,M,912 antonius C mamae C quo om. Ma 916 om. M 918 adsesser alexander M 920 thermae
+495,mgh_auct_ant_11,152,1426,,adsesser alexander,M,912 antonius C mamae C quo om. Ma 916 om. M 918 adsesser alexander M 920 thermae
+496,mgh_auct_ant_11,152,1426,thermae alexandrianae,"thermae alexandrinae Cusp. cum Hier., om",P,"alexandrianae] M, thermae alexandrinae Cusp. cum Hier., om P: cf. c. 681. 922 om. M 923 seleucius M"
+497,mgh_auct_ant_11,152,1426,,om.,M,"alexandrianae] M, thermae alexandrinae Cusp. cum Hier., om P: cf. c. 681. 922 om. M 923 seleucius M"
+498,mgh_auct_ant_11,152,1426,,seleucius,M,"alexandrianae] M, thermae alexandrinae Cusp. cum Hier., om P: cf. c. 681. 922 om. M 923 seleucius M"
+499,mgh_auct_ant_11,152,1426,,origenis,C,"924 origenis C 925 om. M 927—930 om. M 927 mammaeam P 931 mogontiaci] Hier.,"
+500,mgh_auct_ant_11,152,1426,,om.,M,"924 origenis C 925 om. M 927—930 om. M 927 mammaeam P 931 mogontiaci] Hier.,"
+501,mgh_auct_ant_11,152,1426,,927—930 om.,M,"924 origenis C 925 om. M 927—930 om. M 927 mammaeam P 931 mogontiaci] Hier.,"
+502,mgh_auct_ant_11,152,1426,,mammaeam,P,"924 origenis C 925 om. M 927—930 om. M 927 mammaeam P 931 mogontiaci] Hier.,"
+503,mgh_auct_ant_11,152,1426,mogontiaci,"Hier., magontiaci",C,"924 origenis C 925 om. M 927—930 om. M 927 mammaeam P 931 mogontiaci] Hier.,"
+504,mgh_auct_ant_11,152,1426,,om.,M,"magontiaci C 932 om. M affricanus P 935 Maximinus Cusp., maximus M, om. P 937 om. M"
+505,mgh_auct_ant_11,152,1426,,affricanus,P,"magontiaci C 932 om. M affricanus P 935 Maximinus Cusp., maximus M, om. P 937 om. M"
+506,mgh_auct_ant_11,152,1426,,"Maximinus Cusp., maximus",M,"magontiaci C 932 om. M affricanus P 935 Maximinus Cusp., maximus M, om. P 937 om. M"
+506,mgh_auct_ant_11,152,1426,,om.,P,"magontiaci C 932 om. M affricanus P 935 Maximinus Cusp., maximus M, om. P 937 om. M"
+507,mgh_auct_ant_11,152,1426,,om.,M,"magontiaci C 932 om. M affricanus P 935 Maximinus Cusp., maximus M, om. P 937 om. M"
+508,mgh_auct_ant_11,152,1426,,om.,M,"939. 940 om. M 942 om. M 943 ppo M, ppro P"
+509,mgh_auct_ant_11,152,1426,,om.,M,"939. 940 om. M 942 om. M 943 ppo M, ppro P"
+510,mgh_auct_ant_11,152,1426,,ppo,M,"939. 940 om. M 942 om. M 943 ppo M, ppro P"
+510,mgh_auct_ant_11,152,1426,,ppro,P,"939. 940 om. M 942 om. M 943 ppo M, ppro P"
+511,mgh_auct_ant_11,153,1478,,tumultum,P,"943 tumultum P1 resectis M xuii M, ui P, septem Cusp. primumque P 945—947 om. M"
+512,mgh_auct_ant_11,153,1478,,resectis,M,"943 tumultum P1 resectis M xuii M, ui P, septem Cusp. primumque P 945—947 om. M"
+513,mgh_auct_ant_11,153,1478,,xuii,M,"943 tumultum P1 resectis M xuii M, ui P, septem Cusp. primumque P 945—947 om. M"
+513,mgh_auct_ant_11,153,1478,,ui,P,"943 tumultum P1 resectis M xuii M, ui P, septem Cusp. primumque P 945—947 om. M"
+514,mgh_auct_ant_11,153,1478,,septem Cusp. primumque,P,"943 tumultum P1 resectis M xuii M, ui P, septem Cusp. primumque P 945—947 om. M"
+515,mgh_auct_ant_11,153,1478,,945—947 om.,M,"943 tumultum P1 resectis M xuii M, ui P, septem Cusp. primumque P 945—947 om. M"
+516,mgh_auct_ant_11,153,1478,in circo,icirco,M,949 in circo] icirco M marcio C missos C 950 trachia C 951 grates C 952 decius ii om. M
+517,mgh_auct_ant_11,153,1478,,marcio,C,949 in circo] icirco M marcio C missos C 950 trachia C 951 grates C 952 decius ii om. M
+518,mgh_auct_ant_11,153,1478,,missos,C,949 in circo] icirco M marcio C missos C 950 trachia C 951 grates C 952 decius ii om. M
+519,mgh_auct_ant_11,153,1478,,trachia,C,949 in circo] icirco M marcio C missos C 950 trachia C 951 grates C 952 decius ii om. M
+520,mgh_auct_ant_11,153,1478,,grates,C,949 in circo] icirco M marcio C missos C 950 trachia C 951 grates C 952 decius ii om. M
+521,mgh_auct_ant_11,153,1478,,decius ii om.,M,949 in circo] icirco M marcio C missos C 950 trachia C 951 grates C 952 decius ii om. M
+522,mgh_auct_ant_11,153,1478,,xxu om.,P,"953 xxu om. P 954 callus P 955 puplica M 956 abritio C traciae M, tracie P loca M"
+523,mgh_auct_ant_11,153,1478,,callus,P,"953 xxu om. P 954 callus P 955 puplica M 956 abritio C traciae M, tracie P loca M"
+524,mgh_auct_ant_11,153,1478,,puplica,M,"953 xxu om. P 954 callus P 955 puplica M 956 abritio C traciae M, tracie P loca M"
+525,mgh_auct_ant_11,153,1478,,abritio,C,"953 xxu om. P 954 callus P 955 puplica M 956 abritio C traciae M, tracie P loca M"
+526,mgh_auct_ant_11,153,1478,,traciae,M,"953 xxu om. P 954 callus P 955 puplica M 956 abritio C traciae M, tracie P loca M"
+526,mgh_auct_ant_11,153,1478,,tracie,P,"953 xxu om. P 954 callus P 955 puplica M 956 abritio C traciae M, tracie P loca M"
+527,mgh_auct_ant_11,153,1478,,loca,M,"953 xxu om. P 954 callus P 955 puplica M 956 abritio C traciae M, tracie P loca M"
+528,mgh_auct_ant_11,153,1478,,consolatum,C,consolatum C quibus] quo M 957. 958 om. M 960 terammae M xu] ui M quibus]
+529,mgh_auct_ant_11,153,1478,quibus,quo,M,consolatum C quibus] quo M 957. 958 om. M 960 terammae M xu] ui M quibus]
+530,mgh_auct_ant_11,153,1478,,om.,M,consolatum C quibus] quo M 957. 958 om. M 960 terammae M xu] ui M quibus]
+531,mgh_auct_ant_11,153,1478,,terammae,M,consolatum C quibus] quo M 957. 958 om. M 960 terammae M xu] ui M quibus]
+532,mgh_auct_ant_11,153,1478,xu,ui,M,consolatum C quibus] quo M 957. 958 om. M 960 terammae M xu] ui M quibus]
+533,mgh_auct_ant_11,153,1478,quibus,quo,M,consolatum C quibus] quo M 957. 958 om. M 960 terammae M xu] ui M quibus]
+534,mgh_auct_ant_11,153,1478,,om.,M,quo M 961 om. M 962 ii om. M 963 om. M 964 ciprianus M cartharginiensis M
+535,mgh_auct_ant_11,153,1478,,ii om.,M,quo M 961 om. M 962 ii om. M 963 om. M 964 ciprianus M cartharginiensis M
+536,mgh_auct_ant_11,153,1478,,om.,M,quo M 961 om. M 962 ii om. M 963 om. M 964 ciprianus M cartharginiensis M
+537,mgh_auct_ant_11,153,1478,,ciprianus,M,quo M 961 om. M 962 ii om. M 963 om. M 964 ciprianus M cartharginiensis M
+538,mgh_auct_ant_11,153,1478,,cartharginiensis,M,quo M 961 om. M 962 ii om. M 963 om. M 964 ciprianus M cartharginiensis M
+539,mgh_auct_ant_11,153,1478,,om.,M,965 om. M
+540,mgh_auct_ant_11,154,1535,,966—970 om.,M,966—970 om. M 972 barbarorumque quass. M 973 ui om. M 974—977 om. M
+541,mgh_auct_ant_11,154,1535,,barbarorumque quass.,M,966—970 om. M 972 barbarorumque quass. M 973 ui om. M 974—977 om. M
+542,mgh_auct_ant_11,154,1535,,ui om.,M,966—970 om. M 972 barbarorumque quass. M 973 ui om. M 974—977 om. M
+543,mgh_auct_ant_11,154,1535,,974—977 om.,M,966—970 om. M 972 barbarorumque quass. M 973 ui om. M 974—977 om. M
+544,mgh_auct_ant_11,154,1535,,mediolanio,P,"974 Valeriano Victorius 979 mediolanio P, mediolano M annum C 980 om. M 983 cladii M"
+544,mgh_auct_ant_11,154,1535,,mediolano,M,"974 Valeriano Victorius 979 mediolanio P, mediolano M annum C 980 om. M 983 cladii M"
+545,mgh_auct_ant_11,154,1535,,annum,C,"974 Valeriano Victorius 979 mediolanio P, mediolano M annum C 980 om. M 983 cladii M"
+546,mgh_auct_ant_11,154,1535,,om.,M,"974 Valeriano Victorius 979 mediolanio P, mediolano M annum C 980 om. M 983 cladii M"
+547,mgh_auct_ant_11,154,1535,,cladii,M,"974 Valeriano Victorius 979 mediolanio P, mediolano M annum C 980 om. M 983 cladii M"
+548,mgh_auct_ant_11,154,1535,,986—988 om.,M,986—988 om. M 989 aurelius et M 992 om. M 993 aurelius M 994 probus ii et paternus M
+549,mgh_auct_ant_11,154,1535,,aurelius et,M,986—988 om. M 989 aurelius et M 992 om. M 993 aurelius M 994 probus ii et paternus M
+550,mgh_auct_ant_11,154,1535,,om.,M,986—988 om. M 989 aurelius et M 992 om. M 993 aurelius M 994 probus ii et paternus M
+551,mgh_auct_ant_11,154,1535,,aurelius,M,986—988 om. M 989 aurelius et M 992 om. M 993 aurelius M 994 probus ii et paternus M
+552,mgh_auct_ant_11,154,1535,,probus ii et paternus,M,986—988 om. M 989 aurelius et M 992 om. M 993 aurelius M 994 probus ii et paternus M
+553,mgh_auct_ant_11,154,1535,,lxxuiii,M,995 lxxuiii M
+554,mgh_auct_ant_11,155,1586,galliae,gratus,M,998 galliae] gratus M 999 om. M 1001 manicheorum C 1003 carus ii et om. M
+555,mgh_auct_ant_11,155,1586,,om.,M,998 galliae] gratus M 999 om. M 1001 manicheorum C 1003 carus ii et om. M
+556,mgh_auct_ant_11,155,1586,,1001 manicheorum,C,998 galliae] gratus M 999 om. M 1001 manicheorum C 1003 carus ii et om. M
+557,mgh_auct_ant_11,155,1586,,1003 carus ii et om.,M,998 galliae] gratus M 999 om. M 1001 manicheorum C 1003 carus ii et om. M
+558,mgh_auct_ant_11,155,1586,,1004 diocletianus om.,M,1004 diocletianus om. M 1007 trigidem M 1008 dioclitianus M 1009 dioclitianus M 1012 dio-
+559,mgh_auct_ant_11,155,1586,,1007 trigidem,M,1004 diocletianus om. M 1007 trigidem M 1008 dioclitianus M 1009 dioclitianus M 1012 dio-
+560,mgh_auct_ant_11,155,1586,,1008 dioclitianus,M,1004 diocletianus om. M 1007 trigidem M 1008 dioclitianus M 1009 dioclitianus M 1012 dio-
+561,mgh_auct_ant_11,155,1586,,1009 dioclitianus,M,1004 diocletianus om. M 1007 trigidem M 1008 dioclitianus M 1009 dioclitianus M 1012 dio-
+562,mgh_auct_ant_11,155,1586,,1012 dioclitianus,M,clitianus M 1013 om. M dioclecianus P 1015—1019 om. M 1016 dioclecianus P 1020 habet
+563,mgh_auct_ant_11,155,1586,,1013 om.,M,clitianus M 1013 om. M dioclecianus P 1015—1019 om. M 1016 dioclecianus P 1020 habet
+564,mgh_auct_ant_11,155,1586,,dioclecianus,P,clitianus M 1013 om. M dioclecianus P 1015—1019 om. M 1016 dioclecianus P 1020 habet
+565,mgh_auct_ant_11,155,1586,,1015—1019 om.,M,clitianus M 1013 om. M dioclecianus P 1015—1019 om. M 1016 dioclecianus P 1020 habet
+566,mgh_auct_ant_11,155,1586,,1016 dioclecianus,P,clitianus M 1013 om. M dioclecianus P 1015—1019 om. M 1016 dioclecianus P 1020 habet
+567,mgh_auct_ant_11,155,1586,,"1020 habet Cusp. omnino ex cod., om.",C,"Cusp. omnino ex cod., om. C 1022 dioclitianus M clamidem tantum M Cusp. cum Hier., tantum"
+568,mgh_auct_ant_11,155,1586,,1022 dioclitianus,M,"Cusp. omnino ex cod., om. C 1022 dioclitianus M clamidem tantum M Cusp. cum Hier., tantum"
+569,mgh_auct_ant_11,155,1586,,clamidem tantum,M,"Cusp. omnino ex cod., om. C 1022 dioclitianus M clamidem tantum M Cusp. cum Hier., tantum"
+570,mgh_auct_ant_11,155,1586,,"Cusp. cum Hier., tantum clamydem",P,"clamydem P purpoream M, purpureum P habito P 1023 om. M dioclecianus P maximinus P"
+571,mgh_auct_ant_11,155,1586,,purpoream,M,"clamydem P purpoream M, purpureum P habito P 1023 om. M dioclecianus P maximinus P"
+571,mgh_auct_ant_11,155,1586,,purpureum,P,"clamydem P purpoream M, purpureum P habito P 1023 om. M dioclecianus P maximinus P"
+572,mgh_auct_ant_11,155,1586,,habito,P,"clamydem P purpoream M, purpureum P habito P 1023 om. M dioclecianus P maximinus P"
+573,mgh_auct_ant_11,155,1586,,1023 om.,M,"clamydem P purpoream M, purpureum P habito P 1023 om. M dioclecianus P maximinus P"
+574,mgh_auct_ant_11,155,1586,,dioclecianus,P,"clamydem P purpoream M, purpureum P habito P 1023 om. M dioclecianus P maximinus P"
+575,mgh_auct_ant_11,155,1586,,maximinus,P,"clamydem P purpoream M, purpureum P habito P 1023 om. M dioclecianus P maximinus P"
+576,mgh_auct_ant_11,156,1638,,1026 om.,M,1026 om. M 1028 maximinus P1 uii om. M 1029 om. M dioclecianus P 1031 om. M
+577,mgh_auct_ant_11,156,1638,,1028 maximinus,P,1026 om. M 1028 maximinus P1 uii om. M 1029 om. M dioclecianus P 1031 om. M
+578,mgh_auct_ant_11,156,1638,,uii om.,M,1026 om. M 1028 maximinus P1 uii om. M 1029 om. M dioclecianus P 1031 om. M
+579,mgh_auct_ant_11,156,1638,,1029 om.,M,1026 om. M 1028 maximinus P1 uii om. M 1029 om. M dioclecianus P 1031 om. M
+580,mgh_auct_ant_11,156,1638,,dioclecianus,P,1026 om. M 1028 maximinus P1 uii om. M 1029 om. M dioclecianus P 1031 om. M
+581,mgh_auct_ant_11,156,1638,,1031 om.,M,1026 om. M 1028 maximinus P1 uii om. M 1029 om. M dioclecianus P 1031 om. M
+582,mgh_auct_ant_11,156,1638,omni praeda Hier. spoliauerant,expoliauerantur,P,"1032 omni pompa] omni praeda Hier. spoliauerant] Hier., expoliauerunt Ma, expoliauerant Mb, expoliaue-"
+583,mgh_auct_ant_11,156,1638,,1033 dioclecianus,P,rantur P 1033 dioclecianus P 1034 diocletianus (dioclecianus P) x om. M 1035 dioclecianus P
+584,mgh_auct_ant_11,156,1638,,1034 diocletianus x om.,M,rantur P 1033 dioclecianus P 1034 diocletianus (dioclecianus P) x om. M 1035 dioclecianus P
+585,mgh_auct_ant_11,156,1638,,1035 dioclecianus,P,rantur P 1033 dioclecianus P 1034 diocletianus (dioclecianus P) x om. M 1035 dioclecianus P
+586,mgh_auct_ant_11,156,1638,,effectum,M,effectum M 1036 diocleciani P uii om. M 1037 h p c M maximi x P 1038—1042 om. M
+587,mgh_auct_ant_11,156,1638,,1036 diocleciani,P,effectum M 1036 diocleciani P uii om. M 1037 h p c M maximi x P 1038—1042 om. M
+588,mgh_auct_ant_11,156,1638,,uii om.,M,effectum M 1036 diocleciani P uii om. M 1037 h p c M maximi x P 1038—1042 om. M
+589,mgh_auct_ant_11,156,1638,,1037 h p c,M,effectum M 1036 diocleciani P uii om. M 1037 h p c M maximi x P 1038—1042 om. M
+590,mgh_auct_ant_11,156,1638,,maximi x,P,effectum M 1036 diocleciani P uii om. M 1037 h p c M maximi x P 1038—1042 om. M
+591,mgh_auct_ant_11,156,1638,,1038—1042 om.,M,effectum M 1036 diocleciani P uii om. M 1037 h p c M maximi x P 1038—1042 om. M
+592,mgh_auct_ant_11,156,1638,,"1040 Licinius iii Cusp., licinius",P,"1040 Licinius iii Cusp., licinius (om. iii) P 1043 rufinus P 1044—1048 om. M 1047 Con-"
+593,mgh_auct_ant_11,156,1638,,1043 rufinus,P,"1040 Licinius iii Cusp., licinius (om. iii) P 1043 rufinus P 1044—1048 om. M 1047 Con-"
+594,mgh_auct_ant_11,156,1638,,1044—1048 om.,M,"1040 Licinius iii Cusp., licinius (om. iii) P 1043 rufinus P 1044—1048 om. M 1047 Con-"
+595,mgh_auct_ant_11,156,1638,,1047 Constantinus Caes. Cusp. 1048 Constantinus Caesar ii Cusp. 1050. 1051 om.,M,stantinus Caes. Cusp. 1048 Constantinus Caesar ii Cusp. 1050. 1051 om. M 1051 Constantinus
+596,mgh_auct_ant_11,156,1638,1051 Constantinus Caes. iii Cusp. 1052 iulianus,constantius,M,"Caes. iii Cusp. 1052 iulianus] constantius M 1053. 1054 om. M et constantius iii P, et Con-"
+597,mgh_auct_ant_11,156,1638,,1053. 1054 om.,M,"Caes. iii Cusp. 1052 iulianus] constantius M 1053. 1054 om. M et constantius iii P, et Con-"
+598,mgh_auct_ant_11,156,1638,,et constantius iii,P,"Caes. iii Cusp. 1052 iulianus] constantius M 1053. 1054 om. M et constantius iii P, et Con-"
+598,mgh_auct_ant_11,156,1638,,et Constantius Caes. Cusp. et sic fere Prosp. Vict. 1055 ianuarius,M,"Caes. iii Cusp. 1052 iulianus] constantius M 1053. 1054 om. M et constantius iii P, et Con-"
+599,mgh_auct_ant_11,157,1694,,1057—1061 om.,M,1057—1061 om. M 1061 bizantium P 1066 felicius M 1068 constantius ii om. M
+600,mgh_auct_ant_11,157,1694,,1061 bizantium,P,1057—1061 om. M 1061 bizantium P 1066 felicius M 1068 constantius ii om. M
+601,mgh_auct_ant_11,157,1694,,1066 felicius,M,1057—1061 om. M 1061 bizantium P 1066 felicius M 1068 constantius ii om. M
+602,mgh_auct_ant_11,157,1694,,1068 constantius ii om.,M,1057—1061 om. M 1061 bizantium P 1066 felicius M 1068 constantius ii om. M
+603,mgh_auct_ant_11,157,1694,,1069 impedumpellum,M,1069 impedumpellum M acyne M iusta M moritur annis lxuii M 1072 om. M 1075 leoncius P
+604,mgh_auct_ant_11,157,1694,,acyne,M,1069 impedumpellum M acyne M iusta M moritur annis lxuii M 1072 om. M 1075 leoncius P
+605,mgh_auct_ant_11,157,1694,,iusta,M,1069 impedumpellum M acyne M iusta M moritur annis lxuii M 1072 om. M 1075 leoncius P
+606,mgh_auct_ant_11,157,1694,,moritur annis lxuii,M,1069 impedumpellum M acyne M iusta M moritur annis lxuii M 1072 om. M 1075 leoncius P
+607,mgh_auct_ant_11,157,1694,,1072 om.,M,1069 impedumpellum M acyne M iusta M moritur annis lxuii M 1072 om. M 1075 leoncius P
+608,mgh_auct_ant_11,157,1694,,1075 leoncius,P,1069 impedumpellum M acyne M iusta M moritur annis lxuii M 1072 om. M 1075 leoncius P
+609,mgh_auct_ant_11,157,1694,,1076 repti,M,"1076 repti M 1077 habent P Cusp., om. M 1083 om. M 1085 nigridiannus M, Nigriniano Victorius"
+610,mgh_auct_ant_11,157,1694,,1077 habent,P,"1076 repti M 1077 habent P Cusp., om. M 1083 om. M 1085 nigridiannus M, Nigriniano Victorius"
+611,mgh_auct_ant_11,157,1694,,"Cusp., om.",M,"1076 repti M 1077 habent P Cusp., om. M 1083 om. M 1085 nigridiannus M, Nigriniano Victorius"
+612,mgh_auct_ant_11,157,1694,,1083 om.,M,"1076 repti M 1077 habent P Cusp., om. M 1083 om. M 1085 nigridiannus M, Nigriniano Victorius"
+613,mgh_auct_ant_11,157,1694,,1085 nigridiannus,M,"1076 repti M 1077 habent P Cusp., om. M 1083 om. M 1085 nigridiannus M, Nigriniano Victorius"
+614,mgh_auct_ant_11,157,1694,,Nigriniano Victorius 1086 hispannia,M,"1086 hispannia M 1087 nigriniani] M cum Victorio, nigridiani P, nigrianus Cusp. 1088 u om. M"
+615,mgh_auct_ant_11,157,1694,,"cum Victorio, nigridiani",P,"1086 hispannia M 1087 nigriniani] M cum Victorio, nigridiani P, nigrianus Cusp. 1088 u om. M"
+615,mgh_auct_ant_11,157,1694,,nigrianus Cusp. 1088 u om.,M,"1086 hispannia M 1087 nigriniani] M cum Victorio, nigridiani P, nigrianus Cusp. 1088 u om. M"
+616,mgh_auct_ant_11,158,1747,,1089. 1090 om.,M,1089. 1090 om. M 1089 et Constantius Caes. ii Cusp. 1090 et Constantius iii Cusp. 1091 Ar-
+617,mgh_auct_ant_11,158,1747,,1089 et Constantius Caes. ii Cusp. 1090 et Constantius iii Cusp. 1091 Arbitione Victorius 1093 uiii om.,M,bitione Victorius 1093 uiii om. M 1094 om. M 1095 delecte M 1097 hipatius M 1098 iii
+618,mgh_auct_ant_11,158,1747,,1094 om.,M,bitione Victorius 1093 uiii om. M 1094 om. M 1095 delecte M 1097 hipatius M 1098 iii
+619,mgh_auct_ant_11,158,1747,,1095 delecte,M,bitione Victorius 1093 uiii om. M 1094 om. M 1095 delecte M 1097 hipatius M 1098 iii
+620,mgh_auct_ant_11,158,1747,,1097 hipatius,M,bitione Victorius 1093 uiii om. M 1094 om. M 1095 delecte M 1097 hipatius M 1098 iii
+621,mgh_auct_ant_11,158,1747,,1098 iii om.,M,om. M 1102 cilitiam P xlui] xlu Hier. annis M 1103 salustius M 1104 xxxiii M
+622,mgh_auct_ant_11,158,1747,,1102 cilitiam,P,om. M 1102 cilitiam P xlui] xlu Hier. annis M 1103 salustius M 1104 xxxiii M
+623,mgh_auct_ant_11,158,1747,xlui,xlu Hier. annis,M,om. M 1102 cilitiam P xlui] xlu Hier. annis M 1103 salustius M 1104 xxxiii M
+624,mgh_auct_ant_11,158,1747,,1103 salustius,M,om. M 1102 cilitiam P xlui] xlu Hier. annis M 1103 salustius M 1104 xxxiii M
+625,mgh_auct_ant_11,158,1747,,1104 xxxiii,M,om. M 1102 cilitiam P xlui] xlu Hier. annis M 1103 salustius M 1104 xxxiii M
+626,mgh_auct_ant_11,158,1747,,1105 uaronianus,M,1105 uaronianus M 1106 scrutariorum P niceam C fratem Ma communio M 1107 ualen-
+627,mgh_auct_ant_11,158,1747,,1106 scrutariorum,P,1105 uaronianus M 1106 scrutariorum P niceam C fratem Ma communio M 1107 ualen-
+628,mgh_auct_ant_11,158,1747,,niceam,C,1105 uaronianus M 1106 scrutariorum P niceam C fratem Ma communio M 1107 ualen-
+629,mgh_auct_ant_11,158,1747,,communio,M,1105 uaronianus M 1106 scrutariorum P niceam C fratem Ma communio M 1107 ualen-
+630,mgh_auct_ant_11,158,1747,1107 ualentinianus,ualentinus,M,1105 uaronianus M 1106 scrutariorum P niceam C fratem Ma communio M 1107 ualen-
+631,mgh_auct_ant_11,158,1747,,1113. 1114 om.,M,tinianus] ualentinus M 1113. 1114 om. M 1117 om. M 1118 caeso M franchorum P
+632,mgh_auct_ant_11,158,1747,,1117 om.,M,tinianus] ualentinus M 1113. 1114 om. M 1117 om. M 1118 caeso M franchorum P
+633,mgh_auct_ant_11,158,1747,,1118 caeso,M,tinianus] ualentinus M 1113. 1114 om. M 1117 om. M 1118 caeso M franchorum P
+634,mgh_auct_ant_11,158,1747,,franchorum,P,tinianus] ualentinus M 1113. 1114 om. M 1117 om. M 1118 caeso M franchorum P
+635,mgh_auct_ant_11,159,1800,,1119 burgundiorum,P,1119 burgundiorum P Cusp. quod C 1120 clearcus C constantinopoli M Cusp. et om. M
+636,mgh_auct_ant_11,159,1800,,Cusp. quod,C,1119 burgundiorum P Cusp. quod C 1120 clearcus C constantinopoli M Cusp. et om. M
+637,mgh_auct_ant_11,159,1800,,1120 clearcus,C,1119 burgundiorum P Cusp. quod C 1120 clearcus C constantinopoli M Cusp. et om. M
+638,mgh_auct_ant_11,159,1800,,constantinopoli,M,1119 burgundiorum P Cusp. quod C 1120 clearcus C constantinopoli M Cusp. et om. M
+639,mgh_auct_ant_11,159,1800,,Cusp. et om.,M,1119 burgundiorum P Cusp. quod C 1120 clearcus C constantinopoli M Cusp. et om. M
+640,mgh_auct_ant_11,159,1800,,1126 alemannorum,M,1126 alemannorum M 1127 tracia C 1128 et om. M 1129 a om. C tracia C trucidatus M
+641,mgh_auct_ant_11,159,1800,,1127 tracia,C,1126 alemannorum M 1127 tracia C 1128 et om. M 1129 a om. C tracia C trucidatus M
+642,mgh_auct_ant_11,159,1800,,1128 et om.,M,1126 alemannorum M 1127 tracia C 1128 et om. M 1129 a om. C tracia C trucidatus M
+643,mgh_auct_ant_11,159,1800,,1129 a om.,C,1126 alemannorum M 1127 tracia C 1128 et om. M 1129 a om. C tracia C trucidatus M
+644,mgh_auct_ant_11,159,1800,,tracia,C,1126 alemannorum M 1127 tracia C 1128 et om. M 1129 a om. C tracia C trucidatus M
+645,mgh_auct_ant_11,159,1800,,trucidatus,M,1126 alemannorum M 1127 tracia C 1128 et om. M 1129 a om. C tracia C trucidatus M
+646,mgh_auct_ant_11,159,1800,,1131 iam om.,P,"1131 iam om. P xiiii] P, xxxi M iii sub quo M 1134 scribitur P 1135 eutherius M"
+647,mgh_auct_ant_11,159,1800,xiiii,xxxi,M,"1131 iam om. P xiiii] P, xxxi M iii sub quo M 1134 scribitur P 1135 eutherius M"
+648,mgh_auct_ant_11,159,1800,,iii sub quo,M,"1131 iam om. P xiiii] P, xxxi M iii sub quo M 1134 scribitur P 1135 eutherius M"
+649,mgh_auct_ant_11,159,1800,,1134 scribitur,P,"1131 iam om. P xiiii] P, xxxi M iii sub quo M 1134 scribitur P 1135 eutherius M"
+650,mgh_auct_ant_11,159,1800,,1135 eutherius,M,"1131 iam om. P xiiii] P, xxxi M iii sub quo M 1134 scribitur P 1135 eutherius M"
+651,mgh_auct_ant_11,159,1800,,1136 claurus,M,1136 claurus M 1141 glearcus Pa 1145 hieronimus C bethlehem M
+652,mgh_auct_ant_11,159,1800,,1145 hieronimus,C,1136 claurus M 1141 glearcus Pa 1145 hieronimus C bethlehem M
+653,mgh_auct_ant_11,160,1853,,1150 om.,M,1150 om. M uii P 1151 ticianus M 1153 uennam M 1154 annis] annos P tribus]
+654,mgh_auct_ant_11,160,1853,,uii,P,1150 om. M uii P 1151 ticianus M 1153 uennam M 1154 annis] annos P tribus]
+655,mgh_auct_ant_11,160,1853,,1151 ticianus,M,1150 om. M uii P 1151 ticianus M 1153 uennam M 1154 annis] annos P tribus]
+656,mgh_auct_ant_11,160,1853,,1153 uennam,M,1150 om. M uii P 1151 ticianus M 1153 uennam M 1154 annis] annos P tribus]
+657,mgh_auct_ant_11,160,1853,1154 annis,annos,P,1150 om. M uii P 1151 ticianus M 1153 uennam M 1154 annis] annos P tribus]
+658,mgh_auct_ant_11,160,1853,tribus,"Cassiodorus cum Prospero , duobus",C,1150 om. M uii P 1151 ticianus M 1153 uennam M 1154 annis] annos P tribus]
+659,mgh_auct_ant_11,160,1853,,Cusp. 1156 archadius,M,"Cassiodorus cum Prospero (v. p. 116), duobus C Cusp. 1156 archadius M 1157 diuina M Cusp., om. P"
+660,mgh_auct_ant_11,160,1853,,1157 diuina,M,"Cassiodorus cum Prospero (v. p. 116), duobus C Cusp. 1156 archadius M 1157 diuina M Cusp., om. P"
+661,mgh_auct_ant_11,160,1853,,"Cusp., om.",P,"Cassiodorus cum Prospero (v. p. 116), duobus C Cusp. 1156 archadius M 1157 diuina M Cusp., om. P"
+662,mgh_auct_ant_11,160,1853,,1158 olibrius,M,1158 olibrius M Probino Victorius. 1159 tyrrannum M 1160 discipulis P yppone C 1163 quem]
+663,mgh_auct_ant_11,160,1853,,Probino Victorius. 1159 tyrrannum,M,1158 olibrius M Probino Victorius. 1159 tyrrannum M 1160 discipulis P yppone C 1163 quem]
+664,mgh_auct_ant_11,160,1853,,1160 discipulis,P,1158 olibrius M Probino Victorius. 1159 tyrrannum M 1160 discipulis P yppone C 1163 quem]
+665,mgh_auct_ant_11,160,1853,,yppone,C,1158 olibrius M Probino Victorius. 1159 tyrrannum M 1160 discipulis P yppone C 1163 quem]
+666,mgh_auct_ant_11,160,1853,1163 quem,quam,M,1158 olibrius M Probino Victorius. 1159 tyrrannum M 1160 discipulis P yppone C 1163 quem]
+667,mgh_auct_ant_11,160,1853,,"1164 Honorius iii Cusp. cum Vict., honorius ii",C,"quam M 1164 Honorius iii Cusp. cum Vict., honorius ii C 1165 cesarius et aticus M 1166 eutichia-"
+668,mgh_auct_ant_11,160,1853,,1165 cesarius et aticus,M,"quam M 1164 Honorius iii Cusp. cum Vict., honorius ii C 1165 cesarius et aticus M 1166 eutichia-"
+669,mgh_auct_ant_11,160,1853,,1166 eutichianus,M,nus M 1167 Mallio (et ins. Victorii libri praeter optimum) Theodoro v. c. Vict. 1169 ragadaiso P
+670,mgh_auct_ant_11,160,1853,,1167 Mallio Theodoro v. c. Vict. 1169 ragadaiso,P,nus M 1167 Mallio (et ins. Victorii libri praeter optimum) Theodoro v. c. Vict. 1169 ragadaiso P
+671,mgh_auct_ant_11,160,1853,,regibus,C,"regibus C, ducibus Prosp. 1172 hos M aice M 1175 stilicho M 1176 ui om. M 1177 reno C"
+671,mgh_auct_ant_11,160,1853,,ducibus Prosp. 1172 hos,M,"regibus C, ducibus Prosp. 1172 hos M aice M 1175 stilicho M 1176 ui om. M 1177 reno C"
+672,mgh_auct_ant_11,160,1853,,aice,M,"regibus C, ducibus Prosp. 1172 hos M aice M 1175 stilicho M 1176 ui om. M 1177 reno C"
+673,mgh_auct_ant_11,160,1853,,1175 stilicho,M,"regibus C, ducibus Prosp. 1172 hos M aice M 1175 stilicho M 1176 ui om. M 1177 reno C"
+674,mgh_auct_ant_11,160,1853,,1176 ui om.,M,"regibus C, ducibus Prosp. 1172 hos M aice M 1175 stilicho M 1176 ui om. M 1177 reno C"
+675,mgh_auct_ant_11,160,1853,,1177 reno,C,"regibus C, ducibus Prosp. 1172 hos M aice M 1175 stilicho M 1176 ui om. M 1177 reno C"
+676,mgh_auct_ant_11,161,1910,,1196 horius,P,"1196 horius P 1199 Constantius om. M, add. post recipitur Cusp. 1200 eustachius M Cusp."
+677,mgh_auct_ant_11,161,1910,,1199 Constantius om.,M,"1196 horius P 1199 Constantius om. M, add. post recipitur Cusp. 1200 eustachius M Cusp."
+678,mgh_auct_ant_11,161,1910,,add. post recipitur Cusp. 1200 eustachius,M,"1196 horius P 1199 Constantius om. M, add. post recipitur Cusp. 1200 eustachius M Cusp."
+679,mgh_auct_ant_11,161,1910,,Cusp. 1203 ab hispannia,M,1203 ab hispannia M uuandalos M 1205 Honoria Prosper filius M 1211 etium M
+680,mgh_auct_ant_11,161,1910,,uuandalos,M,1203 ab hispannia M uuandalos M 1205 Honoria Prosper filius M 1211 etium M
+681,mgh_auct_ant_11,161,1910,,1205 Honoria Prosper filius,M,1203 ab hispannia M uuandalos M 1205 Honoria Prosper filius M 1211 etium M
+682,mgh_auct_ant_11,161,1910,,1211 etium,M,1203 ab hispannia M uuandalos M 1205 Honoria Prosper filius M 1211 etium M
+683,mgh_auct_ant_11,162,1967,,1239 tracias,M,1239 tracias M 1240 affrica P 1243 fratrem om. M suum Prosper peremit M populo C
+684,mgh_auct_ant_11,162,1967,,1240 affrica,P,1239 tracias M 1240 affrica P 1243 fratrem om. M suum Prosper peremit M populo C
+685,mgh_auct_ant_11,162,1967,,1243 fratrem om.,M,1239 tracias M 1240 affrica P 1243 fratrem om. M suum Prosper peremit M populo C
+686,mgh_auct_ant_11,162,1967,,suum Prosper peremit,M,1239 tracias M 1240 affrica P 1243 fratrem om. M suum Prosper peremit M populo C
+687,mgh_auct_ant_11,162,1967,,populo,C,1239 tracias M 1240 affrica P 1243 fratrem om. M suum Prosper peremit M populo C
+688,mgh_auct_ant_11,162,1967,,parare,M,parare M
+689,mgh_auct_ant_11,163,2021,,interemptus,P,"interemptus P, circumstantium gladiis interemptis M, circumstantium gladiis peremptus Cusp. 1262 invasit P"
+689,mgh_auct_ant_11,163,2021,,circumstantium gladiis interemptis,M,"interemptus P, circumstantium gladiis interemptis M, circumstantium gladiis peremptus Cusp. 1262 invasit P"
+690,mgh_auct_ant_11,163,2021,,circumstantium gladiis peremptus Cusp. 1262 invasit,P,"interemptus P, circumstantium gladiis interemptis M, circumstantium gladiis peremptus Cusp. 1262 invasit P"
+691,mgh_auct_ant_11,163,2021,,1264 gallias,C,1264 gallias C Cusp. 1267 constantius M 1268 martiano M post fuerunt ins. xlui P 1270 affri-
+692,mgh_auct_ant_11,163,2021,,Cusp. 1267 constantius,M,1264 gallias C Cusp. 1267 constantius M 1268 martiano M post fuerunt ins. xlui P 1270 affri-
+693,mgh_auct_ant_11,163,2021,,1268 martiano,M,1264 gallias C Cusp. 1267 constantius M 1268 martiano M post fuerunt ins. xlui P 1270 affri-
+694,mgh_auct_ant_11,163,2021,,post fuerunt ins. xlui,P,1264 gallias C Cusp. 1267 constantius M 1268 martiano M post fuerunt ins. xlui P 1270 affri-
+695,mgh_auct_ant_11,163,2021,,1270 affricam,P,"cam P 1271 patricius] Mb, paticius Ma, et patricius P 1272 appollonius M 1273 seuerus M"
+696,mgh_auct_ant_11,163,2021,1271 patricius,et patricius,P,"cam P 1271 patricius] Mb, paticius Ma, et patricius P 1272 appollonius M 1273 seuerus M"
+697,mgh_auct_ant_11,163,2021,,1272 appollonius,M,"cam P 1271 patricius] Mb, paticius Ma, et patricius P 1272 appollonius M 1273 seuerus M"
+698,mgh_auct_ant_11,163,2021,,1273 seuerus,M,"cam P 1271 patricius] Mb, paticius Ma, et patricius P 1272 appollonius M 1273 seuerus M"
+699,mgh_auct_ant_11,163,2021,,1274 maioranus,M,1274 maioranus M rauenne P
+700,mgh_auct_ant_11,163,2021,,rauenne,P,1274 maioranus M rauenne P
+701,mgh_auct_ant_11,164,2077,,1295 imperio,P,"1295 imperio P 1297 conss. P 1298 consul M, conss. P in om. C 1299 nepus C 1300 p. c. et"
+702,mgh_auct_ant_11,164,2077,,1297 conss.,P,"1295 imperio P 1297 conss. P 1298 consul M, conss. P in om. C 1299 nepus C 1300 p. c. et"
+703,mgh_auct_ant_11,164,2077,,1298 consul,M,"1295 imperio P 1297 conss. P 1298 consul M, conss. P in om. C 1299 nepus C 1300 p. c. et"
+703,mgh_auct_ant_11,164,2077,,conss.,P,"1295 imperio P 1297 conss. P 1298 consul M, conss. P in om. C 1299 nepus C 1300 p. c. et"
+704,mgh_auct_ant_11,164,2077,,in om.,C,"1295 imperio P 1297 conss. P 1298 consul M, conss. P in om. C 1299 nepus C 1300 p. c. et"
+705,mgh_auct_ant_11,164,2077,,1299 nepus,C,"1295 imperio P 1297 conss. P 1298 consul M, conss. P in om. C 1299 nepus C 1300 p. c. et"
+706,mgh_auct_ant_11,164,2077,,1300 p. c. et iun. om.,M,iun. om. M post iun. ins. xluii P
+707,mgh_auct_ant_11,164,2077,,post iun. ins. xluii,P,iun. om. M post iun. ins. xluii P
+708,mgh_auct_ant_11,165,2125,,1303 odiouacar,M,"1303 odiouacar M 1305 conss P 1306 aug. ii conss. P, et M 1307 conss. P 1308 om. M"
+709,mgh_auct_ant_11,165,2125,,1305 conss,P,"1303 odiouacar M 1305 conss P 1306 aug. ii conss. P, et M 1307 conss. P 1308 om. M"
+710,mgh_auct_ant_11,165,2125,,1306 aug. ii conss.,P,"1303 odiouacar M 1305 conss P 1306 aug. ii conss. P, et M 1307 conss. P 1308 om. M"
+710,mgh_auct_ant_11,165,2125,,et,M,"1303 odiouacar M 1305 conss P 1306 aug. ii conss. P, et M 1307 conss. P 1308 om. M"
+711,mgh_auct_ant_11,165,2125,,1307 conss.,P,"1303 odiouacar M 1305 conss P 1306 aug. ii conss. P, et M 1307 conss. P 1308 om. M"
+712,mgh_auct_ant_11,165,2125,,1308 om.,M,"1303 odiouacar M 1305 conss P 1306 aug. ii conss. P, et M 1307 conss. P 1308 om. M"
+713,mgh_auct_ant_11,165,2125,,conss.,P,"conss. P 1309 odiouacar M dalmaciis M odiuam P Herm., odiciam M, custodiam Cusp."
+714,mgh_auct_ant_11,165,2125,,1309 odiouacar,M,"conss. P 1309 odiouacar M dalmaciis M odiuam P Herm., odiciam M, custodiam Cusp."
+715,mgh_auct_ant_11,165,2125,,dalmaciis,M,"conss. P 1309 odiouacar M dalmaciis M odiuam P Herm., odiciam M, custodiam Cusp."
+716,mgh_auct_ant_11,165,2125,,odiuam,P,"conss. P 1309 odiouacar M dalmaciis M odiuam P Herm., odiciam M, custodiam Cusp."
+717,mgh_auct_ant_11,165,2125,,"Herm., odiciam",M,"conss. P 1309 odiouacar M dalmaciis M odiuam P Herm., odiciam M, custodiam Cusp."
+718,mgh_auct_ant_11,165,2125,,custodiam Cusp. 1310 seuerus,M,1310 seuerus M conss. P 1311 conss P 1312 DC theodericus et uenatius M 1313 simachus M
+719,mgh_auct_ant_11,165,2125,,conss.,P,1310 seuerus M conss. P 1311 conss P 1312 DC theodericus et uenatius M 1313 simachus M
+720,mgh_auct_ant_11,165,2125,,1311 conss,P,1310 seuerus M conss. P 1311 conss P 1312 DC theodericus et uenatius M 1313 simachus M
+721,mgh_auct_ant_11,165,2125,,1312,C,1310 seuerus M conss. P 1311 conss P 1312 DC theodericus et uenatius M 1313 simachus M
+722,mgh_auct_ant_11,165,2125,,theodericus et uenatius,M,1310 seuerus M conss. P 1311 conss P 1312 DC theodericus et uenatius M 1313 simachus M
+723,mgh_auct_ant_11,165,2125,,1313 simachus,M,1310 seuerus M conss. P 1311 conss P 1312 DC theodericus et uenatius M 1313 simachus M
+724,mgh_auct_ant_11,165,2125,,conss.,P,"conss. P ordinant (sic ut supra P Cusp., 1313. 1316. 1314. 1315 M 1315 conss. P 1316 conss. C"
+725,mgh_auct_ant_11,165,2125,,ordinant (sic ut supra,P,"conss. P ordinant (sic ut supra P Cusp., 1313. 1316. 1314. 1315 M 1315 conss. P 1316 conss. C"
+726,mgh_auct_ant_11,165,2125,,"Cusp., 1313. 1316. 1314. 1315",M,"conss. P ordinant (sic ut supra P Cusp., 1313. 1316. 1314. 1315 M 1315 conss. P 1316 conss. C"
+727,mgh_auct_ant_11,165,2125,,1315 conss.,P,"conss. P ordinant (sic ut supra P Cusp., 1313. 1316. 1314. 1315 M 1315 conss. P 1316 conss. C"
+728,mgh_auct_ant_11,165,2125,,1316 conss.,C,"conss. P ordinant (sic ut supra P Cusp., 1313. 1316. 1314. 1315 M 1315 conss. P 1316 conss. C"
+729,mgh_auct_ant_11,165,2125,,rugurum,M,rugurum M potius M 1319 theoderichus M 1320 odauacar M 1321 post odouacar ins. xluiii P
+730,mgh_auct_ant_11,165,2125,,potius,M,rugurum M potius M 1319 theoderichus M 1320 odauacar M 1321 post odouacar ins. xluiii P
+731,mgh_auct_ant_11,165,2125,,1319 theoderichus,M,rugurum M potius M 1319 theoderichus M 1320 odauacar M 1321 post odouacar ins. xluiii P
+732,mgh_auct_ant_11,165,2125,,1320 odauacar,M,rugurum M potius M 1319 theoderichus M 1320 odauacar M 1321 post odouacar ins. xluiii P
+733,mgh_auct_ant_11,165,2125,,1321 post odouacar ins. xluiii,P,rugurum M potius M 1319 theoderichus M 1320 odauacar M 1321 post odouacar ins. xluiii P
+734,mgh_auct_ant_11,165,2125,,1322 conss.,P,"1322 conss. P 1323 ad adduam M Herm. Cusp., ad ducam P theodoricus M 1325 conss. P"
+735,mgh_auct_ant_11,165,2125,,1323 ad adduam,M,"1322 conss. P 1323 ad adduam M Herm. Cusp., ad ducam P theodoricus M 1325 conss. P"
+736,mgh_auct_ant_11,165,2125,,"Herm. Cusp., ad ducam",P,"1322 conss. P 1323 ad adduam M Herm. Cusp., ad ducam P theodoricus M 1325 conss. P"
+737,mgh_auct_ant_11,165,2125,,theodoricus,M,"1322 conss. P 1323 ad adduam M Herm. Cusp., ad ducam P theodoricus M 1325 conss. P"
+738,mgh_auct_ant_11,165,2125,,1325 conss.,P,"1322 conss. P 1323 ad adduam M Herm. Cusp., ad ducam P theodoricus M 1325 conss. P"
+739,mgh_auct_ant_11,165,2125,,1326 conss.,P,"1326 conss. P erudis P, Herulis Cusp. rau. C theodoricho M 1328 anatasius Ma 1330 conss. P"
+740,mgh_auct_ant_11,165,2125,,erudis,P,"1326 conss. P erudis P, Herulis Cusp. rau. C theodoricho M 1328 anatasius Ma 1330 conss. P"
+740,mgh_auct_ant_11,165,2125,,Herulis Cusp. rau.,C,"1326 conss. P erudis P, Herulis Cusp. rau. C theodoricho M 1328 anatasius Ma 1330 conss. P"
+741,mgh_auct_ant_11,165,2125,,theodoricho,M,"1326 conss. P erudis P, Herulis Cusp. rau. C theodoricho M 1328 anatasius Ma 1330 conss. P"
+742,mgh_auct_ant_11,165,2125,,1330 conss.,P,"1326 conss. P erudis P, Herulis Cusp. rau. C theodoricho M 1328 anatasius Ma 1330 conss. P"
+743,mgh_auct_ant_11,165,2125,,1331 conss.,C,1331 conss. C theodorichus M 1332 presidius M 1333 conss. P 1334 conss. P
+744,mgh_auct_ant_11,165,2125,,theodorichus,M,1331 conss. C theodorichus M 1332 presidius M 1333 conss. P 1334 conss. P
+745,mgh_auct_ant_11,165,2125,,1332 presidius,M,1331 conss. C theodorichus M 1332 presidius M 1333 conss. P 1334 conss. P
+746,mgh_auct_ant_11,165,2125,,1333 conss.,P,1331 conss. C theodorichus M 1332 presidius M 1333 conss. P 1334 conss. P
+747,mgh_auct_ant_11,165,2125,,1334 conss.,P,1331 conss. C theodorichus M 1332 presidius M 1333 conss. P 1334 conss. P
+748,mgh_auct_ant_11,166,2184,,s. a.,M,"s. a. M Cusp., per a. s. P cartella M 1342 forma C, forinas Cusp. consulem a. 503 om. Cassiodorus"
+749,mgh_auct_ant_11,166,2184,,"Cusp., per a. s.",P,"s. a. M Cusp., per a. s. P cartella M 1342 forma C, forinas Cusp. consulem a. 503 om. Cassiodorus"
+750,mgh_auct_ant_11,166,2184,,cartella,M,"s. a. M Cusp., per a. s. P cartella M 1342 forma C, forinas Cusp. consulem a. 503 om. Cassiodorus"
+751,mgh_auct_ant_11,166,2184,,1342 forma,C,"s. a. M Cusp., per a. s. P cartella M 1342 forma C, forinas Cusp. consulem a. 503 om. Cassiodorus"
+752,mgh_auct_ant_11,166,2184,,om. Cassiodorus 1343 conss.,P,(vide praef. p. 116) 1343 conss. P 1344 conss. P 1347 ii M 1349 franchorum P hostibus]
+753,mgh_auct_ant_11,166,2184,,1344 conss.,P,(vide praef. p. 116) 1343 conss. P 1344 conss. P 1347 ii M 1349 franchorum P hostibus]
+754,mgh_auct_ant_11,166,2184,,1347 ii,M,(vide praef. p. 116) 1343 conss. P 1344 conss. P 1347 ii M 1349 franchorum P hostibus]
+755,mgh_auct_ant_11,166,2184,,1349 franchorum,P,(vide praef. p. 116) 1343 conss. P 1344 conss. P 1347 ii M 1349 franchorum P hostibus]
+756,mgh_auct_ant_11,166,2184,,1350 conss.,P,"PMa, hostilibus Mb 1350 conss. P 1351 conss. P 1355 conss. P 1356 conss. P corcordia P"
+757,mgh_auct_ant_11,166,2184,,1351 conss.,P,"PMa, hostilibus Mb 1350 conss. P 1351 conss. P 1355 conss. P 1356 conss. P corcordia P"
+758,mgh_auct_ant_11,166,2184,,1355 conss.,P,"PMa, hostilibus Mb 1350 conss. P 1351 conss. P 1355 conss. P 1356 conss. P corcordia P"
+759,mgh_auct_ant_11,166,2184,,1356 conss.,P,"PMa, hostilibus Mb 1350 conss. P 1351 conss. P 1355 conss. P 1356 conss. P corcordia P"
+760,mgh_auct_ant_11,166,2184,,corcordia,P,"PMa, hostilibus Mb 1350 conss. P 1351 conss. P 1355 conss. P 1356 conss. P corcordia P"
+761,mgh_auct_ant_11,166,2184,,1358 theoderichus,M,1358 theoderichus M 1359 conss. P 1360. 1361 om. P 1360 Agapitus Cusp. 1362 senetus M
+762,mgh_auct_ant_11,166,2184,,1359 conss.,P,1358 theoderichus M 1359 conss. P 1360. 1361 om. P 1360 Agapitus Cusp. 1362 senetus M
+763,mgh_auct_ant_11,166,2184,,1360. 1361 om.,P,1358 theoderichus M 1359 conss. P 1360. 1361 om. P 1360 Agapitus Cusp. 1362 senetus M
+764,mgh_auct_ant_11,166,2184,,1360 Agapitus Cusp. 1362 senetus,M,1358 theoderichus M 1359 conss. P 1360. 1361 om. P 1360 Agapitus Cusp. 1362 senetus M
+765,mgh_auct_ant_11,167,2214,,sunt,C,sunt CCXL.
+766,mgh_auct_ant_11,167,2220,,1364 legatio,C,1364 legatio C cuius] cuis M1 desiderantes Cusp.; desiderantibus iis malim. aspectas P
+767,mgh_auct_ant_11,167,2220,cuius,cuis,M,1364 legatio C cuius] cuis M1 desiderantes Cusp.; desiderantibus iis malim. aspectas P
+768,mgh_auct_ant_11,167,2220,,desiderantes Cusp.; desiderantibus iis malim. aspectas,P,1364 legatio C cuius] cuis M1 desiderantes Cusp.; desiderantibus iis malim. aspectas P
+769,mgh_auct_ant_11,167,2220,,1365 eusebei,M,"1365 eusebei M hieronimi C 1366 ab diluvio P assiriorum P, assyreorum M 1370 clarorum"
+770,mgh_auct_ant_11,167,2220,,hieronimi,C,"1365 eusebei M hieronimi C 1366 ab diluvio P assiriorum P, assyreorum M 1370 clarorum"
+771,mgh_auct_ant_11,167,2220,,1366 ab diluvio,P,"1365 eusebei M hieronimi C 1366 ab diluvio P assiriorum P, assyreorum M 1370 clarorum"
+772,mgh_auct_ant_11,167,2220,,assiriorum,P,"1365 eusebei M hieronimi C 1366 ab diluvio P assiriorum P, assyreorum M 1370 clarorum"
+772,mgh_auct_ant_11,167,2220,,assyreorum,M,"1365 eusebei M hieronimi C 1366 ab diluvio P assiriorum P, assyreorum M 1370 clarorum"

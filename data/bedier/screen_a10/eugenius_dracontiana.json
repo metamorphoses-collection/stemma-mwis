@@ -1,0 +1,20 @@
+{
+ "stemma_witnesses": "MFPLQZ",
+ "cited": {
+  "M": 242,
+  "F": 261,
+  "P": 215,
+  "L": 148,
+  "Q": 176,
+  "Z": 90
+ },
+ "analysis_witnesses": "MFPLQZ",
+ "units_with_shared_departure": 237,
+ "included": true,
+ "exclusion": [],
+ "editor_top": [
+  "M",
+  "FPLQZ"
+ ],
+ "k_E": 2
+}

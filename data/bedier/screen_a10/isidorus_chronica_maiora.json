@@ -1,0 +1,33 @@
+{
+ "stemma_witnesses": "ABCDEFGKLMNPSTVWXYZ",
+ "cited": {
+  "A": 166,
+  "B": 505,
+  "C": 602,
+  "D": 411,
+  "E": 576,
+  "F": 522,
+  "G": 393,
+  "K": 354,
+  "L": 512,
+  "M": 569,
+  "N": 346,
+  "P": 608,
+  "S": 555,
+  "T": 271,
+  "V": 368,
+  "W": 320,
+  "X": 710,
+  "Y": 305,
+  "Z": 455
+ },
+ "analysis_witnesses": "ABCDEFGKLMNPSTVWXYZ",
+ "units_with_shared_departure": 1228,
+ "included": true,
+ "exclusion": [],
+ "editor_top": [
+  "ACDEGLMNTXYZ",
+  "BFKPSVW"
+ ],
+ "k_E": 2
+}

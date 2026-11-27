@@ -1,0 +1,548 @@
+[
+ {
+  "text": "isidorus_chronica_maiora",
+  "verdict": "partly_silent",
+  "frozen": "partly_silent",
+  "match": true,
+  "units": 1228,
+  "frozen_units": 1228,
+  "stable": [
+   [
+    "BFPS",
+    33
+   ],
+   [
+    "BFPSW",
+    16
+   ],
+   [
+    "BPS",
+    32
+   ],
+   [
+    "CZ",
+    50
+   ],
+   [
+    "KV",
+    19
+   ],
+   [
+    "NT",
+    42
+   ],
+   [
+    "NTY",
+    17
+   ]
+  ],
+  "branches": [
+   {
+    "branch": "ACDEGLMNTXYZ",
+    "status": "silent",
+    "by": null
+   },
+   {
+    "branch": "BFKPSVW",
+    "status": "silent",
+    "by": null
+   }
+  ],
+  "null": {
+   "contradicted": 0.9964475668810034,
+   "partly_silent": 0.0035524331189965867
+  }
+ },
+ {
+  "text": "claudianus_raptus_proserpinae",
+  "verdict": "partly_silent",
+  "frozen": "partly_silent",
+  "match": true,
+  "units": 581,
+  "frozen_units": 581,
+  "stable": [
+   [
+    "CB",
+    22
+   ]
+  ],
+  "branches": [
+   {
+    "branch": "FVS",
+    "status": "silent",
+    "by": null
+   },
+   {
+    "branch": "CABDW",
+    "status": "silent",
+    "by": null
+   }
+  ],
+  "null": {
+   "partly_silent": 0.4642857142857143,
+   "contradicted": 0.5357142857142857
+  }
+ },
+ {
+  "text": "prosper_epitoma_chronicon",
+  "verdict": "contradicted",
+  "frozen": "contradicted",
+  "match": true,
+  "units": 808,
+  "frozen_units": 808,
+  "stable": [
+   [
+    "AC",
+    108
+   ],
+   [
+    "ACV",
+    21
+   ],
+   [
+    "FP",
+    25
+   ],
+   [
+    "FPXZ",
+    27
+   ],
+   [
+    "MY",
+    122
+   ]
+  ],
+  "branches": [
+   {
+    "branch": "AORV",
+    "status": "contradicted",
+    "by": [
+     "AC",
+     "ACV"
+    ]
+   },
+   {
+    "branch": "MY",
+    "status": "supported",
+    "by": "MY"
+   }
+  ],
+  "null": {
+   "contradicted": 0.996958596958597,
+   "partly_silent": 0.002997002997002997,
+   "supported": 4.44000444000444e-05
+  }
+ },
+ {
+  "text": "historia_brittonum",
+  "verdict": "partly_silent",
+  "frozen": "partly_silent",
+  "match": true,
+  "units": 1360,
+  "frozen_units": 1360,
+  "stable": [
+   [
+    "CL",
+    45
+   ],
+   [
+    "DCGL",
+    37
+   ],
+   [
+    "DG",
+    73
+   ],
+   [
+    "HK",
+    36
+   ],
+   [
+    "MN",
+    686
+   ],
+   [
+    "PQDCGL",
+    286
+   ]
+  ],
+  "branches": [
+   {
+    "branch": "HKPQDCGL",
+    "status": "silent",
+    "by": null
+   },
+   {
+    "branch": "ZMN",
+    "status": "silent",
+    "by": null
+   }
+  ],
+  "null": {
+   "partly_silent": 0.012121212121212121,
+   "contradicted": 0.9878787878787879
+  }
+ },
+ {
+  "text": "isidorus_historia_gothorum",
+  "verdict": "partly_silent",
+  "frozen": "partly_silent",
+  "match": true,
+  "units": 464,
+  "frozen_units": 464,
+  "stable": [
+   [
+    "MA",
+    80
+   ],
+   [
+    "XY",
+    13
+   ]
+  ],
+  "branches": [
+   {
+    "branch": "P",
+    "status": "single_witness"
+   },
+   {
+    "branch": "BNHOXYRMA",
+    "status": "silent",
+    "by": null
+   }
+  ],
+  "null": {
+   "partly_silent": 0.6,
+   "contradicted": 0.4
+  }
+ },
+ {
+  "text": "fortunatus_vita_martini",
+  "verdict": "contradicted",
+  "frozen": "contradicted",
+  "match": true,
+  "units": 687,
+  "frozen_units": 687,
+  "stable": [
+   [
+    "BL",
+    105
+   ],
+   [
+    "BLMS",
+    46
+   ],
+   [
+    "MS",
+    66
+   ],
+   [
+    "PN",
+    75
+   ]
+  ],
+  "branches": [
+   {
+    "branch": "PTF",
+    "status": "contradicted",
+    "by": [
+     "PN"
+    ]
+   },
+   {
+    "branch": "NBLMS",
+    "status": "contradicted",
+    "by": [
+     "PN"
+    ]
+   }
+  ],
+  "null": {
+   "partly_silent": 0.03571428571428571,
+   "contradicted": 0.9642857142857143
+  }
+ },
+ {
+  "text": "claudianus_maior",
+  "verdict": "partly_silent",
+  "frozen": "partly_silent",
+  "match": true,
+  "units": 1692,
+  "frozen_units": 1692,
+  "stable": [
+   [
+    "BA",
+    191
+   ],
+   [
+    "VP",
+    362
+   ]
+  ],
+  "branches": [
+   {
+    "branch": "VPGM",
+    "status": "silent",
+    "by": null
+   },
+   {
+    "branch": "CBAJR",
+    "status": "silent",
+    "by": null
+   }
+  ],
+  "null": {
+   "contradicted": 0.7936507936507936,
+   "partly_silent": 0.20634920634920634
+  }
+ },
+ {
+  "text": "sidonius_carmina",
+  "verdict": "supported",
+  "frozen": "supported",
+  "match": true,
+  "units": 391,
+  "frozen_units": 391,
+  "stable": [
+   [
+    "TCFP",
+    32
+   ]
+  ],
+  "branches": [
+   {
+    "branch": "M",
+    "status": "single_witness"
+   },
+   {
+    "branch": "TCFP",
+    "status": "supported",
+    "by": "TCFP"
+   }
+  ],
+  "null": {
+   "supported": 0.2,
+   "contradicted": 0.8
+  }
+ },
+ {
+  "text": "ennodius_opera",
+  "verdict": "contradicted",
+  "frozen": "contradicted",
+  "match": true,
+  "units": 1321,
+  "frozen_units": 1321,
+  "stable": [
+   [
+    "BVL",
+    211
+   ],
+   [
+    "BVLT",
+    71
+   ],
+   [
+    "BVLTCP",
+    4
+   ],
+   [
+    "CP",
+    249
+   ],
+   [
+    "VL",
+    222
+   ]
+  ],
+  "branches": [
+   {
+    "branch": "B",
+    "status": "single_witness"
+   },
+   {
+    "branch": "VLTCOP",
+    "status": "contradicted",
+    "by": [
+     "BVL",
+     "BVLT"
+    ]
+   }
+  ],
+  "null": {
+   "contradicted": 0.8571428571428571,
+   "supported": 0.14285714285714285
+  }
+ },
+ {
+  "text": "paulus_historia_romana",
+  "verdict": "contradicted",
+  "frozen": "contradicted",
+  "match": true,
+  "units": 689,
+  "frozen_units": 689,
+  "stable": [
+   [
+    "HV",
+    86
+   ],
+   [
+    "HVB",
+    18
+   ],
+   [
+    "NZ",
+    348
+   ],
+   [
+    "NZM",
+    48
+   ]
+  ],
+  "branches": [
+   {
+    "branch": "HVBM",
+    "status": "contradicted",
+    "by": [
+     "NZM"
+    ]
+   },
+   {
+    "branch": "NZ",
+    "status": "supported",
+    "by": "NZ"
+   }
+  ],
+  "null": {
+   "contradicted": 1.0
+  }
+ },
+ {
+  "text": "victor_vitensis_historia",
+  "verdict": "supported",
+  "frozen": "supported",
+  "match": true,
+  "units": 713,
+  "frozen_units": 713,
+  "stable": [
+   [
+    "BLRV",
+    58
+   ],
+   [
+    "BLV",
+    149
+   ],
+   [
+    "BV",
+    264
+   ]
+  ],
+  "branches": [
+   {
+    "branch": "BLV",
+    "status": "supported",
+    "by": "BLV"
+   },
+   {
+    "branch": "R",
+    "status": "single_witness"
+   }
+  ],
+  "null": {
+   "contradicted": 0.9,
+   "supported": 0.1
+  }
+ },
+ {
+  "text": "jordanes_romana",
+  "verdict": "partly_silent",
+  "frozen": "partly_silent",
+  "match": true,
+  "units": 310,
+  "frozen_units": 310,
+  "stable": [
+   [
+    "HP",
+    74
+   ],
+   [
+    "HPV",
+    136
+   ]
+  ],
+  "branches": [
+   {
+    "branch": "HPVL",
+    "status": "silent",
+    "by": null
+   }
+  ],
+  "null": null
+ },
+ {
+  "text": "eugippius_vita_severini",
+  "verdict": "supported",
+  "frozen": "supported",
+  "match": true,
+  "units": 335,
+  "frozen_units": 335,
+  "stable": [
+   [
+    "VM",
+    214
+   ],
+   [
+    "VMD",
+    51
+   ]
+  ],
+  "branches": [
+   {
+    "branch": "L",
+    "status": "single_witness"
+   },
+   {
+    "branch": "VMD",
+    "status": "supported",
+    "by": "VMD"
+   }
+  ],
+  "null": {
+   "supported": 0.25,
+   "contradicted": 0.75
+  }
+ },
+ {
+  "text": "marcellinus_comes_chronicon",
+  "verdict": "supported",
+  "frozen": "supported",
+  "match": true,
+  "units": 219,
+  "frozen_units": 219,
+  "stable": [
+   [
+    "TUR",
+    43
+   ],
+   [
+    "UR",
+    86
+   ]
+  ],
+  "branches": [
+   {
+    "branch": "S",
+    "status": "single_witness"
+   },
+   {
+    "branch": "TUR",
+    "status": "supported",
+    "by": "TUR"
+   }
+  ],
+  "null": {
+   "supported": 0.25,
+   "contradicted": 0.75
+  }
+ }
+]
